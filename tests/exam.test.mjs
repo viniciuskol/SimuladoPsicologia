@@ -262,3 +262,14 @@ test("banco real: o sorteio funciona com os dados atuais, sejam quantos forem", 
   assert.equal(r.complete, r.total === 70);
   assert.ok(E.historicExams(qs).every(h => h.order.length > 0));
 });
+
+test("peso do edital: área com muitos subitens e poucas oficiais recebe mais que o piso", () => {
+  const areas = [
+    { id: "resolucoes", topics: Array(8).fill("t") },
+    { id: "diag-org", topics: Array(2).fill("t") }
+  ];
+  const qs = [...official("resolucoes", 2), ...authored("resolucoes", 20), ...official("diag-org", 60)];
+  const a = E.allocateByArea(qs, areas, 50);
+  assert.equal(a.resolucoes, 20, "metade de 50 vezes 8/10 subitens");
+  assert.equal(a.resolucoes + a["diag-org"], 50);
+});

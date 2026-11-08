@@ -1,0 +1,1127 @@
+{
+  "concurso": "revisao-fila",
+  "questions": [
+    {
+      "id": "bndes-2024-analista-psicologia-organizacional-q57",
+      "source": {
+        "file": "bndes-2024-analista-psicologia-organizacional/prova.pdf",
+        "year": 2024,
+        "originalNumber": 57,
+        "exam": "BNDES 2024 – Analista / Psicologia Organizacional",
+        "org": "BNDES"
+      },
+      "area": "resolucoes",
+      "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+      "stem": "<p>A Resolução CFP nº 2, de 21 de janeiro de 2022, regulamenta as normas e os procedimentos para a avaliação psicossocial no contexto de saúde e segurança do trabalhador.</p><p>No artigo 3, parágrafo único, consta que a avaliação psicossocial deverá ser</p>",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "individual e incluir informações direta ou indiretamente coletadas sobre o trabalho, o ambiente e a gestão."
+        },
+        {
+          "key": "B",
+          "text": "individual e incluir informações diretamente coletadas sobre o trabalho.",
+          "explanation": "Omite a coleta indireta e os eixos ambiente e gestão que o parágrafo único exigia."
+        },
+        {
+          "key": "C",
+          "text": "individual e coletiva e incluir informações direta ou indiretamente coletadas sobre o trabalho, o ambiente e a gestão.",
+          "explanation": "A Res. 02/2022 dizia “individual”, não “individual e coletiva”."
+        },
+        {
+          "key": "D",
+          "text": "coletiva e incluir informações direta ou indiretamente coletadas sobre o trabalho, o ambiente e a gestão.",
+          "explanation": "A avaliação era individual, não coletiva."
+        },
+        {
+          "key": "E",
+          "text": "coletiva e incluir informações diretamente coletadas sobre o trabalho, o ambiente e a gestão.",
+          "explanation": "Erra duas vezes: coletiva em vez de individual e só coleta direta."
+        }
+      ],
+      "correctKey": "A",
+      "explanationSummary": "Pelo art. 3º, parágrafo único, da Res. CFP 02/2022, a avaliação psicossocial deveria ser individual e incluir informações coletadas direta ou indiretamente sobre o trabalho, o ambiente e a gestão. Atenção: essa resolução foi revogada pela Res. CFP 14/2023, que admite a avaliação individual ou em equipe multiprofissional e não repete essa exigência.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "A",
+        "independentlyDerivedAnswer": "A",
+        "agree": true,
+        "confidence": "high",
+        "notes": "Texto da Res. CFP 02/2022 (DOU 26/01/2022, Seção 1, p. 143) conferido nas reproduções de LegisWeb (id 426721) e RSData: art. 2º, I (características pessoais, psicológicas, ocupacionais e sociais); art. 3º, parágrafo único (‘deverá ser individual, e incluir informações direta ou indiretamente coletadas sobre o trabalho, ambiente e gestão’); art. 9º (‘será um laudo psicológico’), §2º (entrevista devolutiva). AVISO: a Res. CFP 02/2022 foi revogada pela Res. CFP 14/2023 (art. 10, DOU 30/06/2023), antes desta prova. A norma vigente (docs/normas/res-14-2023.md) admite avaliação individual ou em equipe multiprofissional (art. 3º), dá autonomia técnica sobre fontes, método e devolução (art. 4º) e exige só ‘documento psicológico compatível’ (art. 6º), sem fixar o laudo. Gabarito final pós-recursos (Prova 13) conferido na imagem: 57-A."
+      }
+    },
+    {
+      "id": "bndes-2024-analista-psicologia-organizacional-q60",
+      "source": {
+        "file": "bndes-2024-analista-psicologia-organizacional/prova.pdf",
+        "year": 2024,
+        "originalNumber": 60,
+        "exam": "BNDES 2024 – Analista / Psicologia Organizacional",
+        "org": "BNDES"
+      },
+      "area": "resolucoes",
+      "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+      "stem": "<p>De acordo com a Resolução CFP nº 02/2022, que regulamenta normas e procedimentos para a avaliação psicossocial no contexto da saúde e segurança do trabalhador, o documento psicológico que o psicólogo deve produzir, resultante da avaliação psicológica, é o</p>",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "laudo psicológico"
+        },
+        {
+          "key": "B",
+          "text": "atestado psicológico",
+          "explanation": "O atestado certifica uma condição pontual (Res. CFP 06/2019); não era o documento previsto pela Res. 02/2022."
+        },
+        {
+          "key": "C",
+          "text": "parecer psicológico",
+          "explanation": "O parecer responde a uma consulta técnica sobre questão específica, sem avaliar diretamente a pessoa."
+        },
+        {
+          "key": "D",
+          "text": "prontuário psicológico",
+          "explanation": "O prontuário é o registro do atendimento, não um documento produzido para entrega como resultado da avaliação."
+        },
+        {
+          "key": "E",
+          "text": "relatório psicológico",
+          "explanation": "O relatório descreve uma intervenção ou acompanhamento; a Res. 02/2022 previa o laudo, que é conclusivo."
+        }
+      ],
+      "correctKey": "A",
+      "explanationSummary": "O art. 9º da Res. CFP 02/2022 fixava o laudo psicológico como documento resultante da avaliação psicossocial, entregue ao requerente e arquivado. Atenção: a Res. CFP 14/2023, que a revogou, exige apenas um documento psicológico compatível, segundo a Res. CFP 06/2019, sem determinar o tipo.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "A",
+        "independentlyDerivedAnswer": "A",
+        "agree": true,
+        "confidence": "high",
+        "notes": "Texto da Res. CFP 02/2022 (DOU 26/01/2022, Seção 1, p. 143) conferido nas reproduções de LegisWeb (id 426721) e RSData: art. 2º, I (características pessoais, psicológicas, ocupacionais e sociais); art. 3º, parágrafo único (‘deverá ser individual, e incluir informações direta ou indiretamente coletadas sobre o trabalho, ambiente e gestão’); art. 9º (‘será um laudo psicológico’), §2º (entrevista devolutiva). AVISO: a Res. CFP 02/2022 foi revogada pela Res. CFP 14/2023 (art. 10, DOU 30/06/2023), antes desta prova. A norma vigente (docs/normas/res-14-2023.md) admite avaliação individual ou em equipe multiprofissional (art. 3º), dá autonomia técnica sobre fontes, método e devolução (art. 4º) e exige só ‘documento psicológico compatível’ (art. 6º), sem fixar o laudo. Gabarito final pós-recursos (Prova 13) conferido na imagem: 60-A."
+      }
+    },
+    {
+      "id": "bndes-2024-analista-psicologia-organizacional-q62",
+      "source": {
+        "file": "bndes-2024-analista-psicologia-organizacional/prova.pdf",
+        "year": 2024,
+        "originalNumber": 62,
+        "exam": "BNDES 2024 – Analista / Psicologia Organizacional",
+        "org": "BNDES"
+      },
+      "area": "resolucoes",
+      "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+      "stem": "<p>De acordo com a Resolução CFP nº 02/2022, que regulamenta normas e procedimentos para a avaliação psicossocial no contexto da saúde e segurança do trabalhador, é dever do psicólogo</p>",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "considerar a investigação das características pessoais, psicopatológicas, ocupacionais e sociais do trabalhador.",
+          "explanation": "O art. 2º, I, falava em características pessoais, psicológicas, ocupacionais e sociais, não ‘psicopatológicas’."
+        },
+        {
+          "key": "B",
+          "text": "produzir um atestado psicológico como documento resultante da avaliação psicológica.",
+          "explanation": "O documento previsto era o laudo psicológico (art. 9º), não o atestado."
+        },
+        {
+          "key": "C",
+          "text": "realizar a avaliação psicossocial de forma coletiva para incluir informações sobre o trabalho e o ambiente.",
+          "explanation": "A avaliação psicossocial devia ser individual (art. 3º, parágrafo único)."
+        },
+        {
+          "key": "D",
+          "text": "avaliar os aspectos individuais e coletivos do trabalho, do ambiente e da gestão indicados pela instituição.",
+          "explanation": "A escolha dos aspectos e instrumentos cabia ao psicólogo (art. 6º), não à instituição."
+        },
+        {
+          "key": "E",
+          "text": "realizar entrevista devolutiva do processo de avaliação psicossocial e informar os resultados encontrados."
+        }
+      ],
+      "correctKey": "E",
+      "explanationSummary": "O art. 9º, § 2º, da Res. CFP 02/2022 obrigava a psicóloga e o psicólogo a fazer entrevista devolutiva do processo de avaliação psicossocial, com os resultados, as conclusões e os encaminhamentos. A devolutiva continua sendo dever pelo Código de Ética e aparece na Res. CFP 14/2023 (art. 4º), que revogou a 02/2022.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "E",
+        "independentlyDerivedAnswer": "E",
+        "agree": true,
+        "confidence": "high",
+        "notes": "Texto da Res. CFP 02/2022 (DOU 26/01/2022, Seção 1, p. 143) conferido nas reproduções de LegisWeb (id 426721) e RSData: art. 2º, I (características pessoais, psicológicas, ocupacionais e sociais); art. 3º, parágrafo único (‘deverá ser individual, e incluir informações direta ou indiretamente coletadas sobre o trabalho, ambiente e gestão’); art. 9º (‘será um laudo psicológico’), §2º (entrevista devolutiva). AVISO: a Res. CFP 02/2022 foi revogada pela Res. CFP 14/2023 (art. 10, DOU 30/06/2023), antes desta prova. A norma vigente (docs/normas/res-14-2023.md) admite avaliação individual ou em equipe multiprofissional (art. 3º), dá autonomia técnica sobre fontes, método e devolução (art. 4º) e exige só ‘documento psicológico compatível’ (art. 6º), sem fixar o laudo. Gabarito final pós-recursos (Prova 13) conferido na imagem: 62-E."
+      }
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q28",
+      "source": {
+        "file": "petrobras-2008-psicologo-junior/prova.pdf",
+        "year": 2008,
+        "originalNumber": 28,
+        "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+        "org": "Petrobras"
+      },
+      "area": "saude-trab",
+      "subtopic": "6.1 Processo saúde-doença",
+      "stem": "A capacidade de construir a si próprio e à espécie, produzindo e reproduzindo a si próprio e à espécie, define a Saúde",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "Organizacional.",
+          "explanation": "Saúde organizacional refere-se ao funcionamento da organização, não à capacidade do indivíduo de se construir."
+        },
+        {
+          "key": "B",
+          "text": "Psicossocial.",
+          "explanation": "‘Saúde psicossocial’ não é o conceito que o autor define pela produção e reprodução de si e da espécie."
+        },
+        {
+          "key": "C",
+          "text": "Reprodutiva.",
+          "explanation": "Distrator pela palavra “reproduzindo”: saúde reprodutiva trata da vida sexual e reprodutiva, não da construção de si pelo trabalho."
+        },
+        {
+          "key": "D",
+          "text": "Coletiva.",
+          "explanation": "Saúde coletiva é um campo de saberes e práticas sobre a saúde das populações, não uma capacidade individual."
+        },
+        {
+          "key": "E",
+          "text": "Mental."
+        }
+      ],
+      "correctKey": "E",
+      "explanationSummary": "Codo, Soratto e Vasques-Menezes (Saúde mental e trabalho, in Zanelli, Borges-Andrade e Bastos, 2004), partindo de Freud (saúde mental como capacidade de amar e trabalhar), definem saúde mental pela capacidade de produzir e reproduzir a si mesmo e à espécie: ao produzir se reproduz, e ao reproduzir se produz. É essa a definição do enunciado.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "E",
+        "independentlyDerivedAnswer": "E",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "Fonte: Codo, W.; Soratto, L.; Vasques-Menezes, I. Saúde mental e trabalho. In: Zanelli, Borges-Andrade & Bastos (orgs.), Psicologia, organizações e trabalho no Brasil. Artmed, 2004 (texto reproduzido em material de curso localizado na busca; produzir e reproduzir como faces de um mesmo processo, amar e trabalhar). Confiança média: a busca não mostrou a frase literal do enunciado, só a formulação equivalente. Gabarito oficial conferido na imagem: 28-E."
+      }
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q48",
+      "source": {
+        "file": "petrobras-2008-psicologo-junior/prova.pdf",
+        "year": 2008,
+        "originalNumber": 48,
+        "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+        "org": "Petrobras"
+      },
+      "area": "psi-social",
+      "subtopic": "5.1.1 Liderança",
+      "stem": "Por intermédio do poder organizacional, as organizações exercem o controle essencial para a sua própria sobrevivência. Uma das formas de revelar a eficácia deste poder é através de sua capacidade de",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "servir a todos os grupos de interesse.",
+          "explanation": "Pagès mostra que o poder serve aos objetivos da organização; a ideia de servir a todos os grupos é a ideologia que esse poder difunde, não sua eficácia real."
+        },
+        {
+          "key": "B",
+          "text": "excluir o poder ilegítimo.",
+          "explanation": "A exclusão do poder ilegítimo não é o critério de eficácia do poder organizacional na análise de Pagès."
+        },
+        {
+          "key": "C",
+          "text": "reforçar as estruturas hierárquicas.",
+          "explanation": "O reforço da hierarquia é traço do poder-dominação da organização clássica; a hipermoderna substitui a coerção visível por mediações."
+        },
+        {
+          "key": "D",
+          "text": "conciliar os interesses particulares.",
+          "explanation": "A organização não concilia os interesses, que continuam opostos: ela os medeia e mascara. Conciliar seria resolver a contradição."
+        },
+        {
+          "key": "E",
+          "text": "ocultar as contradições existentes."
+        }
+      ],
+      "correctKey": "E",
+      "explanationSummary": "Para Pagès, Bonetti, De Gaulejac e Descendre (O poder das organizações), o poder da organização hipermoderna é eficaz porque medeia as contradições entre os objetivos da empresa (lucro, dominação) e os dos trabalhadores. Ela não as resolve: atenua os conflitos e oculta a oposição de interesses sob a fachada da humanização do trabalho. A eficácia do poder se revela, portanto, na capacidade de ocultar as contradições existentes.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "E",
+        "independentlyDerivedAnswer": "E",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "Fonte: Pagès, M. et al. O poder das organizações. São Paulo: Atlas (mediação das contradições na organização hipermoderna), conferido por resenhas acadêmicas: Gomes (2008, Mimesis 29(1)), que resume a obra (a organização ‘se interpõe entre as contradições… atenua os conflitos’), e Carvalho & Vieira (2007), sobre mecanismos que ‘ocultam a distinção entre interesses’. O livro não foi lido diretamente. Gabarito oficial conferido na imagem: 48-E."
+      }
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q55",
+      "source": {
+        "file": "petrobras-2008-psicologo-junior/prova.pdf",
+        "year": 2008,
+        "originalNumber": 55,
+        "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+        "org": "Petrobras"
+      },
+      "area": "psi-social",
+      "subtopic": "5.1 Processos Grupais",
+      "stem": "Num julgamento social, a tendência que temos de chegar logo a uma avaliação conclusiva sobre o outro, que, por sua vez, passa em seguida a influenciar o processamento de informações subseqüentes, denomina-se",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "protótipo.",
+          "explanation": "Protótipo é a representação do exemplar típico de uma categoria, usada para classificar pessoas, não a avaliação global precoce que contamina julgamentos posteriores."
+        },
+        {
+          "key": "B",
+          "text": "estereótipo.",
+          "explanation": "Estereótipo é a crença generalizada sobre os membros de um grupo; o enunciado fala de uma avaliação sobre a pessoa individual."
+        },
+        {
+          "key": "C",
+          "text": "teoria implícita.",
+          "explanation": "Teoria implícita da personalidade é a crença sobre quais traços costumam andar juntos; orienta inferências, mas não é a tendência a uma avaliação conclusiva imediata."
+        },
+        {
+          "key": "D",
+          "text": "efeito de halo."
+        },
+        {
+          "key": "E",
+          "text": "mapa mental.",
+          "explanation": "Mapa mental não é conceito de percepção social que descreva esse viés."
+        }
+      ],
+      "correctKey": "D",
+      "explanationSummary": "O efeito de halo (Thorndike, 1920; Asch, 1946) é a tendência de formar logo uma impressão global, positiva ou negativa, sobre alguém a partir de uma característica. Essa impressão passa a colorir o julgamento das demais características e o processamento das informações seguintes.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "D",
+        "independentlyDerivedAnswer": "D",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "Fonte: definições de efeito de halo em psicologia social (Thorndike 1920; Asch 1946), conforme a replicação brasileira em Organizações em Contexto (Metodista, 2024: ‘a percepção inicial de uma característica… pode influenciar o julgamento de outras características’), e verbetes da SAGE Encyclopedia of Social Psychology (halo effect; implicit personality theory). Subtópico corrigido de 6.1 para 5.1 (percepção social). Gabarito oficial conferido na imagem: 55-D."
+      }
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q64",
+      "source": {
+        "file": "petrobras-2008-psicologo-junior/prova.pdf",
+        "year": 2008,
+        "originalNumber": 64,
+        "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+        "org": "Petrobras"
+      },
+      "area": "psi-org",
+      "subtopic": "3.4 Análise e desenvolvimento organizacional",
+      "stem": "Existem sistemas para classificar as distintas possibilidades de arranjos ou estruturas organizacionais. Uma organização na qual se observa uma ampliação do grau de descentralização ao se conferir maior autonomia e responsabilidade aos grupos, que lida com grupos flexíveis de indivíduos os quais mudam de acordo com as necessidades organizacionais, e que apresenta uma ruptura com o princípio de unidade central de comando pode ser classificada como organização",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "em rede.",
+          "explanation": "A organização em rede liga empresas parceiras e terceiriza funções; o traço que a define não é a ruptura da unidade de comando interna."
+        },
+        {
+          "key": "B",
+          "text": "familiar.",
+          "explanation": "A organização familiar se define pela propriedade e pela gestão da família, não por grupos flexíveis com dupla subordinação."
+        },
+        {
+          "key": "C",
+          "text": "burocrática funcional.",
+          "explanation": "A burocracia funcional preserva a unidade de comando e a hierarquia rígida."
+        },
+        {
+          "key": "D",
+          "text": "pós-burocrática.",
+          "explanation": "A pós-burocrática também enfatiza flexibilidade, mas a ruptura explícita da unidade de comando (dupla autoridade) é a marca da matricial."
+        },
+        {
+          "key": "E",
+          "text": "matricial."
+        }
+      ],
+      "correctKey": "E",
+      "explanationSummary": "A estrutura matricial combina departamentalização funcional e por projeto. Equipes flexíveis se formam e se desfazem conforme os projetos, há mais descentralização e autonomia, e o membro responde a dois chefes, o funcional e o de projeto. Robbins aponta que a matriz rompe o princípio de unidade de comando.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "E",
+        "independentlyDerivedAnswer": "E",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "Fonte: Robbins, Comportamento Organizacional, cap. Estrutura organizacional (a estrutura matricial ‘rompe o conceito de unidade de comando’; equipes de projeto que se formam e se dissolvem). Gabarito oficial conferido na imagem: 64-E."
+      }
+    },
+    {
+      "id": "petrobras-2010-1-psicologo-junior-q21",
+      "source": {
+        "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+        "year": 2010,
+        "originalNumber": 21,
+        "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+        "org": "Petrobras"
+      },
+      "area": "psi-social",
+      "subtopic": "5.1 Processos Grupais",
+      "stem": "Hamed, mauritanês, Gabriel, brasileiro e Tchen, chinês, trabalham em uma fabricante de pneus francesa. Tchen foi promovido, recentemente, a chefe do setor em que eles trabalham. Um dia depois do expediente, Hamed e Gabriel vão ao bar mais próximo para beber e conversar um pouco. Em um dado momento, Hamed assim interpela Gabriel: — Você sabe por que Tchen foi promovido? — Não. — Porque ele é chinês! — Como assim? — Você já viu algum chinês sair para beber, jogar futebol? Curtir a vida, ora? Os chineses só pensam em trabalho. São decididos, obedientes e competentes. Eles não são como eu e você. Nós sabemos que o trabalho não é tudo na vida. Considerando o diálogo, quais são os efeitos simplificadores da percepção de outras pessoas, apresentados pela fala de Hamed?",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "Projeção e percepção seletiva.",
+          "explanation": "Há projeção, mas não percepção seletiva, que seria interpretar a situação a partir de interesses e experiências próprias, filtrando a informação."
+        },
+        {
+          "key": "B",
+          "text": "Efeito de contraste e atribuição indutiva.",
+          "explanation": "Efeito de contraste é avaliar alguém pela comparação com pessoas avaliadas pouco antes; “atribuição indutiva” não é atalho de percepção descrito por Robbins."
+        },
+        {
+          "key": "C",
+          "text": "Estereotipagem e efeito de contraste.",
+          "explanation": "A estereotipagem existe, mas o efeito de contraste exige comparação sequencial entre pessoas avaliadas, o que não ocorre na fala."
+        },
+        {
+          "key": "D",
+          "text": "Atribuição indutiva e percepção seletiva.",
+          "explanation": "Nem atribuição indutiva nem percepção seletiva descrevem a generalização étnica e a atribuição das próprias crenças ao interlocutor."
+        },
+        {
+          "key": "E",
+          "text": "Estereotipagem e projeção."
+        }
+      ],
+      "correctKey": "E",
+      "explanationSummary": "Hamed generaliza um traço a todo o grupo (“os chineses só pensam em trabalho”): estereotipagem. Ele também atribui a Gabriel as próprias convicções (“Eles não são como eu e você. Nós sabemos que o trabalho não é tudo na vida”): projeção. Robbins define projeção como atribuir aos outros as próprias características.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "E",
+        "independentlyDerivedAnswer": "E",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "Fonte: Robbins, Comportamento Organizacional, cap. Percepção e tomada de decisão individual (atalhos: percepção seletiva, efeito halo, efeito de contraste, projeção, estereotipagem). Gabarito oficial (28/03/2010, coluna PSICÓLOGO JR) conferido na imagem: 21-E. A fila registrava por engano que o gabarito seria C."
+      }
+    },
+    {
+      "id": "petrobras-2010-2-psicologo-junior-q9",
+      "source": {
+        "file": "petrobras-2010-2-psicologo-junior/prova.pdf",
+        "year": 2010,
+        "originalNumber": 9,
+        "exam": "Petrobras 2010 (16/05) – Psicólogo(a) Júnior",
+        "org": "Petrobras"
+      },
+      "area": "psi-org",
+      "subtopic": "3.4 Análise e desenvolvimento organizacional",
+      "stem": "Uma determinada empresa é uma organização pequena que terceiriza a maior parte dos seus negócios, sendo, além disso, altamente centralizada com pouca departamentalização. Considerando essas características, qual estrutura organizacional define o perfil dessa empresa?",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "Organização sem fronteiras.",
+          "explanation": "A organização sem fronteiras elimina cadeias de comando e fronteiras internas e externas; não se define por terceirizar quase tudo com alta centralização."
+        },
+        {
+          "key": "B",
+          "text": "Matricial.",
+          "explanation": "A estrutura matricial combina departamentalização funcional e por produto/projeto, com dupla subordinação; é o oposto de “pouca departamentalização”."
+        },
+        {
+          "key": "C",
+          "text": "Organização virtual."
+        },
+        {
+          "key": "D",
+          "text": "Burocrática.",
+          "explanation": "A burocracia tem tarefas altamente padronizadas, muitas regras e departamentalização funcional extensa."
+        },
+        {
+          "key": "E",
+          "text": "Estrutura simples.",
+          "explanation": "A estrutura simples também é centralizada e pouco departamentalizada, mas é típica da pequena empresa que executa ela mesma suas atividades; a terceirização da maior parte do negócio é o traço que define a organização virtual."
+        }
+      ],
+      "correctKey": "C",
+      "explanationSummary": "Robbins e Judge descrevem a organização virtual como um núcleo pequeno que terceiriza a maior parte das funções do negócio, é altamente centralizado e tem pouca ou nenhuma departamentalização (também chamada de estrutura em rede ou modular). As três características do enunciado são exatamente essas.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "C",
+        "independentlyDerivedAnswer": "C",
+        "agree": true,
+        "confidence": "high",
+        "notes": "Fonte: Robbins & Judge, Comportamento Organizacional, cap. Estrutura organizacional (‘organização virtual’: núcleo pequeno, terceiriza as principais funções, altamente centralizada, pouca ou nenhuma departamentalização). Gabarito oficial (Wayback, coluna 19, p. 11) conferido na imagem: 9-C. A fila registrava por engano que o oficial seria E."
+      }
+    },
+    {
+      "id": "petrobras-2010-2-psicologo-junior-q51",
+      "source": {
+        "file": "petrobras-2010-2-psicologo-junior/prova.pdf",
+        "year": 2010,
+        "originalNumber": 51,
+        "exam": "Petrobras 2010 (16/05) – Psicólogo(a) Júnior",
+        "org": "Petrobras"
+      },
+      "area": "psi-social",
+      "subtopic": "5.1 Processos Grupais",
+      "stem": "Um psicólogo organizacional, analisando os resultados do processo de reengenharia da empresa em que trabalha, encontra resultados que podem determinar o corte de alguns benefícios de um gerente. Ele é responsável por encaminhar um dos relatórios que servirão como parâmetro para a decisão do corte ou manutenção do benefício. Nesse contexto, a teoria da dissonância cognitiva propõe que",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "se o psicólogo sabe que, por alguma razão, será pessoalmente beneficiado pelo corte dos benefícios do gerente, a dissonância cognitiva tende a diminuir."
+        },
+        {
+          "key": "B",
+          "text": "se o psicólogo entende que os benefícios do gerente serão necessariamente cortados, devido ao seu relatório, sua atitude para com ele tende a ser mais favorável.",
+          "explanation": "Se o relatório dele causará necessariamente o corte e ele gosta do gerente, a redução da dissonância tende a tornar a atitude menos favorável (justificar o próprio ato), não mais favorável."
+        },
+        {
+          "key": "C",
+          "text": "se o psicólogo possui uma atitude favorável ao gerente, mas sabe que seu relatório será revisado e avaliado, sua dissonância cognitiva tende a aumentar.",
+          "explanation": "Saber que o relatório será revisado diminui a influência e a responsabilidade pessoal sobre o resultado; menor influência significa menos dissonância, não mais."
+        },
+        {
+          "key": "D",
+          "text": "se a atitude do psicólogo é desfavorável em relação ao gerente, a situação deve gerar mais dissonância do que se a atitude do psicólogo fosse favorável.",
+          "explanation": "Com atitude desfavorável ao gerente, recomendar o corte é coerente com a atitude: há menos dissonância, não mais."
+        },
+        {
+          "key": "E",
+          "text": "o desconforto do psicólogo, caso possua uma atitude favorável ao gerente, será inversamente proporcional à importância de seu relatório para a decisão do corte.",
+          "explanation": "O desconforto é diretamente (não inversamente) proporcional à importância dos elementos em jogo, inclusive do peso do relatório na decisão."
+        }
+      ],
+      "correctKey": "A",
+      "explanationSummary": "Na teoria da dissonância cognitiva (Festinger), a intensidade do desconforto depende da importância dos elementos, do grau de influência que a pessoa julga ter sobre eles e das recompensas envolvidas (Robbins). Um ganho pessoal com o corte funciona como recompensa/justificativa externa e tende a diminuir a dissonância, como no experimento de Festinger e Carlsmith (1959).",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "A",
+        "independentlyDerivedAnswer": "A",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "Fonte: Robbins, S. P. Comportamento Organizacional (Pearson; ed. 11+), cap. Atitudes (dissonância cognitiva: importância, influência, recompensas); Festinger & Carlsmith (1959): recompensa alta reduz a dissonância. Gabarito oficial conferido na imagem (coluna 19): 51-A. A fila registrava por engano que o oficial seria C."
+      }
+    },
+    {
+      "id": "petrobras-2010-2-psicologo-junior-q52",
+      "source": {
+        "file": "petrobras-2010-2-psicologo-junior/prova.pdf",
+        "year": 2010,
+        "originalNumber": 52,
+        "exam": "Petrobras 2010 (16/05) – Psicólogo(a) Júnior",
+        "org": "Petrobras"
+      },
+      "area": "diag-org",
+      "subtopic": "4.7 Motivação no trabalho",
+      "stem": "Diversos autores consideram a cidadania organizacional um padrão comportamental, representando uma classe de condutas dirigidas à organização empregadora. Em conformidade com tal linha de pensamento, as medidas de avaliação da cidadania organizacional estão corretas em avaliar",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "a conformidade com as normas da organização, a percepção de justiça organizacional e o altruísmo.",
+          "explanation": "Conformidade com normas é comportamento prescrito pelo papel (a ‘aquiescência’ criticada por Siqueira), e justiça organizacional é percepção, não conduta."
+        },
+        {
+          "key": "B",
+          "text": "a satisfação no trabalho, o índice do funcionário em uma escala de neuroticismo-extroversão e ações protetoras ao sistema ou subsistema.",
+          "explanation": "Satisfação é atitude e neuroticismo-extroversão é traço de personalidade; nenhum dos dois é comportamento de cidadania."
+        },
+        {
+          "key": "C",
+          "text": "a satisfação no trabalho, a percepção de justiça organizacional e o envolvimento com o trabalho.",
+          "explanation": "Satisfação, percepção de justiça e envolvimento com o trabalho são antecedentes atitudinais, não medidas do comportamento."
+        },
+        {
+          "key": "D",
+          "text": "as atividades de cooperação em relação aos colegas, o autotreinamento e o zelo pelo clima favorável à organização no ambiente externo."
+        },
+        {
+          "key": "E",
+          "text": "o altruísmo, a cortesia, a esportividade, a conscienciosidade e as virtudes cívicas.",
+          "explanation": "São as dimensões de Organ (1988), justamente a operacionalização internacional que a linha de Siqueira e Porto e Tamayo considera inadequada por incluir comportamentos do papel."
+        }
+      ],
+      "correctKey": "D",
+      "explanationSummary": "A linha que trata a cidadania organizacional como padrão de comportamentos extrapapel dirigidos à organização retoma Katz e Kahn (1974); Siqueira (1995) e Porto e Tamayo (2003) operacionalizaram-na em cinco fatores: sugestões criativas, proteção ao sistema, criação de clima favorável à organização no ambiente externo, autotreinamento e cooperação com os colegas. Essas autoras criticam as medidas internacionais (Smith, Organ e Near) por misturarem comportamentos prescritos pelo papel, como a aquiescência.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "D",
+        "independentlyDerivedAnswer": "D",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "Fonte: Porto, J. B.; Tamayo, A. Desenvolvimento e validação da Escala de Civismo nas Organizações. Estudos de Psicologia (Natal), 8(3), 2003, p. 393-402 (Redalyc 26180306): fatores de Katz e Kahn/Siqueira (cooperação com colegas, autotreinamento, criação de clima favorável no ambiente externo etc.) e crítica às medidas de Smith, Organ e Near. Gabarito oficial conferido na imagem: 52-D."
+      }
+    },
+    {
+      "id": "petrobras-2010-2-psicologo-junior-q53",
+      "source": {
+        "file": "petrobras-2010-2-psicologo-junior/prova.pdf",
+        "year": 2010,
+        "originalNumber": 53,
+        "exam": "Petrobras 2010 (16/05) – Psicólogo(a) Júnior",
+        "org": "Petrobras"
+      },
+      "area": "psi-org",
+      "subtopic": "3.2.2 Gestão de desempenho",
+      "stem": "Qualquer intervenção em uma organização de trabalho pode requerer uma avaliação de desempenho. Uma avaliação de desempenho identifica necessidades de treinamento e desenvolvimento, valida programas de seleção, fornece feedback aos funcionários e pode servir para decidir a alocação de recompensas. Quando se decide quem deve fazer a avaliação de desempenho, deve-se considerar as vantagens e desvantagens de cada opção. Associe o agente da avaliação, na coluna da esquerda, às vantagens e desvantagens que a escolha desse agente implica, na coluna da direita.<table><tr><th>AGENTE DA AVALIAÇÃO</th><th>VANTAGENS / DESVANTAGENS</th></tr><tr><td>I – Superiores imediatos<br>II – Colegas<br>III – Subordinados imediatos</td><td>P – Possuem a maior proximidade possível no ambiente de trabalho / O julgamento pode ser comprometido devido a vieses pessoais.<br>Q – É uma avaliação propícia a ambientes de qualidade total e trabalho em equipe / Pode ser dispendiosa e requerer treinamento para sua análise.<br>R – Estão diretamente interessados no desempenho / Não funciona bem em ambientes de trabalho em equipe.<br>S – São propícias para promover ambientes de autonomia, transparência e honestidade / É uma avaliação que exige o anonimato para ser confiável.</td></tr></table>Estão corretas as associações",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "I–R , II–P , III–S."
+        },
+        {
+          "key": "B",
+          "text": "I–R , II–Q, III–S.",
+          "explanation": "Associa os colegas a Q, que descreve a avaliação 360 graus (ambientes de qualidade total, cara e exige treinamento), não a avaliação por pares."
+        },
+        {
+          "key": "C",
+          "text": "I–P , II–Q, III–Q.",
+          "explanation": "Superiores não têm a ‘maior proximidade possível’ do trabalho (essa é a vantagem dos colegas) e Q aparece duas vezes, para colegas e subordinados."
+        },
+        {
+          "key": "D",
+          "text": "I – S , II – R , III – P.",
+          "explanation": "Inverte: autonomia e anonimato (S) caracterizam a avaliação por subordinados, e a proximidade (P) é dos colegas."
+        },
+        {
+          "key": "E",
+          "text": "I–Q, II–S , III–R.",
+          "explanation": "Atribui ao superior a descrição da avaliação 360 graus e aos subordinados o interesse direto do chefe."
+        }
+      ],
+      "correctKey": "A",
+      "explanationSummary": "Superiores imediatos são os mais interessados no desempenho, mas a avaliação só por eles funciona mal em equipes (R). Colegas têm a maior proximidade com o trabalho do avaliado, mas podem ser enviesados por amizade ou rivalidade (P) (Robbins). Subordinados favorecem transparência e autonomia, mas a avaliação só é confiável com anonimato (S). Q descreve a avaliação 360 graus, que não é agente da coluna da esquerda.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "A",
+        "independentlyDerivedAnswer": "A",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "Fonte: Robbins, Comportamento Organizacional, cap. Políticas e práticas de RH (quem deve avaliar: superior imediato, colegas, autoavaliação, subordinados, 360 graus). Gabarito oficial conferido na imagem: 53-A. A fila registrava por engano que o oficial seria B."
+      }
+    },
+    {
+      "id": "petrobras-2012-psicologo-junior-q41",
+      "source": {
+        "file": "petrobras-2012-psicologo-junior/prova.pdf",
+        "year": 2012,
+        "originalNumber": 41,
+        "exam": "Petrobras 2012 – Psicólogo(a) Júnior",
+        "org": "Petrobras"
+      },
+      "area": "saude-trab",
+      "subtopic": "6.1 Processo saúde-doença",
+      "stem": "O Ministério da Saúde reconhece que o trabalho pode ser um importante fator de adoecimento, de desencadeamento e de intensificação de distúrbios psíquicos. Há uma série de distinções na forma de o Ministério da Saúde apresentar acidentes do trabalho e na forma de apresentar os transtornos psíquicos originados pelo trabalho. Uma dessas distinções é que",
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "os transtornos psíquicos não apresentam sintomatologia física, apenas psíquica.",
+          "explanation": "O manual descreve quadros mentais com sinais físicos, como o delirium (tremor, incoordenação, alteração do sono) e as síndromes por lesão cerebral após acidentes."
+        },
+        {
+          "key": "B",
+          "text": "os transtornos psíquicos não aparecem de forma aguda, são de desenvolvimento silencioso e prolongado.",
+          "explanation": "A lista do MS inclui quadros de instalação aguda, como o delirium, de início súbito, e as síndromes pós-traumáticas desencadeadas por acidentes de trabalho (F43.1)."
+        },
+        {
+          "key": "C",
+          "text": "os acidentes são definidos como ocorrendo no local de trabalho ou no trajeto entre o trabalho e a residência, já que os distúrbios psíquicos se manifestam fora do local de trabalho, na vida social do trabalhador.",
+          "explanation": "Os transtornos se originam no contexto de trabalho, não se restringem à vida social; o MS não os define pelo local onde se manifestam."
+        },
+        {
+          "key": "D",
+          "text": "o Ministério da Saúde não lista, dentre os fatores predisponentes para acidentes do trabalho, certos elementos da organização do trabalho, como estruturação hierárquica, divisão de tarefas e responsabilidade excessiva, presentes na gênese de distúrbios psíquicos."
+        },
+        {
+          "key": "E",
+          "text": "a empresa é considerada responsável pela garantia da segurança no ambiente de trabalho, podendo ser investigada em caso de acidentes, ao passo que a responsabilidade por distúrbios psíquicos não pode a ela ser imputada.",
+          "explanation": "O MS reconhece o nexo entre organização do trabalho e adoecimento psíquico, o que implica responsabilidade do empregador também nesse caso."
+        }
+      ],
+      "correctKey": "D",
+      "explanationSummary": "No manual Doenças relacionadas ao trabalho (MS/OPAS, 2001), o capítulo de transtornos mentais atribui sua gênese também à organização do trabalho: divisão e parcelamento das tarefas, políticas de gerenciamento e estrutura hierárquica. Esses elementos não aparecem entre os fatores de risco apontados para os acidentes de trabalho, que o manual descreve por riscos físicos, químicos, biológicos, ergonômicos e de acidentes. As demais alternativas contrariam o próprio manual.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "D",
+        "independentlyDerivedAnswer": "D",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "Fonte: Ministério da Saúde/OPAS. Doenças relacionadas ao trabalho: manual de procedimentos para os serviços de saúde. Brasília, 2001 (Série A, n. 114), cap. 10, p. 161 (‘divisão e parcelamento das tarefas, as políticas de gerenciamento das pessoas e a estrutura hierárquica organizacional’) e lista com F43.1. D se sustenta pelo contraste com o capítulo de acidentes e por eliminação das demais. A lista vigente é a da Portaria GM/MS 1.999/2023 (docs/normas/portaria-1999-2023.md), que mantém os fatores psicossociais da organização do trabalho como agentes de risco para transtornos mentais."
+      }
+    }
+  ],
+  "queue": [],
+  "fora": [],
+  "decisoes": [
+    {
+      "id": "al-to-2005-consultor-legislativo-psicologia-q32",
+      "decisao": "fora",
+      "motivo": "Duas alternativas defensáveis pela própria fonte citada: Robbins distingue poder e liderança pela compatibilidade de objetivos (a liderança visa aos objetivos do grupo, C) e pela dependência (o poder requer só dependência, B). O gabarito C não é o único defensável.",
+      "fonte": "Robbins, Comportamento Organizacional (poder x liderança)"
+    },
+    {
+      "id": "bndes-2009-psicologia-q63",
+      "decisao": "fora",
+      "motivo": "A alternativa C reproduz a definição de grupo de trabalho de Robbins (interage para partilhar informações e ajudar cada membro na sua área) atribuída à equipe. Não localizei Goulart (2002) para confirmar uma inversão de termos; o gabarito contraria a definição corrente.",
+      "fonte": "Robbins, Comportamento Organizacional (grupos x equipes); Goulart (2002) não localizado"
+    },
+    {
+      "id": "bndes-2013-profissional-basico-psicologia-q48",
+      "decisao": "fora",
+      "motivo": "O gabarito C (saturação maior na conexão total que na radial em tarefas complexas) contraria os estudos de redes de comunicação (Bavelas; Leavitt; Shaw), em que a posição central da rede radial satura em tarefas complexas.",
+      "fonte": "Shaw (1964), redes de comunicação; Leavitt (1951)"
+    },
+    {
+      "id": "bndes-2013-profissional-basico-psicologia-q50",
+      "decisao": "fora",
+      "motivo": "Fonte das quatro etapas (inicial, transição, experiente, madura) não identificada; D e E são plausíveis para a equipe de transição. Gabarito sem confirmação.",
+      "fonte": "busca sem resultado"
+    },
+    {
+      "id": "bndes-2024-analista-psicologia-organizacional-q57",
+      "decisao": "entra-com-aviso",
+      "motivo": "Texto da Res. CFP 02/2022 (DOU 26/01/2022, Seção 1, p. 143) conferido nas reproduções de LegisWeb (id 426721) e RSData: art. 2º, I (características pessoais, psicológicas, ocupacionais e sociais); art. 3º, parágrafo único (‘deverá ser individual, e incluir informações direta ou indiretamente coletadas sobre o trabalho, ambiente e gestão’); art. 9º (‘será um laudo psicológico’), §2º (entrevista devolutiva). AVISO: a Res. CFP 02/2022 foi revogada pela Res. CFP 14/2023 (art. 10, DOU 30/06/2023), antes desta prova. A norma vigente (docs/normas/res-14-2023.md) admite avaliação individual ou em equipe multiprofissional (art. 3º), dá autonomia técnica sobre fontes, método e devolução (art. 4º) e exige só ‘documento psicológico compatível’ (art. 6º), sem fixar o laudo. Gabarito final pós-recursos (Prova 13) conferido na imagem: 57-A.",
+      "fonte": "Res. CFP 02/2022 (art. 3º, p.ú.) via LegisWeb/RSData; Res. CFP 14/2023"
+    },
+    {
+      "id": "bndes-2024-analista-psicologia-organizacional-q60",
+      "decisao": "entra-com-aviso",
+      "motivo": "Texto da Res. CFP 02/2022 (DOU 26/01/2022, Seção 1, p. 143) conferido nas reproduções de LegisWeb (id 426721) e RSData: art. 2º, I (características pessoais, psicológicas, ocupacionais e sociais); art. 3º, parágrafo único (‘deverá ser individual, e incluir informações direta ou indiretamente coletadas sobre o trabalho, ambiente e gestão’); art. 9º (‘será um laudo psicológico’), §2º (entrevista devolutiva). AVISO: a Res. CFP 02/2022 foi revogada pela Res. CFP 14/2023 (art. 10, DOU 30/06/2023), antes desta prova. A norma vigente (docs/normas/res-14-2023.md) admite avaliação individual ou em equipe multiprofissional (art. 3º), dá autonomia técnica sobre fontes, método e devolução (art. 4º) e exige só ‘documento psicológico compatível’ (art. 6º), sem fixar o laudo. Gabarito final pós-recursos (Prova 13) conferido na imagem: 60-A.",
+      "fonte": "Res. CFP 02/2022 (art. 9º) via LegisWeb/RSData; Res. CFP 14/2023 (art. 6º); Res. CFP 06/2019"
+    },
+    {
+      "id": "bndes-2024-analista-psicologia-organizacional-q62",
+      "decisao": "entra-com-aviso",
+      "motivo": "Texto da Res. CFP 02/2022 (DOU 26/01/2022, Seção 1, p. 143) conferido nas reproduções de LegisWeb (id 426721) e RSData: art. 2º, I (características pessoais, psicológicas, ocupacionais e sociais); art. 3º, parágrafo único (‘deverá ser individual, e incluir informações direta ou indiretamente coletadas sobre o trabalho, ambiente e gestão’); art. 9º (‘será um laudo psicológico’), §2º (entrevista devolutiva). AVISO: a Res. CFP 02/2022 foi revogada pela Res. CFP 14/2023 (art. 10, DOU 30/06/2023), antes desta prova. A norma vigente (docs/normas/res-14-2023.md) admite avaliação individual ou em equipe multiprofissional (art. 3º), dá autonomia técnica sobre fontes, método e devolução (art. 4º) e exige só ‘documento psicológico compatível’ (art. 6º), sem fixar o laudo. Gabarito final pós-recursos (Prova 13) conferido na imagem: 62-E.",
+      "fonte": "Res. CFP 02/2022 (arts. 2º, 3º, 6º, 9º) via LegisWeb/RSData; Res. CFP 14/2023"
+    },
+    {
+      "id": "br-distribuidora-2015-profissional-junior-psicologia-q12",
+      "decisao": "fora",
+      "motivo": "Duas alternativas defensáveis: ‘as of 2009’ no contexto significa a situação naquele ano (A, In 2009); dicionários também dão o sentido ‘a partir de’ (B, Since 2009), que é o gabarito. Não é inequívoco.",
+      "fonte": "Cambridge Dictionary / Merriam-Webster, verbete ‘as of’"
+    },
+    {
+      "id": "br-distribuidora-2015-profissional-junior-psicologia-q47",
+      "decisao": "fora",
+      "motivo": "Não foi possível confirmar, pela escala de profundidade de intervenção (Harrison; French e Bell), que feedback de pesquisa é ‘superficial’ e planejamento de sistemas abertos é ‘profundo’ e que só esse par serve.",
+      "fonte": "French & Bell, Organization Development (não consultado diretamente)"
+    },
+    {
+      "id": "casa-da-moeda-2005-psicologo-q19",
+      "decisao": "fora",
+      "motivo": "Formulação literal de Spector (2002) não localizada; A e D descrevem desvantagens plausíveis da entrevista. Gabarito sem confirmação pela fonte.",
+      "fonte": "Spector, Psicologia nas organizações (não localizado)"
+    },
+    {
+      "id": "casa-da-moeda-2005-psicologo-q23",
+      "decisao": "fora",
+      "motivo": "Formulação de Robbins (2002) sobre motivação de trabalhadores de baixa remuneração não localizada; C (programas de reconhecimento) também é estratégia citada por Robbins. Gabarito E sem confirmação.",
+      "fonte": "Robbins (2002) (não localizado)"
+    },
+    {
+      "id": "casa-da-moeda-2005-psicologo-q24",
+      "decisao": "fora",
+      "motivo": "O gabarito E (importância das tarefas) contraria o modelo de dimensões essenciais do cargo (Hackman e Oldham, adotado por Davis e Newstrom): a percepção de executar parte identificável do produto final é a identidade da tarefa (D).",
+      "fonte": "Hackman & Oldham, modelo das características do trabalho; Davis & Newstrom"
+    },
+    {
+      "id": "casa-da-moeda-2005-psicologo-q27",
+      "decisao": "fora",
+      "motivo": "Formulação de Zimerman (2000) sobre grupos operativos institucionais não localizada; gabarito C sem confirmação.",
+      "fonte": "Zimerman, Fundamentos básicos das grupoterapias (não localizado)"
+    },
+    {
+      "id": "casa-da-moeda-2005-psicologo-q29",
+      "decisao": "fora",
+      "motivo": "Formulação de Robbins e Finley (1997) sobre recompensas decididas pela equipe não localizada; gabarito D sem confirmação.",
+      "fonte": "Robbins & Finley, Por que as equipes não funcionam (não localizado)"
+    },
+    {
+      "id": "cefet-rj-2014-psicologo-q27",
+      "decisao": "fora",
+      "motivo": "O gabarito C contraria a teoria do reforço: salário mensal é intervalo fixo e um diferencial proporcional à produção é razão fixa (cada unidade gera o mesmo acréscimo), logo B. As respostas aos recursos do CEFET-RJ não alteram a questão.",
+      "fonte": "Skinner/Ferster, esquemas de reforçamento; Robbins (esquemas de reforço)"
+    },
+    {
+      "id": "mpe-ro-2005-analista-psicologia-q30",
+      "decisao": "fora",
+      "motivo": "Zimerman lista o objetivo/tarefa comum entre as características do grupo (B); o gabarito E (‘unidade nas respostas’) não foi confirmado como o critério distintivo. Duas leituras defensáveis.",
+      "fonte": "Zimerman, Fundamentos básicos das grupoterapias (via materiais de curso)"
+    },
+    {
+      "id": "mpe-ro-2005-analista-psicologia-q31",
+      "decisao": "fora",
+      "motivo": "Formulação literal de Robbins e Finley (1998) não localizada; A e E plausíveis.",
+      "fonte": "Robbins & Finley (não localizado)"
+    },
+    {
+      "id": "mpe-ro-2005-analista-psicologia-q33",
+      "decisao": "fora",
+      "motivo": "Tese de que equipes são ‘intrinsecamente inferiores aos indivíduos’ (gabarito D) não confirmada em Robbins e Finley (1998); E é mais coerente com a obra. Sem fonte.",
+      "fonte": "Robbins & Finley (não localizado)"
+    },
+    {
+      "id": "mpe-ro-2005-analista-psicologia-q45",
+      "decisao": "fora",
+      "motivo": "Lista de Harazim in Boog (2000) não localizada; gabarito D sem confirmação pela fonte.",
+      "fonte": "busca sem resultado"
+    },
+    {
+      "id": "mpe-ro-2005-analista-psicologia-q47",
+      "decisao": "fora",
+      "motivo": "Indicadores da pesquisa de Fleury e Fleury (2001) não conferidos; gabarito D sem confirmação.",
+      "fonte": "Fleury & Fleury, Estratégias empresariais e formação de competências (não consultado)"
+    },
+    {
+      "id": "mpe-ro-2005-analista-psicologia-q50",
+      "decisao": "fora",
+      "motivo": "Gabarito A diverge da derivação (C) e a formulação de Pontes (2002) não foi localizada.",
+      "fonte": "Pontes, Avaliação de desempenho (não localizado)"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q1",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q2",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q3",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q4",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q5",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q6",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q7",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q8",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q9",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q10",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q11",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q12",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q13",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q14",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q15",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q16",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q17",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q18",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q19",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q20",
+      "decisao": "fora",
+      "motivo": "Gabarito dos básicos (Português II/Inglês II) só existe na cópia de terceiro (IESDE/Aprova); o arquivo oficial gab09 traz só os específicos e a Wayback estava fora do ar ao tentar localizar o gab de básicos. Gabarito não oficial sem confirmação.",
+      "fonte": "gab09.pdf oficial; gabarito-completo-copia-terceiro.pdf (IESDE); Wayback CDX indisponível"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q23",
+      "decisao": "fora",
+      "motivo": "Não identifiquei a fonte que separa fatores pessoais, do ambiente e ‘do quotidiano’; em Lazarus e Folkman, incerteza e novidade são fatores situacionais, e D (discussões com o cônjuge, ‘daily hassles’) também é do quotidiano.",
+      "fonte": "Lazarus & Folkman (1984), Stress, appraisal and coping"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q26",
+      "decisao": "fora",
+      "motivo": "Classificação de habilidades ‘voltadas à obtenção de resultados’ (Harazim, in Boog) não localizada; gabarito E sem confirmação.",
+      "fonte": "busca sem resultado"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q46",
+      "decisao": "fora",
+      "motivo": "O gabarito B mistura medidas de engenharia (tetos e pisos acústicos) num ‘projeto de organização do trabalho’; A (separar trabalho ruidoso, reduzir tempo de exposição, manutenção) é a resposta coerente com a hierarquia de controle de ruído. Gabarito contraria a classificação usual.",
+      "fonte": "hierarquia de medidas de controle de ruído (engenharia x organização do trabalho)"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q54",
+      "decisao": "fora",
+      "motivo": "Fonte que associa o ‘trabalho autônomo’ ao abalo da saúde psíquica não localizada; derivação aponta A. Gabarito sem confirmação.",
+      "fonte": "busca sem resultado"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q56",
+      "decisao": "fora",
+      "motivo": "Suporte gerencial (E) é fator clássico de transferência de treinamento (Abbad); comunidades de aprendizagem (C, gabarito) também. Duas alternativas defensáveis.",
+      "fonte": "Abbad et al., TD&E (suporte à transferência)"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q74",
+      "decisao": "fora",
+      "motivo": "Não localizei fonte que eleja a inclusão de familiares e aposentados como a medida ‘importante’ de programas de promoção de saúde; A e E também são medidas usuais. Sem confirmação.",
+      "fonte": "busca sem resultado"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q76",
+      "decisao": "fora",
+      "motivo": "Bergamini (1990, RAE) opõe condicionamento e motivação; a justificativa mais coerente com a autora é a transitoriedade do efeito da recompensa (C). O gabarito A não foi confirmado e contraria a derivação.",
+      "fonte": "Bergamini, Motivação: mitos, crenças e mal-entendidos, RAE 30(2), 1990"
+    },
+    {
+      "id": "petrobras-2005-psicologo-junior-q80",
+      "decisao": "fora",
+      "motivo": "A definição de trabalho ‘sadio’ não foi atribuída com segurança à abordagem epidemiológica (gabarito D); Jacques (2003) classifica as abordagens, mas o trecho não foi localizado.",
+      "fonte": "Jacques (2003), abordagens em saúde mental e trabalho (trecho não localizado)"
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q28",
+      "decisao": "entra",
+      "motivo": "Codo, Soratto e Vasques-Menezes (Saúde mental e trabalho, in Zanelli, Borges-Andrade e Bastos, 2004), partindo de Freud (saúde mental como capacidade de amar e trabalhar), definem saúde mental pela capacidade de produzir e reproduzir a si mesmo e à espécie: ao produzir se reproduz, e ao reproduzir se produz. É essa a definição do enunciado.",
+      "fonte": "Codo, Soratto & Vasques-Menezes, Saúde mental e trabalho (in Zanelli et al., 2004)"
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q29",
+      "decisao": "fora",
+      "motivo": "Questão anulada após recursos (respostas aos recursos oficiais da Cesgranrio).",
+      "fonte": "recursos.pdf oficial (PSP-RH-2/2008)"
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q35",
+      "decisao": "fora",
+      "motivo": "Duas alternativas defensáveis: a descrição é a de burnout (C) e a literatura brasileira usa ‘estafa’ como sinônimo (gabarito B).",
+      "fonte": "Maslach; MS 2001 (‘Sensação de estar acabado – síndrome de burn-out ou do esgotamento profissional’)"
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q43",
+      "decisao": "fora",
+      "motivo": "Duas alternativas defensáveis: em Herzberg, reconhecimento e progresso são fatores motivacionais, também chamados satisfacientes; C (gabarito) e E dizem o mesmo.",
+      "fonte": "Herzberg (1959), teoria dos dois fatores"
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q47",
+      "decisao": "fora",
+      "motivo": "Fonte sobre ações prévias de empowerment não localizada; gabarito D sem confirmação.",
+      "fonte": "busca sem resultado"
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q48",
+      "decisao": "entra",
+      "motivo": "Para Pagès, Bonetti, De Gaulejac e Descendre (O poder das organizações), o poder da organização hipermoderna é eficaz porque medeia as contradições entre os objetivos da empresa (lucro, dominação) e os dos trabalhadores. Ela não as resolve: atenua os conflitos e oculta a oposição de interesses sob a fachada da humanização do trabalho. A eficácia do poder se revela, portanto, na capacidade de ocultar as contradições existentes.",
+      "fonte": "Pagès et al., O poder das organizações (via resenhas: Gomes 2008; Carvalho & Vieira 2007)"
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q49",
+      "decisao": "fora",
+      "motivo": "Robbins e Kipnis apontam a razão (persuasão racional) como a tática de influência mais eficaz (D); o gabarito B (coalizão) contraria essa fonte e outra que o sustente não foi localizada.",
+      "fonte": "Robbins, Comportamento Organizacional (táticas de poder); Kipnis et al."
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q50",
+      "decisao": "fora",
+      "motivo": "No campo de forças de Lewin, nenhuma fonte localizada indica ‘forças grupais’ (gabarito E) como o que se estimula para reforçar as forças impulsionadoras; sem confirmação.",
+      "fonte": "Lewin, análise do campo de forças (trecho não localizado)"
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q55",
+      "decisao": "entra",
+      "motivo": "O efeito de halo (Thorndike, 1920; Asch, 1946) é a tendência de formar logo uma impressão global, positiva ou negativa, sobre alguém a partir de uma característica. Essa impressão passa a colorir o julgamento das demais características e o processamento das informações seguintes.",
+      "fonte": "Thorndike (1920); Asch (1946); SAGE Encyclopedia of Social Psychology"
+    },
+    {
+      "id": "petrobras-2008-psicologo-junior-q64",
+      "decisao": "entra",
+      "motivo": "A estrutura matricial combina departamentalização funcional e por projeto. Equipes flexíveis se formam e se desfazem conforme os projetos, há mais descentralização e autonomia, e o membro responde a dois chefes, o funcional e o de projeto. Robbins aponta que a matriz rompe o princípio de unidade de comando.",
+      "fonte": "Robbins, Comportamento Organizacional (estrutura matricial)"
+    },
+    {
+      "id": "petrobras-2010-1-psicologo-junior-q21",
+      "decisao": "entra",
+      "motivo": "Hamed generaliza um traço a todo o grupo (“os chineses só pensam em trabalho”): estereotipagem. Ele também atribui a Gabriel as próprias convicções (“Eles não são como eu e você. Nós sabemos que o trabalho não é tudo na vida”): projeção. Robbins define projeção como atribuir aos outros as próprias características.",
+      "fonte": "Robbins, Comportamento Organizacional (atalhos de percepção)"
+    },
+    {
+      "id": "petrobras-2010-1-psicologo-junior-q55",
+      "decisao": "fora",
+      "motivo": "O gabarito D (I e III) contraria a teoria: na dissonância cognitiva, recompensa alta reduz a dissonância e a pressão para mudar a atitude (Festinger e Carlsmith, 1959; Robbins), logo I é falsa e só III seria correta (B).",
+      "fonte": "Festinger & Carlsmith (1959); Robbins, Comportamento Organizacional"
+    },
+    {
+      "id": "petrobras-2010-2-psicologo-junior-q6",
+      "decisao": "fora",
+      "motivo": "Questão anulada após recursos (‘duas respostas corretas’, recursos.pdf oficial).",
+      "fonte": "recursos.pdf oficial (PSP-RH-1/2010)"
+    },
+    {
+      "id": "petrobras-2010-2-psicologo-junior-q9",
+      "decisao": "entra",
+      "motivo": "Robbins e Judge descrevem a organização virtual como um núcleo pequeno que terceiriza a maior parte das funções do negócio, é altamente centralizado e tem pouca ou nenhuma departamentalização (também chamada de estrutura em rede ou modular). As três características do enunciado são exatamente essas.",
+      "fonte": "Robbins & Judge, Comportamento Organizacional (estrutura virtual); gabarito oficial Cesgranrio 16/05/2010"
+    },
+    {
+      "id": "petrobras-2010-2-psicologo-junior-q51",
+      "decisao": "entra",
+      "motivo": "Na teoria da dissonância cognitiva (Festinger), a intensidade do desconforto depende da importância dos elementos, do grau de influência que a pessoa julga ter sobre eles e das recompensas envolvidas (Robbins). Um ganho pessoal com o corte funciona como recompensa/justificativa externa e tende a diminuir a dissonância, como no experimento de Festinger e Carlsmith (1959).",
+      "fonte": "Robbins, Comportamento Organizacional (dissonância cognitiva); Festinger & Carlsmith (1959)"
+    },
+    {
+      "id": "petrobras-2010-2-psicologo-junior-q52",
+      "decisao": "entra",
+      "motivo": "A linha que trata a cidadania organizacional como padrão de comportamentos extrapapel dirigidos à organização retoma Katz e Kahn (1974); Siqueira (1995) e Porto e Tamayo (2003) operacionalizaram-na em cinco fatores: sugestões criativas, proteção ao sistema, criação de clima favorável à organização no ambiente externo, autotreinamento e cooperação com os colegas. Essas autoras criticam as medidas internacionais (Smith, Organ e Near) por misturarem comportamentos prescritos pelo papel, como a aquiescência.",
+      "fonte": "Porto & Tamayo (2003), Estudos de Psicologia 8(3); Siqueira (1995); Katz & Kahn (1974)"
+    },
+    {
+      "id": "petrobras-2010-2-psicologo-junior-q53",
+      "decisao": "entra",
+      "motivo": "Superiores imediatos são os mais interessados no desempenho, mas a avaliação só por eles funciona mal em equipes (R). Colegas têm a maior proximidade com o trabalho do avaliado, mas podem ser enviesados por amizade ou rivalidade (P) (Robbins). Subordinados favorecem transparência e autonomia, mas a avaliação só é confiável com anonimato (S). Q descreve a avaliação 360 graus, que não é agente da coluna da esquerda.",
+      "fonte": "Robbins, Comportamento Organizacional (avaliação de desempenho: agentes)"
+    },
+    {
+      "id": "petrobras-2012-psicologo-junior-q40",
+      "decisao": "fora",
+      "motivo": "O gabarito oficial arquivado (Wayback, captura única de 2018) traz E, que contraria Robbins (o poder requer só dependência; a liderança requer compatibilidade com os objetivos do grupo, D). D aparece só na cópia de terceiro, sem documento oficial de alteração. Não troco o gabarito.",
+      "fonte": "Robbins, Comportamento Organizacional (poder x liderança); CDX Wayback do gabarito superior"
+    },
+    {
+      "id": "petrobras-2012-psicologo-junior-q41",
+      "decisao": "entra",
+      "motivo": "No manual Doenças relacionadas ao trabalho (MS/OPAS, 2001), o capítulo de transtornos mentais atribui sua gênese também à organização do trabalho: divisão e parcelamento das tarefas, políticas de gerenciamento e estrutura hierárquica. Esses elementos não aparecem entre os fatores de risco apontados para os acidentes de trabalho, que o manual descreve por riscos físicos, químicos, biológicos, ergonômicos e de acidentes. As demais alternativas contrariam o próprio manual.",
+      "fonte": "MS/OPAS, Doenças relacionadas ao trabalho: manual de procedimentos (2001), cap. 10"
+    },
+    {
+      "id": "petrobras-2012-psicologo-junior-q47",
+      "decisao": "fora",
+      "motivo": "Duas alternativas defensáveis: entre as abordagens organizacionais de Robbins, o treinamento aumenta a autoeficácia e reduz a tensão (B), e programas de bem-estar e exercício (E, gabarito) também aparecem.",
+      "fonte": "Robbins, Comportamento Organizacional (administração do estresse)"
+    },
+    {
+      "id": "petrobras-2012-psicologo-junior-q70",
+      "decisao": "fora",
+      "motivo": "E descreve a organização colateral (Zand, 1974; Kilmann), com grupos paralelos de solução de problemas; não encontrei fonte que a chame de ‘reprojeto estrutural’. Gabarito sem confirmação.",
+      "fonte": "Zand (1974), collateral organization; Kilmann (1982)"
+    },
+    {
+      "id": "refap-2007-psicologo-junior-q22",
+      "decisao": "fora",
+      "motivo": "Fonte não identificada; B e E são plausíveis.",
+      "fonte": "busca sem resultado"
+    },
+    {
+      "id": "refap-2007-psicologo-junior-q38",
+      "decisao": "fora",
+      "motivo": "Pesquisa que aponta a falta de confiança entre colegas como o fator de clima mais estressor não localizada.",
+      "fonte": "busca sem resultado"
+    },
+    {
+      "id": "refap-2007-psicologo-junior-q39",
+      "decisao": "fora",
+      "motivo": "As bases de poder de Mintzberg (controle de recurso, habilidade técnica, corpo de conhecimento, prerrogativas legais, acesso) permitem ler ‘hierarquia’ e ‘especialização’; ideologia é sistema de influência. Mais de uma alternativa defensável.",
+      "fonte": "Mintzberg (1983), Power in and around organizations"
+    },
+    {
+      "id": "secad-to-2004-psicologo-q7",
+      "decisao": "fora",
+      "motivo": "Pelo Acordo Ortográfico vigente nenhuma alternativa está correta; manter ensinaria a grafia antiga. (Decisão do agente principal; o revisor tinha proposto entrar com aviso.)",
+      "fonte": "Formulário Ortográfico de 1943; Acordo Ortográfico de 1990, Base XVI (Decreto 6.583/2008)"
+    },
+    {
+      "id": "secad-to-2009-psicologo-q6",
+      "decisao": "fora",
+      "motivo": "Questão anulada pela banca (‘contenção’ também pode ser grafada com S).",
+      "fonte": "resposta oficial aos recursos SECAD-TO 2009"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q58",
+      "decisao": "fora",
+      "motivo": "O texto do Plano Nacional de SST não foi conferido; B (condicionantes sociais, econômicos, tecnológicos e organizacionais) e C são plausíveis.",
+      "fonte": "PNSST (Decreto 7.602/2011), não conferido"
+    },
+    {
+      "id": "unirio-2016-psicologo-clinica-q5",
+      "decisao": "fora",
+      "motivo": "Interpretação discutível: o comentário isolado pelo travessão admite leitura irônica (B), e o gabarito A (reflexivo) não é o único defensável.",
+      "fonte": "Bechara, Moderna gramática portuguesa (travessão)"
+    },
+    {
+      "id": "unirio-2019-psicologo-q16",
+      "decisao": "fora",
+      "motivo": "Questão anulada no gabarito oficial pós-recursos (‘ALTERADO EM 03/12/19’).",
+      "fonte": "gabarito definitivo UNIRIO 2019"
+    }
+  ]
+}

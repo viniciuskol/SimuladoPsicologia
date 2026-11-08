@@ -1,0 +1,4010 @@
+{
+ "version": 1,
+ "note": "Lote 2 de questões autorais, não oficiais; gabarito derivado do artigo ou da fonte citada em verification.notes. gabaritoAnswer é null por não haver gabarito oficial. Revisão independente aplicada (revisao-autorais-lote2.json): 32 ok, 45 corrigidas, 0 descartadas.",
+ "questions": [
+  {
+   "id": "autoral-cod-07",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), Princípio Fundamental I",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Segundo o Princípio Fundamental I do Código de Ética Profissional do Psicólogo, o psicólogo baseará o seu trabalho no respeito e na promoção da liberdade, da dignidade, da igualdade e da integridade do ser humano, apoiado nos valores que embasam",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a Constituição Federal de 1988.",
+     "explanation": "A Constituição é citada nos considerandos da Resolução CFP 10/2005, não no Princípio I."
+    },
+    {
+     "key": "B",
+     "text": "a Declaração de Durban.",
+     "explanation": "A Declaração de Durban aparece nos considerandos da Resolução CFP 18/2002, não no Código."
+    },
+    {
+     "key": "C",
+     "text": "a Lei nº 5.766/1971.",
+     "explanation": "A Lei 5.766/1971 fundamenta a competência do CFP para editar a resolução; não é a base de valores do Princípio I."
+    },
+    {
+     "key": "D",
+     "text": "a Declaração Universal dos Direitos Humanos.",
+     "explanation": "Correta: é o texto do Princípio Fundamental I."
+    },
+    {
+     "key": "E",
+     "text": "a Consolidação das Leis do Trabalho, no capítulo sobre segurança e medicina do trabalho.",
+     "explanation": "A CLT não é mencionada no Código de Ética."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O Princípio I apoia o trabalho do psicólogo nos valores que embasam a Declaração Universal dos Direitos Humanos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), Princípio Fundamental I. Trecho conferido no texto-fonte: \"apoiado nos valores que embasam a Declaração Universal dos Direitos Humanos\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-08",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), Princípio Fundamental VII",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "O Princípio Fundamental VII do Código de Ética determina que o psicólogo considere as relações de poder nos contextos em que atua e os impactos dessas relações sobre suas atividades profissionais, posicionando-se de forma",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "neutra, abstendo-se de opinar sobre a organização em que atua.",
+     "explanation": "O Princípio VII pede posicionamento crítico, não neutralidade."
+    },
+    {
+     "key": "B",
+     "text": "alinhada à missão e às políticas da organização contratante.",
+     "explanation": "A missão e as políticas da organização devem ser examinadas quanto à compatibilidade com o Código (art. 3º); o Princípio VII não manda alinhar-se a elas."
+    },
+    {
+     "key": "C",
+     "text": "crítica e em consonância com os demais princípios do Código.",
+     "explanation": "Correta: é o texto do Princípio VII."
+    },
+    {
+     "key": "D",
+     "text": "técnica, restrita aos aspectos individuais das pessoas atendidas.",
+     "explanation": "O princípio trata das relações de poder do contexto, não só de aspectos individuais."
+    },
+    {
+     "key": "E",
+     "text": "subordinada às decisões da equipe multiprofissional.",
+     "explanation": "O Código não subordina o posicionamento do psicólogo à equipe."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O Princípio VII exige considerar as relações de poder e posicionar-se de forma crítica, em consonância com os demais princípios.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), Princípio Fundamental VII. Trecho conferido no texto-fonte: \"posicionando-se de forma crítica e em consonância com os demais princípios deste Código\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-09",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), Princípio Fundamental V",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "De acordo com o Princípio Fundamental V do Código de Ética, o psicólogo contribuirá para promover",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a eliminação de quaisquer formas de negligência, discriminação, exploração, violência, crueldade e opressão.",
+     "explanation": "Esse conteúdo é do Princípio II."
+    },
+    {
+     "key": "B",
+     "text": "o desenvolvimento da Psicologia como campo científico de conhecimento e de prática.",
+     "explanation": "Esse conteúdo é do Princípio IV, ligado ao aprimoramento profissional contínuo."
+    },
+    {
+     "key": "C",
+     "text": "a universalização do acesso da população às informações, ao conhecimento da ciência psicológica, aos serviços e aos padrões éticos da profissão.",
+     "explanation": "Correta: é o texto do Princípio V."
+    },
+    {
+     "key": "D",
+     "text": "a análise crítica e histórica da realidade política, econômica, social e cultural, base da atuação do psicólogo com responsabilidade social e compromisso político.",
+     "explanation": "Esse conteúdo é do Princípio III, sobre responsabilidade social."
+    },
+    {
+     "key": "E",
+     "text": "a rejeição de situações em que a Psicologia esteja sendo aviltada.",
+     "explanation": "Esse conteúdo é do Princípio VI, sobre a dignidade do exercício profissional."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O Princípio V trata da universalização do acesso às informações, ao conhecimento da ciência psicológica, aos serviços e aos padrões éticos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), Princípio Fundamental V. Trecho conferido no texto-fonte: \"contribuirá para promover a universalização do acesso da população às informações\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-10",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 1º, \"b\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Uma psicóloga que atua em seleção de pessoal é convidada pela empresa a conduzir avaliações neuropsicológicas, área em que não tem formação. Segundo os deveres fundamentais do Código de Ética, ela deve",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aceitar a demanda, desde que registre a limitação técnica no documento final.",
+     "explanation": "Registrar a limitação não supre a falta de capacitação exigida pelo art. 1º, \"b\"."
+    },
+    {
+     "key": "B",
+     "text": "realizar as avaliações, porque a inscrição no Conselho Regional de Psicologia habilita a psicóloga para qualquer prática psicológica, inclusive a neuropsicológica.",
+     "explanation": "O Código condiciona a responsabilidade à capacitação pessoal, teórica e técnica, não ao registro."
+    },
+    {
+     "key": "C",
+     "text": "assumir responsabilidades profissionais somente por atividades para as quais esteja capacitada pessoal, teórica e tecnicamente.",
+     "explanation": "Correta: art. 1º, \"b\"."
+    },
+    {
+     "key": "D",
+     "text": "delegar a aplicação dos instrumentos a um estagiário e assinar os laudos.",
+     "explanation": "Delegar e assinar o que não domina contraria o art. 1º, \"b\" e \"c\"."
+    },
+    {
+     "key": "E",
+     "text": "recusar o trabalho e denunciar a empresa ao Conselho Regional de Psicologia.",
+     "explanation": "Recusa com denúncia é a hipótese do art. 3º, parágrafo único (incompatibilidade com o Código), não de falta de capacitação."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 1º, \"b\", só permite assumir atividades para as quais o psicólogo esteja capacitado pessoal, teórica e tecnicamente.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 1º, \"b\". Trecho conferido no texto-fonte: \"somente por atividades para as quais esteja capacitado pessoal, teórica e tecnicamente\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-11",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 1º, \"g\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Ao concluir uma avaliação psicológica para promoção interna, a psicóloga recebe do gestor o pedido de todos os dados colhidos sobre o empregado avaliado. Conforme o Código de Ética, ela deve",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "entregar ao gestor a íntegra do material colhido, por ser ele o solicitante.",
+     "explanation": "O art. 1º, \"g\", limita a informação ao necessário para a decisão."
+    },
+    {
+     "key": "B",
+     "text": "informar os resultados a quem de direito, transmitindo somente o que for necessário para a tomada de decisões que afetem o avaliado.",
+     "explanation": "Correta: art. 1º, \"g\"."
+    },
+    {
+     "key": "C",
+     "text": "negar qualquer informação ao gestor, em razão do sigilo profissional.",
+     "explanation": "O Código manda informar a quem de direito os resultados necessários; não impõe recusa total."
+    },
+    {
+     "key": "D",
+     "text": "informar os resultados apenas ao avaliado, que decidirá se os repassa ao gestor, já que o gestor não é o usuário ou beneficiário do serviço prestado.",
+     "explanation": "O dever é informar a quem de direito, o que inclui o solicitante, no limite do necessário."
+    },
+    {
+     "key": "E",
+     "text": "transmitir todos os dados, desde que o avaliado assine termo de consentimento.",
+     "explanation": "O consentimento não afasta o limite do art. 1º, \"g\"."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 1º, \"g\", manda informar os resultados a quem de direito, transmitindo somente o necessário para as decisões que afetem o usuário ou beneficiário.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 1º, \"g\". Trecho conferido no texto-fonte: \"transmitindo somente o que for necessário para a tomada de decisões que afetem o usuário ou beneficiário\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-12",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 1º, \"k\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Uma psicóloga precisará interromper, por motivo justificável, o acompanhamento que realiza com um cliente. De acordo com os deveres fundamentais do Código de Ética, ela deve",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "entregar ao cliente todo o seu prontuário e encerrar o vínculo.",
+     "explanation": "O Código prevê o repasse das informações necessárias ao substituto, não a entrega integral do prontuário ao cliente."
+    },
+    {
+     "key": "B",
+     "text": "lacrar os registros e remetê-los ao Conselho Regional de Psicologia.",
+     "explanation": "Remessa ao CRP para destinação ocorre na extinção do serviço de Psicologia (art. 15, § 2º)."
+    },
+    {
+     "key": "C",
+     "text": "sugerir serviços de outros psicólogos, fornecendo ao substituto as informações necessárias à continuidade do trabalho.",
+     "explanation": "Correta: art. 1º, \"k\"."
+    },
+    {
+     "key": "D",
+     "text": "indicar outro profissional sem repassar nenhuma informação sobre o acompanhamento, em respeito ao sigilo profissional devido ao cliente atendido.",
+     "explanation": "O art. 1º, \"k\", manda fornecer ao substituto as informações necessárias."
+    },
+    {
+     "key": "E",
+     "text": "manter o atendimento até a alta, pois é vedado interromper serviços iniciados.",
+     "explanation": "O Código admite a interrupção por motivos justificáveis."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Pelo art. 1º, \"k\", quando o serviço não puder continuar por motivo justificável, o psicólogo sugere outro psicólogo e fornece ao substituto as informações necessárias.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 1º, \"k\". Trecho conferido no texto-fonte: \"fornecendo ao seu substituto as informações necessárias à continuidade do trabalho\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-13",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 1º, \"l\", e art. 2º, \"d\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Um psicólogo descobre que uma pessoa sem formação em Psicologia vem aplicando testes psicológicos nos processos seletivos de uma empresa. À luz do Código de Ética, ele deve",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "orientar essa pessoa sobre a correta aplicação dos testes.",
+     "explanation": "O art. 18 veda ensinar a leigos instrumentos que facilitem o exercício ilegal."
+    },
+    {
+     "key": "B",
+     "text": "supervisionar essa pessoa, assumindo a responsabilidade técnica pelos testes.",
+     "explanation": "O art. 2º, \"d\", veda acumpliciar-se com quem exerça ilegalmente a profissão."
+    },
+    {
+     "key": "C",
+     "text": "manter-se em silêncio, pois o Código só alcança condutas de psicólogos.",
+     "explanation": "O art. 1º, \"l\", impõe comunicar o exercício ilegal da profissão, inclusive por não psicólogos."
+    },
+    {
+     "key": "D",
+     "text": "comunicar o fato apenas ao gestor da empresa.",
+     "explanation": "O dever é levar o fato às instâncias competentes."
+    },
+    {
+     "key": "E",
+     "text": "levar o fato ao conhecimento das instâncias competentes.",
+     "explanation": "Correta: art. 1º, \"l\", que trata do exercício ilegal ou irregular da profissão."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 1º, \"l\", obriga o psicólogo a levar às instâncias competentes o exercício ilegal ou irregular da profissão.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 1º, \"l\", e art. 2º, \"d\". Trecho conferido no texto-fonte: \"Levar ao conhecimento das instâncias competentes o exercício ilegal ou irregular da profissão\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-14",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 2º, \"b\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Em uma oficina de manejo do estresse para empregados, o psicólogo responsável recomenda aos participantes a adesão à sua própria religião como forma de enfrentamento. Segundo o Código de Ética, essa conduta",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "é vedada, pois o psicólogo não pode induzir a convicções religiosas no exercício de suas funções.",
+     "explanation": "Correta: art. 2º, \"b\"."
+    },
+    {
+     "key": "B",
+     "text": "é permitida, desde que a participação na oficina seja voluntária.",
+     "explanation": "A voluntariedade não afasta a vedação do art. 2º, \"b\"."
+    },
+    {
+     "key": "C",
+     "text": "é permitida, por integrar a liberdade de expressão e de crença do profissional, garantida pela Constituição Federal.",
+     "explanation": "O Código veda a indução quando do exercício das funções profissionais."
+    },
+    {
+     "key": "D",
+     "text": "é vedada somente se houver cobrança adicional pela recomendação.",
+     "explanation": "A vedação independe de cobrança."
+    },
+    {
+     "key": "E",
+     "text": "é vedada apenas no atendimento clínico individual.",
+     "explanation": "O art. 2º, \"b\", vale para o exercício profissional em qualquer contexto."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 2º, \"b\", veda induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas, de orientação sexual ou a qualquer preconceito.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 2º, \"b\". Trecho conferido no texto-fonte: \"Induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas, de orientação sexual ou a qualquer tipo de preconceito\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-15",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 2º, \"h\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "O diretor de uma empresa pede à psicóloga que altere o resultado de um candidato aprovado na avaliação psicológica, para que ele seja excluído do processo. Nos termos do Código de Ética, atender ao pedido",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "é vedado, pois configura adulteração de resultados de instrumentos e técnicas psicológicas.",
+     "explanation": "Correta: art. 2º, \"h\"."
+    },
+    {
+     "key": "B",
+     "text": "é permitido, se a mudança e o motivo apresentado pelo diretor forem registrados no prontuário do candidato.",
+     "explanation": "O registro não legitima a adulteração vedada pelo art. 2º, \"h\"."
+    },
+    {
+     "key": "C",
+     "text": "é permitido, por se tratar de decisão gerencial da organização.",
+     "explanation": "A decisão gerencial não autoriza adulterar resultados."
+    },
+    {
+     "key": "D",
+     "text": "é vedado somente se o candidato vier a recorrer do resultado.",
+     "explanation": "A vedação independe de recurso."
+    },
+    {
+     "key": "E",
+     "text": "é permitido, desde que a psicóloga não assine o novo documento.",
+     "explanation": "Além de adulterar, emitir documento sem fundamentação também é vedado (art. 2º, \"g\")."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 2º, \"h\", veda interferir na validade e fidedignidade de instrumentos, adulterar resultados ou fazer declarações falsas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 2º, \"h\". Trecho conferido no texto-fonte: \"adulterar seus resultados ou fazer declarações falsas\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-16",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 2º, \"j\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Durante o acompanhamento de um empregado em programa de apoio psicológico da empresa, o psicólogo é convidado pelo irmão desse empregado para uma sociedade comercial. Segundo o Código de Ética, estabelecer essa relação",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "é permitido, porque a vedação alcança apenas a própria pessoa atendida.",
+     "explanation": "O art. 2º, \"j\", inclui familiar ou terceiro que tenha vínculo com o atendido."
+    },
+    {
+     "key": "B",
+     "text": "é permitido, por se tratar de relação fora do horário de trabalho.",
+     "explanation": "O horário não afasta a vedação."
+    },
+    {
+     "key": "C",
+     "text": "é vedado se puder interferir negativamente nos objetivos do serviço prestado.",
+     "explanation": "Correta: art. 2º, \"j\", que alcança a pessoa atendida, o familiar ou o terceiro com vínculo com o atendido."
+    },
+    {
+     "key": "D",
+     "text": "é permitido, desde que comunicado à chefia imediata.",
+     "explanation": "Comunicação à chefia não está prevista como condição."
+    },
+    {
+     "key": "E",
+     "text": "depende de autorização prévia do Conselho Regional de Psicologia.",
+     "explanation": "O Código não prevê autorização prévia do CRP para isso."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 2º, \"j\", veda relação com a pessoa atendida, familiar ou terceiro com vínculo com ela que possa interferir negativamente nos objetivos do serviço.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 2º, \"j\". Trecho conferido no texto-fonte: \"Estabelecer com a pessoa atendida, familiar ou terceiro, que tenha vínculo com o atendido, relação que possa interferir negativamente nos objetivos do serviço prestado\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-17",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 2º, \"l\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Uma psicóloga do serviço de saúde de uma empresa oferece aos empregados que atende a continuidade do acompanhamento em seu consultório particular, mediante pagamento. À luz do Código de Ética, a conduta",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "é vedada, por desviar para serviço particular, visando benefício próprio, pessoas atendidas por instituição com a qual mantém vínculo.",
+     "explanation": "Correta: art. 2º, \"l\"."
+    },
+    {
+     "key": "B",
+     "text": "é permitida, se os próprios empregados manifestarem livre interesse em continuar o acompanhamento fora da empresa.",
+     "explanation": "O interesse dos atendidos não afasta a vedação do art. 2º, \"l\"."
+    },
+    {
+     "key": "C",
+     "text": "é permitida, desde que os honorários cobrados sejam inferiores aos praticados no mercado e informados por escrito.",
+     "explanation": "O valor cobrado é irrelevante para a vedação."
+    },
+    {
+     "key": "D",
+     "text": "é vedada apenas enquanto durar o contrato de trabalho da psicóloga com a empresa, sendo livre após o desligamento.",
+     "explanation": "O Código não estabelece esse limite temporal."
+    },
+    {
+     "key": "E",
+     "text": "configura apenas infração trabalhista, a ser tratada pela empresa, sem repercussão no âmbito do Código de Ética.",
+     "explanation": "O art. 2º, \"l\", trata a conduta como vedação ética."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 2º, \"l\", veda desviar para serviço particular, visando benefício próprio, pessoas ou organizações atendidas por instituição com a qual o psicólogo mantenha vínculo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 2º, \"l\". Trecho conferido no texto-fonte: \"Desviar para serviço particular ou de outra instituição, visando benefício próprio\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-18",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 2º, \"o\" e \"p\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Uma clínica propõe a um psicólogo pagar-lhe um percentual por cliente que ele encaminhar para tratamento no local. Segundo o Código de Ética, aceitar a proposta",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "é permitido, se o percentual constar de contrato escrito.",
+     "explanation": "A formalização não afasta a vedação."
+    },
+    {
+     "key": "B",
+     "text": "é vedado, pois o psicólogo não pode receber remuneração ou porcentagem por encaminhamento de serviços.",
+     "explanation": "Correta: art. 2º, \"p\"."
+    },
+    {
+     "key": "C",
+     "text": "é permitido, desde que o cliente seja informado do percentual.",
+     "explanation": "A informação ao cliente não afasta a vedação."
+    },
+    {
+     "key": "D",
+     "text": "é vedado apenas quando a clínica não for dirigida por psicólogo.",
+     "explanation": "O Código não faz essa distinção."
+    },
+    {
+     "key": "E",
+     "text": "é permitido, por se tratar de complemento dos honorários contratados, desde que declarado à Receita Federal.",
+     "explanation": "O art. 2º, \"o\", veda vantagens de qualquer espécie além dos honorários contratados."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 2º, \"p\", veda receber ou pagar remuneração ou porcentagem por encaminhamento; o art. 2º, \"o\", veda vantagens além dos honorários.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 2º, \"o\" e \"p\". Trecho conferido no texto-fonte: \"Receber, pagar remuneração ou porcentagem por encaminhamento de serviços\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-19",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 2º, \"q\", e art. 19",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Convidado por um programa de televisão, um psicólogo comenta o comportamento de uma pessoa pública e afirma que ela apresenta determinado transtorno. Segundo o Código de Ética, essa conduta",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "é permitida, por se tratar de pessoa pública.",
+     "explanation": "O art. 2º, \"q\", não excepciona pessoas públicas."
+    },
+    {
+     "key": "B",
+     "text": "é permitida, desde que o psicólogo informe o número do CRP.",
+     "explanation": "A identificação profissional é exigência da publicidade (art. 20), não autoriza o diagnóstico na mídia."
+    },
+    {
+     "key": "C",
+     "text": "cumpre o art. 19, que manda disseminar o conhecimento sobre a profissão.",
+     "explanation": "O art. 19 trata de informar sobre atribuições, base científica e papel social da profissão, não de diagnosticar pessoas."
+    },
+    {
+     "key": "D",
+     "text": "é vedada, pois expõe a pessoa ao apresentar diagnóstico em meio de comunicação.",
+     "explanation": "Correta: art. 2º, \"q\"."
+    },
+    {
+     "key": "E",
+     "text": "é vedada apenas se o psicólogo receber cachê pela participação.",
+     "explanation": "A vedação independe de remuneração."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O art. 2º, \"q\", veda realizar diagnósticos ou apresentar resultados em meios de comunicação de forma a expor pessoas, grupos ou organizações.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 2º, \"q\", e art. 19. Trecho conferido no texto-fonte: \"Realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação, de forma a expor pessoas\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-20",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 4º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Ao fixar a remuneração pelo seu trabalho, o psicólogo, de acordo com o Código de Ética,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "seguirá obrigatoriamente a tabela de honorários fixada pelo Conselho Regional.",
+     "explanation": "O Código não impõe tabela; manda considerar a justa retribuição e as condições do usuário (art. 4º, \"a\")."
+    },
+    {
+     "key": "B",
+     "text": "ajustará a qualidade do serviço ao valor acordado.",
+     "explanation": "O art. 4º, \"c\", manda assegurar a qualidade independentemente do valor."
+    },
+    {
+     "key": "C",
+     "text": "comunicará o valor ao usuário ou beneficiário antes do início do trabalho.",
+     "explanation": "Correta: art. 4º, \"b\"."
+    },
+    {
+     "key": "D",
+     "text": "comunicará o valor ao final, conforme o número de sessões realizadas.",
+     "explanation": "O valor deve ser comunicado antes do início do trabalho."
+    },
+    {
+     "key": "E",
+     "text": "desconsiderará as condições do usuário, para garantir a justa retribuição.",
+     "explanation": "O art. 4º, \"a\", manda considerar as condições do usuário ou beneficiário."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 4º manda considerar a justa retribuição e as condições do usuário, comunicar o valor antes do início e assegurar a qualidade independentemente do valor.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 4º. Trecho conferido no texto-fonte: \"o comunicará ao usuário ou beneficiário antes do início do trabalho a ser realizado\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-21",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 5º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Quando participar de greves ou paralisações, o psicólogo, segundo o Código de Ética, garantirá que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "todos os atendimentos em curso sejam mantidos integralmente, inclusive os eletivos, durante toda a paralisação.",
+     "explanation": "O Código exige a continuidade das atividades de emergência, não de todos os atendimentos."
+    },
+    {
+     "key": "B",
+     "text": "a paralisação seja previamente autorizada pelo Conselho Regional, com comunicação ao Conselho Federal.",
+     "explanation": "Não há exigência de autorização do CRP."
+    },
+    {
+     "key": "C",
+     "text": "os usuários sejam comunicados da paralisação após o seu término, com a reposição das sessões não realizadas.",
+     "explanation": "A comunicação deve ser prévia."
+    },
+    {
+     "key": "D",
+     "text": "as atividades de emergência não sejam interrompidas e que haja prévia comunicação da paralisação aos usuários atingidos.",
+     "explanation": "Correta: art. 5º, \"a\" e \"b\"."
+    },
+    {
+     "key": "E",
+     "text": "os usuários sejam encaminhados a psicólogos que não aderiram ao movimento, com cópia integral dos prontuários.",
+     "explanation": "O Código não prevê esse encaminhamento obrigatório."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O art. 5º exige que as emergências não sejam interrompidas e que haja comunicação prévia aos usuários atingidos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 5º. Trecho conferido no texto-fonte: \"As atividades de emergência não sejam interrompidas\"; \"Haja prévia comunicação da paralisação aos usuários\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-22",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 7º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Um cliente em atendimento com uma psicóloga procura outro psicólogo para iniciar acompanhamento. De acordo com o Código de Ética, o segundo psicólogo poderá intervir no serviço em curso, entre outras situações,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "sempre que o cliente manifestar insatisfação com o atendimento em curso.",
+     "explanation": "Insatisfação não está entre as hipóteses do art. 7º."
+    },
+    {
+     "key": "B",
+     "text": "quando considerar sua abordagem teórica mais adequada ao caso.",
+     "explanation": "A preferência teórica não está entre as hipóteses do art. 7º."
+    },
+    {
+     "key": "C",
+     "text": "em caso de emergência, dispensada a ciência à profissional responsável.",
+     "explanation": "Na emergência, o art. 7º, \"b\", exige dar imediata ciência ao profissional."
+    },
+    {
+     "key": "D",
+     "text": "a pedido de familiar do cliente, independentemente de qualquer comunicação à profissional responsável pelo atendimento em curso.",
+     "explanation": "O art. 7º, \"a\", fala em pedido do profissional responsável pelo serviço."
+    },
+    {
+     "key": "E",
+     "text": "quando informado expressamente, por qualquer uma das partes, da interrupção voluntária e definitiva do serviço.",
+     "explanation": "Correta: art. 7º, \"c\"."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 7º admite a intervenção a pedido do responsável, em emergência com imediata ciência, após comunicação expressa da interrupção definitiva ou em trabalho multiprofissional.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 7º. Trecho conferido no texto-fonte: \"da interrupção voluntária e definitiva do serviço\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-23",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 8º, §§ 1º e 2º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Um adolescente chega desacompanhado a um serviço de Psicologia, e não se apresenta nenhum responsável legal. Segundo o Código de Ética, o psicólogo",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "deverá efetuar o atendimento e comunicá-lo às autoridades competentes.",
+     "explanation": "Correta: art. 8º, § 1º."
+    },
+    {
+     "key": "B",
+     "text": "deverá recusar o atendimento até a apresentação de ambos os responsáveis.",
+     "explanation": "O § 1º manda atender; a regra geral do caput exige autorização de ao menos um responsável, não de ambos."
+    },
+    {
+     "key": "C",
+     "text": "poderá atender apenas uma vez, sem qualquer comunicação.",
+     "explanation": "O § 1º exige comunicar o atendimento às autoridades competentes."
+    },
+    {
+     "key": "D",
+     "text": "deverá encaminhar o adolescente ao Conselho Regional de Psicologia.",
+     "explanation": "O CRP não é a autoridade indicada para esse caso."
+    },
+    {
+     "key": "E",
+     "text": "poderá atender, ficando dispensado de qualquer encaminhamento posterior.",
+     "explanation": "O § 2º responsabiliza o psicólogo pelos encaminhamentos necessários à proteção integral."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Pelo art. 8º, § 1º, sem responsável legal o atendimento deve ser efetuado e comunicado às autoridades competentes; o § 2º trata dos encaminhamentos para a proteção integral.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 8º, §§ 1º e 2º. Trecho conferido no texto-fonte: \"o atendimento deverá ser efetuado e comunicado às autoridades competentes\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-24",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 11",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Quando requisitado a depor em juízo, o psicólogo, nos termos do Código de Ética,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "deverá revelar todas as informações obtidas no exercício profissional.",
+     "explanation": "O art. 11 usa \"poderá\" e remete aos limites do Código."
+    },
+    {
+     "key": "B",
+     "text": "poderá prestar informações, considerando o previsto no Código.",
+     "explanation": "Correta: art. 11."
+    },
+    {
+     "key": "C",
+     "text": "estará impedido de prestar qualquer informação, em razão do sigilo.",
+     "explanation": "O art. 11 admite a prestação de informações."
+    },
+    {
+     "key": "D",
+     "text": "só poderá depor com autorização prévia do Conselho Regional.",
+     "explanation": "O Código não exige essa autorização."
+    },
+    {
+     "key": "E",
+     "text": "deverá entregar ao juízo o prontuário completo da pessoa atendida.",
+     "explanation": "Não há esse dever no art. 11."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 11 faculta ao psicólogo prestar informações em juízo, considerando o previsto no Código.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 11. Trecho conferido no texto-fonte: \"o psicólogo poderá prestar informações, considerando o previsto neste Código\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-25",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 13",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "No atendimento a criança, adolescente ou interdito, o Código de Ética estabelece que deve ser comunicado aos responsáveis",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o estritamente essencial para se promoverem medidas em seu benefício.",
+     "explanation": "Correta: art. 13."
+    },
+    {
+     "key": "B",
+     "text": "todo o conteúdo das sessões, por serem eles os responsáveis legais.",
+     "explanation": "O art. 13 limita a comunicação ao estritamente essencial."
+    },
+    {
+     "key": "C",
+     "text": "apenas o que o atendido autorizar expressamente, sem exceção.",
+     "explanation": "O critério do art. 13 é o essencial para medidas em benefício do atendido."
+    },
+    {
+     "key": "D",
+     "text": "nenhuma informação, enquanto durar o acompanhamento.",
+     "explanation": "O art. 13 prevê comunicação aos responsáveis."
+    },
+    {
+     "key": "E",
+     "text": "somente as informações solicitadas por escrito pelos responsáveis.",
+     "explanation": "O Código não condiciona a comunicação a pedido escrito."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 13 manda comunicar aos responsáveis o estritamente essencial para promover medidas em benefício do atendido.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 13. Trecho conferido no texto-fonte: \"deve ser comunicado aos responsáveis o estritamente essencial para se promoverem medidas em seu benefício\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-26",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 14",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Em processo seletivo, a psicóloga pretende gravar em vídeo uma dinâmica de grupo para análise posterior. Conforme o Código de Ética, o uso desse meio de registro exige que os candidatos sejam informados",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "ao final da dinâmica, antes da divulgação dos resultados.",
+     "explanation": "O art. 14 exige informação desde o início."
+    },
+    {
+     "key": "B",
+     "text": "apenas se a gravação vier a ser utilizada em documento escrito.",
+     "explanation": "O dever de informar não depende do uso posterior."
+    },
+    {
+     "key": "C",
+     "text": "somente se algum deles solicitar acesso às imagens.",
+     "explanation": "A informação é devida independentemente de pedido."
+    },
+    {
+     "key": "D",
+     "text": "após autorização do Conselho Regional de Psicologia.",
+     "explanation": "O Código não exige autorização do CRP."
+    },
+    {
+     "key": "E",
+     "text": "desde o início.",
+     "explanation": "Correta: art. 14."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 14 condiciona o uso de quaisquer meios de registro e observação à informação do usuário ou beneficiário desde o início.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 14. Trecho conferido no texto-fonte: \"devendo o usuário ou beneficiário, desde o início, ser informado\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-27",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 16",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Uma psicóloga conduzirá uma pesquisa sobre bem-estar com trabalhadores de várias empresas. Segundo o Código de Ética, ela deverá, entre outras medidas,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "garantir o anonimato apenas das pessoas, podendo identificar as organizações.",
+     "explanation": "O art. 16, \"c\", alcança pessoas, grupos e organizações."
+    },
+    {
+     "key": "B",
+     "text": "dispensar o consentimento quando a pesquisa for autorizada pelas empresas.",
+     "explanation": "O art. 16, \"b\", exige consentimento livre e esclarecido, ressalvada legislação específica."
+    },
+    {
+     "key": "C",
+     "text": "garantir o anonimato das pessoas, grupos ou organizações, salvo interesse manifesto destes.",
+     "explanation": "Correta: art. 16, \"c\"."
+    },
+    {
+     "key": "D",
+     "text": "restringir o acesso aos resultados aos gestores das empresas participantes.",
+     "explanation": "O art. 16, \"d\", garante aos participantes acesso aos resultados após o encerramento, quando desejarem."
+    },
+    {
+     "key": "E",
+     "text": "divulgar os resultados sem avaliar riscos, por se tratar de produção de conhecimento.",
+     "explanation": "O art. 16, \"a\", exige avaliar os riscos, inclusive da divulgação."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 16 exige avaliar riscos, consentimento livre e esclarecido, anonimato salvo interesse manifesto e acesso dos participantes aos resultados.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 16. Trecho conferido no texto-fonte: \"Garantirá o anonimato das pessoas, grupos ou organizações, salvo interesse manifesto destes\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-28",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 18",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "O gerente de recursos humanos de uma empresa pede à psicóloga que lhe ensine a aplicar e corrigir testes psicológicos, para fazer ele mesmo as próximas seleções. Pelo Código de Ética, a psicóloga",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "ensinará, desde que supervisione as primeiras aplicações feitas pelo gerente.",
+     "explanation": "A supervisão não afasta a vedação do art. 18."
+    },
+    {
+     "key": "B",
+     "text": "cederá os testes, se o gerente tiver curso superior completo.",
+     "explanation": "Ter curso superior não habilita ao uso privativo de testes."
+    },
+    {
+     "key": "C",
+     "text": "ensinará, por dever de colaborar com outros profissionais da empresa.",
+     "explanation": "O dever de colaboração do art. 1º, \"j\", não alcança facilitar o exercício ilegal."
+    },
+    {
+     "key": "D",
+     "text": "ensinará, se a empresa assumir por escrito a responsabilidade pelos resultados.",
+     "explanation": "A responsabilidade da empresa não afasta a vedação."
+    },
+    {
+     "key": "E",
+     "text": "não ensinará nem cederá a leigos instrumentos e técnicas que facilitem o exercício ilegal da profissão.",
+     "explanation": "Correta: art. 18."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 18 veda divulgar, ensinar, ceder, emprestar ou vender a leigos instrumentos e técnicas que permitam ou facilitem o exercício ilegal da profissão.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 18. Trecho conferido no texto-fonte: \"não divulgará, ensinará, cederá, emprestará ou venderá a leigos instrumentos e técnicas psicológicas\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista involuntária: a correta era a única no futuro do indicativo (as demais em 'poderá/deverá') e bem mais longa. Distratores passados ao futuro do indicativo e alongados; correta levemente encurtada sem mudar o sentido do art. 18.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-29",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 20",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Ao promover publicamente seus serviços, o psicólogo, segundo o Código de Ética,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "anunciará descontos no preço como forma de atrair clientes.",
+     "explanation": "O art. 20, \"d\", veda usar o preço do serviço como propaganda."
+    },
+    {
+     "key": "B",
+     "text": "garantirá resultados aos clientes, desde que baseados em evidências.",
+     "explanation": "O art. 20, \"e\", veda previsão taxativa de resultados."
+    },
+    {
+     "key": "C",
+     "text": "citará títulos em curso, ainda não concluídos.",
+     "explanation": "O art. 20, \"b\", só permite referir títulos ou qualificações que possua."
+    },
+    {
+     "key": "D",
+     "text": "comparará seus serviços aos de outros profissionais, apontando-lhes falhas.",
+     "explanation": "O art. 20, \"f\", veda autopromoção em detrimento de outros profissionais."
+    },
+    {
+     "key": "E",
+     "text": "informará o seu nome completo, o CRP e seu número de registro.",
+     "explanation": "Correta: art. 20, \"a\"."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 20 exige nome completo, CRP e número de registro e veda propaganda por preço, previsão taxativa de resultados e autopromoção em detrimento de outros.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 20. Trecho conferido no texto-fonte: \"Informará o seu nome completo, o CRP e seu número de registro\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista involuntária: a correta era a única no futuro do indicativo ('informará'), enquanto todas as erradas começavam por 'poderá'. Distratores passados ao futuro do indicativo; conteúdo e gabarito mantidos.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-cod-30",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), arts. 22, 23 e 24",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Quanto às dúvidas na observância do Código de Ética e aos casos omissos, o próprio Código estabelece que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "serão resolvidos pelos Conselhos Regionais, ad referendum do Conselho Federal, cabendo a este firmar jurisprudência quanto aos casos omissos.",
+     "explanation": "Correta: arts. 22 e 23."
+    },
+    {
+     "key": "B",
+     "text": "serão resolvidos exclusivamente pelo Conselho Federal, sem participação dos Regionais.",
+     "explanation": "O art. 22 atribui a resolução aos Conselhos Regionais, ad referendum do CFP."
+    },
+    {
+     "key": "C",
+     "text": "serão resolvidos pela assembleia da categoria, convocada pelo Conselho Federal.",
+     "explanation": "Não há essa previsão no Código."
+    },
+    {
+     "key": "D",
+     "text": "serão resolvidos pelos Conselhos Regionais, cabendo também a eles firmar jurisprudência sobre os casos omissos e alterar o texto do Código de Ética.",
+     "explanation": "Firmar jurisprudência é do CFP (art. 23); a alteração do Código é do CFP, ouvidos os CRPs (art. 24)."
+    },
+    {
+     "key": "E",
+     "text": "serão resolvidos pela Justiça Federal, por se tratar de autarquia federal.",
+     "explanation": "O Código atribui a matéria ao Sistema Conselhos."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Pelos arts. 22 e 23, dúvidas e omissos são resolvidos pelos CRPs ad referendum do CFP, que firma jurisprudência; pelo art. 24, o CFP altera o Código, ouvidos os CRPs.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), arts. 22, 23 e 24. Trecho conferido no texto-fonte: \"serão resolvidos pelos Conselhos Regionais de Psicologia, ad referendum do Conselho Federal de Psicologia\"; \"Competirá ao Conselho Federal de Psicologia firmar jurisprudência quanto aos casos omissos\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r1-03",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 01/1999, considerandos",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.1 Resolução CFP 01/1999 (orientação sexual)",
+   "stem": "Entre os fundamentos expressos nos considerandos da Resolução CFP nº 01/1999, está o de que a homossexualidade",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "constitui variação do desenvolvimento que deve ser acompanhada pelo psicólogo.",
+     "explanation": "Os considerandos não tratam a homossexualidade como variação a ser acompanhada."
+    },
+    {
+     "key": "B",
+     "text": "pode ser tratada como transtorno quando o próprio paciente o solicitar.",
+     "explanation": "A resolução nega o caráter de doença e veda colaborar com serviços de tratamento e cura (art. 3º, parágrafo único)."
+    },
+    {
+     "key": "C",
+     "text": "constitui distúrbio apenas quando acompanhada de sofrimento psíquico.",
+     "explanation": "O considerando afasta a caracterização como distúrbio, sem ressalva."
+    },
+    {
+     "key": "D",
+     "text": "não constitui doença, nem distúrbio e nem perversão.",
+     "explanation": "Correta: é o texto do considerando."
+    },
+    {
+     "key": "E",
+     "text": "é matéria restrita à atuação do psicólogo clínico.",
+     "explanation": "Os considerandos afirmam que o psicólogo é interpelado pelo tema independentemente da área de atuação."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Os considerandos da Resolução 01/1999 afirmam que a homossexualidade não constitui doença, nem distúrbio e nem perversão.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 01/1999, considerandos. Trecho conferido no texto-fonte: \"a homossexualidade não constitui\"; \"doença, nem distúrbio e nem perversão\". Texto lido no PDF oficial do CFP. Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r1-04",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 01/1999, art. 2º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.1 Resolução CFP 01/1999 (orientação sexual)",
+   "stem": "De acordo com o art. 2º da Resolução CFP nº 01/1999, os psicólogos deverão contribuir, com seu conhecimento, para",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a identificação precoce de comportamentos homoeróticos em crianças e adolescentes, para orientação das famílias.",
+     "explanation": "Essa finalidade não consta da resolução e contraria o art. 3º, que veda favorecer a patologização."
+    },
+    {
+     "key": "B",
+     "text": "a orientação de pessoas homossexuais quanto à possibilidade de mudança de orientação, quando houver sofrimento.",
+     "explanation": "O art. 3º veda ação coercitiva para tratamentos não solicitados e colaboração com serviços de cura."
+    },
+    {
+     "key": "C",
+     "text": "a elaboração de instrumentos de avaliação da orientação sexual de candidatos em processos seletivos e promoções.",
+     "explanation": "A resolução não prevê isso; o art. 2º trata de reflexão sobre o preconceito."
+    },
+    {
+     "key": "D",
+     "text": "uma reflexão sobre o preconceito e o desaparecimento de discriminações e estigmatizações contra aqueles que apresentam comportamentos ou práticas homoeróticas.",
+     "explanation": "Correta: é o texto do art. 2º."
+    },
+    {
+     "key": "E",
+     "text": "a neutralidade institucional quanto às questões ligadas à sexualidade, evitando abordar o tema em atendimentos, em processos seletivos e nos meios de comunicação.",
+     "explanation": "O art. 2º prescreve contribuição ativa contra discriminações, não neutralidade."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O art. 2º impõe aos psicólogos contribuir para a reflexão sobre o preconceito e o desaparecimento de discriminações e estigmatizações.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 01/1999, art. 2º. Trecho conferido no texto-fonte: \"para uma reflexão sobre o preconceito e o desaparecimento de discriminações e estigmatizações\". Texto lido no PDF oficial do CFP. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito. Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r1-05",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 01/1999, art. 1º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.1 Resolução CFP 01/1999 (orientação sexual)",
+   "stem": "Segundo o art. 1º da Resolução CFP nº 01/1999, os psicólogos atuarão segundo os princípios éticos da profissão, notadamente aqueles que disciplinam",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a não discriminação e a promoção e bem-estar das pessoas e da humanidade.",
+     "explanation": "Correta: é o texto do art. 1º."
+    },
+    {
+     "key": "B",
+     "text": "o sigilo profissional e a quebra de sigilo em favor do menor prejuízo.",
+     "explanation": "Sigilo é tema dos arts. 9º e 10 do Código; não é o destaque do art. 1º da resolução."
+    },
+    {
+     "key": "C",
+     "text": "a fixação de honorários e a publicidade dos serviços.",
+     "explanation": "Honorários e publicidade são temas dos arts. 4º e 20 do Código."
+    },
+    {
+     "key": "D",
+     "text": "o uso de testes aprovados pelo SATEPSI.",
+     "explanation": "O SATEPSI é regulado pela Resolução 31/2022."
+    },
+    {
+     "key": "E",
+     "text": "a neutralidade científica e a abstenção de posicionamento social.",
+     "explanation": "A resolução prescreve contribuição contra o preconceito, não abstenção."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 1º destaca os princípios éticos da não discriminação e da promoção do bem-estar das pessoas e da humanidade.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 01/1999, art. 1º. Trecho conferido no texto-fonte: \"notadamente aqueles que disciplinam a não discriminação e a promoção e\". Texto lido no PDF oficial do CFP. Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r1-06",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 01/1999, considerandos",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.1 Resolução CFP 01/1999 (orientação sexual)",
+   "stem": "Uma psicóloga organizacional afirma que a Resolução CFP nº 01/1999 não se aplica ao seu trabalho, por tratar apenas da clínica. Considerando o texto da resolução, a afirmação está",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "correta, pois a resolução se dirige apenas aos psicólogos que realizam psicoterapia com pessoas homossexuais.",
+     "explanation": "O texto não restringe a resolução à psicoterapia."
+    },
+    {
+     "key": "B",
+     "text": "correta, pois a resolução trata somente de pronunciamentos dos psicólogos nos meios de comunicação de massa.",
+     "explanation": "Os pronunciamentos são apenas o objeto do art. 4º."
+    },
+    {
+     "key": "C",
+     "text": "incorreta, pois a resolução reconhece que o psicólogo, independentemente da área em que atue, é frequentemente interpelado por questões ligadas à sexualidade.",
+     "explanation": "Correta: é o fundamento expresso no segundo considerando."
+    },
+    {
+     "key": "D",
+     "text": "incorreta, pois a resolução se aplica apenas aos psicólogos que atuam em serviços da rede pública de saúde.",
+     "explanation": "O texto não restringe a aplicação à saúde pública."
+    },
+    {
+     "key": "E",
+     "text": "correta, pois a resolução foi substituída, na área organizacional, por norma específica sobre diversidade no trabalho.",
+     "explanation": "Não há essa substituição; a resolução segue citada como vigente, por exemplo na Res. 6/2019."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Os considerandos afirmam que o psicólogo, independentemente da área em que atue, é frequentemente interpelado por questões ligadas à sexualidade.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 01/1999, considerandos. Trecho conferido no texto-fonte: \"independentemente da área em que esteja atuando, o psicólogo é freqüentemente\". Texto lido no PDF oficial do CFP. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r18-03",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 18/2002, art. 1º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.2 Resolução CFP 18/2002 (preconceito e discriminação racial)",
+   "stem": "Segundo o art. 1º da Resolução CFP nº 18/2002, os psicólogos atuarão segundo os princípios éticos da profissão, contribuindo com o seu conhecimento para uma reflexão sobre o preconceito e para",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a mediação de conflitos raciais nas organizações.",
+     "explanation": "A mediação não é o objeto do art. 1º."
+    },
+    {
+     "key": "B",
+     "text": "a definição de cotas raciais em processos seletivos.",
+     "explanation": "A resolução não trata de cotas."
+    },
+    {
+     "key": "C",
+     "text": "a eliminação do racismo.",
+     "explanation": "Correta: é o texto do art. 1º."
+    },
+    {
+     "key": "D",
+     "text": "a classificação étnico-racial das pessoas atendidas.",
+     "explanation": "Essa finalidade não consta da resolução."
+    },
+    {
+     "key": "E",
+     "text": "a neutralidade profissional diante de denúncias de discriminação.",
+     "explanation": "O art. 3º veda conivência e omissão perante o racismo."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 1º orienta a atuação para a reflexão sobre o preconceito e para a eliminação do racismo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 18/2002, art. 1º. Trecho conferido no texto-fonte: \"para uma reflexão sobre o preconceito e para a eliminação do racismo\". Texto lido no PDF oficial do CFP. Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r18-04",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 18/2002, arts. 2º e 5º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.2 Resolução CFP 18/2002 (preconceito e discriminação racial)",
+   "stem": "Uma empresa pede à psicóloga responsável pelo recrutamento que adote critérios de \"boa aparência\" que, na prática, excluem candidatos negros. À luz da Resolução CFP nº 18/2002, a psicóloga",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "poderá adotar os critérios, desde que registrados no edital do processo.",
+     "explanation": "A publicidade do critério não afasta a vedação dos arts. 2º e 5º."
+    },
+    {
+     "key": "B",
+     "text": "não colaborará com serviço de natureza discriminatória ou que contribua para culturas institucionais discriminatórias.",
+     "explanation": "Correta: art. 5º, combinado com o art. 2º."
+    },
+    {
+     "key": "C",
+     "text": "poderá adotar os critérios, por se tratar de decisão de gestão da empresa, desde que aplicados igualmente a todos os candidatos inscritos.",
+     "explanation": "A decisão da empresa não autoriza ação que favoreça discriminação racial."
+    },
+    {
+     "key": "D",
+     "text": "deverá adotar os critérios e registrar sua discordância em relatório.",
+     "explanation": "A resolução veda a colaboração, não apenas recomenda registrar discordância."
+    },
+    {
+     "key": "E",
+     "text": "poderá adotar os critérios apenas para cargos de atendimento ao público.",
+     "explanation": "Não há exceção por tipo de cargo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 2º veda ação que favoreça discriminação racial, e o art. 5º veda colaborar com serviços discriminatórios ou que contribuam para culturas institucionais discriminatórias.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 18/2002, arts. 2º e 5º. Trecho conferido no texto-fonte: \"não colaborarão com eventos ou serviços que sejam de natureza discriminatória ou contribuam para o desenvolvimento de culturas institucionais discriminatórias\". Texto lido no PDF oficial do CFP. Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r18-05",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 18/2002, art. 6º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.2 Resolução CFP 18/2002 (preconceito e discriminação racial)",
+   "stem": "Quanto aos pronunciamentos públicos, a Resolução CFP nº 18/2002 estabelece que os psicólogos",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "não se pronunciarão nem participarão de pronunciamentos públicos nos meios de comunicação de massa de modo a reforçar o preconceito racial.",
+     "explanation": "Correta: art. 6º."
+    },
+    {
+     "key": "B",
+     "text": "não poderão abordar o tema do racismo nos meios de comunicação de massa, por se tratar de matéria criminal.",
+     "explanation": "O art. 6º veda o pronunciamento que reforce o preconceito, não o tema em si."
+    },
+    {
+     "key": "C",
+     "text": "só poderão falar sobre racismo na mídia com autorização prévia do Conselho Regional de Psicologia.",
+     "explanation": "A resolução não exige autorização."
+    },
+    {
+     "key": "D",
+     "text": "deverão manter neutralidade sobre relações raciais em entrevistas, limitando-se a aspectos técnicos.",
+     "explanation": "O art. 1º prescreve contribuição para a eliminação do racismo, não neutralidade."
+    },
+    {
+     "key": "E",
+     "text": "poderão divulgar resultados de testes por grupo racial, para fins informativos, em programas de grande audiência.",
+     "explanation": "A resolução veda o uso de instrumentos para reforçar estereótipos (art. 4º); não autoriza essa divulgação."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 6º veda pronunciamentos públicos, nos meios de comunicação de massa, que reforcem o preconceito racial.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 18/2002, art. 6º. Trecho conferido no texto-fonte: \"não se pronunciarão nem participarão de pronunciamentos públicos nos meios de comunicação de massa de modo a reforçar o preconceito racial\". Texto lido no PDF oficial do CFP. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r18-06",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 18/2002, considerandos",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.2 Resolução CFP 18/2002 (preconceito e discriminação racial)",
+   "stem": "Entre os considerandos da Resolução CFP nº 18/2002, afirma-se que o racismo é crime",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "afiançável e prescritível, conforme a Lei nº 7.716/1989.",
+     "explanation": "O considerando afirma o oposto; a Lei 7.716/1989 é citada como a que define os crimes de preconceito."
+    },
+    {
+     "key": "B",
+     "text": "inafiançável e imprescritível, conforme o art. 5º, XLII, da Constituição Federal.",
+     "explanation": "Correta: é o texto do considerando."
+    },
+    {
+     "key": "C",
+     "text": "inafiançável, mas prescritível, conforme a Declaração de Durban.",
+     "explanation": "O texto afirma a imprescritibilidade, com base na Constituição."
+    },
+    {
+     "key": "D",
+     "text": "imprescritível, mas afiançável, conforme a Declaração Universal dos Direitos Humanos.",
+     "explanation": "O texto afirma a inafiançabilidade, com base na Constituição."
+    },
+    {
+     "key": "E",
+     "text": "de menor potencial ofensivo, conforme a Convenção sobre a Eliminação da Discriminação Racial.",
+     "explanation": "Nada no texto sustenta essa classificação."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O considerando afirma que o racismo é crime inafiançável e imprescritível (CF, art. 5º, XLII).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 18/2002, considerandos. Trecho conferido no texto-fonte: \"o racismo é crime inafiançável e imprescritível conforme o art. 5\". Texto lido no PDF oficial do CFP. Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r8-05",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2020, art. 3º, § 1º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.3 Resolução CFP 8/2020 (violências de gênero)",
+   "stem": "Nos termos da Resolução CFP nº 8/2020, a psicóloga e o psicólogo colaborarão para criar, articular e fortalecer, no respectivo território de exercício profissional,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "delegacias especializadas de atendimento à mulher.",
+     "explanation": "A criação de delegacias é atribuição do poder público, não da psicóloga."
+    },
+    {
+     "key": "B",
+     "text": "comissões de ética para julgar autores de violência de gênero no âmbito das empresas e dos serviços públicos.",
+     "explanation": "A resolução não prevê comissões de julgamento."
+    },
+    {
+     "key": "C",
+     "text": "cadastros públicos de autores de violência de gênero.",
+     "explanation": "Não há essa previsão; o art. 5º, III, restringe a indicação de dados sigilosos."
+    },
+    {
+     "key": "D",
+     "text": "redes de apoio social, familiar e de enfrentamento à violência de gênero.",
+     "explanation": "Correta: art. 3º, § 1º."
+    },
+    {
+     "key": "E",
+     "text": "protocolos de avaliação psicológica obrigatória das vítimas.",
+     "explanation": "A resolução não cria avaliação obrigatória e pede não intensificar patologização (art. 4º, I)."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O art. 3º, § 1º, prevê colaborar para criar, articular e fortalecer redes de apoio social, familiar e de enfrentamento à violência de gênero.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 8/2020, art. 3º, § 1º. Trecho conferido no texto-fonte: \"colaborarão para criar, articular e fortalecer redes de apoio social, familiar e de enfrentamento à violência de gênero\". Texto lido na reprodução do DOU de 20/07/2020 mantida pela ABMES. Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r8-06",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2020, art. 5º, III",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.3 Resolução CFP 8/2020 (violências de gênero)",
+   "stem": "Em relação a dados sigilosos de pessoa que sofreu violência de gênero, a Resolução CFP nº 8/2020 determina que a psicóloga os indique",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "em qualquer documento solicitado pelo empregador da pessoa atendida.",
+     "explanation": "O art. 5º, III, restringe a indicação a sistemas de políticas públicas que assegurem o sigilo."
+    },
+    {
+     "key": "B",
+     "text": "apenas em formulários, sistemas e equipamentos de políticas públicas correspondentes que assegurem o sigilo das informações.",
+     "explanation": "Correta: art. 5º, III."
+    },
+    {
+     "key": "C",
+     "text": "somente em boletim de ocorrência registrado pela própria psicóloga.",
+     "explanation": "A resolução não atribui à psicóloga o registro de ocorrência."
+    },
+    {
+     "key": "D",
+     "text": "em relatórios dirigidos aos familiares da pessoa atendida, para mobilizar a rede de apoio social e familiar prevista na resolução.",
+     "explanation": "O art. 5º, III, restringe a indicação de dados sigilosos a formulários, sistemas e equipamentos de políticas públicas que assegurem o sigilo; relatório a familiares não está entre eles."
+    },
+    {
+     "key": "E",
+     "text": "em qualquer meio, desde que com autorização verbal da pessoa atendida.",
+     "explanation": "O critério do inciso III é o sistema que assegure o sigilo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 5º, III, manda indicar dados sigilosos apenas em formulários, sistemas e equipamentos de políticas públicas que assegurem o sigilo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 8/2020, art. 5º, III. Trecho conferido no texto-fonte: \"indicar dados sigilosos apenas em formulários, sistemas e equipamentos de políticas públicas correspondentes que assegurem o sigilo de informações\". Texto lido na reprodução do DOU de 20/07/2020 mantida pela ABMES. Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r8-07",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2020, art. 5º, IV",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.3 Resolução CFP 8/2020 (violências de gênero)",
+   "stem": "Ao prestar explicações judiciais em casos relacionados à violência de gênero, a psicóloga deverá, conforme a Resolução CFP nº 8/2020,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "entregar ao juízo a transcrição literal dos atendimentos.",
+     "explanation": "A Res. 6/2019 desaconselha descrições literais, salvo justificativa técnica (art. 6º, § 5º)."
+    },
+    {
+     "key": "B",
+     "text": "limitar-se a depoimento oral, vedada a apresentação de qualquer documento escrito, para preservar o sigilo da pessoa atendida.",
+     "explanation": "O inciso IV remete justamente ao padrão de documentos escritos."
+    },
+    {
+     "key": "C",
+     "text": "emitir laudo pericial com base na Resolução CFP nº 31/2022.",
+     "explanation": "O inciso IV remete à Resolução de documentos, não à de avaliação psicológica."
+    },
+    {
+     "key": "D",
+     "text": "observar o padrão de documentos psicológicos estabelecido pela Resolução CFP nº 6/2019, conforme o caso.",
+     "explanation": "Correta: art. 5º, IV."
+    },
+    {
+     "key": "E",
+     "text": "solicitar autorização prévia do Conselho Federal de Psicologia.",
+     "explanation": "Não há essa exigência."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O art. 5º, IV, remete as explicações judiciais ao padrão de documentos psicológicos da Resolução CFP 6/2019.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 8/2020, art. 5º, IV. Trecho conferido no texto-fonte: \"prestar explicações judiciais mediante padrão de documentos psicológicos estabelecidos pela Resolução CFP\". Texto lido na reprodução do DOU de 20/07/2020 mantida pela ABMES. Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r8-08",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2020, art. 4º, II e VI",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.3 Resolução CFP 8/2020 (violências de gênero)",
+   "stem": "Em relação à mulher e à pessoa com expressões não binárias de gênero, a Resolução CFP nº 8/2020 estabelece que a psicóloga e o psicólogo contribuirão para",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "encaminhar todas as vítimas para avaliação psiquiátrica e para acompanhamento medicamentoso, quando necessário.",
+     "explanation": "O art. 4º, I, pede não intensificar medicalização e patologização."
+    },
+    {
+     "key": "B",
+     "text": "priorizar a preservação do vínculo familiar sobre a autonomia delas, sobretudo quando houver filhos menores.",
+     "explanation": "O art. 4º, VI, pede não prejudicar a autonomia delas."
+    },
+    {
+     "key": "C",
+     "text": "não usar instrumentos, métodos e técnicas psicológicas que criem, mantenham ou acentuem estereótipos, e não prejudicar a autonomia delas.",
+     "explanation": "Correta: art. 4º, II e VI."
+    },
+    {
+     "key": "D",
+     "text": "decidir por elas a conveniência de denunciar o autor da violência, quando estiverem emocionalmente fragilizadas.",
+     "explanation": "Decidir por elas contraria o art. 4º, VI."
+    },
+    {
+     "key": "E",
+     "text": "aplicar testes específicos para identificar vulnerabilidade à violência e registrar o resultado em prontuário.",
+     "explanation": "Não há essa previsão; o art. 4º, II, trata de não usar instrumentos que reforcem estereótipos."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 4º lista o que a psicóloga contribuirá para não fazer, incluindo usar instrumentos que criem estereótipos (II) e prejudicar a autonomia delas (VI).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 8/2020, art. 4º, II e VI. Trecho conferido no texto-fonte: \"não usar instrumentos, métodos, técnicas psicológicas que criem, mantenham, acentuem estereótipos\"; \"não prejudicar a autonomia delas\". Texto lido na reprodução do DOU de 20/07/2020 mantida pela ABMES. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r8-09",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2020, arts. 1º e 2º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.3 Resolução CFP 8/2020 (violências de gênero)",
+   "stem": "Quanto ao objeto e à finalidade, a Resolução CFP nº 8/2020",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "regulamenta apenas o atendimento a mulheres cisgênero vítimas de violência doméstica, nos termos da Lei Maria da Penha.",
+     "explanation": "O art. 3º abrange mulher cisgênero, transexual ou travesti e pessoas com expressões não binárias."
+    },
+    {
+     "key": "B",
+     "text": "disciplina a avaliação psicológica de autores de violência para fins judiciais, vedando seu acompanhamento terapêutico.",
+     "explanation": "Esse não é o objeto definido no art. 1º."
+    },
+    {
+     "key": "C",
+     "text": "cria protocolo obrigatório de notificação compulsória por psicólogos e dispensa o sigilo nos casos de violência de gênero.",
+     "explanation": "A resolução menciona notificações compulsórias (art. 5º), mas não cria protocolo próprio."
+    },
+    {
+     "key": "D",
+     "text": "regulamenta o exercício profissional ante as violências de gênero, excluídas as ações com autores de violência.",
+     "explanation": "O art. 3º, § 2º, prevê considerar ações com autores de violência."
+    },
+    {
+     "key": "E",
+     "text": "regulamenta o exercício profissional ante as violências de gênero, sobretudo contra a mulher, e prevê contribuir para eliminar todas as formas de violência de gênero.",
+     "explanation": "Correta: arts. 1º e 2º."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 1º define o objeto (violências de gênero, sobretudo contra a mulher) e o art. 2º a finalidade de contribuir para eliminar todas as suas formas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 8/2020, arts. 1º e 2º. Trecho conferido no texto-fonte: \"ante as violências de gênero, sobretudo contra a mulher\"; \"contribuirão para eliminar todas as formas de violência de gênero\". Texto lido na reprodução do DOU de 20/07/2020 mantida pela ABMES. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r6-08",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 8º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "Constituem modalidades de documentos psicológicos, segundo o art. 8º da Resolução CFP nº 6/2019,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "declaração, atestado psicológico, prontuário, laudo psicológico e parecer psicológico.",
+     "explanation": "Prontuário é registro documental (Res. 1/2009), não modalidade do art. 8º."
+    },
+    {
+     "key": "B",
+     "text": "atestado psicológico, relatório psicológico, laudo psicológico, parecer psicológico e Atestado de Saúde Ocupacional.",
+     "explanation": "O ASO é documento médico da NR-7."
+    },
+    {
+     "key": "C",
+     "text": "declaração, atestado psicológico, relatório (psicológico ou multiprofissional), laudo psicológico e parecer psicológico.",
+     "explanation": "Correta: é a lista do art. 8º."
+    },
+    {
+     "key": "D",
+     "text": "declaração, certificado de aptidão, relatório psicológico, laudo psicológico e perfil psicológico.",
+     "explanation": "Certificado de aptidão e perfil psicológico não são modalidades do art. 8º."
+    },
+    {
+     "key": "E",
+     "text": "declaração, atestado psicológico, relatório psicológico, laudo psicológico e protocolo de teste.",
+     "explanation": "A versão comentada lembra que protocolos de testes não são documentos entregues às pessoas atendidas."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 8º prevê declaração, atestado psicológico, relatório (psicológico e multiprofissional), laudo psicológico e parecer psicológico.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 8º. Trecho conferido no texto-fonte: \"Constituem modalidades de documentos psicológicos\"; \"Relatório: a) Psicológico; b) Multiprofissional; IV - Laudo Psicológico; V - Parecer Psicológico\". Texto lido na versão comentada publicada pelo CFP (parte normativa). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r6-09",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 10, caput, § 1º e § 2º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "Após processo de avaliação psicológica, a psicóloga precisa certificar a condição psicológica de um empregado para justificar suas faltas ao trabalho. Conforme a Resolução CFP nº 6/2019, o documento adequado é o(a)",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "declaração, que registra o comparecimento e os sintomas apresentados durante o processo de avaliação.",
+     "explanation": "Na declaração é vedado registrar sintomas, situações ou estados psicológicos (art. 9º, § 1º)."
+    },
+    {
+     "key": "B",
+     "text": "parecer psicológico, que responde a uma questão-problema do campo psicológico apresentada pela empresa.",
+     "explanation": "O parecer não decorre de avaliação psicológica (art. 14, IV)."
+    },
+    {
+     "key": "C",
+     "text": "relatório multiprofissional, elaborado em conjunto com o médico do trabalho, que nele indica o afastamento e o código da CID correspondente.",
+     "explanation": "O relatório multiprofissional comunica atuação em contexto multiprofissional; não é o documento que certifica condição para justificar faltas."
+    },
+    {
+     "key": "D",
+     "text": "atestado psicológico, que certifica, com fundamento em diagnóstico psicológico, uma situação, estado ou funcionamento psicológico.",
+     "explanation": "Correta: art. 10, caput e § 1º, I."
+    },
+    {
+     "key": "E",
+     "text": "declaração, desde que acompanhada do código da CID correspondente ao quadro identificado na avaliação.",
+     "explanation": "A declaração não admite registro de estado psicológico; a CID é faculdade prevista para o atestado (art. 10, § 6º, V)."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O atestado certifica, com fundamento em diagnóstico psicológico, a condição psicológica, inclusive para justificar faltas, e resulta de avaliação psicológica.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 10, caput, § 1º e § 2º. Trecho conferido no texto-fonte: \"certifica, com fundamento em um diagnóstico psicológico, uma determinada situação, estado ou funcionamento psicológico\"; \"Justificar faltas e impedimentos\"; \"o atestado psicológico resulta de uma avaliação psicológica\". Texto lido na versão comentada publicada pelo CFP (parte normativa). Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito. Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r6-10",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 11, § 1º, I",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "De acordo com a Resolução CFP nº 6/2019, o relatório psicológico é composto dos seguintes itens:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "identificação, descrição da demanda, procedimento, análise e conclusão.",
+     "explanation": "Correta: art. 11, § 1º, I."
+    },
+    {
+     "key": "B",
+     "text": "identificação, descrição da demanda, procedimento, análise, conclusão e referências.",
+     "explanation": "Esses seis itens compõem o laudo (art. 13, § 1º, I)."
+    },
+    {
+     "key": "C",
+     "text": "identificação, descrição da demanda, análise, conclusão e referências.",
+     "explanation": "Esses cinco itens compõem o parecer (art. 14, § 1º, I)."
+    },
+    {
+     "key": "D",
+     "text": "identificação, hipótese diagnóstica, prognóstico, conclusão e referências.",
+     "explanation": "Hipótese diagnóstica e prognóstico são conteúdos do laudo, e o relatório não tem finalidade diagnóstica."
+    },
+    {
+     "key": "E",
+     "text": "título, nome da pessoa atendida, finalidade e informações sobre local, dias e horários.",
+     "explanation": "Essa é a estrutura da declaração (art. 9º, § 2º)."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O relatório psicológico tem cinco itens: identificação, descrição da demanda, procedimento, análise e conclusão.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 11, § 1º, I. Trecho conferido no texto-fonte: \"O relatório psicológico é composto de cinco itens: a) Identificação; b) Descrição da demanda; c) Procedimento; d) Análise; e) Conclusão\". Texto lido na versão comentada publicada pelo CFP (parte normativa). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r6-11",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 14, § 1º, I, e § 6º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "Quanto à estrutura, o parecer psicológico, segundo a Resolução CFP nº 6/2019,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "contém os mesmos seis itens do laudo psicológico.",
+     "explanation": "O laudo tem seis itens, incluindo procedimento; o parecer tem cinco."
+    },
+    {
+     "key": "B",
+     "text": "dispensa referências, por ser uma resposta a consulta.",
+     "explanation": "O § 6º torna obrigatória a informação das referências."
+    },
+    {
+     "key": "C",
+     "text": "tem a mesma estrutura da declaração, em texto corrido.",
+     "explanation": "A declaração tem estrutura própria (art. 9º, § 2º)."
+    },
+    {
+     "key": "D",
+     "text": "contém o item procedimento, que descreve a avaliação psicológica realizada.",
+     "explanation": "O parecer não resulta de avaliação ou intervenção psicológica (art. 14, IV) e não tem esse item."
+    },
+    {
+     "key": "E",
+     "text": "não contém o item procedimento e exige a informação das referências utilizadas.",
+     "explanation": "Correta: art. 14, § 1º, I (identificação, descrição da demanda, análise, conclusão e referências) e § 6º."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O parecer tem cinco itens (identificação, descrição da demanda, análise, conclusão e referências), sem procedimento, e as referências são obrigatórias.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 14, § 1º, I, e § 6º. Trecho conferido no texto-fonte: \"O Parecer é composto de cinco itens\"; \"Na elaboração de pareceres psicológicos, é obrigatória a informação das fontes científicas\". Texto lido na versão comentada publicada pelo CFP (parte normativa). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r6-12",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 15, § 1º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "Uma psicóloga atua no serviço de saúde de uma empresa. Segundo a Resolução CFP nº 6/2019, a responsabilidade pela guarda dos documentos e do material que os fundamentou cabe",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "exclusivamente à empresa, proprietária do material.",
+     "explanation": "A norma atribui a responsabilidade à psicóloga em conjunto com a instituição."
+    },
+    {
+     "key": "B",
+     "text": "exclusivamente à psicóloga, que deve levar o material ao se desligar.",
+     "explanation": "A responsabilidade é conjunta; na interrupção do trabalho aplica-se o art. 15 do Código (repasse ou lacre)."
+    },
+    {
+     "key": "C",
+     "text": "ao Conselho Regional de Psicologia, que mantém o arquivo central.",
+     "explanation": "O CRP só providencia a destinação na extinção do serviço (Código, art. 15, § 2º)."
+    },
+    {
+     "key": "D",
+     "text": "à psicóloga, em conjunto com a instituição em que ocorreu a prestação dos serviços.",
+     "explanation": "Correta: art. 15, § 1º."
+    },
+    {
+     "key": "E",
+     "text": "ao médico responsável pelo PCMSO, junto com o prontuário médico.",
+     "explanation": "A guarda do documento psicológico não é transferida ao médico."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O art. 15, § 1º, atribui a guarda à psicóloga em conjunto com a instituição em que o serviço foi prestado.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 15, § 1º. Trecho conferido no texto-fonte: \"A responsabilidade pela guarda do material cabe à(ao) psicóloga(o), em conjunto com a instituição em que ocorreu a prestação dos serviços profissionais\". Texto lido na versão comentada publicada pelo CFP (parte normativa). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r6-13",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 10, §§ 3º e 4º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "Conforme a Resolução CFP nº 6/2019, os Conselhos Regionais de Psicologia podem solicitar à psicóloga a apresentação da fundamentação técnico-científica de um atestado psicológico no prazo de até",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "dois anos.",
+     "explanation": "O prazo previsto é de até cinco anos."
+    },
+    {
+     "key": "B",
+     "text": "dez anos.",
+     "explanation": "O prazo previsto é de até cinco anos."
+    },
+    {
+     "key": "C",
+     "text": "vinte anos.",
+     "explanation": "Vinte anos é o prazo mínimo de guarda do prontuário médico na NR-7 (item 7.6.1.1)."
+    },
+    {
+     "key": "D",
+     "text": "noventa dias.",
+     "explanation": "Noventa dias é o prazo de vigência da resolução após a publicação (art. 19)."
+    },
+    {
+     "key": "E",
+     "text": "cinco anos.",
+     "explanation": "Correta: art. 10, § 4º."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 10, § 4º, permite aos CRPs pedir a fundamentação do atestado em até cinco anos; o § 3º exige que ela esteja no registro documental.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 10, §§ 3º e 4º. Trecho conferido no texto-fonte: \"Os Conselhos Regionais podem, no prazo de até cinco anos, solicitar\". Texto lido na versão comentada publicada pelo CFP (parte normativa). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r31-07",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, art. 7º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "Segundo a Resolução CFP nº 31/2022, os testes psicológicos têm como objetivos",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "diagnosticar transtornos mentais segundo a CID.",
+     "explanation": "O art. 7º não reduz os testes a diagnóstico nosológico."
+    },
+    {
+     "key": "B",
+     "text": "substituir a entrevista psicológica e a anamnese na tomada de decisão, por serem mais objetivos.",
+     "explanation": "Testes e entrevistas são fontes fundamentais alternativas ou combinadas (art. 3º)."
+    },
+    {
+     "key": "C",
+     "text": "identificar, descrever, qualificar e mensurar características psicológicas.",
+     "explanation": "Correta: art. 7º."
+    },
+    {
+     "key": "D",
+     "text": "classificar candidatos em ordem de adequação ao cargo.",
+     "explanation": "Essa não é a definição do art. 7º."
+    },
+    {
+     "key": "E",
+     "text": "prover informações exclusivamente para fins de pesquisa.",
+     "explanation": "Os testes destinam-se ao uso profissional (art. 8º)."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 7º define os objetivos dos testes: identificar, descrever, qualificar e mensurar características psicológicas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, art. 7º. Trecho conferido no texto-fonte: \"têm como objetivos identificar, descrever, qualificar e mensurar características psicológicas\". Texto lido na cópia do DOU de 16/12/2022 mantida pela BVS da SES-SP. Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r31-08",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, art. 10",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "De acordo com a Resolução CFP nº 31/2022, os testes psicológicos abarcam os seguintes instrumentos:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "testes, escalas, inventários, questionários e métodos projetivos e expressivos.",
+     "explanation": "Correta: art. 10."
+    },
+    {
+     "key": "B",
+     "text": "testes, entrevistas psicológicas, anamneses e protocolos de observação.",
+     "explanation": "Entrevistas, anamneses e protocolos de observação são fontes fundamentais (art. 3º), mas não estão entre os instrumentos do art. 10."
+    },
+    {
+     "key": "C",
+     "text": "testes, documentos técnicos e relatórios de equipes multiprofissionais.",
+     "explanation": "Documentos técnicos e relatórios de equipe são fontes complementares (art. 4º, II)."
+    },
+    {
+     "key": "D",
+     "text": "apenas testes de inteligência e de personalidade com normas brasileiras.",
+     "explanation": "O art. 10 é mais amplo e não se limita a esses tipos."
+    },
+    {
+     "key": "E",
+     "text": "testes, escalas e técnicas não psicológicas com respaldo científico.",
+     "explanation": "Técnicas não psicológicas são fontes complementares (art. 4º, I)."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 10 lista testes, escalas, inventários, questionários e métodos projetivos e expressivos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, art. 10. Trecho conferido no texto-fonte: \"Os testes psicológicos abarcam os seguintes instrumentos\"; \"V - métodos projetivos e expressivos\". Texto lido na cópia do DOU de 16/12/2022 mantida pela BVS da SES-SP. Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r31-09",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, art. 5º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "Quanto à escolha dos métodos, técnicas e instrumentos empregados na avaliação psicológica, a Resolução CFP nº 31/2022 estabelece que a psicóloga",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "deve seguir a bateria definida pela organização contratante.",
+     "explanation": "A prerrogativa de decidir é da psicóloga (art. 5º)."
+    },
+    {
+     "key": "B",
+     "text": "deve submeter previamente a escolha dos instrumentos à Comissão Consultiva em Avaliação Psicológica do Conselho Federal de Psicologia.",
+     "explanation": "A CCAP aprecia testes e dúvidas de classificação, não a escolha de cada avaliação."
+    },
+    {
+     "key": "C",
+     "text": "tem a prerrogativa de decidir, desde que fundamentada na literatura científica psicológica e nas normas vigentes do CFP.",
+     "explanation": "Correta: art. 5º."
+    },
+    {
+     "key": "D",
+     "text": "pode decidir livremente, dispensada fundamentação científica.",
+     "explanation": "O art. 5º exige fundamentação na literatura científica e nas normas do CFP."
+    },
+    {
+     "key": "E",
+     "text": "deve usar obrigatoriamente ao menos um teste psicológico em toda avaliação.",
+     "explanation": "O art. 3º usa \"e/ou\": o teste não é obrigatório em toda avaliação."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 5º dá à psicóloga a prerrogativa de decidir os métodos, desde que fundamentados na literatura científica e nas normas do CFP.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, art. 5º. Trecho conferido no texto-fonte: \"têm a prerrogativa de decidir quais são os métodos, técnicas e instrumentos empregados na Avaliação Psicológica, desde que fundamentados na literatura científica psicológica\". Texto lido na cópia do DOU de 16/12/2022 mantida pela BVS da SES-SP. Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r31-10",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, arts. 19, II, e 26, II",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "Na tramitação de um teste psicológico submetido ao SATEPSI para avaliação, a Resolução CFP nº 31/2022 prevê a designação de",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "um parecerista ad hoc para análise do teste.",
+     "explanation": "Um parecerista é o previsto para estudos de equivalência (art. 26, II) e de atualização de validade (art. 36, II)."
+    },
+    {
+     "key": "B",
+     "text": "dois pareceristas ad hoc para análise do teste.",
+     "explanation": "Correta: art. 19, II."
+    },
+    {
+     "key": "C",
+     "text": "três pareceristas ad hoc, um de cada região do país.",
+     "explanation": "Não há essa previsão."
+    },
+    {
+     "key": "D",
+     "text": "uma comissão de cinco conselheiros do Plenário do CFP.",
+     "explanation": "O Plenário decide ao final, mas a análise inicial é feita por pareceristas ad hoc."
+    },
+    {
+     "key": "E",
+     "text": "nenhum parecerista, cabendo a análise direta à CCAP.",
+     "explanation": "A CCAP analisa os pareceres emitidos (art. 19, IV), após a designação dos pareceristas."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 19, II, prevê dois pareceristas ad hoc para o teste; estudos de equivalência têm um parecerista (art. 26, II).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, arts. 19, II, e 26, II. Trecho conferido no texto-fonte: \"designação de 2 (dois) pareceristas \"ad hoc\" para análise do teste psicológico\"; \"designação de 1 (um) parecerista \"ad hoc\" para análise dos estudos de equivalência\". Texto lido na cópia do DOU de 16/12/2022 mantida pela BVS da SES-SP. Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r31-11",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, art. 15, § 1º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "Para que um teste psicológico estrangeiro, adaptado para uso no Brasil, seja reconhecido, a Resolução CFP nº 31/2022 exige que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tenha sido aprovado no país de origem, o que dispensa novos estudos de validade, precisão e normas no Brasil.",
+     "explanation": "O § 1º exige estudos com amostras brasileiras."
+    },
+    {
+     "key": "B",
+     "text": "seja traduzido por tradutor juramentado e revisado por psicóloga, sem necessidade de novas normas.",
+     "explanation": "A tradução não supre os estudos exigidos."
+    },
+    {
+     "key": "C",
+     "text": "apresente apenas estudos de precisão realizados no exterior, desde que com amostras de língua portuguesa.",
+     "explanation": "O § 1º exige estudos com amostras brasileiras para todos os requisitos."
+    },
+    {
+     "key": "D",
+     "text": "atenda aos requisitos mínimos e apresente, no manual técnico, estudos científicos realizados com amostras da população brasileira.",
+     "explanation": "Correta: art. 15, § 1º."
+    },
+    {
+     "key": "E",
+     "text": "seja aplicado exclusivamente em formato informatizado, com correção automática aprovada pela CCAP.",
+     "explanation": "Não há essa exigência."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O art. 15, § 1º, exige que testes estrangeiros adaptados atendam aos requisitos e apresentem estudos com amostras da população brasileira.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, art. 15, § 1º. Trecho conferido no texto-fonte: \"estudos científicos realizados com amostras da população brasileira para todos os requisitos apontados\". Texto lido na cópia do DOU de 16/12/2022 mantida pela BVS da SES-SP. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r31-12",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, arts. 40 e 41",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "No capítulo sobre justiça e proteção dos direitos humanos, a Resolução CFP nº 31/2022 estabelece que as psicólogas e os psicólogos",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "poderão usar testes com parecer desfavorável no SATEPSI, desde que em contexto de defesa de direitos humanos.",
+     "explanation": "O uso de teste desfavorável é falta ética, salvo pesquisa e ensino (art. 12)."
+    },
+    {
+     "key": "B",
+     "text": "não poderão elaborar, validar, adaptar, normatizar ou comercializar instrumentos psicológicos para criar, manter ou reforçar preconceitos, estigmas ou estereótipos.",
+     "explanation": "Correta: art. 41."
+    },
+    {
+     "key": "C",
+     "text": "deverão evitar estudos e pesquisas que considerem identidade de gênero e orientação sexual, por serem temas de foro íntimo das pessoas avaliadas e alheios à ciência psicológica.",
+     "explanation": "O art. 42 manda considerar esses aspectos como construções sociais, históricas e culturais."
+    },
+    {
+     "key": "D",
+     "text": "poderão induzir convicções morais durante a aplicação, quando o manual técnico do teste assim exigir.",
+     "explanation": "O art. 40, II, veda induzir a convicções políticas, filosóficas, morais, ideológicas e religiosas."
+    },
+    {
+     "key": "E",
+     "text": "deverão submeter cada aplicação de teste a parecer prévio da comissão de direitos humanos do CRP.",
+     "explanation": "Não há essa previsão."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 41 veda elaborar, validar, adaptar ou comercializar instrumentos para criar, manter ou reforçar preconceitos, estigmas ou estereótipos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, arts. 40 e 41. Trecho conferido no texto-fonte: \"não poderão elaborar, validar, traduzir, adaptar, normatizar, comercializar e fomentar instrumentos ou técnicas psicológicas, para criar, manter ou reforçar preconceitos\". Texto lido na cópia do DOU de 16/12/2022 mantida pela BVS da SES-SP. Revisão independente: corrigida (Pista involuntária: a correta (195 caracteres) tinha mais que o dobro das demais. Distratores alongados e correta encurtada (verbos do art. 41 resumidos, sem mudar o sentido); gabarito mantido. Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r14-06",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 14/2023, art. 1º, §§ 1º e 2º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+   "stem": "Segundo a Resolução CFP nº 14/2023, a avaliação de riscos psicossociais relacionados ao trabalho",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "pode ser realizada em quaisquer contextos de trabalho, integrando projetos e ações no âmbito das condições de saúde e segurança no trabalho.",
+     "explanation": "Correta: art. 1º, § 2º."
+    },
+    {
+     "key": "B",
+     "text": "restringe-se às organizações obrigadas a constituir SESMT, conforme o dimensionamento previsto na NR-4.",
+     "explanation": "O § 2º admite quaisquer contextos de trabalho."
+    },
+    {
+     "key": "C",
+     "text": "só pode ser realizada por determinação do Ministério do Trabalho, em ação fiscal ou termo de ajuste de conduta.",
+     "explanation": "O § 1º prevê atendimento às NRs, e o § 2º admite outros contextos."
+    },
+    {
+     "key": "D",
+     "text": "limita-se aos exames admissionais e demissionais, sendo vedada nos exames periódicos e de retorno ao trabalho.",
+     "explanation": "O art. 5º menciona também periódicos, retorno, mudança de função, dentre outros."
+    },
+    {
+     "key": "E",
+     "text": "dispensa a observância das normas regulamentadoras, por ser regulada exclusivamente pelo Conselho Federal de Psicologia.",
+     "explanation": "O § 1º manda realizá-la em atendimento às NRs e demais normas governamentais."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 1º, § 1º, liga a avaliação às NRs e a normas governamentais, e o § 2º admite que seja feita em quaisquer contextos de trabalho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 14/2023, art. 1º, §§ 1º e 2º. Trecho conferido no texto-fonte: \"pode, inclusive, ser realizada em quaisquer contextos de trabalho, integrando projetos e ações no âmbito das condições de saúde e segurança no trabalho\". Texto lido na cópia do DOU de 30/06/2023 mantida pela BVS da SES-SP. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r14-07",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 14/2023, art. 2º, § 1º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+   "stem": "Na condução da avaliação de riscos psicossociais relacionados ao trabalho, a Resolução CFP nº 14/2023 determina que a psicóloga investigue e diagnostique, entre outros aspectos,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a orientação sexual e a religião das pessoas trabalhadoras, como fatores de proteção ao adoecimento.",
+     "explanation": "Não constam do art. 2º e violariam o Código (art. 2º, \"b\")."
+    },
+    {
+     "key": "B",
+     "text": "o histórico de doenças dos familiares das pessoas trabalhadoras, para fins de prognóstico ocupacional.",
+     "explanation": "Não consta do art. 2º, § 1º."
+    },
+    {
+     "key": "C",
+     "text": "o desempenho individual das pessoas trabalhadoras, para fins de promoção, remuneração e desligamento.",
+     "explanation": "A finalidade da avaliação é promover segurança, saúde e integridade (art. 1º)."
+    },
+    {
+     "key": "D",
+     "text": "apenas as características psicológicas das pessoas trabalhadoras, excluídos o ambiente e a gestão do trabalho.",
+     "explanation": "O inciso II inclui a atividade, o processo, o ambiente e a gestão do trabalho."
+    },
+    {
+     "key": "E",
+     "text": "as políticas, processos ou mecanismos de controle, prevenção e proteção à saúde, à segurança e à integridade da pessoa trabalhadora.",
+     "explanation": "Correta: art. 2º, § 1º, III."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 2º, § 1º, inclui características psicológicas ligadas às exigências (I), atividade, ambiente e gestão (II) e políticas e mecanismos de proteção (III).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 14/2023, art. 2º, § 1º. Trecho conferido no texto-fonte: \"as políticas, processos ou mecanismos de controle, prevenção e proteção à saúde, à segurança e à integridade da pessoa trabalhadora\". Texto lido na cópia do DOU de 30/06/2023 mantida pela BVS da SES-SP. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r14-08",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 14/2023, art. 2º, § 2º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+   "stem": "No caso de pessoas trabalhadoras com deficiência, a Resolução CFP nº 14/2023 estabelece que a avaliação de riscos psicossociais relacionados ao trabalho deverá",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "atestar a aptidão ou a inaptidão da pessoa trabalhadora com deficiência para a função que lhe foi designada.",
+     "explanation": "Aptidão para a função é registrada no ASO, ato médico (NR-7); o § 2º trata de barreiras."
+    },
+    {
+     "key": "B",
+     "text": "ser substituída por perícia médica do INSS, responsável pela caracterização da deficiência para fins laborais.",
+     "explanation": "Não há essa previsão."
+    },
+    {
+     "key": "C",
+     "text": "restringir-se à caracterização clínica da deficiência, com indicação do respectivo código da CID.",
+     "explanation": "O foco do § 2º são as barreiras do ambiente e dos meios de trabalho."
+    },
+    {
+     "key": "D",
+     "text": "ser dispensada quando houver laudo de deficiência válido, emitido por equipe multiprofissional e interdisciplinar.",
+     "explanation": "Não há dispensa prevista."
+    },
+    {
+     "key": "E",
+     "text": "identificar as possíveis barreiras e restrições do ambiente e dos meios de realização do trabalho à saúde e à funcionalidade da pessoa trabalhadora.",
+     "explanation": "Correta: art. 2º, § 2º."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 2º, § 2º, manda identificar barreiras e restrições do ambiente e dos meios de realização do trabalho para pessoas com deficiência.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 14/2023, art. 2º, § 2º. Trecho conferido no texto-fonte: \"deverá identificar as possíveis barreiras e restrições do ambiente e dos meios de realização do trabalho\". Texto lido na cópia do DOU de 30/06/2023 mantida pela BVS da SES-SP. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r14-09",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 14/2023, art. 5º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+   "stem": "Conforme a Resolução CFP nº 14/2023, a atuação da psicóloga na avaliação de riscos psicossociais, em atendimento às normas regulamentadoras, busca atender às necessidades dos exames",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "admissionais, demissionais, periódicos, de retorno ao trabalho e de mudança de atividade ou função, dentre outras.",
+     "explanation": "Correta: art. 5º."
+    },
+    {
+     "key": "B",
+     "text": "admissionais, exclusivamente, por se tratar de seleção de pessoal.",
+     "explanation": "O art. 5º menciona vários exames."
+    },
+    {
+     "key": "C",
+     "text": "periódicos, exclusivamente, para fins de vigilância epidemiológica.",
+     "explanation": "O art. 5º não se limita aos periódicos."
+    },
+    {
+     "key": "D",
+     "text": "de retorno ao trabalho, apenas após afastamento por doença ocupacional ou acidente do trabalho reconhecido pelo INSS com emissão de CAT.",
+     "explanation": "O art. 5º não traz essa restrição."
+    },
+    {
+     "key": "E",
+     "text": "de aptidão para atividades críticas, definidos pelo médico do trabalho.",
+     "explanation": "O art. 5º não se limita a atividades críticas."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 5º lista exames admissionais, demissionais, periódicos, de retorno ao trabalho e de mudança de atividade ou função, dentre outras.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 14/2023, art. 5º. Trecho conferido no texto-fonte: \"busca atender às necessidades dos exames admissionais, demissionais, periódicos, de retorno ao trabalho, na mudança de atividade ou função, dentre outras\". Texto lido na cópia do DOU de 30/06/2023 mantida pela BVS da SES-SP. Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-r14-10",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 14/2023, art. 7º, III, e art. 9º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+   "stem": "Entre as informações que os resultados da avaliação de riscos psicossociais relacionados ao trabalho devem assegurar, segundo a Resolução CFP nº 14/2023, estão as destinadas a",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "fundamentar a dispensa de trabalhadores considerados de risco.",
+     "explanation": "Essa finalidade não consta do art. 7º e contraria seu objetivo de prevenção."
+    },
+    {
+     "key": "B",
+     "text": "substituir o inventário de riscos do Programa de Gerenciamento de Riscos.",
+     "explanation": "O art. 7º, III, fala em subsidiar programas, não em substituí-los."
+    },
+    {
+     "key": "C",
+     "text": "classificar os trabalhadores segundo seu perfil de personalidade.",
+     "explanation": "Não consta do art. 7º."
+    },
+    {
+     "key": "D",
+     "text": "subsidiar o desenvolvimento e a implementação de programas de controle e monitoramento da saúde e da segurança no trabalho.",
+     "explanation": "Correta: art. 7º, III."
+    },
+    {
+     "key": "E",
+     "text": "dispensar a observância do Código de Ética Profissional do Psicólogo, por se tratar de avaliação regida por norma trabalhista do Ministério do Trabalho.",
+     "explanation": "O art. 8º manda obedecer ao Código, e o art. 9º trata a inobservância como falta ético-disciplinar."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O art. 7º, III, prevê informações para subsidiar programas de controle e monitoramento da saúde e segurança no trabalho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 14/2023, art. 7º, III, e art. 9º. Trecho conferido no texto-fonte: \"informações para subsidiar o desenvolvimento e implementação de programas de controle e monitoramento da saúde e da segurança no trabalho\". Texto lido na cópia do DOU de 30/06/2023 mantida pela BVS da SES-SP. Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-nexo-01",
+   "source": {
+    "authored": true,
+    "basis": "Lei 8.213/1991, art. 19, caput",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.4 Nexo Causal",
+   "stem": "Nos termos do art. 19 da Lei nº 8.213/1991, acidente do trabalho é o que ocorre pelo exercício do trabalho a serviço de empresa ou de empregador doméstico, provocando",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "lesão corporal que cause a morte ou a perda permanente da capacidade para o trabalho, excluídas a perturbação funcional e a redução temporária da capacidade.",
+     "explanation": "O art. 19 inclui a perturbação funcional e a redução temporária."
+    },
+    {
+     "key": "B",
+     "text": "lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução, permanente ou temporária, da capacidade para o trabalho.",
+     "explanation": "Correta: é o texto do art. 19."
+    },
+    {
+     "key": "C",
+     "text": "qualquer agravo à saúde, ainda que não afete a capacidade para o trabalho.",
+     "explanation": "O art. 19 exige morte, perda ou redução da capacidade; o art. 20, § 1º, \"c\", exclui a doença que não produza incapacidade."
+    },
+    {
+     "key": "D",
+     "text": "lesão corporal, desde que ocorrida no local e no horário de trabalho.",
+     "explanation": "O art. 21, IV, equipara acidentes ocorridos fora do local e do horário."
+    },
+    {
+     "key": "E",
+     "text": "perturbação funcional reconhecida em exame médico admissional.",
+     "explanation": "O conceito legal não depende do exame admissional."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 19 define o acidente do trabalho pela lesão corporal ou perturbação funcional que cause morte ou perda ou redução, permanente ou temporária, da capacidade.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Lei 8.213/1991, art. 19, caput. Trecho conferido no texto-fonte: \"provocando lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução, permanente ou temporária, da capacidade para o trabalho\". Texto compilado lido no planalto.gov.br (redação vigente). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-nexo-02",
+   "source": {
+    "authored": true,
+    "basis": "Lei 8.213/1991, art. 20, I e II",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.4 Nexo Causal",
+   "stem": "Segundo a Lei nº 8.213/1991, a doença adquirida ou desencadeada em função de condições especiais em que o trabalho é realizado, e que com ele se relacione diretamente, denomina-se",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "doença do trabalho.",
+     "explanation": "Correta: art. 20, II."
+    },
+    {
+     "key": "B",
+     "text": "doença profissional.",
+     "explanation": "Doença profissional é a produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade (art. 20, I)."
+    },
+    {
+     "key": "C",
+     "text": "acidente de trajeto.",
+     "explanation": "O percurso residência-trabalho é hipótese de equiparação do art. 21, IV, \"d\"."
+    },
+    {
+     "key": "D",
+     "text": "doença degenerativa.",
+     "explanation": "A doença degenerativa não é considerada doença do trabalho (art. 20, § 1º, \"a\")."
+    },
+    {
+     "key": "E",
+     "text": "doença endêmica.",
+     "explanation": "A endêmica, em regra, não é doença do trabalho (art. 20, § 1º, \"d\")."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 20 distingue doença profissional (trabalho peculiar a determinada atividade) e doença do trabalho (condições especiais em que o trabalho é realizado).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Lei 8.213/1991, art. 20, I e II. Trecho conferido no texto-fonte: \"doença do trabalho, assim entendida a adquirida ou desencadeada em função de condições especiais em que o trabalho é realizado e com ele se relacione diretamente\". Texto compilado lido no planalto.gov.br (redação vigente). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-nexo-03",
+   "source": {
+    "authored": true,
+    "basis": "Lei 8.213/1991, art. 20, §§ 1º e 2º, e art. 21, III",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.4 Nexo Causal",
+   "stem": "De acordo com a Lei nº 8.213/1991, NÃO é considerada doença do trabalho nem é equiparada a acidente do trabalho a",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "doença inerente a grupo etário.",
+     "explanation": "Correta: art. 20, § 1º, \"b\"; a doença inerente a grupo etário também não figura nas equiparações do art. 21."
+    },
+    {
+     "key": "B",
+     "text": "doença proveniente de contaminação acidental do empregado no exercício de sua atividade.",
+     "explanation": "Ela é equiparada a acidente do trabalho (art. 21, III)."
+    },
+    {
+     "key": "C",
+     "text": "doença não incluída na relação oficial que, em caso excepcional, resultou das condições especiais do trabalho.",
+     "explanation": "O § 2º manda a Previdência considerá-la acidente do trabalho."
+    },
+    {
+     "key": "D",
+     "text": "doença endêmica resultante de exposição determinada pela natureza do trabalho.",
+     "explanation": "A ressalva do § 1º, \"d\", inclui esse caso."
+    },
+    {
+     "key": "E",
+     "text": "doença adquirida em função de condições especiais do trabalho e constante da relação oficial.",
+     "explanation": "É a própria definição de doença do trabalho (art. 20, II)."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 20, § 1º, exclui a doença degenerativa, a inerente a grupo etário, a que não produza incapacidade e a endêmica (salvo exposição pela natureza do trabalho); a contaminação acidental é equiparada a acidente (art. 21, III), e a doença fora da relação pode ser considerada acidente (art. 20, § 2º).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Lei 8.213/1991, art. 20, §§ 1º e 2º, e art. 21, III. Trecho conferido no texto-fonte: \"Não são consideradas como doença do trabalho\"; \"a inerente a grupo etário\"; \"a Previdência Social deve considerá-la acidente do trabalho\". Texto compilado lido no planalto.gov.br (redação vigente). Revisão independente: corrigida (Ambiguidade: com o enunciado original ('NÃO é considerada doença do trabalho'), a alternativa B também era defensável pela letra da lei, pois a contaminação acidental é equiparada a acidente pelo art. 21, III, e não definida como 'doença do trabalho' (art. 20, II). Enunciado reescrito para 'NÃO é considerada doença do trabalho nem é equiparada a acidente do trabalho', o que deixa só a A correta. Explicação da A e resumo ajustados.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-nexo-04",
+   "source": {
+    "authored": true,
+    "basis": "Lei 8.213/1991, art. 21, II, \"a\" e \"b\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.4 Nexo Causal",
+   "stem": "Um empregado é agredido fisicamente por um colega, por disputa relacionada ao trabalho, no local e no horário de trabalho, e passa a apresentar quadro de estresse pós-traumático. Pela Lei nº 8.213/1991, o evento",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "equipara-se ao acidente do trabalho.",
+     "explanation": "Correta: art. 21, II, \"a\" e \"b\"."
+    },
+    {
+     "key": "B",
+     "text": "não é acidente do trabalho, porque foi causado por terceiro.",
+     "explanation": "A lei equipara expressamente o ato de agressão de terceiro ou companheiro de trabalho."
+    },
+    {
+     "key": "C",
+     "text": "só é acidente do trabalho se houver condenação penal do agressor.",
+     "explanation": "A lei não exige condenação."
+    },
+    {
+     "key": "D",
+     "text": "é doença profissional, por estar ligado ao trabalho peculiar da atividade.",
+     "explanation": "Trata-se de acidente equiparado, não de doença profissional (art. 20, I)."
+    },
+    {
+     "key": "E",
+     "text": "só é acidente do trabalho se a lesão física for permanente.",
+     "explanation": "O art. 19 admite redução temporária da capacidade."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 21, II, equipara ao acidente do trabalho o sofrido no local e horário de trabalho por agressão de terceiro ou companheiro e por ofensa física ligada a disputa do trabalho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Lei 8.213/1991, art. 21, II, \"a\" e \"b\". Trecho conferido no texto-fonte: \"ato de agressão, sabotagem ou terrorismo praticado por terceiro ou companheiro de trabalho\"; \"ofensa física intencional, inclusive de terceiro, por motivo de disputa relacionada ao trabalho\". Texto compilado lido no planalto.gov.br (redação vigente). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-nexo-05",
+   "source": {
+    "authored": true,
+    "basis": "Lei 8.213/1991, art. 21, I",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.4 Nexo Causal",
+   "stem": "Na análise do nexo causal, a Lei nº 8.213/1991 equipara ao acidente do trabalho o acidente ligado ao trabalho que,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tenha sido a causa única e exclusiva da morte do segurado ou da perda total e permanente da sua capacidade para o trabalho.",
+     "explanation": "O art. 21, I, dispensa a causa única."
+    },
+    {
+     "key": "B",
+     "text": "embora não tenha sido a causa única, haja contribuído diretamente para a morte do segurado, para a redução ou perda da sua capacidade ou produzido lesão que exija atenção médica.",
+     "explanation": "Correta: art. 21, I, que acolhe a concausa."
+    },
+    {
+     "key": "C",
+     "text": "tenha se associado ou se superposto às consequências de lesão resultante de acidente de outra origem, agravando-a.",
+     "explanation": "O art. 21, § 2º, diz que essa lesão não é considerada agravação ou complicação de acidente do trabalho."
+    },
+    {
+     "key": "D",
+     "text": "tenha ocorrido antes da admissão do segurado, mas cujas consequências se manifestaram somente durante o contrato de trabalho.",
+     "explanation": "Não há essa hipótese no art. 21."
+    },
+    {
+     "key": "E",
+     "text": "tenha sido reconhecido pela CIPA em investigação interna, com registro em ata e comunicação ao SESMT da empresa.",
+     "explanation": "A lei não condiciona a equiparação à CIPA."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 21, I, equipara o acidente ligado ao trabalho que, mesmo sem ser causa única, contribuiu diretamente para o dano (concausa).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Lei 8.213/1991, art. 21, I. Trecho conferido no texto-fonte: \"embora não tenha sido a causa única, haja contribuído diretamente para a morte do segurado\". Texto compilado lido no planalto.gov.br (redação vigente). Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-nexo-06",
+   "source": {
+    "authored": true,
+    "basis": "Lei 8.213/1991, art. 21-A, caput e §§ 1º e 2º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.4 Nexo Causal",
+   "stem": "O nexo técnico epidemiológico previdenciário, previsto no art. 21-A da Lei nº 8.213/1991, caracteriza a natureza acidentária da incapacidade a partir da relação entre",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o cargo do segurado e o resultado do último exame periódico do PCMSO.",
+     "explanation": "O NTEP relaciona a atividade da empresa à entidade mórbida da CID."
+    },
+    {
+     "key": "B",
+     "text": "a atividade da empresa ou do empregado doméstico e a entidade mórbida motivadora da incapacidade elencada na CID.",
+     "explanation": "Correta: art. 21-A, caput."
+    },
+    {
+     "key": "C",
+     "text": "o tempo de serviço do segurado e o número de afastamentos anteriores.",
+     "explanation": "Esses dados não definem o NTEP."
+    },
+    {
+     "key": "D",
+     "text": "o diagnóstico do psicólogo assistente e o laudo do médico do trabalho.",
+     "explanation": "Quem caracteriza é a perícia médica do INSS."
+    },
+    {
+     "key": "E",
+     "text": "a atividade da empresa e o grau de risco previsto para o dimensionamento do SESMT, de forma definitiva e sem possibilidade de recurso pela empresa.",
+     "explanation": "O § 2º permite à empresa requerer a não aplicação, com recurso, e o § 1º afasta o NTEP se demonstrada a inexistência do nexo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Pelo art. 21-A, a perícia do INSS caracteriza a natureza acidentária quando há NTEP entre a atividade da empresa e a entidade mórbida da CID; o nexo pode ser afastado ou contestado.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Lei 8.213/1991, art. 21-A, caput e §§ 1º e 2º. Trecho conferido no texto-fonte: \"decorrente da relação entre a atividade da empresa ou do empregado doméstico e a entidade mórbida motivadora da incapacidade elencada na Classificação Internacional de Doenças\"; \"poderão requerer a não aplicação do nexo técnico epidemiológico\". Texto compilado lido no planalto.gov.br (redação vigente). Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-nexo-07",
+   "source": {
+    "authored": true,
+    "basis": "Decreto 3.048/1999, art. 337, § 3º, e Anexo II, Lista C",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.4 Nexo Causal",
+   "stem": "No Regulamento da Previdência Social (Decreto nº 3.048/1999), os intervalos de CID-10 em que se reconhece nexo técnico epidemiológico com as classes de CNAE estão indicados na",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Lista C do Anexo II.",
+     "explanation": "Correta: art. 337, § 3º, e nota da Lista C."
+    },
+    {
+     "key": "B",
+     "text": "Lista A do Anexo II.",
+     "explanation": "A Lista A relaciona agentes ou fatores de risco de natureza ocupacional com a etiologia de doenças."
+    },
+    {
+     "key": "C",
+     "text": "Lista B do Anexo II.",
+     "explanation": "A Lista B relaciona doenças a agentes etiológicos ou fatores de risco; o art. 337, § 3º, remetia a ela antes de 2009."
+    },
+    {
+     "key": "D",
+     "text": "Anexo III.",
+     "explanation": "O Anexo III trata das situações que dão direito ao auxílio-acidente."
+    },
+    {
+     "key": "E",
+     "text": "Lista B da Portaria GM/MS nº 1.999/2023.",
+     "explanation": "A LDRT do Ministério da Saúde não é o instrumento do NTEP previdenciário."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 337, § 3º, do Decreto 3.048/1999 remete o NTEP à Lista C do Anexo II, que cruza intervalos de CID-10 com classes de CNAE.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Decreto 3.048/1999, art. 337, § 3º, e Anexo II, Lista C. Trecho conferido no texto-fonte: \"Doenças - CID em conformidade com o disposto na Lista C do Anexo II\"; \"São indicados intervalos de CID-10 em que se reconhece Nexo Técnico Epidemiológico\". Texto compilado lido no planalto.gov.br (redação vigente do art. 337). Anexo II do Decreto 3.048/1999 lido no planalto.gov.br (Lista B na redação do Decreto 6.957/2009; Lista C incluída pelo mesmo decreto). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-nexo-08",
+   "source": {
+    "authored": true,
+    "basis": "Decreto 3.048/1999, Anexo II, Lista B, Grupo V da CID-10, item VIII",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.4 Nexo Causal",
+   "stem": "Na Lista B do Anexo II do Decreto nº 3.048/1999, o estado de \"stress\" pós-traumático (F43.1) aparece relacionado ao fator de risco ocupacional",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "má adaptação à organização do horário de trabalho (trabalho em turnos ou trabalho noturno).",
+     "explanation": "Esse fator está ligado ao transtorno do ciclo vigília-sono (F51.2), item XI."
+    },
+    {
+     "key": "B",
+     "text": "ritmo de trabalho penoso.",
+     "explanation": "Esse fator está ligado à síndrome de burn-out (Z73.0), item XII."
+    },
+    {
+     "key": "C",
+     "text": "manganês e seus compostos tóxicos.",
+     "explanation": "O manganês aparece em transtornos orgânicos e episódios depressivos, não no item do F43.1."
+    },
+    {
+     "key": "D",
+     "text": "reação após acidente do trabalho grave ou catastrófico, ou após assalto no trabalho.",
+     "explanation": "Correta: Grupo V, item VIII."
+    },
+    {
+     "key": "E",
+     "text": "condições difíceis de trabalho, associadas ao alcoolismo crônico.",
+     "explanation": "Esse fator está ligado ao alcoolismo crônico (F10.2), item VI."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Na Lista B, o F43.1 relaciona-se à reação após acidente do trabalho grave ou catastrófico, ou após assalto no trabalho (Z56.6).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Decreto 3.048/1999, Anexo II, Lista B, Grupo V da CID-10, item VIII. Trecho conferido no texto-fonte: \"Estado de “Stress” Pós-Traumático (F43.1) 1. Outras dificuldades físicas e mentais relacionadas com o trabalho : reação após acidente do trabalho grave ou catastrófico, ou após assalto no trabalho\". Anexo II do Decreto 3.048/1999 lido no planalto.gov.br (Lista B na redação do Decreto 6.957/2009; Lista C incluída pelo mesmo decreto). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-equipe-01",
+   "source": {
+    "authored": true,
+    "basis": "Almeida Filho, N. Transdisciplinaridade e Saúde Coletiva. Ciência & Saúde Coletiva, 2(1), 1997, pp. 5-20 (esquema de Jantsch, 1972, adaptado por Vasconcelos, 1996, e Bibeau, 1996)",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.5 Atuação da(o) psicóloga(o) em equipes multi e interdisciplinares",
+   "stem": "Em um ambulatório, médico, psicólogo e assistente social atendem os mesmos pacientes, cada um segundo sua própria competência, de modo isolado, e a troca de informações limita-se a anotações em prontuário comum. No esquema de Jantsch-Vasconcelos-Bibeau, discutido por Almeida Filho (1997), essa situação exemplifica a",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "pluridisciplinaridade.",
+     "explanation": "Na pluridisciplinaridade há relações efetivas e objetivos comuns, com algum grau de cooperação."
+    },
+    {
+     "key": "B",
+     "text": "interdisciplinaridade auxiliar.",
+     "explanation": "Nela uma disciplina se impõe às outras como coordenadora, em dois níveis."
+    },
+    {
+     "key": "C",
+     "text": "interdisciplinaridade.",
+     "explanation": "Exige axiomática comum, reciprocidade e enriquecimento mútuo."
+    },
+    {
+     "key": "D",
+     "text": "multidisciplinaridade.",
+     "explanation": "Correta: justaposição de disciplinas num único nível, sem cooperação sistemática; o exemplo do prontuário comum é dado pelo autor."
+    },
+    {
+     "key": "E",
+     "text": "transdisciplinaridade.",
+     "explanation": "Implica criação de um campo novo, com autonomia teórica e metodológica."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Na multidisciplinaridade, as disciplinas se justapõem num único nível, sem cooperação sistemática; a coordenação, quando existe, é administrativa.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Almeida Filho, N. Transdisciplinaridade e Saúde Coletiva. Ciência & Saúde Coletiva, 2(1), 1997, pp. 5-20 (esquema de Jantsch, 1972, adaptado por Vasconcelos, 1996, e Bibeau, 1996). Trecho conferido no texto-fonte: \"funciona através da justaposição de disciplinas em um único nível\"; \"anotações em um prontuário comum\". Texto lido no PDF do artigo (Redalyc). Fonte acadêmica secundária quanto ao esquema de Jantsch, Vasconcelos e Bibeau. Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-equipe-02",
+   "source": {
+    "authored": true,
+    "basis": "Almeida Filho, N. Transdisciplinaridade e Saúde Coletiva. Ciência & Saúde Coletiva, 2(1), 1997, pp. 5-20 (esquema de Jantsch, 1972, adaptado por Vasconcelos, 1996, e Bibeau, 1996)",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.5 Atuação da(o) psicóloga(o) em equipes multi e interdisciplinares",
+   "stem": "Segundo Vasconcelos (1996), citado por Almeida Filho (1997), a interdisciplinaridade é entendida como estrutural, com reciprocidade e enriquecimento mútuo, e caracteriza-se por",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a justaposição de disciplinas num único nível, sem cooperação sistemática entre os campos envolvidos.",
+     "explanation": "Isso descreve a multidisciplinaridade."
+    },
+    {
+     "key": "B",
+     "text": "uma tendência à horizontalização das relações de poder entre os campos e pela identificação de uma problemática comum.",
+     "explanation": "Correta: é a caracterização transcrita no artigo."
+    },
+    {
+     "key": "C",
+     "text": "a subordinação das demais disciplinas a uma disciplina-mestra, que se impõe como integradora e coordenadora.",
+     "explanation": "Isso descreve a interdisciplinaridade auxiliar."
+    },
+    {
+     "key": "D",
+     "text": "a criação de um campo novo e mais amplo, com autonomia teórica e metodológica perante as disciplinas.",
+     "explanation": "Isso descreve a transdisciplinaridade."
+    },
+    {
+     "key": "E",
+     "text": "uma coordenação apenas administrativa, em geral externa ao campo técnico-científico das disciplinas.",
+     "explanation": "Isso descreve a coordenação típica da multidisciplinaridade."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Para Vasconcelos (1996), a interdisciplinaridade é estrutural, com reciprocidade, enriquecimento mútuo, horizontalização do poder e problemática comum.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Almeida Filho, N. Transdisciplinaridade e Saúde Coletiva. Ciência & Saúde Coletiva, 2(1), 1997, pp. 5-20 (esquema de Jantsch, 1972, adaptado por Vasconcelos, 1996, e Bibeau, 1996). Trecho conferido no texto-fonte: \"com uma tendência à horizontalização das relações de poder entre os campos implicados. Exige a identificação de uma problemática comum\". Texto lido no PDF do artigo (Redalyc). Fonte acadêmica secundária quanto ao esquema de Jantsch, Vasconcelos e Bibeau. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-equipe-03",
+   "source": {
+    "authored": true,
+    "basis": "Almeida Filho, N. Transdisciplinaridade e Saúde Coletiva. Ciência & Saúde Coletiva, 2(1), 1997, pp. 5-20 (esquema de Jantsch, 1972, adaptado por Vasconcelos, 1996, e Bibeau, 1996)",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.5 Atuação da(o) psicóloga(o) em equipes multi e interdisciplinares",
+   "stem": "No esquema de Jantsch-Vasconcelos-Bibeau apresentado por Almeida Filho (1997), a transdisciplinaridade",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "consiste na justaposição de disciplinas que tratam do mesmo tema sem se comunicar.",
+     "explanation": "Isso é multidisciplinaridade."
+    },
+    {
+     "key": "B",
+     "text": "pressupõe a dominação de uma disciplina, que se impõe às demais como coordenadora.",
+     "explanation": "Isso é interdisciplinaridade auxiliar."
+    },
+    {
+     "key": "C",
+     "text": "limita-se a reuniões clínicas em que casos de pacientes são discutidos por diversos profissionais, sob a supervisão de um chefe de serviço.",
+     "explanation": "O autor dá esse exemplo para a pluridisciplinaridade."
+    },
+    {
+     "key": "D",
+     "text": "dispensa qualquer finalidade comum entre as disciplinas envolvidas.",
+     "explanation": "A coordenação transdisciplinar é assegurada por referência a uma finalidade comum."
+    },
+    {
+     "key": "E",
+     "text": "implica a criação de um campo novo que idealmente desenvolverá autonomia teórica e metodológica perante as disciplinas que o compõem.",
+     "explanation": "Correta: é a definição do artigo."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A transdisciplinaridade integra disciplinas sobre axiomática geral compartilhada e cria um campo novo, com autonomia teórica e metodológica.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Almeida Filho, N. Transdisciplinaridade e Saúde Coletiva. Ciência & Saúde Coletiva, 2(1), 1997, pp. 5-20 (esquema de Jantsch, 1972, adaptado por Vasconcelos, 1996, e Bibeau, 1996). Trecho conferido no texto-fonte: \"Implica criação de um campo novo que idealmente desenvolverá uma autonomia teórica e metodológica\". Texto lido no PDF do artigo (Redalyc). Fonte acadêmica secundária quanto ao esquema de Jantsch, Vasconcelos e Bibeau. Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-equipe-04",
+   "source": {
+    "authored": true,
+    "basis": "NR-4, itens 4.3.2 e 4.3.3",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.5 Atuação da(o) psicóloga(o) em equipes multi e interdisciplinares",
+   "stem": "Uma empresa pretende substituir, em seu SESMT, o enfermeiro do trabalho exigido pelo dimensionamento por uma psicóloga, alegando a relevância dos riscos psicossociais. À luz da NR-4, essa substituição",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "atende à norma, se a psicóloga tiver especialização em psicologia do trabalho.",
+     "explanation": "A especialização não inclui a psicóloga na composição do item 4.3.2."
+    },
+    {
+     "key": "B",
+     "text": "não atende à norma, pois a psicóloga não figura entre os profissionais que compõem o SESMT.",
+     "explanation": "Correta: o item 4.3.2 lista médico do trabalho, engenheiro de segurança, técnico de segurança, enfermeiro do trabalho e auxiliar/técnico de enfermagem do trabalho."
+    },
+    {
+     "key": "C",
+     "text": "atende à norma, desde que aprovada pela CIPA.",
+     "explanation": "A CIPA não altera a composição do SESMT."
+    },
+    {
+     "key": "D",
+     "text": "atende à norma, porque a NR-1 passou a exigir psicólogo no SESMT.",
+     "explanation": "A NR-1 não altera a composição do SESMT, definida na NR-4."
+    },
+    {
+     "key": "E",
+     "text": "atende à norma, se a psicóloga cumprir trinta horas semanais.",
+     "explanation": "A carga horária do item 4.3.7 vale para os profissionais que integram o SESMT."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O item 4.3.2 da NR-4 define a composição do SESMT, e o psicólogo não está entre os profissionais listados.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-4, itens 4.3.2 e 4.3.3. Trecho conferido no texto-fonte: \"O SESMT deve ser composto por médico do trabalho, engenheiro de segurança do trabalho, técnico de segurança do trabalho, enfermeiro do trabalho e auxiliar/técnico em enfermagem do trabalho\". Texto lido no PDF oficial do MTE (NR-4 atualizada 2023). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-equipe-05",
+   "source": {
+    "authored": true,
+    "basis": "NR-7, itens 7.4.1, \"c\", e 7.5.18",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.5 Atuação da(o) psicóloga(o) em equipes multi e interdisciplinares",
+   "stem": "Integrante da equipe de saúde ocupacional, uma psicóloga propõe que o PCMSO inclua exames complementares voltados a riscos psicossociais. Segundo a NR-7, outros exames complementares podem ser realizados",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a critério da psicóloga, independentemente do médico responsável, quando relacionados aos riscos psicossociais.",
+     "explanation": "O item 7.5.18 atribui o critério ao médico responsável."
+    },
+    {
+     "key": "B",
+     "text": "por decisão da CIPA, em votação de seus membros, com registro em ata e comunicação ao SESMT.",
+     "explanation": "A NR-7 não atribui essa decisão à CIPA."
+    },
+    {
+     "key": "C",
+     "text": "somente se previstos expressamente nos quadros e anexos da NR-7, vedada a inclusão de outros exames.",
+     "explanation": "O item 7.5.18 admite outros exames, além dos previstos."
+    },
+    {
+     "key": "D",
+     "text": "a critério do médico responsável, desde que relacionados aos riscos ocupacionais classificados no PGR e tecnicamente justificados no PCMSO.",
+     "explanation": "Correta: item 7.5.18."
+    },
+    {
+     "key": "E",
+     "text": "por livre escolha do empregador, sem relação com os riscos classificados no PGR, para fins de seleção.",
+     "explanation": "Os exames devem estar relacionados aos riscos classificados no PGR."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O item 7.5.18 da NR-7 admite outros exames complementares a critério do médico responsável, relacionados aos riscos do PGR e justificados no PCMSO.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-7, itens 7.4.1, \"c\", e 7.5.18. Trecho conferido no texto-fonte: \"Podem ser realizados outros exames complementares, a critério do médico responsável, desde que relacionados aos riscos ocupacionais classificados no PGR e tecnicamente justificados no PCMSO\". Texto lido no PDF oficial do MTE (NR-7 atualizada 2022). Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-equipe-06",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 12, §§ 5º, 6º e 8º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.5 Atuação da(o) psicóloga(o) em equipes multi e interdisciplinares",
+   "stem": "Na elaboração de relatório multiprofissional, a Resolução CFP nº 6/2019 estabelece que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a análise seja única, redigida em conjunto e assinada apenas pelo coordenador da equipe multiprofissional.",
+     "explanation": "O § 6º orienta que cada profissional faça sua análise separadamente, com subtítulo."
+    },
+    {
+     "key": "B",
+     "text": "a descrição dos procedimentos privativos da Psicologia venha separada das demais, e a conclusão possa ser feita em conjunto, principalmente em processo de trabalho interdisciplinar.",
+     "explanation": "Correta: art. 12, §§ 5º e 8º."
+    },
+    {
+     "key": "C",
+     "text": "a conclusão seja sempre individual e redigida separadamente por cada profissional da equipe, vedada a conclusão conjunta mesmo quando se trate de processo de trabalho interdisciplinar.",
+     "explanation": "O § 8º admite conclusão conjunta."
+    },
+    {
+     "key": "D",
+     "text": "o relatório dispense o registro documental da psicóloga, por já conter as informações do atendimento.",
+     "explanation": "O § 7º, I, diz que o relatório multiprofissional não isenta do registro documental."
+    },
+    {
+     "key": "E",
+     "text": "os procedimentos privativos da Psicologia sejam omitidos do relatório, em respeito ao sigilo profissional.",
+     "explanation": "O § 5º manda descrevê-los separadamente, não omiti-los."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "No relatório multiprofissional, procedimentos privativos da Psicologia vêm separados (§ 5º), a análise é feita por profissional (§ 6º) e a conclusão pode ser conjunta (§ 8º).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 12, §§ 5º, 6º e 8º. Trecho conferido no texto-fonte: \"A descrição dos procedimentos e/ou técnicas privativas da Psicologia deve vir separada das descritas pelas(os) demais profissionais\"; \"A conclusão do relatório multiprofissional pode ser realizada em conjunto, principalmente nos casos em que se trate de um processo de trabalho interdisciplinar\". Texto lido na versão comentada publicada pelo CFP (parte normativa). Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito. Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-equipe-07",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 6º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.5 Atuação da(o) psicóloga(o) em equipes multi e interdisciplinares",
+   "stem": "No relacionamento com profissionais não psicólogos de uma equipe de saúde do trabalhador, o Código de Ética determina que o psicólogo",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "compartilhe todas as informações obtidas, pois o sigilo passa a pertencer à equipe de saúde como um todo.",
+     "explanation": "O art. 6º, \"b\", limita o compartilhamento às informações relevantes."
+    },
+    {
+     "key": "B",
+     "text": "não compartilhe nenhuma informação com os demais profissionais da equipe, em razão do sigilo profissional, que é exclusivo da Psicologia e não pode ser estendido a outras categorias.",
+     "explanation": "O art. 6º, \"b\", admite compartilhar o que for relevante."
+    },
+    {
+     "key": "C",
+     "text": "atenda também as demandas que extrapolem seu campo de atuação, para não fragmentar o cuidado ao trabalhador.",
+     "explanation": "O art. 6º, \"a\", manda encaminhar o que extrapole seu campo de atuação."
+    },
+    {
+     "key": "D",
+     "text": "compartilhe informações apenas com profissionais de nível superior, que estão sujeitos a seus próprios códigos.",
+     "explanation": "O Código não faz essa distinção."
+    },
+    {
+     "key": "E",
+     "text": "compartilhe somente informações relevantes para qualificar o serviço, resguardando o sigilo e assinalando a quem as recebe o dever de preservá-lo.",
+     "explanation": "Correta: art. 6º, \"b\"."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 6º manda encaminhar o que extrapola o campo e compartilhar só o relevante, resguardando a confidencialidade e assinalando o dever de sigilo de quem recebe.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 6º. Trecho conferido no texto-fonte: \"Compartilhará somente informações relevantes para qualificar o serviço prestado, resguardando o caráter confidencial das comunicações, assinalando a responsabilidade, de quem as receber, de preservar o sigilo\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: corrigida (Pista involuntária: a correta (180 caracteres) tinha mais que o dobro das demais. Distratores alongados e correta levemente encurtada, mantendo o conteúdo do art. 6º, \"b\"; gabarito mantido. Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-equipe-08",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), arts. 7º, \"d\", e 12",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.5 Atuação da(o) psicóloga(o) em equipes multi e interdisciplinares",
+   "stem": "Uma psicóloga integra equipe multiprofissional que adota metodologia de atendimento conjunto. De acordo com o Código de Ética, nos documentos que embasam as atividades dessa equipe, ela",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "registrará todas as informações colhidas, para garantir a integralidade do cuidado.",
+     "explanation": "O art. 12 limita o registro ao necessário."
+    },
+    {
+     "key": "B",
+     "text": "não registrará nenhuma informação, mantendo-as apenas em seus arquivos privativos.",
+     "explanation": "O art. 12 prevê o registro do necessário nos documentos da equipe."
+    },
+    {
+     "key": "C",
+     "text": "registrará apenas as informações necessárias para o cumprimento dos objetivos do trabalho.",
+     "explanation": "Correta: art. 12."
+    },
+    {
+     "key": "D",
+     "text": "registrará informações somente após autorização do Conselho Regional.",
+     "explanation": "Não há essa exigência."
+    },
+    {
+     "key": "E",
+     "text": "registrará apenas informações já anotadas pelo médico da equipe.",
+     "explanation": "O Código não subordina o registro ao médico."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 12 manda registrar, nos documentos da equipe multiprofissional, apenas o necessário aos objetivos do trabalho; o art. 7º, \"d\", admite intervenção quando ela integra a metodologia multiprofissional.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), arts. 7º, \"d\", e 12. Trecho conferido no texto-fonte: \"o psicólogo registrará apenas as informações necessárias para o cumprimento dos objetivos do trabalho\"; \"trabalho multiprofissional e a intervenção fizer parte da metodologia adotada\". Texto lido no PDF oficial do CFP (codigo-de-etica-psicologia.pdf). Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-apos-01",
+   "source": {
+    "authored": true,
+    "basis": "Lei 10.741/2003 (Estatuto da Pessoa Idosa), art. 28, II",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "diag-org",
+   "subtopic": "4.4 Preparação para aposentadoria",
+   "stem": "O Estatuto da Pessoa Idosa (Lei nº 10.741/2003) determina que o Poder Público crie e estimule programas de preparação dos trabalhadores para a aposentadoria com antecedência mínima de",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "6 meses.",
+     "explanation": "O art. 28, II, fixa antecedência mínima de 1 ano."
+    },
+    {
+     "key": "B",
+     "text": "1 ano.",
+     "explanation": "Correta: art. 28, II."
+    },
+    {
+     "key": "C",
+     "text": "2 anos.",
+     "explanation": "O art. 28, II, fixa antecedência mínima de 1 ano."
+    },
+    {
+     "key": "D",
+     "text": "5 anos.",
+     "explanation": "Cinco anos é o acompanhamento pós-saída sugerido por França e Soares (2009), não o prazo legal."
+    },
+    {
+     "key": "E",
+     "text": "10 anos.",
+     "explanation": "O art. 28, II, fixa antecedência mínima de 1 ano."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 28, II, prevê programas de preparação para a aposentadoria com antecedência mínima de 1 ano.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Lei 10.741/2003 (Estatuto da Pessoa Idosa), art. 28, II. Trecho conferido no texto-fonte: \"preparação dos trabalhadores para a aposentadoria, com antecedência mínima de 1 (um) ano\". Texto compilado lido no planalto.gov.br. Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-apos-02",
+   "source": {
+    "authored": true,
+    "basis": "Lei 10.741/2003 (Estatuto da Pessoa Idosa), art. 28",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "diag-org",
+   "subtopic": "4.4 Preparação para aposentadoria",
+   "stem": "Ao tratar da profissionalização e do trabalho, o Estatuto da Pessoa Idosa prevê que os programas de preparação dos trabalhadores para a aposentadoria sejam criados e estimulados",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "pelas empresas com mais de cem empregados, como obrigação trabalhista fiscalizada pelo Ministério do Trabalho.",
+     "explanation": "O art. 28 dirige-se ao Poder Público e não fixa obrigação por porte de empresa."
+    },
+    {
+     "key": "B",
+     "text": "pelo INSS, como requisito para a concessão do benefício de aposentadoria por idade ou por tempo de contribuição, com frequência mínima comprovada pelo segurado junto à agência.",
+     "explanation": "A lei não condiciona o benefício ao programa."
+    },
+    {
+     "key": "C",
+     "text": "pelo SESMT das empresas, no âmbito do Programa de Gerenciamento de Riscos previsto na NR-1.",
+     "explanation": "Não há essa previsão no Estatuto."
+    },
+    {
+     "key": "D",
+     "text": "pelos sindicatos das categorias profissionais, com foco exclusivo em planejamento financeiro e previdenciário.",
+     "explanation": "O art. 28 menciona projetos sociais e direitos sociais e de cidadania."
+    },
+    {
+     "key": "E",
+     "text": "pelo Poder Público, por meio de estímulo a novos projetos sociais, conforme os interesses dos trabalhadores, e de esclarecimento sobre direitos sociais e de cidadania.",
+     "explanation": "Correta: art. 28, caput e II."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 28 atribui ao Poder Público criar e estimular programas de preparação, por estímulo a novos projetos sociais e esclarecimento sobre direitos sociais e de cidadania.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Lei 10.741/2003 (Estatuto da Pessoa Idosa), art. 28. Trecho conferido no texto-fonte: \"O Poder Público criará e estimulará programas de\"; \"por meio de estímulo a novos projetos sociais, conforme seus interesses, e de esclarecimento sobre os direitos sociais e de cidadania\". Texto compilado lido no planalto.gov.br. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito. Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-apos-03",
+   "source": {
+    "authored": true,
+    "basis": "França, L. H. F. P.; Soares, D. H. P. Preparação para a aposentadoria como parte da educação ao longo da vida. Psicologia: Ciência e Profissão, 29(4), 2009, pp. 738-751",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "diag-org",
+   "subtopic": "4.4 Preparação para aposentadoria",
+   "stem": "Segundo França e Soares (2009), com base em França (2002), um Programa de Preparação para a Aposentadoria (PPA) deve conter",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "apenas palestras informativas sobre direitos previdenciários, ministradas por técnicos do INSS ou do RH.",
+     "explanation": "As autoras pedem que o módulo informativo seja complementado pelo experiencial."
+    },
+    {
+     "key": "B",
+     "text": "somente orientação financeira individual, conduzida por especialista externo contratado pela organização, sem participação de familiares ou de aposentados.",
+     "explanation": "O planejamento financeiro é um dos temas do módulo experiencial, não o programa inteiro."
+    },
+    {
+     "key": "C",
+     "text": "um módulo único, iniciado no último mês antes do desligamento e encerrado na data da aposentadoria.",
+     "explanation": "As autoras sugerem módulos com duração aproximada de um ano cada."
+    },
+    {
+     "key": "D",
+     "text": "um módulo terapêutico obrigatório para os que recusam a aposentadoria, conduzido em grupo por psicólogos.",
+     "explanation": "Essa estrutura não é descrita no artigo."
+    },
+    {
+     "key": "E",
+     "text": "um módulo informativo e um módulo experiencial, ou formativo, em que vivências, dinâmicas de grupo e workshops são metodologias privilegiadas.",
+     "explanation": "Correta: é a estrutura descrita pelas autoras."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "França e Soares (2009) descrevem o PPA com módulo informativo e módulo experiencial ou formativo, este com vivências, dinâmicas de grupo e workshops.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: França, L. H. F. P.; Soares, D. H. P. Preparação para a aposentadoria como parte da educação ao longo da vida. Psicologia: Ciência e Profissão, 29(4), 2009, pp. 738-751. Trecho conferido no texto-fonte: \"O PPA deve conter um módulo informativo e um módulo experiencial\"; \"As vivências, dinâmicas de grupo e os workshops são metodologias privilegiadas nesse módulo\". Texto lido no PDF do artigo (Redalyc). Fonte acadêmica; autores citados pelas autoras não foram lidos no original. Revisão independente: corrigida (Pista involuntária: a correta era bem mais longa que as demais (e/ou em modo verbal diferente). Distratores reescritos com extensão e forma equivalentes, sem mudar o conteúdo nem o gabarito. Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-apos-04",
+   "source": {
+    "authored": true,
+    "basis": "França, L. H. F. P.; Soares, D. H. P. Preparação para a aposentadoria como parte da educação ao longo da vida. Psicologia: Ciência e Profissão, 29(4), 2009, pp. 738-751",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "diag-org",
+   "subtopic": "4.4 Preparação para aposentadoria",
+   "stem": "Quanto ao acompanhamento do PPA, França e Soares (2009) afirmam que a preparação para a aposentadoria não termina com a saída da empresa e que os trabalhadores devem ser acompanhados até",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o último dia do aviso prévio.",
+     "explanation": "As autoras afirmam que a preparação não termina com a saída."
+    },
+    {
+     "key": "B",
+     "text": "seis meses após a saída.",
+     "explanation": "O prazo citado é de até cinco anos."
+    },
+    {
+     "key": "C",
+     "text": "a concessão do benefício previdenciário.",
+     "explanation": "Não é esse o marco citado."
+    },
+    {
+     "key": "D",
+     "text": "o fim do período de lua de mel dos dois primeiros anos.",
+     "explanation": "Os dois primeiros anos são mencionados quanto à moral dos homens aposentados (Mann, 1991), não como limite do acompanhamento."
+    },
+    {
+     "key": "E",
+     "text": "cinco anos após a saída.",
+     "explanation": "Correta: é o que afirmam as autoras."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Para França e Soares (2009), os trabalhadores devem ser acompanhados até cinco anos após a saída, com avaliação periódica.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: França, L. H. F. P.; Soares, D. H. P. Preparação para a aposentadoria como parte da educação ao longo da vida. Psicologia: Ciência e Profissão, 29(4), 2009, pp. 738-751. Trecho conferido no texto-fonte: \"que devem ser acompanhados até cinco anos após sua saída\". Texto lido no PDF do artigo (Redalyc). Fonte acadêmica; autores citados pelas autoras não foram lidos no original. Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-apos-05",
+   "source": {
+    "authored": true,
+    "basis": "França, L. H. F. P.; Soares, D. H. P. Preparação para a aposentadoria como parte da educação ao longo da vida. Psicologia: Ciência e Profissão, 29(4), 2009, pp. 738-751; Atchley (1989)",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "diag-org",
+   "subtopic": "4.4 Preparação para aposentadoria",
+   "stem": "Entre as teorias sobre a aposentadoria apresentadas por França e Soares (2009), aquela segundo a qual as pessoas tendem a manter padrões consistentes com suas características psicológicas e seus ambientes físicos e sociais, distinguindo dimensões interna e externa, é a teoria",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "dos papéis, de Ashforth.",
+     "explanation": "A teoria dos papéis trata das transições entre papéis sociais, como a passagem de trabalhador a aposentado."
+    },
+    {
+     "key": "B",
+     "text": "da continuidade, de Atchley.",
+     "explanation": "Correta: as autoras atribuem a Atchley (1989) a teoria da continuidade, com continuidade interna e externa."
+    },
+    {
+     "key": "C",
+     "text": "do curso de vida, de Elder e Johnson.",
+     "explanation": "A perspectiva do curso de vida enfatiza a história de vida e os contextos micro e macro."
+    },
+    {
+     "key": "D",
+     "text": "da educação ao longo da vida, de Holzmann.",
+     "explanation": "A educação ao longo da vida é apresentada como chave do desafio, não como essa teoria."
+    },
+    {
+     "key": "E",
+     "text": "do projeto, de Boutinet.",
+     "explanation": "Boutinet define projeto como antecipação operatória de um futuro desejado."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Para Atchley, citado pelas autoras, as pessoas mantêm padrões consistentes (continuidade interna e externa), e a aposentadoria começa antes do desligamento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: França, L. H. F. P.; Soares, D. H. P. Preparação para a aposentadoria como parte da educação ao longo da vida. Psicologia: Ciência e Profissão, 29(4), 2009, pp. 738-751; Atchley (1989). Trecho conferido no texto-fonte: \"Teoria da continuidade\"; \"as pessoas tendem a manter por muito tempo padrões consistentes com as suas características psicológicas e seus ambientes físicos e sociais\". Texto lido no PDF do artigo (Redalyc). Fonte acadêmica; autores citados pelas autoras não foram lidos no original. Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-apos-06",
+   "source": {
+    "authored": true,
+    "basis": "França, L. H. F. P.; Soares, D. H. P. Preparação para a aposentadoria como parte da educação ao longo da vida. Psicologia: Ciência e Profissão, 29(4), 2009, pp. 738-751",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "diag-org",
+   "subtopic": "4.4 Preparação para aposentadoria",
+   "stem": "França e Soares (2009) apontam a educação ao longo da vida (lifelong learning) como chave para lidar com o envelhecimento dos trabalhadores, entendida como processo que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "se encerra com a formação profissional inicial do trabalhador.",
+     "explanation": "As autoras dizem que ela se estende da infância à aposentadoria."
+    },
+    {
+     "key": "B",
+     "text": "oferece aprendizagem a partir de uma idade fixa, definida em lei.",
+     "explanation": "As autoras dizem que o acesso ocorre quando as pessoas mais precisam, e não por terem atingido certa idade."
+    },
+    {
+     "key": "C",
+     "text": "substitui os PPAs nas organizações.",
+     "explanation": "Os PPAs estão entre os conteúdos da educação ao longo da vida."
+    },
+    {
+     "key": "D",
+     "text": "prevê a educação tanto para a continuidade quanto para a saída do mercado de trabalho.",
+     "explanation": "Correta: é a definição usada pelas autoras, com base em França e Stepansky (2005)."
+    },
+    {
+     "key": "E",
+     "text": "prepara exclusivamente para o desligamento definitivo do trabalho, a partir da proximidade da idade de aposentadoria.",
+     "explanation": "Ela prevê também a continuidade no mercado de trabalho."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Para França e Soares (2009), a educação ao longo da vida prepara tanto para continuar quanto para sair do mercado de trabalho e inclui os PPAs.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: França, L. H. F. P.; Soares, D. H. P. Preparação para a aposentadoria como parte da educação ao longo da vida. Psicologia: Ciência e Profissão, 29(4), 2009, pp. 738-751. Trecho conferido no texto-fonte: \"processo que prevê a educação tanto para a continuidade quanto para a saída do mercado de trabalho\". Texto lido no PDF do artigo (Redalyc). Fonte acadêmica; autores citados pelas autoras não foram lidos no original. Revisão independente: corrigida (Pista sistemática: no lote original a correta era a alternativa mais longa em 55 de 77 questões. Um distrator foi alongado com qualificação também incorreta, para que a correta deixe de ser a mais longa; gabarito mantido.)",
+    "reviewed": true
+   }
+  },
+  {
+   "id": "autoral-apos-07",
+   "source": {
+    "authored": true,
+    "basis": "França, L. H. F. P.; Soares, D. H. P. Preparação para a aposentadoria como parte da educação ao longo da vida. Psicologia: Ciência e Profissão, 29(4), 2009, pp. 738-751; França (2008)",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "diag-org",
+   "subtopic": "4.4 Preparação para aposentadoria",
+   "stem": "Segundo os resultados de França (2008) com executivos, relatados por França e Soares (2009), um programa de preparação para a aposentadoria deve reforçar",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o desligamento completo de qualquer atividade de trabalho após a aposentadoria.",
+     "explanation": "As autoras admitem trabalho pós-aposentadoria, preferencialmente em horário reduzido."
+    },
+    {
+     "key": "B",
+     "text": "a decisão individual isolada, sem participação da família.",
+     "explanation": "A influência da família e dos amigos foi preditora de atitudes positivas."
+    },
+    {
+     "key": "C",
+     "text": "o estímulo ao engajamento em atividades diversificadas e à harmonia no relacionamento familiar.",
+     "explanation": "Correta: conclusão extraída pelas autoras dos preditores sociais."
+    },
+    {
+     "key": "D",
+     "text": "o foco exclusivo nos preditores individuais, como salário e saúde.",
+     "explanation": "Os preditores sociais se mostraram mais eficazes do que os individuais."
+    },
+    {
+     "key": "E",
+     "text": "a ênfase nas perdas financeiras, para estimular a permanência no emprego.",
+     "explanation": "O PPA enfatiza os aspectos positivos e a reflexão sobre os negativos."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "França (2008) verificou que preditores sociais predizem melhor as atitudes, e as autoras recomendam reforçar atividades diversificadas e harmonia familiar.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: França, L. H. F. P.; Soares, D. H. P. Preparação para a aposentadoria como parte da educação ao longo da vida. Psicologia: Ciência e Profissão, 29(4), 2009, pp. 738-751; França (2008). Trecho conferido no texto-fonte: \"um programa de preparação para a aposentadoria deve reforçar o estímulo ao engajamento em atividades diversificadas e à harmonia no relacionamento familiar\"; \"os preditores sociais são mais eficazes do que os individuais\". Texto lido no PDF do artigo (Redalyc). Fonte acadêmica; autores citados pelas autoras não foram lidos no original. Revisão independente: ok, resposta derivada às cegas igual ao gabarito.",
+    "reviewed": true
+   }
+  }
+ ]
+}

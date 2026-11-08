@@ -260,7 +260,7 @@ function renderPicker() {
       </label>
       <p class="muted">A prova tem 4h30 (270 minutos), conforme o subitem 8.1 do edital.</p>
       <button class="btn primary" id="start-exam" ${ready.total ? "" : "disabled"}>${ready.complete ? `Sortear prova de ${EXAM_TOTAL} questões` : `Sortear prova parcial (${ready.total} de ${EXAM_TOTAL} questões)`}</button>
-      <p class="muted">A prova real tem ${EXAM_SHAPE.portugues} de Português, ${EXAM_SHAPE.ingles} de Inglês e ${EXAM_SHAPE.especificas} específicas. O sorteio prioriza questões que você respondeu menos. A divisão das específicas por área é uma estimativa pelo banco, não uma previsão: o edital não informa essa distribuição.</p>
+      <p class="muted">A prova real tem ${EXAM_SHAPE.portugues} de Português, ${EXAM_SHAPE.ingles} de Inglês e ${EXAM_SHAPE.especificas} específicas. O sorteio prioriza questões que você respondeu menos. A divisão das específicas por área é uma estimativa, não uma previsão: metade segue o peso de cada área no programa do edital e metade segue as provas antigas, porque o edital não informa essa distribuição.</p>
       ${ready.authoredUsed ? `<p class="muted">O sorteio inclui ${ready.authoredUsed} questão(ões) autoral(is), só onde falta questão oficial.</p>` : ""}
       ${historic.map((h, i) => `<button class="btn" data-historic="${i}">Fazer a prova ${richText(h.label)} (${h.order.length} questões)</button>
       <p class="muted">Na ordem original.${h.missing.length ? ` Ficaram fora do banco as questões ${numberRanges(h.missing)}.` : ""}</p>`).join("")}

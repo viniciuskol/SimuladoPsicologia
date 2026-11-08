@@ -10,6 +10,11 @@ export const AUTHORED_SOURCE = "__autorais__";
 // Toda área do edital com questão no banco aparece na prova sorteada com pelo menos
 // isto, mesmo que as provas antigas quase não a cobrem.
 const MIN_AREA_SHARE = 3;
+// Metade das específicas segue o peso de cada área no programa do edital (número de
+// subitens do Anexo IV); a outra metade segue o histórico do banco. Sem essa parte, áreas
+// novas no edital (as resoluções do CFP) quase não apareciam, porque provas antigas
+// não as cobravam. É estimativa: o edital não informa a distribuição por área.
+const EDITAL_WEIGHT = 0.5;
 
 const BLOCK_LABELS = {
   portugues: "Língua Portuguesa",
@@ -92,7 +97,8 @@ function pickWithComplement(pool, n, seen, rng) {
 
 // Quantas questões de cada área técnica entram na prova. É estimativa pelo banco, não
 // previsão: o edital não informa a distribuição por área. Nunca passa do que a área tem.
-//  1. Piso: cada área com questão recebe até MIN_AREA_SHARE, oficial ou autoral.
+//  1. Piso: cada área com questão recebe a sua fatia do edital (EDITAL_WEIGHT do total,
+//     dividido pelo número de subitens), nunca menos que MIN_AREA_SHARE, oficial ou autoral.
 //  2. O resto vai só para questões oficiais, proporcional ao que cada área tem no banco
 //     (maior média sucessiva, que respeita o limite de cada área).
 //  3. Se ainda faltar, autorais, sempre para a área com menos questões até ali.
@@ -103,12 +109,14 @@ export function allocateByArea(questions, areas, total) {
     .map(a => {
       const inArea = pool.filter(q => q.area === a.id);
       const authored = inArea.filter(isAuthored).length;
-      return { id: a.id, official: inArea.length - authored, authored, n: 0 };
+      return { id: a.id, topics: a.topics?.length || 0, official: inArea.length - authored, authored, n: 0 };
     });
+  const allTopics = rows.reduce((t, r) => t + r.topics, 0);
+  const floor = r => Math.max(MIN_AREA_SHARE, allTopics ? Math.round((total * EDITAL_WEIGHT * r.topics) / allTopics) : 0);
   let left = total;
   const give = (row, k) => { row.n += k; left -= k; };
 
-  for (const r of rows) give(r, Math.min(MIN_AREA_SHARE, r.official + r.authored, left));
+  for (const r of rows) give(r, Math.min(floor(r), r.official + r.authored, left));
   while (left > 0) {
     const open = rows.filter(r => r.n < r.official);
     if (!open.length) break;

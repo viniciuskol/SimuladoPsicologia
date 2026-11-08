@@ -10,7 +10,8 @@ import json, pathlib, sys, collections
 R = pathlib.Path(__file__).resolve().parent.parent
 D = R / "study" / "data"
 ST = R / "study" / "_internal" / "staging"
-AUT = R / "docs" / "normas" / "questoes-autorais-revisadas.json"
+# Todos os lotes de autorais que passaram por revisão independente.
+AUT_FILES = sorted((R / "docs" / "normas").glob("questoes-autorais*revisadas.json"))
 dry = "--dry-run" in sys.argv
 
 areas = json.load(open(D / "areas.json", encoding="utf-8"))["areas"]
@@ -27,8 +28,8 @@ for f in sorted(ST.glob("*.json")):
     incoming += [(f.stem, q) for q in s.get("questions", [])]
     queue += [dict(item, concurso=f.stem) for item in s.get("queue", [])]
     fora += [dict(item, concurso=f.stem) for item in s.get("fora", [])]
-if AUT.exists():
-    a = json.load(open(AUT, encoding="utf-8"))
+for aut in AUT_FILES:
+    a = json.load(open(aut, encoding="utf-8"))
     incoming += [("autoral", q) for q in (a["questions"] if isinstance(a, dict) else a)]
 
 
@@ -64,6 +65,10 @@ for origin, q in incoming:
     q.setdefault("status", "confirmed"); q.setdefault("annulled", False)
     seen.add(q["id"]); accepted.append(q)
 
+# A revisão da fila (staging/revisao-fila.json) devolve ao banco itens que estavam
+# na fila de outro concurso: eles saem da fila.
+accepted_ids = {q["id"] for q in accepted}
+queue = [item for item in queue if item.get("id") not in accepted_ids]
 final = kept + accepted
 by_area = collections.Counter(q["area"] for q in final)
 by_kind = collections.Counter("autoral" if q["source"].get("authored") else "reaproveitada" if q["source"].get("reused") else "oficial" for q in final)
