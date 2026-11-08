@@ -1,0 +1,4392 @@
+{
+ "version": 1,
+ "note": "Questões autorais, não oficiais; gabarito derivado do artigo citado em verification.notes. gabaritoAnswer é null por não haver gabarito oficial.",
+ "questions": [
+  {
+   "id": "autoral-r825-01",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2025, art. 6º, § 1º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.4 Resolução CFP 8/2025 (avaliação psicológica em concurso público e processos seletivos públicos)",
+   "stem": "De acordo com a Resolução CFP nº 8/2025, a avaliação psicológica em concursos públicos e seleções de natureza pública tem como finalidade",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "avaliar o potencial de desenvolvimento do candidato para qualquer cargo da instituição.",
+     "explanation": "O art. 23 vincula a avaliação ao cargo específico; ela não vale para outro cargo."
+    },
+    {
+     "key": "B",
+     "text": "realizar psicodiagnóstico para identificar psicopatologias nos candidatos.",
+     "explanation": "O art. 6º, § 1º, afasta expressamente essa finalidade."
+    },
+    {
+     "key": "C",
+     "text": "identificar requisitos psicológicos do candidato compatíveis com as atividades do cargo pretendido.",
+     "explanation": "Correta: é o texto do art. 6º, caput."
+    },
+    {
+     "key": "D",
+     "text": "verificar o estado de saúde mental do candidato para fins de emissão de atestado de saúde ocupacional.",
+     "explanation": "O ASO é documento médico da NR-7; não é a finalidade descrita no art. 6º."
+    },
+    {
+     "key": "E",
+     "text": "classificar os candidatos em ordem decrescente de adequação psicológica ao cargo.",
+     "explanation": "O art. 7º, II, prevê indicação de aptidão ou inaptidão, não ordenação dos candidatos."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 6º define a finalidade como identificar requisitos psicológicos compatíveis com as atividades do cargo, e o § 1º exclui o psicodiagnóstico.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 8/2025, art. 6º, § 1º. Trecho conferido no texto-fonte: \"não tem como finalidade realizar psicodiagnóstico\". Texto lido em reprodução não oficial (Normas Brasil); o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r825-02",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2025, arts. 8º, 9º e 10",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.4 Resolução CFP 8/2025 (avaliação psicológica em concurso público e processos seletivos públicos)",
+   "stem": "Em um certame regido pela Resolução CFP nº 8/2025, a comissão que assume a responsabilidade técnica de toda a avaliação psicológica é a Banca",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Avaliadora.",
+     "explanation": "A Banca Avaliadora aplica, corrige e faz a devolutiva (art. 9º)."
+    },
+    {
+     "key": "B",
+     "text": "Recursal.",
+     "explanation": "O nome usado na norma para a análise de recursos é Banca Revisora; \"Recursal\" não existe no texto."
+    },
+    {
+     "key": "C",
+     "text": "Aplicadora.",
+     "explanation": "Essa denominação não existe na resolução; a aplicação cabe à Banca Avaliadora."
+    },
+    {
+     "key": "D",
+     "text": "Revisora.",
+     "explanation": "A Banca Revisora analisa os recursos administrativos (art. 10)."
+    },
+    {
+     "key": "E",
+     "text": "Examinadora.",
+     "explanation": "Correta: art. 8º, caput."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Examinadora: responsabilidade técnica. Avaliadora: aplicação, correção e devolutiva. Revisora: recursos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 8/2025, arts. 8º, 9º e 10. Trecho conferido no texto-fonte: \"Banca Examinadora da Avaliação Psicológica, que assume a responsabilidade técnica\" | \"são denominados Banca Avaliadora\" | \"Banca Revisora da Avaliação Psicológica, que analisará\". Texto lido em reprodução não oficial (Normas Brasil); o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r825-03",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2025, art. 12, parágrafo único",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.4 Resolução CFP 8/2025 (avaliação psicológica em concurso público e processos seletivos públicos)",
+   "stem": "Quanto ao conteúdo do edital referente à fase de avaliação psicológica, a Resolução CFP nº 8/2025 estabelece que é vedado à psicóloga e ao psicólogo",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "divulgar os nomes dos métodos, técnicas e instrumentos que serão aplicados, bem como os escores a serem atingidos.",
+     "explanation": "Correta: art. 12, parágrafo único."
+    },
+    {
+     "key": "B",
+     "text": "participar da definição do conteúdo do edital referente à avaliação psicológica.",
+     "explanation": "A participação é obrigatória (art. 11)."
+    },
+    {
+     "key": "C",
+     "text": "prever a entrevista devolutiva para os candidatos inaptos.",
+     "explanation": "Isso é dever, previsto no art. 12, II."
+    },
+    {
+     "key": "D",
+     "text": "prever recurso administrativo para os candidatos inaptos.",
+     "explanation": "Também é dever, art. 12, II."
+    },
+    {
+     "key": "E",
+     "text": "especificar um extrato dos requisitos psicológicos a serem avaliados.",
+     "explanation": "Isso é dever, previsto no art. 12, I."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O edital traz extrato de requisitos, devolutiva e recurso, mas não pode revelar instrumentos nem escores.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 8/2025, art. 12, parágrafo único. Trecho conferido no texto-fonte: \"divulgar os nomes dos métodos, técnicas e instrumentos psicológicos\". Texto lido em reprodução não oficial (Normas Brasil); o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r825-04",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2025, art. 14, IV, \"a\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.4 Resolução CFP 8/2025 (avaliação psicológica em concurso público e processos seletivos públicos)",
+   "stem": "Conforme a Resolução CFP nº 8/2025, não havendo regulamentação específica para aplicações coletivas presenciais, o limite máximo por sala é de",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "20 candidatos.",
+     "explanation": "Número não previsto no art. 14."
+    },
+    {
+     "key": "B",
+     "text": "25 candidatos.",
+     "explanation": "Número não previsto no art. 14."
+    },
+    {
+     "key": "C",
+     "text": "30 candidatos.",
+     "explanation": "Número não previsto no art. 14."
+    },
+    {
+     "key": "D",
+     "text": "35 candidatos.",
+     "explanation": "Número não previsto no art. 14."
+    },
+    {
+     "key": "E",
+     "text": "40 candidatos.",
+     "explanation": "Correta: art. 14, IV, \"a\"."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 14, IV, \"a\", fixa 40 candidatos por sala, na ausência de regulamentação específica.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 8/2025, art. 14, IV, \"a\". Trecho conferido no texto-fonte: \"limite máximo de 40 candidatos por sala\". Texto lido em reprodução não oficial (Normas Brasil); o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r825-05",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2025, arts. 15, 17 e 19",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.4 Resolução CFP 8/2025 (avaliação psicológica em concurso público e processos seletivos públicos)",
+   "stem": "Sobre a entrevista devolutiva na avaliação psicológica em concursos, à luz da Resolução CFP nº 8/2025, verifica-se que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "não admite a presença de psicóloga ou psicólogo contratado pelo candidato.",
+     "explanation": "O art. 15, II, faculta a contratação de profissional que não tenha participado do certame."
+    },
+    {
+     "key": "B",
+     "text": "o representante legal indicado recebe o documento em envelope lacrado, sem realização da entrevista.",
+     "explanation": "Correta: art. 19."
+    },
+    {
+     "key": "C",
+     "text": "deve ser oferecida a todos os candidatos, aptos e inaptos, antes da homologação.",
+     "explanation": "O art. 15 a dirige aos candidatos considerados inaptos."
+    },
+    {
+     "key": "D",
+     "text": "permite ao candidato retirar os instrumentos do local de arquivamento durante a entrevista.",
+     "explanation": "O art. 16 não admite a remoção."
+    },
+    {
+     "key": "E",
+     "text": "pode ser gravada pelo candidato, desde que comunique previamente a banca.",
+     "explanation": "O art. 17 proíbe filmagem, gravação e fotografia, sem essa ressalva."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Devolutiva é para inaptos, não pode ser gravada, permite acompanhamento por psicólogo contratado; representante legal só recebe documento lacrado.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 8/2025, arts. 15, 17 e 19. Trecho conferido no texto-fonte: \"não poderá ser filmada, gravada nem fotografada\" | \"em envelope devidamente lacrado, sem a realização da entrevista devolutiva\". Texto lido em reprodução não oficial (Normas Brasil); o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r825-06",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2025, art. 4º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.4 Resolução CFP 8/2025 (avaliação psicológica em concurso público e processos seletivos públicos)",
+   "stem": "A Resolução CFP nº 8/2025 dispõe que estão impedidos de atuar em qualquer atividade da avaliação psicológica de um certame a psicóloga e o psicólogo que sejam cônjuges, companheiros ou parentes do candidato",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "por afinidade, apenas, até o quarto grau.",
+     "explanation": "A norma inclui consanguíneos e fixa o terceiro grau."
+    },
+    {
+     "key": "B",
+     "text": "consanguíneos ou por afinidade até o segundo grau.",
+     "explanation": "O grau previsto é o terceiro."
+    },
+    {
+     "key": "C",
+     "text": "consanguíneos, apenas até o primeiro grau.",
+     "explanation": "O art. 4º abrange consanguíneos ou por afinidade até o terceiro grau."
+    },
+    {
+     "key": "D",
+     "text": "em qualquer grau, desde que comprovada influência sobre o resultado.",
+     "explanation": "O impedimento do art. 4º é objetivo e limitado ao terceiro grau."
+    },
+    {
+     "key": "E",
+     "text": "consanguíneos ou por afinidade até o terceiro grau.",
+     "explanation": "Correta: art. 4º."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O impedimento do art. 4º alcança cônjuge, companheiro e parente consanguíneo ou por afinidade até o terceiro grau.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 8/2025, art. 4º. Trecho conferido no texto-fonte: \"parentes consanguíneos ou por afinidade até o terceiro grau\". Texto lido em reprodução não oficial (Normas Brasil); o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r825-07",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2025, arts. 8º § 1º e 23",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.4 Resolução CFP 8/2025 (avaliação psicológica em concurso público e processos seletivos públicos)",
+   "stem": "Um candidato foi considerado apto em avaliação psicológica de concurso público e pretende usar o resultado em outro processo seletivo. Segundo a Resolução CFP nº 8/2025, esse resultado",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "não tem validade para uso em outro cargo ou outro processo seletivo.",
+     "explanation": "Correta: art. 23."
+    },
+    {
+     "key": "B",
+     "text": "vale em certames da mesma instituição, mediante requerimento do candidato.",
+     "explanation": "O art. 23 não faz essa ressalva."
+    },
+    {
+     "key": "C",
+     "text": "pode ser aproveitado se a Banca Revisora do novo certame o homologar.",
+     "explanation": "Não há essa previsão; a Banca Revisora analisa recursos."
+    },
+    {
+     "key": "D",
+     "text": "pode ser aproveitado no prazo de um ano, se a profissiografia for semelhante.",
+     "explanation": "Não há prazo de aproveitamento na norma."
+    },
+    {
+     "key": "E",
+     "text": "tem validade de cinco anos para qualquer cargo de mesma natureza.",
+     "explanation": "Cinco anos é o prazo da responsabilidade técnica da banca (art. 8º, § 1º), não de validade do resultado."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 23 restringe a aptidão ao cargo e ao processo em que foi obtida.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 8/2025, arts. 8º § 1º e 23. Trecho conferido no texto-fonte: \"tem prazo de até cinco anos\" | \"essa avaliação não terá validade para uso em outro cargo\". Texto lido em reprodução não oficial (Normas Brasil); o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r6-01",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 9º, § 1º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "Uma empresa solicita à psicóloga documento que comprove o comparecimento de um empregado a acompanhamento psicológico, com dias e horários. O documento adequado, à luz da Resolução CFP nº 6/2019, é a(o)",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "declaração, na qual é vedado registrar sintomas, situações ou estados psicológicos.",
+     "explanation": "Correta: art. 9º, caput e § 1º."
+    },
+    {
+     "key": "B",
+     "text": "relatório multiprofissional, ainda que não haja atuação em equipe.",
+     "explanation": "Exige contexto multiprofissional (art. 12)."
+    },
+    {
+     "key": "C",
+     "text": "laudo psicológico, por ser o único documento destinado a comprovar comparecimento.",
+     "explanation": "O laudo resulta de avaliação psicológica (art. 13)."
+    },
+    {
+     "key": "D",
+     "text": "atestado psicológico, no qual devem constar os dias de atendimento e o CID obrigatório.",
+     "explanation": "O atestado decorre de avaliação (art. 10, § 2º) e o CID é facultado (art. 10, § 6º, V)."
+    },
+    {
+     "key": "E",
+     "text": "parecer psicológico, que responde a uma consulta sobre questão-problema.",
+     "explanation": "Parecer é análise técnica de questão-problema (art. 14)."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Comparecimento, dias e horários são objeto da declaração, que não pode conter sintomas ou estados psicológicos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 9º, § 1º. Trecho conferido no texto-fonte: \"É vedado o registro de sintomas, situações ou estados psicológicos na Declaração\"."
+   }
+  },
+  {
+   "id": "autoral-r6-02",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 14, IV",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "Segundo a Resolução CFP nº 6/2019, o documento que apresenta análise técnica, respondendo a uma questão-problema do campo psicológico ou a documentos psicológicos questionados, e que não resulta de processo de avaliação ou intervenção, denomina-se",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "parecer psicológico.",
+     "explanation": "Correta: art. 14, caput e inciso IV."
+    },
+    {
+     "key": "B",
+     "text": "relatório psicológico.",
+     "explanation": "O relatório comunica a atuação em processos de trabalho (art. 11)."
+    },
+    {
+     "key": "C",
+     "text": "atestado psicológico.",
+     "explanation": "O atestado resulta de avaliação psicológica (art. 10, § 2º)."
+    },
+    {
+     "key": "D",
+     "text": "laudo psicológico.",
+     "explanation": "O laudo é resultado de avaliação psicológica (art. 13)."
+    },
+    {
+     "key": "E",
+     "text": "declaração.",
+     "explanation": "A declaração registra informações sobre o serviço prestado (art. 9º)."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O parecer responde a uma consulta e não decorre de avaliação nem de intervenção.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 14, IV. Trecho conferido no texto-fonte: \"não é um documento resultante do processo de avaliação psicológica ou de intervenção psicológica\"."
+   }
+  },
+  {
+   "id": "autoral-r6-03",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 13, § 1º, I",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "De acordo com a Resolução CFP nº 6/2019, o item que integra a estrutura do laudo psicológico, mas não a do relatório psicológico, é",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "descrição da demanda.",
+     "explanation": "Item comum aos dois."
+    },
+    {
+     "key": "B",
+     "text": "conclusão.",
+     "explanation": "Item comum aos dois."
+    },
+    {
+     "key": "C",
+     "text": "referências.",
+     "explanation": "Correta: o laudo tem seis itens, os cinco do relatório mais referências."
+    },
+    {
+     "key": "D",
+     "text": "análise.",
+     "explanation": "Item comum aos dois."
+    },
+    {
+     "key": "E",
+     "text": "identificação.",
+     "explanation": "Item comum aos dois (arts. 11, § 1º, e 13, § 1º)."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Relatório: cinco itens. Laudo: seis, com referências.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 13, § 1º, I. Trecho conferido no texto-fonte: \"O Laudo Psicológico é composto de seis itens\"."
+   }
+  },
+  {
+   "id": "autoral-r6-04",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 15, caput",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "Conforme a Resolução CFP nº 6/2019, os documentos escritos decorrentes da prestação de serviços psicológicos e o material que os fundamentou devem ser guardados pelo prazo",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "exato de dois anos, findo o qual devem ser destruídos.",
+     "explanation": "O prazo é mínimo de cinco anos."
+    },
+    {
+     "key": "B",
+     "text": "exato de cinco anos, vedada qualquer ampliação.",
+     "explanation": "O § 2º admite ampliação."
+    },
+    {
+     "key": "C",
+     "text": "mínimo de cinco anos, podendo ser ampliado nos casos previstos no § 2º do art. 15.",
+     "explanation": "Correta: art. 15, caput e § 2º."
+    },
+    {
+     "key": "D",
+     "text": "mínimo de vinte anos após o desligamento do usuário.",
+     "explanation": "Vinte anos é a regra do prontuário médico da NR-7 (7.6.1.1)."
+    },
+    {
+     "key": "E",
+     "text": "mínimo de dez anos, somente em meio físico.",
+     "explanation": "O prazo é de cinco anos e abrange meio físico ou digital."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Cinco anos é mínimo, para material físico ou digital, e pode ser ampliado.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 15, caput. Trecho conferido no texto-fonte: \"deverão ser guardados pelo prazo mínimo de cinco anos\"."
+   }
+  },
+  {
+   "id": "autoral-r6-05",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 18",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "À luz da Resolução CFP nº 6/2019, é dever da psicóloga realizar ao menos uma entrevista devolutiva para a entrega de",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "relatório e laudo.",
+     "explanation": "Correta: art. 18, caput."
+    },
+    {
+     "key": "B",
+     "text": "declaração e parecer.",
+     "explanation": "Também não estão no caput do art. 18."
+    },
+    {
+     "key": "C",
+     "text": "declaração e atestado.",
+     "explanation": "Para os demais documentos, a devolutiva é apenas recomendada quando solicitada (art. 18, § 2º)."
+    },
+    {
+     "key": "D",
+     "text": "atestado e parecer.",
+     "explanation": "Também não estão no caput do art. 18."
+    },
+    {
+     "key": "E",
+     "text": "qualquer documento, sem exceção.",
+     "explanation": "O § 2º distingue os demais documentos."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Devolutiva obrigatória: relatório e laudo; impossibilidade deve ter as razões explicitadas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 18. Trecho conferido no texto-fonte: \"é dever da(o) psicóloga(o) realizar ao menos uma entrevista devolutiva\"."
+   }
+  },
+  {
+   "id": "autoral-r6-06",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 5º, § 8º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "Quanto à forma dos documentos psicológicos, a Resolução CFP nº 6/2019 determina que toda e qualquer modalidade tenha as laudas",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "numeradas, rubricadas da primeira até a penúltima, com assinatura na última página.",
+     "explanation": "Correta: art. 5º, § 8º."
+    },
+    {
+     "key": "B",
+     "text": "assinadas todas, dispensada a numeração.",
+     "explanation": "A numeração é exigida."
+    },
+    {
+     "key": "C",
+     "text": "rubricadas apenas na última página, com assinatura na primeira.",
+     "explanation": "Inverte a regra."
+    },
+    {
+     "key": "D",
+     "text": "numeradas e rubricadas da primeira até a última, dispensada a assinatura.",
+     "explanation": "A rubrica vai até a penúltima e a última página leva assinatura."
+    },
+    {
+     "key": "E",
+     "text": "numeradas apenas quando o documento tiver mais de cinco páginas.",
+     "explanation": "Não há esse limite; é toda e qualquer modalidade."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Numeração em todas; rubrica da primeira à penúltima; assinatura na última.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 5º, § 8º. Trecho conferido no texto-fonte: \"rubricadas da primeira até a penúltima lauda\"."
+   }
+  },
+  {
+   "id": "autoral-r6-07",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 6/2019, art. 11, caput",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "Sobre o relatório psicológico, a Resolução CFP nº 6/2019 estabelece que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "dispensa o registro documental, por ter caráter informativo.",
+     "explanation": "Deve basear-se no registro documental (art. 11, II)."
+    },
+    {
+     "key": "B",
+     "text": "comunica a atuação profissional em processos de trabalho e não tem como finalidade produzir diagnóstico psicológico.",
+     "explanation": "Correta: art. 11, caput."
+    },
+    {
+     "key": "C",
+     "text": "é o único documento em que é facultado o uso da CID.",
+     "explanation": "O uso facultado da CID é previsto para o atestado (art. 10, § 6º, V)."
+    },
+    {
+     "key": "D",
+     "text": "tem como finalidade principal produzir diagnóstico psicológico.",
+     "explanation": "O art. 11 afirma o contrário."
+    },
+    {
+     "key": "E",
+     "text": "deve transcrever literalmente as sessões realizadas.",
+     "explanation": "Não corresponde à descrição literal, salvo justificativa técnica (art. 11, III)."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Relatório comunica a atuação; não visa diagnóstico nem é transcrição das sessões.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 6/2019, art. 11, caput. Trecho conferido no texto-fonte: \"não tendo como finalidade produzir diagnóstico psicológico\"."
+   }
+  },
+  {
+   "id": "autoral-r31-01",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, arts. 3º e 4º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "Na Resolução CFP nº 31/2022, constitui fonte complementar de informação na avaliação psicológica",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "anamnese.",
+     "explanation": "Fonte fundamental (art. 3º, II)."
+    },
+    {
+     "key": "B",
+     "text": "entrevista psicológica.",
+     "explanation": "Fonte fundamental (art. 3º, II)."
+    },
+    {
+     "key": "C",
+     "text": "relatório de equipe multiprofissional.",
+     "explanation": "Correta: documento técnico, art. 4º, II."
+    },
+    {
+     "key": "D",
+     "text": "teste psicológico aprovado pelo CFP.",
+     "explanation": "Fonte fundamental (art. 3º, I)."
+    },
+    {
+     "key": "E",
+     "text": "protocolo de observação de comportamentos obtido em técnica de grupo.",
+     "explanation": "Fonte fundamental (art. 3º, III)."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Fundamentais: testes aprovados, entrevistas e anamneses, protocolos de observação. Complementares: técnicas não psicológicas e documentos técnicos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, arts. 3º e 4º. Trecho conferido no texto-fonte: \"entrevistas psicológicas e anamneses\" | \"técnicas e instrumentos não psicológicos que possuam respaldo da literatura científica\"."
+   }
+  },
+  {
+   "id": "autoral-r31-02",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, art. 12 e parágrafo único",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "A utilização de teste psicológico com parecer desfavorável no SATEPSI, segundo a Resolução CFP nº 31/2022,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "é permitida sempre que a psicóloga justificar tecnicamente a escolha.",
+     "explanation": "A prerrogativa do art. 5º não afasta o art. 12."
+    },
+    {
+     "key": "B",
+     "text": "é considerada falta ética, salvo em pesquisa e em situações de ensino com objetivo formativo e histórico.",
+     "explanation": "Correta: art. 12 e parágrafo único."
+    },
+    {
+     "key": "C",
+     "text": "é permitida quando o teste constar da lista de Testes Não Avaliados.",
+     "explanation": "Esse uso também é falta ética (art. 12)."
+    },
+    {
+     "key": "D",
+     "text": "é crime previsto na Lei nº 4.119/1962.",
+     "explanation": "O art. 12 qualifica a conduta como falta ética; não fala em crime."
+    },
+    {
+     "key": "E",
+     "text": "é vedada também em pesquisa, sem qualquer exceção.",
+     "explanation": "O parágrafo único traz exceções."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Falta ética, com exceção de pesquisa e ensino.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, art. 12 e parágrafo único. Trecho conferido no texto-fonte: \"será considerada falta ética\"."
+   }
+  },
+  {
+   "id": "autoral-r31-03",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, art. 22, caput e § 1º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "De acordo com a Resolução CFP nº 31/2022, os estudos de validade, precisão e normas dos testes psicológicos têm prazo máximo, contado da aprovação do teste pelo Plenário do CFP, de",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "5 anos.",
+     "explanation": "Não corresponde ao art. 22."
+    },
+    {
+     "key": "B",
+     "text": "10 anos.",
+     "explanation": "Não corresponde ao art. 22."
+    },
+    {
+     "key": "C",
+     "text": "15 anos.",
+     "explanation": "Correta: art. 22, caput."
+    },
+    {
+     "key": "D",
+     "text": "20 anos.",
+     "explanation": "Vinte anos é a vigência de validade mantida para testes já aprovados antes da resolução (§ 1º)."
+    },
+    {
+     "key": "E",
+     "text": "25 anos.",
+     "explanation": "Não corresponde ao art. 22."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Regra atual: 15 anos. Para testes anteriores: validade 20 e normas 15.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, art. 22, caput e § 1º. Trecho conferido no texto-fonte: \"prazo máximo de 15 (quinze) anos\"."
+   }
+  },
+  {
+   "id": "autoral-r31-04",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, art. 1º, § 1º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "A Resolução CFP nº 31/2022 conceitua a avaliação psicológica como",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aplicação obrigatória de testes psicológicos aprovados no SATEPSI.",
+     "explanation": "A norma não obriga testes: art. 3º usa \"e/ou\"."
+    },
+    {
+     "key": "B",
+     "text": "processo estruturado de investigação de fenômenos psicológicos, composto de métodos, técnicas e instrumentos, para prover informações à tomada de decisão.",
+     "explanation": "Correta: art. 1º, § 1º."
+    },
+    {
+     "key": "C",
+     "text": "procedimento exclusivo de diagnóstico de psicopatologias individuais.",
+     "explanation": "O conceito abrange âmbitos individual, grupal ou institucional e visa à tomada de decisão."
+    },
+    {
+     "key": "D",
+     "text": "registro documental decorrente da prestação de serviços de psicoterapia.",
+     "explanation": "Registro documental é tema de outra norma citada pela Res. 6/2019."
+    },
+    {
+     "key": "E",
+     "text": "conjunto de entrevistas destinadas a orientar o usuário sobre sua carreira.",
+     "explanation": "Não é o conceito do art. 1º, § 1º."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O conceito destaca processo estruturado e tomada de decisão em âmbito individual, grupal ou institucional.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, art. 1º, § 1º. Trecho conferido no texto-fonte: \"processo estruturado de investigação de fenômenos psicológicos\"."
+   }
+  },
+  {
+   "id": "autoral-r31-05",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, art. 24, §§ 1º e 2º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "Um teste aprovado no SATEPSI passa a ter novo formato de correção, seguindo rigorosamente os procedimentos descritos no manual técnico da versão aprovada. Conforme a Resolução CFP nº 31/2022, nesse caso,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o CRP da jurisdição deve homologar o novo formato.",
+     "explanation": "Não há essa previsão."
+    },
+    {
+     "key": "B",
+     "text": "é obrigatória a submissão de estudo de equivalência à CCAP.",
+     "explanation": "Essa exigência se refere a formato de aplicação (art. 24, § 1º)."
+    },
+    {
+     "key": "C",
+     "text": "o teste perde a condição de uso até a revisão de normas.",
+     "explanation": "A perda de condição está ligada à falta de revisão no prazo (art. 22, § 3º)."
+    },
+    {
+     "key": "D",
+     "text": "o teste passa à lista de Não Avaliados até nova decisão.",
+     "explanation": "Não há essa consequência para formato de correção."
+    },
+    {
+     "key": "E",
+     "text": "não é necessária nova avaliação.",
+     "explanation": "Correta: art. 24, § 2º."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Aplicação diferente: vai à CCAP. Correção diferente, nos termos do manual: não precisa de nova avaliação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, art. 24, §§ 1º e 2º. Trecho conferido no texto-fonte: \"não necessitam de nova avaliação\"."
+   }
+  },
+  {
+   "id": "autoral-r31-06",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 31/2022, arts. 13 e 14",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+   "stem": "Havendo dúvida quanto à classificação de um instrumento como teste psicológico ou instrumento não psicológico, a Resolução CFP nº 31/2022 prevê que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o Ministério do Trabalho e Emprego classifica o instrumento.",
+     "explanation": "Não há previsão de atuação do MTE."
+    },
+    {
+     "key": "B",
+     "text": "os CRPs ficam legitimados a submeter o instrumento à Comissão Consultiva em Avaliação Psicológica do CFP.",
+     "explanation": "Correta: art. 13."
+    },
+    {
+     "key": "C",
+     "text": "o instrumento é automaticamente considerado não privativo.",
+     "explanation": "A classificação é feita pela CCAP (art. 13, § 1º)."
+    },
+    {
+     "key": "D",
+     "text": "a própria psicóloga decide, de modo definitivo, sem submissão a órgão do Sistema Conselhos.",
+     "explanation": "Arts. 13 e 14 preveem submissão à CCAP."
+    },
+    {
+     "key": "E",
+     "text": "o autor do instrumento deve obter parecer de dois pareceristas antes de qualquer uso.",
+     "explanation": "Essa tramitação diz respeito à submissão de teste (art. 19)."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "CRPs (e a psicóloga, por requerimento ao CRP) levam a dúvida à CCAP.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 31/2022, arts. 13 e 14. Trecho conferido no texto-fonte: \"Comissão Consultiva em Avaliação Psicológica\"."
+   }
+  },
+  {
+   "id": "autoral-r14-01",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 14/2023, art. 3º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+   "stem": "Segundo a Resolução CFP nº 14/2023, a avaliação de riscos psicossociais relacionados ao trabalho",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "é privativa do médico do trabalho responsável pelo PCMSO.",
+     "explanation": "A resolução regula a atuação do psicólogo; não existe tal privatividade."
+    },
+    {
+     "key": "B",
+     "text": "depende de autorização prévia do Conselho Regional de Psicologia.",
+     "explanation": "Não há tal exigência."
+    },
+    {
+     "key": "C",
+     "text": "só pode ser realizada individualmente pela psicóloga ou psicólogo.",
+     "explanation": "O art. 3º admite equipe multiprofissional ou intersetorial."
+    },
+    {
+     "key": "D",
+     "text": "pode ser realizada individualmente ou como integrante de equipe multiprofissional ou intersetorial.",
+     "explanation": "Correta: art. 3º."
+    },
+    {
+     "key": "E",
+     "text": "só pode ser realizada por equipe multiprofissional.",
+     "explanation": "O art. 3º admite realização individual."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Forma de realização: individual ou em equipe, resguardadas as atividades privativas da Lei 4.119/1962.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 14/2023, art. 3º. Trecho conferido no texto-fonte: \"pode ser realizada individualmente\"."
+   }
+  },
+  {
+   "id": "autoral-r14-02",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 14/2023, art. 10",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+   "stem": "A Resolução CFP nº 14/2023 revogou a Resolução CFP",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "nº 06, de 2019.",
+     "explanation": "Permanece como referência para documentos."
+    },
+    {
+     "key": "B",
+     "text": "nº 09, de 2018.",
+     "explanation": "A 09/2018 é citada no art. 4º, parágrafo único, mas foi revogada pela 31/2022."
+    },
+    {
+     "key": "C",
+     "text": "nº 10, de 2005.",
+     "explanation": "É o Código de Ética, referido no art. 8º."
+    },
+    {
+     "key": "D",
+     "text": "nº 31, de 2022.",
+     "explanation": "A 31/2022 não é revogada; é a substituta da 09/2018."
+    },
+    {
+     "key": "E",
+     "text": "nº 02, de 2022.",
+     "explanation": "Correta: art. 10."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A resolução revogou a 02/2022 e entrou em vigor na publicação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 14/2023, art. 10. Trecho conferido no texto-fonte: \"revoga a Resolução CFP\"."
+   }
+  },
+  {
+   "id": "autoral-r14-03",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 14/2023, art. 2º, § 3º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+   "stem": "Ao realizar avaliação de riscos psicossociais relacionados ao trabalho, nos termos da Resolução CFP nº 14/2023, a psicóloga deve considerar as atividades desenvolvidas na forma",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "presencial, salvo determinação diversa em norma regulamentadora.",
+     "explanation": "Não há tal ressalva."
+    },
+    {
+     "key": "B",
+     "text": "presencial, remota ou híbrida.",
+     "explanation": "Correta: art. 2º, § 3º."
+    },
+    {
+     "key": "C",
+     "text": "remota, apenas nos casos de teletrabalho formal.",
+     "explanation": "O texto não faz essa restrição."
+    },
+    {
+     "key": "D",
+     "text": "presencial ou híbrida, excluída a remota.",
+     "explanation": "O texto inclui a remota."
+    },
+    {
+     "key": "E",
+     "text": "presencial, apenas.",
+     "explanation": "O § 3º do art. 2º é mais amplo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 2º, § 3º, abrange as três formas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 14/2023, art. 2º, § 3º. Trecho conferido no texto-fonte: \"presencial, remota ou híbrida\"."
+   }
+  },
+  {
+   "id": "autoral-r14-04",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 14/2023, art. 4º e parágrafo único",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+   "stem": "Em relação à autonomia técnica na avaliação de riscos psicossociais relacionados ao trabalho, a Resolução CFP nº 14/2023 estabelece que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o uso de teste psicológico é obrigatório em toda avaliação.",
+     "explanation": "O texto trata de requisitos \"quando utilizados\"."
+    },
+    {
+     "key": "B",
+     "text": "é dispensada a devolução da avaliação realizada.",
+     "explanation": "O art. 4º, IV, menciona o processo de sistematização e devolução."
+    },
+    {
+     "key": "C",
+     "text": "o método será definido exclusivamente pelo SESMT da organização.",
+     "explanation": "O art. 4º assegura autonomia técnica da psicóloga."
+    },
+    {
+     "key": "D",
+     "text": "a psicóloga fica vinculada a um único referencial teórico fixado pelo CFP.",
+     "explanation": "A autonomia considera os referenciais adotados."
+    },
+    {
+     "key": "E",
+     "text": "as técnicas e instrumentos psicológicos utilizados devem apresentar evidências de validade e confiabilidade.",
+     "explanation": "Correta: art. 4º, parágrafo único."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Autonomia técnica, com exigência de evidências de validade e confiabilidade quando usar técnicas e instrumentos psicológicos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 14/2023, art. 4º e parágrafo único. Trecho conferido no texto-fonte: \"evidências de validade e confiabilidade\"."
+   }
+  },
+  {
+   "id": "autoral-r14-05",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 14/2023, art. 6º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+   "stem": "Nos termos da Resolução CFP nº 14/2023, o processo de avaliação de riscos psicossociais, com seus resultados e conclusões,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "dispensa documento escrito quando integrar o PGR.",
+     "explanation": "O art. 6º exige documento psicológico."
+    },
+    {
+     "key": "B",
+     "text": "deve ser sistematizado em documento psicológico compatível com sua finalidade e com as normas do CFP.",
+     "explanation": "Correta: art. 6º."
+    },
+    {
+     "key": "C",
+     "text": "deve constar apenas do Atestado de Saúde Ocupacional.",
+     "explanation": "O ASO é documento médico; a resolução fala em documento psicológico."
+    },
+    {
+     "key": "D",
+     "text": "deve ser publicado integralmente no site da organização.",
+     "explanation": "Sem amparo no texto, e contrário ao sigilo."
+    },
+    {
+     "key": "E",
+     "text": "deve ser comunicado somente por via oral à gerência.",
+     "explanation": "Contraria o art. 6º."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O art. 6º remete às normas de documentos psicológicos do CFP.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 14/2023, art. 6º. Trecho conferido no texto-fonte: \"deve ser sistematizado em documento psicológico\"."
+   }
+  },
+  {
+   "id": "autoral-r9-01",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 9/2024, art. 6º, § 1º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.8 Resolução CFP 09/2024 (exercício mediado por TDICs)",
+   "stem": "Uma psicóloga com inscrição principal no Rio de Janeiro passa a atender, por TDICs, pessoas residentes em outros estados. À luz da Resolução CFP nº 9/2024, ela",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "depende de autorização do CFP para cada atendimento.",
+     "explanation": "Sem previsão no texto."
+    },
+    {
+     "key": "B",
+     "text": "só pode atender residentes do Rio de Janeiro.",
+     "explanation": "O art. 6º permite oferecer o serviço independentemente do estado da inscrição principal."
+    },
+    {
+     "key": "C",
+     "text": "fica dispensada da obrigatoriedade da inscrição secundária.",
+     "explanation": "Correta: art. 6º, § 1º."
+    },
+    {
+     "key": "D",
+     "text": "deve transferir a inscrição para o estado com maior número de usuários.",
+     "explanation": "Não há tal exigência."
+    },
+    {
+     "key": "E",
+     "text": "deve obter inscrição secundária em cada estado.",
+     "explanation": "O art. 6º, § 1º, dispensa essa obrigatoriedade."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O atendimento mediado por TDICs dispensa inscrição secundária.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 9/2024, art. 6º, § 1º. Trecho conferido no texto-fonte: \"ficam dispensados da obrigatoriedade da inscrição secundária\". Texto lido em reprodução da ABMES com cabeçalho do DOU; o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r9-02",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 9/2024, art. 7º e inciso III",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.8 Resolução CFP 09/2024 (exercício mediado por TDICs)",
+   "stem": "Os contratos de prestação de serviços psicológicos mediados por TDICs, conforme a Resolução CFP nº 9/2024,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "podem ser escritos ou verbais e devem abarcar cláusula de eleição de foro na jurisdição da inscrição principal da psicóloga.",
+     "explanation": "Correta: art. 7º, III."
+    },
+    {
+     "key": "B",
+     "text": "podem ser verbais, com foro no domicílio do usuário.",
+     "explanation": "O foro é o da inscrição principal da psicóloga."
+    },
+    {
+     "key": "C",
+     "text": "são dispensados quando o atendimento é eventual.",
+     "explanation": "Não há tal dispensa."
+    },
+    {
+     "key": "D",
+     "text": "devem ser escritos, com firma reconhecida.",
+     "explanation": "O art. 7º admite forma escrita ou verbal."
+    },
+    {
+     "key": "E",
+     "text": "não precisam indicar os recursos tecnológicos empregados.",
+     "explanation": "O inciso II e o parágrafo único exigem essa indicação."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Contrato escrito ou verbal; foro vinculado à inscrição principal; recursos tecnológicos especificados.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 9/2024, art. 7º e inciso III. Trecho conferido no texto-fonte: \"podem ser escritos ou verbais\" | \"cláusula de eleição de foro, fixada sob a jurisdição em que a psicóloga possui inscrição principal\". Texto lido em reprodução da ABMES com cabeçalho do DOU; o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r9-03",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 9/2024, art. 5º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.8 Resolução CFP 09/2024 (exercício mediado por TDICs)",
+   "stem": "Diante de situação que envolva risco de morte do usuário em atendimento mediado por TDICs, a Resolução CFP nº 9/2024 determina que a psicóloga",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "comunique o fato ao CRP, que assumirá o caso.",
+     "explanation": "Sem previsão."
+    },
+    {
+     "key": "B",
+     "text": "prossiga remotamente, por ser vedado qualquer encaminhamento.",
+     "explanation": "O art. 5º prevê justamente encaminhamento."
+    },
+    {
+     "key": "C",
+     "text": "interrompa o atendimento de imediato e encerre o contrato.",
+     "explanation": "O texto não determina interrupção automática."
+    },
+    {
+     "key": "D",
+     "text": "deve considerar a possibilidade de serviço concomitante, encaminhamento à rede de proteção presencial ou serviço exclusivamente presencial.",
+     "explanation": "Correta: art. 5º, I."
+    },
+    {
+     "key": "E",
+     "text": "aguarde solicitação do usuário para qualquer articulação com a rede.",
+     "explanation": "O dever de considerar a rede não depende disso."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O art. 5º não proíbe o remoto: impõe avaliar concomitância, encaminhamento ou serviço presencial, com registro (§ 2º).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 9/2024, art. 5º. Trecho conferido no texto-fonte: \"considerar a possibilidade de serviço prestado concomitante\". Texto lido em reprodução da ABMES com cabeçalho do DOU; o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r9-04",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 9/2024, art. 2º, parágrafo único",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.8 Resolução CFP 09/2024 (exercício mediado por TDICs)",
+   "stem": "Sobre o uso de testes psicológicos no exercício profissional mediado por TDICs, a Resolução CFP nº 9/2024 prevê que devem ter",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "parecer favorável do SATEPSI, com padronização e normatização específica para tal finalidade.",
+     "explanation": "Correta: art. 2º, parágrafo único."
+    },
+    {
+     "key": "B",
+     "text": "versão gratuita disponível na internet.",
+     "explanation": "Sem previsão."
+    },
+    {
+     "key": "C",
+     "text": "apenas o manual técnico impresso, em qualquer condição.",
+     "explanation": "O texto exige parecer favorável e padronização específica."
+    },
+    {
+     "key": "D",
+     "text": "parecer do CRP de domicílio do usuário.",
+     "explanation": "O texto se refere ao SATEPSI."
+    },
+    {
+     "key": "E",
+     "text": "autorização individual do usuário, dispensado o parecer do SATEPSI.",
+     "explanation": "O parecer não é dispensado."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Testes em TDICs: parecer favorável e padronização específica.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 9/2024, art. 2º, parágrafo único. Trecho conferido no texto-fonte: \"com padronização e normatização específica para tal finalidade\". Texto lido em reprodução da ABMES com cabeçalho do DOU; o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r9-05",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 9/2024, arts. 9º e 10",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.8 Resolução CFP 09/2024 (exercício mediado por TDICs)",
+   "stem": "A Resolução CFP nº 9/2024",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "entrou em vigor na data da publicação e revogou a Resolução nº 6/2019.",
+     "explanation": "A vigência é após 30 dias, e a 6/2019 não foi revogada por ela."
+    },
+    {
+     "key": "B",
+     "text": "entrou em vigor após 30 dias da publicação e revogou as Resoluções nº 11/2018 e nº 04/2020.",
+     "explanation": "Correta: arts. 9º e 10."
+    },
+    {
+     "key": "C",
+     "text": "entrou em vigor 60 dias após a publicação e revogou a Resolução nº 09/2018.",
+     "explanation": "60 dias e revogação da 09/2018 referem-se à Res. 31/2022."
+    },
+    {
+     "key": "D",
+     "text": "não contém cláusula de revogação.",
+     "explanation": "O art. 9º tem cláusula expressa."
+    },
+    {
+     "key": "E",
+     "text": "entrou em vigor após 90 dias e revogou o Código de Ética.",
+     "explanation": "90 dias é a regra da Res. 6/2019; o Código segue referido."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Revoga 11/2018 e 04/2020; vigência após 30 dias.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 9/2024, arts. 9º e 10. Trecho conferido no texto-fonte: \"Ficam revogadas a Resolução CFP no 11, de 11 de maio de 2018\" | \"entra em vigor após 30 dias\". Texto lido em reprodução da ABMES com cabeçalho do DOU; o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r9-06",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 9/2024, art. 4º, XI",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.8 Resolução CFP 09/2024 (exercício mediado por TDICs)",
+   "stem": "Na avaliação da viabilidade e dos impactos das ferramentas digitais, a Resolução CFP nº 9/2024 inclui, entre os aspectos a considerar,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o valor de mercado da plataforma tecnológica utilizada.",
+     "explanation": "Não consta do art. 4º."
+    },
+    {
+     "key": "B",
+     "text": "a dispensa da verificação de faixa etária no serviço remoto.",
+     "explanation": "O inciso VIII, \"c\", manda verificar."
+    },
+    {
+     "key": "C",
+     "text": "apenas as competências da profissional, excluídas as dos usuários.",
+     "explanation": "Os incisos II e III abrangem ambas."
+    },
+    {
+     "key": "D",
+     "text": "a preferência da instituição por atendimentos sem identificação da profissional.",
+     "explanation": "O inciso X exige meios de demonstrar a identidade da profissional."
+    },
+    {
+     "key": "E",
+     "text": "riscos à saúde inerentes ao uso de TDICs, como sedentarismo, exposição à luz e comportamentos aditivos.",
+     "explanation": "Correta: art. 4º, XI."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 4º inclui confidencialidade, competências, urgência, características das pessoas e riscos à saúde.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Base: Resolução CFP 9/2024, art. 4º, XI. Trecho conferido no texto-fonte: \"sedentarismo, exposição à luz, comportamentos\". Texto lido em reprodução da ABMES com cabeçalho do DOU; o Atos Oficiais bloqueou o acesso."
+   }
+  },
+  {
+   "id": "autoral-r8-01",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2020, art. 3º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.3 Resolução CFP 8/2020 (violências de gênero)",
+   "stem": "A Resolução CFP nº 8/2020 estabelece que a psicóloga e o psicólogo deverão acolher e cooperar com ações protetivas à",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "mulher, seja ela cisgênero, transexual ou travesti, e à pessoa com expressões não binárias de gênero, dentre outras.",
+     "explanation": "Correta: art. 3º."
+    },
+    {
+     "key": "B",
+     "text": "mulher, desde que haja boletim de ocorrência.",
+     "explanation": "Não há essa condição."
+    },
+    {
+     "key": "C",
+     "text": "pessoa autora de violência, apenas em processo judicial.",
+     "explanation": "Ações com autores estão no § 2º do art. 3º e não têm essa restrição."
+    },
+    {
+     "key": "D",
+     "text": "mulher, excluídas as situações de violência doméstica.",
+     "explanation": "Sem amparo no texto."
+    },
+    {
+     "key": "E",
+     "text": "mulher cisgênero, exclusivamente.",
+     "explanation": "O art. 3º é mais amplo."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "A abrangência é ampla, considerados raça, etnia, orientação sexual e deficiência.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 8/2020, art. 3º. Trecho conferido no texto-fonte: \"seja ela cisgênero, transexual ou travesti\"."
+   }
+  },
+  {
+   "id": "autoral-r8-02",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2020, art. 5º, I",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.3 Resolução CFP 8/2020 (violências de gênero)",
+   "stem": "Em caso de possibilidade de quebra de sigilo, notificação compulsória ou depoimento em juízo relacionados à violência de gênero, a Resolução CFP nº 8/2020 determina que a psicóloga deverá",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "revelar todas as informações do prontuário, por dever legal.",
+     "explanation": "Contraria o art. 5º, I."
+    },
+    {
+     "key": "B",
+     "text": "recusar-se, em qualquer hipótese, a prestar informações.",
+     "explanation": "Sem amparo; o texto regula como prestar."
+    },
+    {
+     "key": "C",
+     "text": "prestar informações estritamente necessárias, de modo a não comprometer a segurança da pessoa que sofreu violência.",
+     "explanation": "Correta: art. 5º, I."
+    },
+    {
+     "key": "D",
+     "text": "indicar dados sigilosos em qualquer sistema disponível na instituição.",
+     "explanation": "O inciso III limita a formulários e sistemas que assegurem o sigilo."
+    },
+    {
+     "key": "E",
+     "text": "prestar explicações judiciais sem observar padrão de documentos.",
+     "explanation": "O inciso IV remete à Res. 6/2019."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Informação estritamente necessária, impactos na vulnerabilidade, sigilo nos sistemas, documentos da Res. 6/2019.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 8/2020, art. 5º, I. Trecho conferido no texto-fonte: \"prestar informações estritamente necessárias\"."
+   }
+  },
+  {
+   "id": "autoral-r8-03",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2020, art. 4º, V",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.3 Resolução CFP 8/2020 (violências de gênero)",
+   "stem": "Conforme a Resolução CFP nº 8/2020, em relação às pessoas que sofrem violências de gênero, a psicóloga e o psicólogo contribuirão para",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "decidir pela pessoa atendida o melhor caminho jurídico.",
+     "explanation": "O art. 4º, VI, fala em não prejudicar a autonomia."
+    },
+    {
+     "key": "B",
+     "text": "intensificar o acompanhamento medicamentoso como primeira medida.",
+     "explanation": "O art. 4º, I, trata de não intensificar a medicalização."
+    },
+    {
+     "key": "C",
+     "text": "não favorecer patologizações e revitimizações.",
+     "explanation": "Correta: art. 4º, V."
+    },
+    {
+     "key": "D",
+     "text": "aplicar instrumentos que reforcem padrões de gênero.",
+     "explanation": "O art. 4º, II, proíbe instrumentos que criem ou acentuem estereótipos."
+    },
+    {
+     "key": "E",
+     "text": "desenvolver culturas institucionais de neutralidade diante do assédio.",
+     "explanation": "O art. 4º, III, trata de não desenvolver culturas assediadoras."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O art. 4º lista seis condutas negativas, incluindo não patologizar nem revitimizar.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 8/2020, art. 4º, V. Trecho conferido no texto-fonte: \"não favorecer patologizações e revitimizações\"."
+   }
+  },
+  {
+   "id": "autoral-r8-04",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 8/2020, art. 3º, § 2º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.3 Resolução CFP 8/2020 (violências de gênero)",
+   "stem": "Sobre autores de violência de gênero, a Resolução CFP nº 8/2020 dispõe que a psicóloga e o psicólogo",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "estão proibidos de atendê-los.",
+     "explanation": "Contraria o § 2º do art. 3º."
+    },
+    {
+     "key": "B",
+     "text": "devem encaminhá-los exclusivamente à rede de saúde.",
+     "explanation": "Sem essa restrição."
+    },
+    {
+     "key": "C",
+     "text": "só podem atendê-los por determinação judicial.",
+     "explanation": "Sem essa condição."
+    },
+    {
+     "key": "D",
+     "text": "considerarão promover ações com eles, em processos interventivos e de acolhimento, a fim de romper ciclos de violência.",
+     "explanation": "Correta: art. 3º, § 2º."
+    },
+    {
+     "key": "E",
+     "text": "devem denunciá-los à autoridade policial em qualquer caso.",
+     "explanation": "Sem amparo no texto."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O texto prevê ações com autores, com o objetivo de romper ciclos de violência.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 8/2020, art. 3º, § 2º. Trecho conferido no texto-fonte: \"promover ações com autores de violência\"."
+   }
+  },
+  {
+   "id": "autoral-cod-01",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 10",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Diante de conflito entre o dever de sigilo e as afirmações dos princípios fundamentais, excetuados os casos previstos em lei, o Código de Ética Profissional do Psicólogo estabelece que o psicólogo",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "deverá consultar o empregador, se atuar em organização.",
+     "explanation": "Sem previsão."
+    },
+    {
+     "key": "B",
+     "text": "poderá decidir pela quebra, baseando a decisão na busca do menor prejuízo.",
+     "explanation": "Correta: art. 10."
+    },
+    {
+     "key": "C",
+     "text": "deverá quebrar o sigilo e informar todo o conteúdo dos atendimentos.",
+     "explanation": "O texto usa \"poderá\" e limita às informações estritamente necessárias."
+    },
+    {
+     "key": "D",
+     "text": "não poderá quebrar o sigilo em nenhuma hipótese.",
+     "explanation": "O art. 10 prevê a possibilidade."
+    },
+    {
+     "key": "E",
+     "text": "deverá solicitar autorização prévia do Conselho Regional.",
+     "explanation": "Sem previsão."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Poder, não dever; menor prejuízo; só informações estritamente necessárias.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 10. Trecho conferido no texto-fonte: \"poderá decidir pela quebra de sigilo\"."
+   }
+  },
+  {
+   "id": "autoral-cod-02",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 21",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Segundo o Código de Ética Profissional do Psicólogo, a suspensão do exercício profissional é penalidade aplicável por até",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "15 dias, ad referendum do Conselho Regional.",
+     "explanation": "Prazo e instância errados."
+    },
+    {
+     "key": "B",
+     "text": "30 dias, ad referendum do Conselho Federal de Psicologia.",
+     "explanation": "Correta: art. 21, \"d\"."
+    },
+    {
+     "key": "C",
+     "text": "60 dias, ad referendum do Conselho Federal de Psicologia.",
+     "explanation": "Prazo errado."
+    },
+    {
+     "key": "D",
+     "text": "90 dias, sem necessidade de referendo.",
+     "explanation": "Prazo errado, e há referendo."
+    },
+    {
+     "key": "E",
+     "text": "180 dias, ad referendum do Conselho Regional.",
+     "explanation": "Prazo e instância errados."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Art. 21: advertência, multa, censura pública, suspensão até 30 dias e cassação, as duas últimas ad referendum do CFP.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 21. Trecho conferido no texto-fonte: \"Suspensão do exercício profissional, por até 30 (trinta) dias\" | \"Censura pública\"."
+   }
+  },
+  {
+   "id": "autoral-cod-03",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 8º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Para realizar atendimento não eventual de criança, adolescente ou interdito, o psicólogo, de acordo com o Código de Ética, deverá",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "obter autorização de ambos os responsáveis, por escrito.",
+     "explanation": "O art. 8º exige ao menos um."
+    },
+    {
+     "key": "B",
+     "text": "recusar o atendimento se não houver responsável legal presente.",
+     "explanation": "O § 1º manda atender e comunicar às autoridades."
+    },
+    {
+     "key": "C",
+     "text": "comunicar previamente o Conselho Regional.",
+     "explanation": "Sem previsão."
+    },
+    {
+     "key": "D",
+     "text": "obter autorização do juiz da infância.",
+     "explanation": "Sem previsão."
+    },
+    {
+     "key": "E",
+     "text": "obter autorização de ao menos um de seus responsáveis, observada a legislação vigente.",
+     "explanation": "Correta: art. 8º."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Ao menos um responsável; sem responsável, atender e comunicar às autoridades.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 8º. Trecho conferido no texto-fonte: \"autorização de ao menos um de seus responsáveis\"."
+   }
+  },
+  {
+   "id": "autoral-cod-04",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 15, §§ 1º e 2º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Em caso de extinção do serviço de Psicologia de uma organização, o Código de Ética determina que o psicólogo responsável",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "envie os arquivos ao Conselho Federal de Psicologia.",
+     "explanation": "A instância é o CRP."
+    },
+    {
+     "key": "B",
+     "text": "informe ao Conselho Regional de Psicologia, que providenciará a destinação dos arquivos confidenciais.",
+     "explanation": "Correta: art. 15, § 2º."
+    },
+    {
+     "key": "C",
+     "text": "destrua imediatamente todos os arquivos.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "entregue os arquivos ao setor de recursos humanos.",
+     "explanation": "Sem amparo; violaria o sigilo."
+    },
+    {
+     "key": "E",
+     "text": "leve os arquivos para seu consultório particular.",
+     "explanation": "Sem amparo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Demissão: repassa ou lacra (§ 1º). Extinção: CRP dá destinação (§ 2º).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 15, §§ 1º e 2º. Trecho conferido no texto-fonte: \"informará ao Conselho Regional de Psicologia\"."
+   }
+  },
+  {
+   "id": "autoral-cod-05",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 3º, parágrafo único",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Um psicólogo verifica incompatibilidade entre as práticas de uma organização e os princípios do Código de Ética. Conforme a norma, cabe a ele",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "recusar-se a prestar serviços e, se pertinente, apresentar denúncia ao órgão competente.",
+     "explanation": "Correta: art. 3º, parágrafo único."
+    },
+    {
+     "key": "B",
+     "text": "apresentar denúncia em qualquer caso, antes de tomar qualquer outra medida.",
+     "explanation": "A denúncia é \"se pertinente\"."
+    },
+    {
+     "key": "C",
+     "text": "comunicar o fato apenas aos colegas de equipe.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "permanecer no cargo, desde que registre sua discordância em prontuário.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "adaptar sua atuação às práticas da organização, em respeito à hierarquia.",
+     "explanation": "Contraria o art. 3º."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "A recusa cabe; a denúncia depende de pertinência.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 3º, parágrafo único. Trecho conferido no texto-fonte: \"cabe ao psicólogo recusar-se a prestar serviços\"."
+   }
+  },
+  {
+   "id": "autoral-cod-06",
+   "source": {
+    "authored": true,
+    "basis": "Código de Ética (Res. CFP 10/2005), art. 2º, \"k\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "É vedado ao psicólogo, segundo o Código de Ética, ser perito, avaliador ou parecerista em situações nas quais",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o avaliado seja maior de idade e capaz.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "B",
+     "text": "não tenha mais de cinco anos de experiência.",
+     "explanation": "Sem amparo; o critério geral é capacitação (art. 1º, \"b\")."
+    },
+    {
+     "key": "C",
+     "text": "seus vínculos pessoais ou profissionais, atuais ou anteriores, possam afetar a qualidade do trabalho ou a fidelidade aos resultados.",
+     "explanation": "Correta: art. 2º, \"k\"."
+    },
+    {
+     "key": "D",
+     "text": "o trabalho seja remunerado pela instituição solicitante.",
+     "explanation": "A remuneração não é o critério da alínea \"k\"."
+    },
+    {
+     "key": "E",
+     "text": "a demanda tenha origem no Poder Judiciário.",
+     "explanation": "Sem amparo."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "A vedação considera vínculos, atuais ou anteriores, que afetem a qualidade ou fidelidade.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Código de Ética (Res. CFP 10/2005), art. 2º, \"k\". Trecho conferido no texto-fonte: \"Ser perito, avaliador ou parecerista\"."
+   }
+  },
+  {
+   "id": "autoral-r1-01",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 01/1999, art. 3º e parágrafo único",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.1 Resolução CFP 01/1999 (orientação sexual)",
+   "stem": "De acordo com a Resolução CFP nº 01/1999, os psicólogos",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "não colaborarão com eventos e serviços que proponham tratamento e cura das homossexualidades.",
+     "explanation": "Correta: art. 3º, parágrafo único."
+    },
+    {
+     "key": "B",
+     "text": "estão impedidos de atender qualquer demanda relacionada à sexualidade.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "C",
+     "text": "podem oferecer serviços de cura, desde que solicitados pelo usuário.",
+     "explanation": "O parágrafo único veda colaborar com eventos e serviços de tratamento e cura."
+    },
+    {
+     "key": "D",
+     "text": "devem orientar a pessoa homossexual a procurar tratamento.",
+     "explanation": "O art. 3º veda ação coercitiva para tratamentos não solicitados."
+    },
+    {
+     "key": "E",
+     "text": "podem patologizar práticas homoeróticas quando em pesquisa.",
+     "explanation": "O art. 3º veda favorecer a patologização, sem essa exceção."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "A norma veda patologização, coerção e colaboração com serviços de cura.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 01/1999, art. 3º e parágrafo único. Trecho conferido no texto-fonte: \"tratamento e cura das homossexualidades\"."
+   }
+  },
+  {
+   "id": "autoral-r1-02",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 01/1999, art. 4º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.1 Resolução CFP 01/1999 (orientação sexual)",
+   "stem": "A Resolução CFP nº 01/1999 dispõe que os psicólogos não participarão de pronunciamentos públicos, nos meios de comunicação de massa, que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tratem do tema da sexualidade em qualquer perspectiva.",
+     "explanation": "A vedação é apenas ao reforço de preconceitos."
+    },
+    {
+     "key": "B",
+     "text": "sejam promovidos por instituições de ensino.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "C",
+     "text": "divulguem conhecimentos sobre direitos da população LGBT.",
+     "explanation": "Sem amparo; o art. 2º estimula a reflexão."
+    },
+    {
+     "key": "D",
+     "text": "não tenham autorização prévia do CFP.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "reforcem preconceitos sociais em relação aos homossexuais como portadores de qualquer desordem psíquica.",
+     "explanation": "Correta: art. 4º."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 4º veda reforço de preconceito, não o debate público.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 01/1999, art. 4º. Trecho conferido no texto-fonte: \"como portadores de qualquer\"."
+   }
+  },
+  {
+   "id": "autoral-r18-01",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 18/2002, art. 3º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.2 Resolução CFP 18/2002 (preconceito e discriminação racial)",
+   "stem": "Conforme a Resolução CFP nº 18/2002, os psicólogos, no exercício profissional, perante o crime do racismo,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "devem apenas orientar a vítima a procurar advogado.",
+     "explanation": "O art. 3º é mais amplo."
+    },
+    {
+     "key": "B",
+     "text": "devem aguardar orientação do Conselho Federal.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "C",
+     "text": "não serão coniventes e nem se omitirão.",
+     "explanation": "Correta: art. 3º."
+    },
+    {
+     "key": "D",
+     "text": "só devem agir mediante requisição judicial.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "podem manter neutralidade, em nome do sigilo.",
+     "explanation": "Contraria o art. 3º."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Conivência e omissão são vedadas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 18/2002, art. 3º. Trecho conferido no texto-fonte: \"não serão coniventes e nem se omitirão\"."
+   }
+  },
+  {
+   "id": "autoral-r18-02",
+   "source": {
+    "authored": true,
+    "basis": "Resolução CFP 18/2002, art. 4º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.2 Resolução CFP 18/2002 (preconceito e discriminação racial)",
+   "stem": "A Resolução CFP nº 18/2002 veda aos psicólogos",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "participar de qualquer evento na mídia.",
+     "explanation": "O art. 6º veda só pronunciamentos que reforcem o preconceito racial."
+    },
+    {
+     "key": "B",
+     "text": "pesquisar o tema das relações raciais.",
+     "explanation": "Sem amparo; o art. 1º estimula a reflexão."
+    },
+    {
+     "key": "C",
+     "text": "atender pessoas que tenham sofrido discriminação racial.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "atuar em instituições públicas de segurança.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "utilizar instrumentos ou técnicas psicológicas para criar, manter ou reforçar preconceitos, estigmas, estereótipos ou discriminação racial.",
+     "explanation": "Correta: art. 4º."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O art. 4º trata do uso de instrumentos e técnicas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Resolução CFP 18/2002, art. 4º. Trecho conferido no texto-fonte: \"para criar, manter ou reforçar preconceitos\"."
+   }
+  },
+  {
+   "id": "autoral-n1-01",
+   "source": {
+    "authored": true,
+    "basis": "NR-1, item 1.5.3.1.4",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Na redação do capítulo 1.5 da NR-1 dada pela Portaria MTE nº 1.419/2024, os fatores de risco psicossociais relacionados ao trabalho são abrangidos pelo gerenciamento de riscos ocupacionais como parte dos riscos",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "de acidentes.",
+     "explanation": "Citados à parte no item 1.5.3.1.4."
+    },
+    {
+     "key": "B",
+     "text": "físicos.",
+     "explanation": "Citados à parte."
+    },
+    {
+     "key": "C",
+     "text": "biológicos.",
+     "explanation": "Citados à parte."
+    },
+    {
+     "key": "D",
+     "text": "químicos.",
+     "explanation": "Citados à parte."
+    },
+    {
+     "key": "E",
+     "text": "relacionados aos fatores ergonômicos.",
+     "explanation": "Correta: item 1.5.3.1.4."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Psicossociais aparecem dentro dos fatores ergonômicos, com remissão à NR-17.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-1, item 1.5.3.1.4. Trecho conferido no texto-fonte: \"incluindo os fatores de risco psicossociais relacionados ao trabalho\"."
+   }
+  },
+  {
+   "id": "autoral-n1-02",
+   "source": {
+    "authored": true,
+    "basis": "Portaria MTE 765/2025, art. 1º; NR-1, cap. 1.5",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "A nova redação do capítulo 1.5 da NR-1, aprovada pela Portaria MTE nº 1.419/2024, teve o início de vigência prorrogado pela Portaria MTE nº 765/2025, entrando em vigor em",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "27 de agosto de 2024.",
+     "explanation": "É a data da Portaria 1.419."
+    },
+    {
+     "key": "B",
+     "text": "15 de maio de 2025.",
+     "explanation": "É a data da Portaria 765."
+    },
+    {
+     "key": "C",
+     "text": "26 de maio de 2025.",
+     "explanation": "Era a data original, superada pela prorrogação."
+    },
+    {
+     "key": "D",
+     "text": "26 de maio de 2026.",
+     "explanation": "Correta: indicação do PDF oficial; prorrogação até 25/05/2026."
+    },
+    {
+     "key": "E",
+     "text": "1º de janeiro de 2027.",
+     "explanation": "Sem amparo."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Portaria 765: prorrogação até 25/05/2026; PDF oficial informa vigor em 26/05/2026.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Portaria MTE 765/2025, art. 1º; NR-1, cap. 1.5. Trecho conferido no texto-fonte: \"Entra em vigor em 26 de maio de 2026\"."
+   }
+  },
+  {
+   "id": "autoral-n1-03",
+   "source": {
+    "authored": true,
+    "basis": "NR-1, item 1.5.7.1",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Segundo a NR-1, o Programa de Gerenciamento de Riscos deve conter, no mínimo, os seguintes documentos:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "análise ergonômica do trabalho e ASO.",
+     "explanation": "AET é da NR-17 e ASO é da NR-7."
+    },
+    {
+     "key": "B",
+     "text": "PCMSO e relatório analítico.",
+     "explanation": "São da NR-7."
+    },
+    {
+     "key": "C",
+     "text": "inventário de riscos e plano de ação.",
+     "explanation": "Correta: item 1.5.7.1."
+    },
+    {
+     "key": "D",
+     "text": "mapa de riscos e ata da CIPA.",
+     "explanation": "São da NR-5."
+    },
+    {
+     "key": "E",
+     "text": "laudo psicológico e parecer técnico.",
+     "explanation": "Documentos da Res. CFP 6/2019."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "PGR: inventário e plano de ação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-1, item 1.5.7.1. Trecho conferido no texto-fonte: \"inventário de riscos\" | \"b) plano de ação\"."
+   }
+  },
+  {
+   "id": "autoral-n1-04",
+   "source": {
+    "authored": true,
+    "basis": "NR-1, itens 1.5.4.4.6 e 1.5.4.4.6.1",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "A avaliação de riscos, conforme a NR-1, constitui processo contínuo e deve ser revista",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "apenas quando ocorrer acidente.",
+     "explanation": "O acidente é só uma das hipóteses."
+    },
+    {
+     "key": "B",
+     "text": "a cada dois anos ou nas situações indicadas na norma, podendo o prazo ser de até três anos para organizações com certificação em sistema de gestão de SST.",
+     "explanation": "Correta: itens 1.5.4.4.6 e 1.5.4.4.6.1."
+    },
+    {
+     "key": "C",
+     "text": "a cada cinco anos.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "a cada ano, sem exceção.",
+     "explanation": "O prazo geral é de dois anos."
+    },
+    {
+     "key": "E",
+     "text": "a cada três anos, para todas as organizações.",
+     "explanation": "Três anos é só para certificadas."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Dois anos ou gatilhos; até três com certificação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-1, itens 1.5.4.4.6 e 1.5.4.4.6.1. Trecho conferido no texto-fonte: \"ser revista a cada dois anos\" | \"o prazo poderá ser de até 3 (três) anos\"."
+   }
+  },
+  {
+   "id": "autoral-n1-05",
+   "source": {
+    "authored": true,
+    "basis": "NR-1, item 1.4.1, \"g\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Na ordem de prioridade das medidas de prevenção estabelecida na NR-1, a etapa que antecede as medidas administrativas ou de organização do trabalho é a",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "minimização e controle com medidas de proteção coletiva.",
+     "explanation": "Correta: 1.4.1, \"g\", II, antes do III."
+    },
+    {
+     "key": "B",
+     "text": "adoção de medidas de proteção individual.",
+     "explanation": "É a última etapa."
+    },
+    {
+     "key": "C",
+     "text": "elaboração do mapa de riscos.",
+     "explanation": "Não é etapa dessa ordem."
+    },
+    {
+     "key": "D",
+     "text": "emissão de ASO.",
+     "explanation": "Não é etapa dessa ordem."
+    },
+    {
+     "key": "E",
+     "text": "realização da SIPAT.",
+     "explanation": "Não é etapa dessa ordem."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Ordem: eliminação; coletiva; administrativa/organizacional; individual.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-1, item 1.4.1, \"g\". Trecho conferido no texto-fonte: \"minimização e controle dos fatores de risco, com a adoção de medidas de proteção coletiva\"."
+   }
+  },
+  {
+   "id": "autoral-n1-06",
+   "source": {
+    "authored": true,
+    "basis": "NR-1, item 1.4.1.1, \"b\" e \"c\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Para organizações obrigadas a constituir CIPA, a NR-1 exige, quanto à prevenção e ao combate ao assédio sexual e às demais formas de violência,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "capacitação apenas dos gestores, a cada cinco anos.",
+     "explanation": "Abrange todos os níveis, a cada doze meses no mínimo."
+    },
+    {
+     "key": "B",
+     "text": "regras de conduta sigilosas, sem divulgação aos empregados.",
+     "explanation": "O texto exige ampla divulgação."
+    },
+    {
+     "key": "C",
+     "text": "procedimentos de denúncia que identifiquem obrigatoriamente o denunciante.",
+     "explanation": "O texto garante o anonimato."
+    },
+    {
+     "key": "D",
+     "text": "aplicação de teste psicológico aos denunciados.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "ações de capacitação, orientação e sensibilização, no mínimo a cada 12 meses, de todos os níveis hierárquicos.",
+     "explanation": "Correta: item 1.4.1.1, \"c\"."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Regras divulgadas, denúncia com anonimato e capacitação ao menos a cada 12 meses.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-1, item 1.4.1.1, \"b\" e \"c\". Trecho conferido no texto-fonte: \"garantido o anonimato da pessoa denunciante\" | \"no mínimo a cada 12 (doze) meses\"."
+   }
+  },
+  {
+   "id": "autoral-n1-07",
+   "source": {
+    "authored": true,
+    "basis": "NR-1, item 1.5.4.4.5.3; Guia MTE de Fatores de Riscos Psicossociais, FAQ 2 e 6",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "De acordo com o Guia de Informações sobre os Fatores de Riscos Psicossociais publicado pelo MTE, a identificação e a avaliação desses fatores no GRO",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "têm por objetivo verificar a saúde mental de cada trabalhador.",
+     "explanation": "FAQ 6: o objetivo é verificar as condições de trabalho."
+    },
+    {
+     "key": "B",
+     "text": "incluem aspectos da vida do trabalhador fora do trabalho.",
+     "explanation": "FAQ 5: não incluem."
+    },
+    {
+     "key": "C",
+     "text": "devem ser feitas obrigatoriamente por psicóloga ou psicólogo.",
+     "explanation": "FAQ 2: as NR não definem profissional específico."
+    },
+    {
+     "key": "D",
+     "text": "verificam as condições em que as atividades são realizadas, sem que as NR definam um profissional específico.",
+     "explanation": "Correta: FAQ 2 e 6."
+    },
+    {
+     "key": "E",
+     "text": "dependem de ferramenta única indicada pelo MTE.",
+     "explanation": "FAQ 4: o MTE não indica ferramenta."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O foco é a condição de trabalho; profissional e ferramenta são escolhas da organização.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-1, item 1.5.4.4.5.3; Guia MTE de Fatores de Riscos Psicossociais, FAQ 2 e 6. Trecho conferido no texto-fonte: \"As NR não definem um profissional específico\" | \"O objetivo do processo não é avaliar a saúde mental de cada trabalhador\"."
+   }
+  },
+  {
+   "id": "autoral-n4-01",
+   "source": {
+    "authored": true,
+    "basis": "NR-4, item 4.3.2",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Nos termos da NR-4, o SESMT é composto por",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "médico do trabalho, psicólogo, engenheiro de segurança, técnico de segurança e assistente social.",
+     "explanation": "Psicólogo e assistente social não constam do item 4.3.2."
+    },
+    {
+     "key": "B",
+     "text": "qualquer profissional de saúde indicado pela organização.",
+     "explanation": "O item enumera as categorias."
+    },
+    {
+     "key": "C",
+     "text": "médico do trabalho, engenheiro de segurança do trabalho, técnico de segurança do trabalho, enfermeiro do trabalho e auxiliar/técnico em enfermagem do trabalho.",
+     "explanation": "Correta: item 4.3.2."
+    },
+    {
+     "key": "D",
+     "text": "representantes eleitos pelos empregados e designados pelo empregador.",
+     "explanation": "Essa é a lógica da CIPA."
+    },
+    {
+     "key": "E",
+     "text": "psicólogo organizacional, enfermeiro do trabalho e técnico de segurança.",
+     "explanation": "Não consta psicólogo no item 4.3.2."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O psicólogo não integra a composição do SESMT na NR-4.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-4, item 4.3.2. Trecho conferido no texto-fonte: \"médico do trabalho, engenheiro de segurança do trabalho, técnico de segurança do trabalho, enfermeiro do trabalho e auxiliar/técnico em enfermagem do trabalho\"."
+   }
+  },
+  {
+   "id": "autoral-n4-02",
+   "source": {
+    "authored": true,
+    "basis": "NR-4, itens 4.3.5 e 4.3.7",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "A NR-4 determina que o engenheiro de segurança, o médico do trabalho e o enfermeiro do trabalho dediquem ao SESMT, por semana, no mínimo,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "oito horas, apenas.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "B",
+     "text": "quinze horas (tempo parcial) ou trinta horas (tempo integral).",
+     "explanation": "Correta: item 4.3.7."
+    },
+    {
+     "key": "C",
+     "text": "dez horas (parcial) ou vinte horas (integral).",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "quarenta e quatro horas, em todos os casos.",
+     "explanation": "É a carga do técnico e do auxiliar/técnico (4.3.5)."
+    },
+    {
+     "key": "E",
+     "text": "vinte horas, apenas.",
+     "explanation": "Sem amparo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Nível superior: 15 h ou 30 h; técnicos: 44 h.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-4, itens 4.3.5 e 4.3.7. Trecho conferido no texto-fonte: \"no mínimo, quinze horas (tempo parcial) ou trinta horas (tempo integral)\"."
+   }
+  },
+  {
+   "id": "autoral-n4-03",
+   "source": {
+    "authored": true,
+    "basis": "NR-4, item 4.4.1",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Segundo a NR-4, o SESMT deve ser constituído nas modalidades",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "própria ou por turma de embarque.",
+     "explanation": "Turma de embarque é da NR-37."
+    },
+    {
+     "key": "B",
+     "text": "individual, regionalizado ou estadual.",
+     "explanation": "Correta: item 4.4.1."
+    },
+    {
+     "key": "C",
+     "text": "central, setorial ou terceirizada.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "federal, estadual ou municipal.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "permanente ou temporária.",
+     "explanation": "Sem amparo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Modalidades obrigatórias: individual, regionalizado, estadual; compartilhado é possibilidade do 4.4.5.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-4, item 4.4.1. Trecho conferido no texto-fonte: \"nas modalidades individual, regionalizado ou estadual\"."
+   }
+  },
+  {
+   "id": "autoral-n4-04",
+   "source": {
+    "authored": true,
+    "basis": "NR-4, item 4.3.1, \"a\", \"b\" e \"h\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Entre as competências do SESMT previstas na NR-4, inclui-se",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "emitir o Atestado Psicológico dos empregados.",
+     "explanation": "Sem amparo; documento da Res. CFP 6/2019."
+    },
+    {
+     "key": "B",
+     "text": "aplicar sanções a empregados denunciados por assédio.",
+     "explanation": "Sem amparo na NR-4."
+    },
+    {
+     "key": "C",
+     "text": "eleger o vice-presidente da CIPA.",
+     "explanation": "Compete aos representantes eleitos (NR-5)."
+    },
+    {
+     "key": "D",
+     "text": "aprovar testes psicológicos no SATEPSI.",
+     "explanation": "Compete ao Sistema Conselhos."
+    },
+    {
+     "key": "E",
+     "text": "propor, imediatamente, a interrupção das atividades em condições associadas a grave e iminente risco.",
+     "explanation": "Correta: item 4.3.1, \"h\"."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O SESMT participa do inventário, acompanha o plano de ação e propõe a interrupção.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-4, item 4.3.1, \"a\", \"b\" e \"h\". Trecho conferido no texto-fonte: \"propor, imediatamente, a interrupção das atividades\"."
+   }
+  },
+  {
+   "id": "autoral-n5-01",
+   "source": {
+    "authored": true,
+    "basis": "NR-5, item 5.4.6",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "O mandato dos membros eleitos da CIPA, de acordo com a NR-5, tem duração de",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "dois anos, com reeleições ilimitadas.",
+     "explanation": "Prazo e regra errados."
+    },
+    {
+     "key": "B",
+     "text": "três anos, sem reeleição.",
+     "explanation": "Prazo errado."
+    },
+    {
+     "key": "C",
+     "text": "um ano, permitida uma reeleição.",
+     "explanation": "Correta: item 5.4.6."
+    },
+    {
+     "key": "D",
+     "text": "um ano, vedada a reeleição.",
+     "explanation": "É permitida uma reeleição."
+    },
+    {
+     "key": "E",
+     "text": "dois anos, permitida uma reeleição.",
+     "explanation": "Prazo errado."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Um ano, uma reeleição.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-5, item 5.4.6. Trecho conferido no texto-fonte: \"terá a duração de um ano, permitida uma reeleição\"."
+   }
+  },
+  {
+   "id": "autoral-n5-02",
+   "source": {
+    "authored": true,
+    "basis": "NR-5, itens 5.4.3 e 5.4.5",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Conforme a NR-5, o presidente e o vice-presidente da CIPA são, respectivamente,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "indicado pelo SESMT e indicado pelo sindicato.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "B",
+     "text": "designados ambos pela organização.",
+     "explanation": "O vice é escolhido pelos eleitos."
+    },
+    {
+     "key": "C",
+     "text": "eleitos ambos pelos empregados.",
+     "explanation": "O presidente é designado."
+    },
+    {
+     "key": "D",
+     "text": "eleito pelos empregados e designado pela organização.",
+     "explanation": "Inverte a regra."
+    },
+    {
+     "key": "E",
+     "text": "designado pela organização e escolhido pelos representantes eleitos dos empregados dentre os titulares.",
+     "explanation": "Correta: item 5.4.5."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Presidente vem da organização; vice, dos eleitos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-5, itens 5.4.3 e 5.4.5. Trecho conferido no texto-fonte: \"designará dentre seus representantes o Presidente da CIPA\"."
+   }
+  },
+  {
+   "id": "autoral-n5-03",
+   "source": {
+    "authored": true,
+    "basis": "NR-5, item 5.4.12",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "A NR-5 veda a dispensa arbitrária ou sem justa causa do empregado eleito para cargo de direção da CIPA",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "desde a posse até seis meses após o mandato.",
+     "explanation": "Início e fim errados."
+    },
+    {
+     "key": "B",
+     "text": "desde o registro da candidatura até dois anos após o mandato.",
+     "explanation": "Fim errado."
+    },
+    {
+     "key": "C",
+     "text": "apenas durante o mandato.",
+     "explanation": "O período é maior."
+    },
+    {
+     "key": "D",
+     "text": "desde a convocação da eleição até o fim do mandato.",
+     "explanation": "Início e fim errados."
+    },
+    {
+     "key": "E",
+     "text": "desde o registro de sua candidatura até um ano após o final de seu mandato.",
+     "explanation": "Correta: item 5.4.12."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Registro da candidatura até um ano após o mandato.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-5, item 5.4.12. Trecho conferido no texto-fonte: \"desde o registro de sua candidatura até um ano após o final de seu mandato\"."
+   }
+  },
+  {
+   "id": "autoral-n5-04",
+   "source": {
+    "authored": true,
+    "basis": "NR-5, itens 5.5.1 e 5.5.3, \"f\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Em relação ao processo eleitoral da CIPA, a NR-5 prevê a convocação das eleições e a realização da eleição nos prazos mínimos, antes do término do mandato em curso, de, respectivamente,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "30 e 15 dias.",
+     "explanation": "Trocados e errados."
+    },
+    {
+     "key": "B",
+     "text": "60 e 30 dias.",
+     "explanation": "Correta: itens 5.5.1 e 5.5.3, \"f\"."
+    },
+    {
+     "key": "C",
+     "text": "45 e 30 dias.",
+     "explanation": "Primeiro prazo errado."
+    },
+    {
+     "key": "D",
+     "text": "90 e 60 dias.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "60 e 15 dias.",
+     "explanation": "15 dias é o período de inscrição (5.5.3, \"b\")."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Convocar: 60; eleger: 30; inscrever: 15 dias corridos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-5, itens 5.5.1 e 5.5.3, \"f\". Trecho conferido no texto-fonte: \"no prazo mínimo de 60 (sessenta) dias\" | \"realização da eleição no prazo mínimo de 30 (trinta) dias\"."
+   }
+  },
+  {
+   "id": "autoral-n5-05",
+   "source": {
+    "authored": true,
+    "basis": "NR-5, item 5.3.1, \"j\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Com as alterações da Portaria MTP nº 4.219/2022, a NR-5 passou a prever, entre as atribuições da CIPA,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aprovar o PCMSO.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "B",
+     "text": "substituir o canal de denúncias da organização.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "C",
+     "text": "apurar e punir diretamente casos de assédio.",
+     "explanation": "O item trata de incluir temas nas atividades e práticas."
+    },
+    {
+     "key": "D",
+     "text": "incluir temas referentes à prevenção e ao combate ao assédio sexual e a outras formas de violência no trabalho nas suas atividades e práticas.",
+     "explanation": "Correta: item 5.3.1, \"j\"."
+    },
+    {
+     "key": "E",
+     "text": "emitir laudo sobre as vítimas de assédio.",
+     "explanation": "Sem amparo."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Atribuição da CIPA é incluir o tema; as medidas concretas ficam na NR-1, 1.4.1.1.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-5, item 5.3.1, \"j\". Trecho conferido no texto-fonte: \"incluir temas referentes à prevenção e ao combate ao assédio sexual\"."
+   }
+  },
+  {
+   "id": "autoral-n5-06",
+   "source": {
+    "authored": true,
+    "basis": "NR-5, item 5.7.4",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "A carga horária mínima do treinamento da CIPA para estabelecimentos de grau de risco 3, conforme a NR-5, é de",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "8 horas.",
+     "explanation": "Grau de risco 1."
+    },
+    {
+     "key": "B",
+     "text": "12 horas.",
+     "explanation": "Grau de risco 2."
+    },
+    {
+     "key": "C",
+     "text": "16 horas.",
+     "explanation": "Correta: item 5.7.4, \"c\"."
+    },
+    {
+     "key": "D",
+     "text": "20 horas.",
+     "explanation": "Grau de risco 4."
+    },
+    {
+     "key": "E",
+     "text": "24 horas.",
+     "explanation": "Sem amparo."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "GR1 8; GR2 12; GR3 16; GR4 20.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-5, item 5.7.4. Trecho conferido no texto-fonte: \"a) 8 (oito) horas para estabelecimentos de grau de risco 1\"."
+   }
+  },
+  {
+   "id": "autoral-n7-01",
+   "source": {
+    "authored": true,
+    "basis": "NR-7, item 7.3.2.2",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "À luz da NR-7, o PCMSO",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "independe dos riscos identificados no PGR.",
+     "explanation": "O 7.5.1 determina considerar o PGR."
+    },
+    {
+     "key": "B",
+     "text": "não deve ter caráter de seleção de pessoal.",
+     "explanation": "Correta: item 7.3.2.2."
+    },
+    {
+     "key": "C",
+     "text": "é coordenado por profissional não médico.",
+     "explanation": "O empregador indica médico do trabalho (7.4.1, \"c\")."
+    },
+    {
+     "key": "D",
+     "text": "é custeado pelo empregado, em parte.",
+     "explanation": "O 7.4.1, \"b\", manda custear sem ônus."
+    },
+    {
+     "key": "E",
+     "text": "deve servir como etapa eliminatória de seleção de pessoal.",
+     "explanation": "Contraria o item 7.3.2.2."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O PCMSO protege a saúde; não é seleção.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-7, item 7.3.2.2. Trecho conferido no texto-fonte: \"não deve ter caráter de seleção de pessoal\"."
+   }
+  },
+  {
+   "id": "autoral-n7-02",
+   "source": {
+    "authored": true,
+    "basis": "NR-7, item 7.5.9",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "O exame de retorno ao trabalho, conforme a NR-7, deve ser feito antes de o empregado reassumir as funções quando ausente por período",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "igual ou superior a 60 dias, apenas por acidente.",
+     "explanation": "Prazo e causa errados."
+    },
+    {
+     "key": "B",
+     "text": "igual ou superior a 30 dias, por motivo de doença ou acidente, de natureza ocupacional ou não.",
+     "explanation": "Correta: item 7.5.9."
+    },
+    {
+     "key": "C",
+     "text": "de qualquer duração, por motivo de férias.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "superior a 90 dias, por qualquer motivo.",
+     "explanation": "Prazo errado."
+    },
+    {
+     "key": "E",
+     "text": "superior a 15 dias, apenas por doença ocupacional.",
+     "explanation": "15 dias é regra de encaminhamento à Previdência (7.5.19.5, \"c\")."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Igual ou superior a 30 dias, ocupacional ou não.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-7, item 7.5.9. Trecho conferido no texto-fonte: \"igual ou superior a 30 (trinta) dias\"."
+   }
+  },
+  {
+   "id": "autoral-n7-03",
+   "source": {
+    "authored": true,
+    "basis": "NR-7, item 7.6.1.1",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "A NR-7 determina que o prontuário do empregado seja mantido pela organização, em regra, no mínimo, por",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "5 anos após o desligamento.",
+     "explanation": "Cinco anos é a regra do documento psicológico (Res. 6/2019)."
+    },
+    {
+     "key": "B",
+     "text": "10 anos após o desligamento.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "C",
+     "text": "15 anos após a admissão.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "20 anos após o desligamento.",
+     "explanation": "Correta: item 7.6.1.1."
+    },
+    {
+     "key": "E",
+     "text": "2 anos após o último exame.",
+     "explanation": "Sem amparo."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Vinte anos após o desligamento, salvo previsão diversa em anexos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-7, item 7.6.1.1. Trecho conferido no texto-fonte: \"no mínimo, por 20 (vinte) anos após o seu desligamento\"."
+   }
+  },
+  {
+   "id": "autoral-n7-04",
+   "source": {
+    "authored": true,
+    "basis": "NR-7, item 7.5.6",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Os exames médicos obrigatórios que o PCMSO deve incluir, segundo a NR-7, são",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "periódico e de promoção funcional.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "B",
+     "text": "admissional, periódico, de retorno ao trabalho, de mudança de riscos ocupacionais e demissional.",
+     "explanation": "Correta: item 7.5.6."
+    },
+    {
+     "key": "C",
+     "text": "admissional, periódico e de aposentadoria.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "admissional, psicológico, periódico e demissional.",
+     "explanation": "Exame psicológico não está na lista."
+    },
+    {
+     "key": "E",
+     "text": "admissional e demissional, apenas.",
+     "explanation": "A lista tem cinco exames."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Cinco exames.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-7, item 7.5.6. Trecho conferido no texto-fonte: \"de mudança de riscos ocupacionais\"."
+   }
+  },
+  {
+   "id": "autoral-n7-05",
+   "source": {
+    "authored": true,
+    "basis": "NR-7, item 7.5.19.5, \"c\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Constatada doença relacionada ao trabalho, cabe à organização, após informada pelo médico responsável, nos termos da NR-7, entre outras medidas,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "demitir o empregado afetado.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "B",
+     "text": "manter o PGR sem reavaliação.",
+     "explanation": "A alínea \"d\" manda reavaliar."
+    },
+    {
+     "key": "C",
+     "text": "dispensar a emissão da CAT.",
+     "explanation": "A alínea \"a\" manda emitir."
+    },
+    {
+     "key": "D",
+     "text": "encaminhar o empregado à Previdência Social quando o afastamento for superior a 15 dias.",
+     "explanation": "Correta: item 7.5.19.5, \"c\"."
+    },
+    {
+     "key": "E",
+     "text": "mudar o empregado de função sem novo exame.",
+     "explanation": "O 7.5.10 exige exame antes da mudança de risco."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "CAT, afastamento, encaminhamento se superior a 15 dias, reavaliação do PGR.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-7, item 7.5.19.5, \"c\". Trecho conferido no texto-fonte: \"quando houver afastamento do trabalho superior a 15 (quinze) dias\"."
+   }
+  },
+  {
+   "id": "autoral-n17-01",
+   "source": {
+    "authored": true,
+    "basis": "NR-17, item 17.3.2",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "A NR-17 determina a realização de Análise Ergonômica do Trabalho (AET) quando",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a organização for microempreendedor individual.",
+     "explanation": "MEI não é obrigado (17.3.4)."
+    },
+    {
+     "key": "B",
+     "text": "houver contratação de novo empregado, em qualquer situação.",
+     "explanation": "Não é hipótese do 17.3.2."
+    },
+    {
+     "key": "C",
+     "text": "o trabalhador completar um ano na função.",
+     "explanation": "Não é hipótese do 17.3.2."
+    },
+    {
+     "key": "D",
+     "text": "houver eleição da CIPA.",
+     "explanation": "Não é hipótese do 17.3.2."
+    },
+    {
+     "key": "E",
+     "text": "sugerida pelo acompanhamento de saúde dos trabalhadores, nos termos do PCMSO.",
+     "explanation": "Correta: item 17.3.2, \"c\"."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Hipóteses: necessidade de aprofundamento, ações insuficientes, sugestão do PCMSO, causa na análise de acidentes e doenças.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-17, item 17.3.2. Trecho conferido no texto-fonte: \"A organização deve realizar Análise Ergonômica do Trabalho\"."
+   }
+  },
+  {
+   "id": "autoral-n17-02",
+   "source": {
+    "authored": true,
+    "basis": "NR-17, item 17.4.1",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Para a NR-17, a organização do trabalho deve levar em consideração, entre outros aspectos,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "as normas de produção, a exigência de tempo, o ritmo de trabalho e os aspectos cognitivos.",
+     "explanation": "Correta: item 17.4.1."
+    },
+    {
+     "key": "B",
+     "text": "as preferências políticas dos empregados.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "C",
+     "text": "o grau de instrução dos dirigentes.",
+     "explanation": "Não está no 17.4.1."
+    },
+    {
+     "key": "D",
+     "text": "a CID do empregado.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "o valor de mercado da empresa.",
+     "explanation": "Sem amparo."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Normas de produção, modo operatório, tempo, ritmo, conteúdo das tarefas e aspectos cognitivos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-17, item 17.4.1. Trecho conferido no texto-fonte: \"os aspectos cognitivos que possam comprometer a segurança e a saúde do trabalhador\"."
+   }
+  },
+  {
+   "id": "autoral-n17-03",
+   "source": {
+    "authored": true,
+    "basis": "NR-17, itens 17.4.3.1, \"a\", e 17.4.3.2",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "As pausas previstas na NR-17 como medida de prevenção para recuperação psicofisiológica devem",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "ser concedidas apenas a trabalhadores com CAT emitida.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "B",
+     "text": "ser descontadas da jornada e usufruídas no próprio posto.",
+     "explanation": "Inverte as duas regras."
+    },
+    {
+     "key": "C",
+     "text": "substituir a saída para necessidades fisiológicas.",
+     "explanation": "O 17.4.3.3 assegura a saída independentemente das pausas."
+    },
+    {
+     "key": "D",
+     "text": "ser computadas como tempo de trabalho efetivo e usufruídas fora dos postos de trabalho.",
+     "explanation": "Correta: itens 17.4.3.1, \"a\", e 17.4.3.2, \"b\"."
+    },
+    {
+     "key": "E",
+     "text": "ser compensadas por aumento da cadência individual.",
+     "explanation": "O 17.4.3.2, \"a\", veda."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Tempo efetivo; fora do posto; sem aumento de cadência.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-17, itens 17.4.3.1, \"a\", e 17.4.3.2. Trecho conferido no texto-fonte: \"computadas como tempo de trabalho efetivo\" | \"as pausas devem ser usufruídas fora dos postos de trabalho\"."
+   }
+  },
+  {
+   "id": "autoral-n17-04",
+   "source": {
+    "authored": true,
+    "basis": "NR-17, item 17.3.7",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "O relatório da AET, quando realizada, deve ficar à disposição na organização, de acordo com a NR-17, pelo prazo de",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "2 anos.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "B",
+     "text": "5 anos.",
+     "explanation": "Sem amparo nesta NR."
+    },
+    {
+     "key": "C",
+     "text": "10 anos.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "15 anos.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "20 anos.",
+     "explanation": "Correta: item 17.3.7."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Vinte anos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-17, item 17.3.7. Trecho conferido no texto-fonte: \"pelo prazo de 20 (vinte) anos\"."
+   }
+  },
+  {
+   "id": "autoral-n17-05",
+   "source": {
+    "authored": true,
+    "basis": "NR-17, item 17.4.7",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "A NR-17 prevê que os superiores hierárquicos diretos sejam orientados a",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "realizar o diagnóstico de saúde mental das equipes.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "B",
+     "text": "estimular tratamento justo e respeitoso nas relações pessoais no ambiente de trabalho.",
+     "explanation": "Correta: item 17.4.7, \"d\"."
+    },
+    {
+     "key": "C",
+     "text": "reduzir o diálogo com os trabalhadores para evitar conflitos.",
+     "explanation": "O item diz manter aberto o diálogo."
+    },
+    {
+     "key": "D",
+     "text": "individualizar as tarefas, evitando trabalho em equipe.",
+     "explanation": "O item diz facilitar o trabalho em equipe."
+    },
+    {
+     "key": "E",
+     "text": "aplicar questionários psicológicos padronizados.",
+     "explanation": "Sem amparo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Atribuições claras, diálogo, equipe, tratamento justo e respeitoso. Dispensa até 10 empregados.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-17, item 17.4.7. Trecho conferido no texto-fonte: \"estimular tratamento justo e respeitoso\"."
+   }
+  },
+  {
+   "id": "autoral-n17-06",
+   "source": {
+    "authored": true,
+    "basis": "NR-17, item 17.3.3, \"f\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Entre as etapas da AET, a NR-17 inclui a",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "eleição dos representantes dos trabalhadores.",
+     "explanation": "É da NR-5."
+    },
+    {
+     "key": "B",
+     "text": "emissão de atestado de saúde ocupacional.",
+     "explanation": "É da NR-7."
+    },
+    {
+     "key": "C",
+     "text": "aplicação obrigatória de método específico definido pelo MTE.",
+     "explanation": "O 17.3.3, \"c\", diz que não está adstrita a método específico."
+    },
+    {
+     "key": "D",
+     "text": "restituição dos resultados, validação e revisão das intervenções, quando necessária, com a participação dos trabalhadores.",
+     "explanation": "Correta: item 17.3.3, \"f\"."
+    },
+    {
+     "key": "E",
+     "text": "submissão do relatório ao SATEPSI.",
+     "explanation": "Sem amparo."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A AET começa pela demanda e termina com restituição e validação com os trabalhadores.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-17, item 17.3.3, \"f\". Trecho conferido no texto-fonte: \"restituição dos resultados, validação e revisão das intervenções\"."
+   }
+  },
+  {
+   "id": "autoral-n20-01",
+   "source": {
+    "authored": true,
+    "basis": "NR-20, item 20.2.2, \"a\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "A NR-20 não se aplica",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a postos de serviço.",
+     "explanation": "Classe I da norma."
+    },
+    {
+     "key": "B",
+     "text": "a refinarias.",
+     "explanation": "Classe III da norma."
+    },
+    {
+     "key": "C",
+     "text": "às atividades de transporte dutoviário.",
+     "explanation": "Classe II da norma."
+    },
+    {
+     "key": "D",
+     "text": "às plataformas e instalações de apoio de exploração e produção de petróleo e gás do subsolo marinho, conforme definido na NR-37.",
+     "explanation": "Correta: item 20.2.2, \"a\"."
+    },
+    {
+     "key": "E",
+     "text": "a usinas de fabricação de etanol.",
+     "explanation": "Classe III da norma."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Offshore é NR-37.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-20, item 20.2.2, \"a\". Trecho conferido no texto-fonte: \"às plataformas e instalações de apoio empregadas com a finalidade de exploração e produção de\"."
+   }
+  },
+  {
+   "id": "autoral-n20-02",
+   "source": {
+    "authored": true,
+    "basis": "NR-20, item 20.4.1, Tabela 1",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Na classificação das instalações da NR-20, considerando o tipo de atividade, as atividades de transporte dutoviário de gases e líquidos inflamáveis e/ou combustíveis enquadram-se na classe",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I.",
+     "explanation": "Classe I traz postos de serviço e distribuição canalizada até PMTA de 18 kgf/cm²."
+    },
+    {
+     "key": "B",
+     "text": "II.",
+     "explanation": "Correta: Tabela 1, Classe II, a.2."
+    },
+    {
+     "key": "C",
+     "text": "III.",
+     "explanation": "Classe III traz refinarias, UPGN, petroquímicas, etanol."
+    },
+    {
+     "key": "D",
+     "text": "IV.",
+     "explanation": "A tabela só tem três classes."
+    },
+    {
+     "key": "E",
+     "text": "V.",
+     "explanation": "A tabela só tem três classes."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Dutoviário: Classe II.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-20, item 20.4.1, Tabela 1. Trecho conferido no texto-fonte: \"a.2 - atividades de transporte dutoviário de gases e líquidos inflamáveis\"."
+   }
+  },
+  {
+   "id": "autoral-n20-03",
+   "source": {
+    "authored": true,
+    "basis": "NR-20, item 20.15.6",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Em relação aos integrantes da equipe de resposta a emergências, a NR-20 determina que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "sejam obrigatoriamente todos os empregados da instalação.",
+     "explanation": "O 20.15.7 prevê participação voluntária, salvo se a função determinar."
+    },
+    {
+     "key": "B",
+     "text": "apresentem laudo psicológico anual assinado por psicóloga do SESMT.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "C",
+     "text": "estejam dispensados de exames específicos, por serem voluntários.",
+     "explanation": "Contraria o item 20.15.6."
+    },
+    {
+     "key": "D",
+     "text": "sejam submetidos a exames médicos específicos para a função, incluindo os fatores de riscos psicossociais, com emissão de ASO.",
+     "explanation": "Correta: item 20.15.6."
+    },
+    {
+     "key": "E",
+     "text": "sejam avaliados apenas quanto à aptidão física.",
+     "explanation": "O texto inclui fatores psicossociais."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Exames específicos, com fatores psicossociais, e ASO.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-20, item 20.15.6. Trecho conferido no texto-fonte: \"incluindo os fatores de riscos psicossociais\"."
+   }
+  },
+  {
+   "id": "autoral-n20-04",
+   "source": {
+    "authored": true,
+    "basis": "NR-20, item 20.12.9.1, \"b\", \"c\", \"d\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Segundo a NR-20, deve ser realizado curso de Atualização, quando ocorrer morte de trabalhador, em até",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "15 dias.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "B",
+     "text": "30 dias.",
+     "explanation": "Prazo de modificação significativa."
+    },
+    {
+     "key": "C",
+     "text": "45 dias.",
+     "explanation": "Prazo de ferimentos por explosão ou queimaduras com internação."
+    },
+    {
+     "key": "D",
+     "text": "60 dias.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "90 dias.",
+     "explanation": "Correta: item 20.12.9.1, \"d\"."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "30, 45 e 90 dias, conforme a hipótese.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-20, item 20.12.9.1, \"b\", \"c\", \"d\". Trecho conferido no texto-fonte: \"em até 90 (noventa) dias, quando ocorrer morte de trabalhador\"."
+   }
+  },
+  {
+   "id": "autoral-n37-01",
+   "source": {
+    "authored": true,
+    "basis": "NR-37, item 37.6.2, \"d\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "A NR-37 determina que a operadora da instalação e as prestadoras adotem, entre outras medidas de atenção à saúde a bordo,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "programas de promoção e prevenção em saúde para mitigar fatores de riscos psicossociais identificados e prevenir constrangimentos decorrentes de agressão, assédio moral e assédio sexual, dentre outros.",
+     "explanation": "Correta: item 37.6.2, \"d\"."
+    },
+    {
+     "key": "B",
+     "text": "substituição do PCMSO por programa de bem-estar.",
+     "explanation": "O 37.6.1 exige PCMSO por plataforma."
+    },
+    {
+     "key": "C",
+     "text": "proibição de qualquer atendimento remoto.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "afastamento compulsório de quem relate estresse.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "testes psicológicos antes de cada embarque.",
+     "explanation": "Sem amparo no item lido."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Psicossociais e assédio estão expressos em 37.6.2, \"d\".",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-37, item 37.6.2, \"d\". Trecho conferido no texto-fonte: \"medidas para mitigar os fatores de riscos psicossociais identificados\"."
+   }
+  },
+  {
+   "id": "autoral-n37-02",
+   "source": {
+    "authored": true,
+    "basis": "NR-37, itens 37.8.2 e 37.8.2.2",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Sobre a CIPLAT, a NR-37 estabelece que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "substitui o SESMT a bordo.",
+     "explanation": "São estruturas distintas."
+    },
+    {
+     "key": "B",
+     "text": "é única por empresa, independentemente da plataforma.",
+     "explanation": "É por plataforma (37.8.1)."
+    },
+    {
+     "key": "C",
+     "text": "dispensa eleições em qualquer plataforma.",
+     "explanation": "Há eleições (37.8.2.1)."
+    },
+    {
+     "key": "D",
+     "text": "é presidida por representante eleito pelos empregados.",
+     "explanation": "O 37.8.2.2 indica o empregado de maior nível hierárquico."
+    },
+    {
+     "key": "E",
+     "text": "tem como presidente o empregado de maior nível hierárquico lotado na plataforma, e representantes eleitos quando houver oito ou mais empregados por turma de embarque.",
+     "explanation": "Correta: itens 37.8.2 e 37.8.2.2."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Por plataforma, por turma de embarque, com eleitos a partir de oito.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-37, itens 37.8.2 e 37.8.2.2. Trecho conferido no texto-fonte: \"igual ou superior a 8 (oito) por turma de embarque\" | \"o empregado de maior nível hierárquico lotado na plataforma\"."
+   }
+  },
+  {
+   "id": "autoral-n37-03",
+   "source": {
+    "authored": true,
+    "basis": "NR-37, item 37.9.6.3, \"h\"",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "O treinamento básico previsto na NR-37, a ser realizado antes do primeiro embarque, com carga horária mínima de seis horas, inclui em seu conteúdo",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "elaboração de laudo psicológico.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "B",
+     "text": "aplicação de testes psicológicos entre colegas.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "C",
+     "text": "técnicas de psicoterapia breve.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "normas de eleição do conselho de psicologia.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "riscos psicossociais decorrentes de estressores como jornada prolongada, trabalho em turnos e noturno.",
+     "explanation": "Correta: item 37.9.6.3, \"h\"."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Treinamento básico: 6 h, antes do primeiro embarque, com riscos psicossociais.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-37, item 37.9.6.3, \"h\". Trecho conferido no texto-fonte: \"riscos psicossociais decorrentes de vários estressores\"."
+   }
+  },
+  {
+   "id": "autoral-n37-04",
+   "source": {
+    "authored": true,
+    "basis": "NR-37, item 37.18.5.2",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+   "stem": "Ao dimensionar o efetivo a bordo, a organização do trabalho em plataformas, segundo a NR-37, deve levar em consideração, no mínimo, os requisitos previstos na",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "NR-20.",
+     "explanation": "A NR-20 exclui plataformas."
+    },
+    {
+     "key": "B",
+     "text": "NR-17.",
+     "explanation": "Correta: item 37.18.5.2."
+    },
+    {
+     "key": "C",
+     "text": "NR-7.",
+     "explanation": "Trata do PCMSO."
+    },
+    {
+     "key": "D",
+     "text": "NR-5.",
+     "explanation": "Trata da CIPA."
+    },
+    {
+     "key": "E",
+     "text": "NR-4.",
+     "explanation": "Trata do SESMT."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Organização do trabalho a bordo remete à NR-17.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: NR-37, item 37.18.5.2. Trecho conferido no texto-fonte: \"no mínimo, os requisitos previstos na NR-17\"."
+   }
+  },
+  {
+   "id": "autoral-p-01",
+   "source": {
+    "authored": true,
+    "basis": "Portaria GM/MS 1.999/2023, Anexo, Lista A Parte V e Lista B Cap. V",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.3 Lista de Doenças relacionadas ao Trabalho (Portaria GM/MS 1.999/2023)",
+   "stem": "Na Lista de Doenças Relacionadas ao Trabalho atualizada pela Portaria GM/MS nº 1.999/2023, o Esgotamento (Burnout) corresponde ao código CID-10",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "F32.",
+     "explanation": "Episódios depressivos."
+    },
+    {
+     "key": "B",
+     "text": "F41.",
+     "explanation": "Transtornos ansiosos, outros."
+    },
+    {
+     "key": "C",
+     "text": "F43.1.",
+     "explanation": "Estado de stress pós-traumático."
+    },
+    {
+     "key": "D",
+     "text": "F48.0.",
+     "explanation": "Neurastenia."
+    },
+    {
+     "key": "E",
+     "text": "Z73.0.",
+     "explanation": "Correta: Lista A Parte V e Lista B Cap. V."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Burnout: Z73.0.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Portaria GM/MS 1.999/2023, Anexo, Lista A Parte V e Lista B Cap. V. Trecho conferido no texto-fonte: \"Esgotamento (Burnout)\"."
+   }
+  },
+  {
+   "id": "autoral-p-02",
+   "source": {
+    "authored": true,
+    "basis": "Portaria GM/MS 1.999/2023, art. 423, § 4º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.3 Lista de Doenças relacionadas ao Trabalho (Portaria GM/MS 1.999/2023)",
+   "stem": "Segundo a redação dada pela Portaria GM/MS nº 1.999/2023, a LDRT organiza-se em",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Lista A, de doenças com agentes, e Lista B, de agentes com doenças.",
+     "explanation": "Inverte as listas."
+    },
+    {
+     "key": "B",
+     "text": "Lista A, de agentes e/ou fatores de risco com respectivas doenças, e Lista B, de doenças com respectivos agentes e/ou fatores de risco.",
+     "explanation": "Correta: art. 423, § 4º."
+    },
+    {
+     "key": "C",
+     "text": "três listas, uma para cada grau de risco.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "D",
+     "text": "Lista A, de doenças, e Lista B, de benefícios previdenciários.",
+     "explanation": "Sem amparo."
+    },
+    {
+     "key": "E",
+     "text": "Lista única, em ordem alfabética.",
+     "explanation": "São duas listas."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "A parte do agente; B parte da doença.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Portaria GM/MS 1.999/2023, art. 423, § 4º. Trecho conferido no texto-fonte: \"Lista B: doenças relacionadas ao trabalho com respectivos agentes\"."
+   }
+  },
+  {
+   "id": "autoral-p-03",
+   "source": {
+    "authored": true,
+    "basis": "Portaria GM/MS 1.999/2023, arts. 1º a 4º e cabeçalho do DOU",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.3 Lista de Doenças relacionadas ao Trabalho (Portaria GM/MS 1.999/2023)",
+   "stem": "A Portaria GM/MS nº 1.999/2023",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "altera a Portaria de Consolidação GM/MS nº 5/2017 e entra em vigor 30 dias após a publicação.",
+     "explanation": "Correta: arts. 1º e 4º."
+    },
+    {
+     "key": "B",
+     "text": "entra em vigor 90 dias após a publicação.",
+     "explanation": "São 30 dias."
+    },
+    {
+     "key": "C",
+     "text": "foi publicada em 27/11/2023 e entrou em vigor na mesma data.",
+     "explanation": "Assinada em 27/11; publicada em 29/11; vigor 30 dias depois."
+    },
+    {
+     "key": "D",
+     "text": "revogou integralmente a Portaria de Consolidação nº 5/2017.",
+     "explanation": "Ela alterou a Consolidação e revogou só §§ 1º e 2º do art. 423."
+    },
+    {
+     "key": "E",
+     "text": "foi editada pelo Ministério do Trabalho e Emprego.",
+     "explanation": "Órgão: Ministério da Saúde."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Altera a Consolidação 5/2017; DOU 29/11/2023; vigor em 30 dias.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Portaria GM/MS 1.999/2023, arts. 1º a 4º e cabeçalho do DOU. Trecho conferido no texto-fonte: \"Esta Portaria entra em vigor 30 dias após a data de sua publicação\" | \"29/11/2023\"."
+   }
+  },
+  {
+   "id": "autoral-p-04",
+   "source": {
+    "authored": true,
+    "basis": "Portaria GM/MS 1.999/2023, Anexo, Lista A Parte V",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.3 Lista de Doenças relacionadas ao Trabalho (Portaria GM/MS 1.999/2023)",
+   "stem": "Na Lista A, os fatores psicossociais relacionados à gestão organizacional mencionam expressamente, entre as modalidades de contratação, a",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aposentadoria especial.",
+     "explanation": "Não consta do trecho."
+    },
+    {
+     "key": "B",
+     "text": "licença-maternidade.",
+     "explanation": "Não consta do trecho."
+    },
+    {
+     "key": "C",
+     "text": "pejotização e a uberização.",
+     "explanation": "Correta: Parte V, gestão organizacional."
+    },
+    {
+     "key": "D",
+     "text": "estabilidade funcional.",
+     "explanation": "Não consta do trecho."
+    },
+    {
+     "key": "E",
+     "text": "cessão de servidores.",
+     "explanation": "Não consta do trecho."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O item cita terceirização, trabalho intermitente, MEI, pejotização e uberização.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Portaria GM/MS 1.999/2023, Anexo, Lista A Parte V. Trecho conferido no texto-fonte: \"Agentes e/ou Fatores de Risco Psicossociais no Trabalho\"."
+   }
+  },
+  {
+   "id": "autoral-p-05",
+   "source": {
+    "authored": true,
+    "basis": "Portaria GM/MS 1.999/2023, art. 423, § 3º",
+    "year": 2026,
+    "file": "autoral"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.3 Lista de Doenças relacionadas ao Trabalho (Portaria GM/MS 1.999/2023)",
+   "stem": "De acordo com o § 3º do art. 423 da Portaria de Consolidação GM/MS nº 5/2017, na redação da Portaria nº 1.999/2023, a LDRT destina-se, no âmbito da saúde, entre outras finalidades, a",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "fixar o adicional de insalubridade.",
+     "explanation": "Não consta do § 3º."
+    },
+    {
+     "key": "B",
+     "text": "substituir a investigação do nexo pelo enquadramento automático.",
+     "explanation": "Não consta do § 3º."
+    },
+    {
+     "key": "C",
+     "text": "regular o exercício profissional dos psicólogos.",
+     "explanation": "Não consta do § 3º."
+    },
+    {
+     "key": "D",
+     "text": "definir valores de benefícios previdenciários.",
+     "explanation": "Não consta do § 3º."
+    },
+    {
+     "key": "E",
+     "text": "orientar as ações de vigilância e promoção da saúde em nível individual e coletivo.",
+     "explanation": "Correta: inciso V."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Finalidades: uso clínico-epidemiológico, estudo da relação, diagnóstico, projetos terapêuticos, vigilância e promoção.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": null,
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Base: Portaria GM/MS 1.999/2023, art. 423, § 3º. Trecho conferido no texto-fonte: \"orientar o uso clínico-epidemiológico\"."
+   }
+  }
+ ]
+}

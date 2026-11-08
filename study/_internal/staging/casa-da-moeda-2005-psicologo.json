@@ -1,0 +1,1527 @@
+{
+ "concurso": "casa-da-moeda-2005-psicologo",
+ "questions": [
+  {
+   "id": "casa-da-moeda-2005-psicologo-q1",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 1,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>Segundo o texto, a ética, para Gabriel Chalita, pode promover:</p><p>I - maior compreensão do indivíduo sobre si mesmo;<br>II - relacionamento positivo entre os homens;<br>III - solução das crises e conflitos brasileiros.</p><p>Está(ão) correta(s) o(s) item(ns):</p>",
+   "passage": "<p><em>O texto a seguir é parte de uma entrevista concedida por Gabriel Chalita a Zora Seljan e publicada no Jornal de Letras.</em></p>\n<p>(1) Ao longo de uma vida inteiramente dedicada ao estudo e à análise da ética enquanto base da convivência humana, e de uma permanente reflexão sobre o papel da ética na conquista de um autoconhecimento, pode o profes(5)sor Gabriel Chalita ser considerado hoje como o propugnador máximo de uma transformação ética do país, só ela capaz de resolver os grandes problemas que o Brasil vem enfrentando há séculos.(...)</p>\n<p><strong>ZS</strong>: Qual foi o ponto de partida para seu livro (<em>Os dez (10) mandamentos da ética</em>) sobre ética?</p>\n<p><strong>GC</strong>: Foi minha permanente observação de que o ser humano está cada vez mais distante da ética e do equilíbrio. O que vemos é a agressividade quase gratuita que se traduz em brigas, violência no trânsito e no radicalismo exa(15)cerbado gerador dos conflitos de ordem política, social e religiosa, bem como dos vários tipos de preconceito e de discriminação. São valores, concepções e ações equivocadas, distorcidas e arcaicas que vêm prejudicando a humanidade, como um todo, em vários momentos da sua (20) História. Essas atitudes e pensamentos estão na contramão do que se espera de um mundo marcado pela forte simbologia do novo milênio e de um novo século que, em tese, deveriam trazer mais evolução, mais conscientização, mais compreensão a respeito das coisas. Neste contexto, (25) creio que o resgate e/ou fortalecimento de valores essenciais à vida em comunidade, tais como: honestidade, respeito às diferenças, tolerância, amor e solidariedade — cada vez mais necessários nos dias de hoje — estão profundamente vinculados e dependentes da apreensão (30) da ética e do seu exercício contínuo. Por isso, este livro — fruto de anos como estudioso da filosofia, educador e observador do comportamento humano — visa a colaborar para o fortalecimento destas virtudes e para a reflexão em torno delas.(...)</p>\n<p>(35) <strong>ZS</strong>: Acha que a melhor compreensão da ética ajudaria a encurtar o abismo entre o discurso e a prática política?</p>\n<p><strong>GC</strong>: Sem dúvida. Muitos representantes da classe política precisam compreender melhor o que é o chamado “caminho do bem” — magistralmente descrito por (40) Aristóteles — bem como o que é a ciência do bem comum. Dessa forma, certamente agiriam de maneira muito mais comprometida e responsável.</p>\n<p>Estou convencido de que o resultado de suas ações seria muito melhor se refletissem mais a respeito da gran(45)de responsabilidade social que têm nas mãos quando ocupam um cargo. Outra reflexão essencial para eles seria sobre o aspecto transitório do poder e o modo como a brevidade dessa passagem impõe seriedade, princípios éticos e uma postura correta em relação às pessoas (50) e às suas necessidades mais prementes.</p>\n<p><small>Jornal de Letras, nº 72, RJ, ago. 2004. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I, somente.",
+     "explanation": "Omite II (ética como base da convivência) e III (só ela resolveria os problemas do Brasil)."
+    },
+    {
+     "key": "B",
+     "text": "II, somente.",
+     "explanation": "Omite I e III, também afirmados no texto."
+    },
+    {
+     "key": "C",
+     "text": "III, somente.",
+     "explanation": "Omite I e II."
+    },
+    {
+     "key": "D",
+     "text": "I e II, somente.",
+     "explanation": "Omite III: o texto diz que a transformação ética é 'só ela capaz de resolver os grandes problemas que o Brasil vem enfrentando'."
+    },
+    {
+     "key": "E",
+     "text": "I, II e III."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O texto apresenta a ética como caminho para o autoconhecimento (I) e base da convivência humana (II). Diz ainda que a transformação ética do país seria 'só ela capaz de resolver os grandes problemas' do Brasil (III).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q2",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 2,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>No trecho “...radicalismo <strong>exacerbado</strong> gerador dos conflitos...” (l. 14-15), a palavra destacada significa que o radicalismo se tornou mais:</p>",
+   "passage": "<p><em>O texto a seguir é parte de uma entrevista concedida por Gabriel Chalita a Zora Seljan e publicada no Jornal de Letras.</em></p>\n<p>(1) Ao longo de uma vida inteiramente dedicada ao estudo e à análise da ética enquanto base da convivência humana, e de uma permanente reflexão sobre o papel da ética na conquista de um autoconhecimento, pode o profes(5)sor Gabriel Chalita ser considerado hoje como o propugnador máximo de uma transformação ética do país, só ela capaz de resolver os grandes problemas que o Brasil vem enfrentando há séculos.(...)</p>\n<p><strong>ZS</strong>: Qual foi o ponto de partida para seu livro (<em>Os dez (10) mandamentos da ética</em>) sobre ética?</p>\n<p><strong>GC</strong>: Foi minha permanente observação de que o ser humano está cada vez mais distante da ética e do equilíbrio. O que vemos é a agressividade quase gratuita que se traduz em brigas, violência no trânsito e no radicalismo exa(15)cerbado gerador dos conflitos de ordem política, social e religiosa, bem como dos vários tipos de preconceito e de discriminação. São valores, concepções e ações equivocadas, distorcidas e arcaicas que vêm prejudicando a humanidade, como um todo, em vários momentos da sua (20) História. Essas atitudes e pensamentos estão na contramão do que se espera de um mundo marcado pela forte simbologia do novo milênio e de um novo século que, em tese, deveriam trazer mais evolução, mais conscientização, mais compreensão a respeito das coisas. Neste contexto, (25) creio que o resgate e/ou fortalecimento de valores essenciais à vida em comunidade, tais como: honestidade, respeito às diferenças, tolerância, amor e solidariedade — cada vez mais necessários nos dias de hoje — estão profundamente vinculados e dependentes da apreensão (30) da ética e do seu exercício contínuo. Por isso, este livro — fruto de anos como estudioso da filosofia, educador e observador do comportamento humano — visa a colaborar para o fortalecimento destas virtudes e para a reflexão em torno delas.(...)</p>\n<p>(35) <strong>ZS</strong>: Acha que a melhor compreensão da ética ajudaria a encurtar o abismo entre o discurso e a prática política?</p>\n<p><strong>GC</strong>: Sem dúvida. Muitos representantes da classe política precisam compreender melhor o que é o chamado “caminho do bem” — magistralmente descrito por (40) Aristóteles — bem como o que é a ciência do bem comum. Dessa forma, certamente agiriam de maneira muito mais comprometida e responsável.</p>\n<p>Estou convencido de que o resultado de suas ações seria muito melhor se refletissem mais a respeito da gran(45)de responsabilidade social que têm nas mãos quando ocupam um cargo. Outra reflexão essencial para eles seria sobre o aspecto transitório do poder e o modo como a brevidade dessa passagem impõe seriedade, princípios éticos e uma postura correta em relação às pessoas (50) e às suas necessidades mais prementes.</p>\n<p><small>Jornal de Letras, nº 72, RJ, ago. 2004. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "intenso."
+    },
+    {
+     "key": "B",
+     "text": "intempestivo.",
+     "explanation": "'Intempestivo' significa inoportuno, fora de hora."
+    },
+    {
+     "key": "C",
+     "text": "inusitado.",
+     "explanation": "'Inusitado' significa incomum, estranho."
+    },
+    {
+     "key": "D",
+     "text": "inconseqüente.",
+     "explanation": "'Inconsequente' significa irresponsável, sem medir consequências."
+    },
+    {
+     "key": "E",
+     "text": "incompreensível.",
+     "explanation": "Nada no termo indica dificuldade de compreensão."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "'Exacerbado' significa agravado, intensificado, levado ao extremo: o radicalismo tornou-se mais intenso.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q3",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 3,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "<p>Ao introduzir mais um período, a expressão “Neste contexto” (l. 24) refere-se à(ao):</p>",
+   "passage": "<p><em>O texto a seguir é parte de uma entrevista concedida por Gabriel Chalita a Zora Seljan e publicada no Jornal de Letras.</em></p>\n<p>(1) Ao longo de uma vida inteiramente dedicada ao estudo e à análise da ética enquanto base da convivência humana, e de uma permanente reflexão sobre o papel da ética na conquista de um autoconhecimento, pode o profes(5)sor Gabriel Chalita ser considerado hoje como o propugnador máximo de uma transformação ética do país, só ela capaz de resolver os grandes problemas que o Brasil vem enfrentando há séculos.(...)</p>\n<p><strong>ZS</strong>: Qual foi o ponto de partida para seu livro (<em>Os dez (10) mandamentos da ética</em>) sobre ética?</p>\n<p><strong>GC</strong>: Foi minha permanente observação de que o ser humano está cada vez mais distante da ética e do equilíbrio. O que vemos é a agressividade quase gratuita que se traduz em brigas, violência no trânsito e no radicalismo exa(15)cerbado gerador dos conflitos de ordem política, social e religiosa, bem como dos vários tipos de preconceito e de discriminação. São valores, concepções e ações equivocadas, distorcidas e arcaicas que vêm prejudicando a humanidade, como um todo, em vários momentos da sua (20) História. Essas atitudes e pensamentos estão na contramão do que se espera de um mundo marcado pela forte simbologia do novo milênio e de um novo século que, em tese, deveriam trazer mais evolução, mais conscientização, mais compreensão a respeito das coisas. Neste contexto, (25) creio que o resgate e/ou fortalecimento de valores essenciais à vida em comunidade, tais como: honestidade, respeito às diferenças, tolerância, amor e solidariedade — cada vez mais necessários nos dias de hoje — estão profundamente vinculados e dependentes da apreensão (30) da ética e do seu exercício contínuo. Por isso, este livro — fruto de anos como estudioso da filosofia, educador e observador do comportamento humano — visa a colaborar para o fortalecimento destas virtudes e para a reflexão em torno delas.(...)</p>\n<p>(35) <strong>ZS</strong>: Acha que a melhor compreensão da ética ajudaria a encurtar o abismo entre o discurso e a prática política?</p>\n<p><strong>GC</strong>: Sem dúvida. Muitos representantes da classe política precisam compreender melhor o que é o chamado “caminho do bem” — magistralmente descrito por (40) Aristóteles — bem como o que é a ciência do bem comum. Dessa forma, certamente agiriam de maneira muito mais comprometida e responsável.</p>\n<p>Estou convencido de que o resultado de suas ações seria muito melhor se refletissem mais a respeito da gran(45)de responsabilidade social que têm nas mãos quando ocupam um cargo. Outra reflexão essencial para eles seria sobre o aspecto transitório do poder e o modo como a brevidade dessa passagem impõe seriedade, princípios éticos e uma postura correta em relação às pessoas (50) e às suas necessidades mais prementes.</p>\n<p><small>Jornal de Letras, nº 72, RJ, ago. 2004. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "prática cotidiana da ética pelos cidadãos.",
+     "explanation": "O contexto descrito é o oposto: a ética está ausente da prática."
+    },
+    {
+     "key": "B",
+     "text": "comparação estabelecida entre ética e equilíbrio.",
+     "explanation": "Não há comparação entre ética e equilíbrio; ambos são citados como valores de que o ser humano se afasta."
+    },
+    {
+     "key": "C",
+     "text": "pleno exercício da ética num grande país.",
+     "explanation": "O texto descreve falta de ética, não seu pleno exercício."
+    },
+    {
+     "key": "D",
+     "text": "afastamento de valores imprescindíveis ao convívio social."
+    },
+    {
+     "key": "E",
+     "text": "reconhecimento da importância de valores equivocados.",
+     "explanation": "Os valores equivocados são criticados, não reconhecidos como importantes."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "'Neste contexto' retoma o quadro descrito antes: afastamento da ética, agressividade, preconceito e valores distorcidos, isto é, o afastamento de valores essenciais à convivência.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q4",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 4,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>Segundo o autor, espera-se também dos políticos que atendam a princípios éticos, tendo em vista a:</p>",
+   "passage": "<p><em>O texto a seguir é parte de uma entrevista concedida por Gabriel Chalita a Zora Seljan e publicada no Jornal de Letras.</em></p>\n<p>(1) Ao longo de uma vida inteiramente dedicada ao estudo e à análise da ética enquanto base da convivência humana, e de uma permanente reflexão sobre o papel da ética na conquista de um autoconhecimento, pode o profes(5)sor Gabriel Chalita ser considerado hoje como o propugnador máximo de uma transformação ética do país, só ela capaz de resolver os grandes problemas que o Brasil vem enfrentando há séculos.(...)</p>\n<p><strong>ZS</strong>: Qual foi o ponto de partida para seu livro (<em>Os dez (10) mandamentos da ética</em>) sobre ética?</p>\n<p><strong>GC</strong>: Foi minha permanente observação de que o ser humano está cada vez mais distante da ética e do equilíbrio. O que vemos é a agressividade quase gratuita que se traduz em brigas, violência no trânsito e no radicalismo exa(15)cerbado gerador dos conflitos de ordem política, social e religiosa, bem como dos vários tipos de preconceito e de discriminação. São valores, concepções e ações equivocadas, distorcidas e arcaicas que vêm prejudicando a humanidade, como um todo, em vários momentos da sua (20) História. Essas atitudes e pensamentos estão na contramão do que se espera de um mundo marcado pela forte simbologia do novo milênio e de um novo século que, em tese, deveriam trazer mais evolução, mais conscientização, mais compreensão a respeito das coisas. Neste contexto, (25) creio que o resgate e/ou fortalecimento de valores essenciais à vida em comunidade, tais como: honestidade, respeito às diferenças, tolerância, amor e solidariedade — cada vez mais necessários nos dias de hoje — estão profundamente vinculados e dependentes da apreensão (30) da ética e do seu exercício contínuo. Por isso, este livro — fruto de anos como estudioso da filosofia, educador e observador do comportamento humano — visa a colaborar para o fortalecimento destas virtudes e para a reflexão em torno delas.(...)</p>\n<p>(35) <strong>ZS</strong>: Acha que a melhor compreensão da ética ajudaria a encurtar o abismo entre o discurso e a prática política?</p>\n<p><strong>GC</strong>: Sem dúvida. Muitos representantes da classe política precisam compreender melhor o que é o chamado “caminho do bem” — magistralmente descrito por (40) Aristóteles — bem como o que é a ciência do bem comum. Dessa forma, certamente agiriam de maneira muito mais comprometida e responsável.</p>\n<p>Estou convencido de que o resultado de suas ações seria muito melhor se refletissem mais a respeito da gran(45)de responsabilidade social que têm nas mãos quando ocupam um cargo. Outra reflexão essencial para eles seria sobre o aspecto transitório do poder e o modo como a brevidade dessa passagem impõe seriedade, princípios éticos e uma postura correta em relação às pessoas (50) e às suas necessidades mais prementes.</p>\n<p><small>Jornal de Letras, nº 72, RJ, ago. 2004. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "certeza da reeleição.",
+     "explanation": "O texto fala em transitoriedade do poder, o contrário de certeza de permanência."
+    },
+    {
+     "key": "B",
+     "text": "extensão do mandato.",
+     "explanation": "O texto enfatiza a brevidade, não a extensão."
+    },
+    {
+     "key": "C",
+     "text": "transitoriedade do poder."
+    },
+    {
+     "key": "D",
+     "text": "inconstância dos valores.",
+     "explanation": "O texto não menciona inconstância de valores dos políticos."
+    },
+    {
+     "key": "E",
+     "text": "responsabilidade dos eleitores.",
+     "explanation": "A responsabilidade mencionada é a social dos próprios políticos."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O autor sugere aos políticos refletir 'sobre o aspecto transitório do poder' e como 'a brevidade dessa passagem impõe seriedade, princípios éticos'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q5",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 5,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "portugues",
+   "subtopic": "P.9 Concordância verbal e nominal",
+   "stem": "<p>No trecho “... que, em tese, <strong>deveriam</strong> trazer mais evolução,” (l. 22-23), o verbo dever está na forma de plural porque concorda com:</p>",
+   "passage": "<p><em>O texto a seguir é parte de uma entrevista concedida por Gabriel Chalita a Zora Seljan e publicada no Jornal de Letras.</em></p>\n<p>(1) Ao longo de uma vida inteiramente dedicada ao estudo e à análise da ética enquanto base da convivência humana, e de uma permanente reflexão sobre o papel da ética na conquista de um autoconhecimento, pode o profes(5)sor Gabriel Chalita ser considerado hoje como o propugnador máximo de uma transformação ética do país, só ela capaz de resolver os grandes problemas que o Brasil vem enfrentando há séculos.(...)</p>\n<p><strong>ZS</strong>: Qual foi o ponto de partida para seu livro (<em>Os dez (10) mandamentos da ética</em>) sobre ética?</p>\n<p><strong>GC</strong>: Foi minha permanente observação de que o ser humano está cada vez mais distante da ética e do equilíbrio. O que vemos é a agressividade quase gratuita que se traduz em brigas, violência no trânsito e no radicalismo exa(15)cerbado gerador dos conflitos de ordem política, social e religiosa, bem como dos vários tipos de preconceito e de discriminação. São valores, concepções e ações equivocadas, distorcidas e arcaicas que vêm prejudicando a humanidade, como um todo, em vários momentos da sua (20) História. Essas atitudes e pensamentos estão na contramão do que se espera de um mundo marcado pela forte simbologia do novo milênio e de um novo século que, em tese, deveriam trazer mais evolução, mais conscientização, mais compreensão a respeito das coisas. Neste contexto, (25) creio que o resgate e/ou fortalecimento de valores essenciais à vida em comunidade, tais como: honestidade, respeito às diferenças, tolerância, amor e solidariedade — cada vez mais necessários nos dias de hoje — estão profundamente vinculados e dependentes da apreensão (30) da ética e do seu exercício contínuo. Por isso, este livro — fruto de anos como estudioso da filosofia, educador e observador do comportamento humano — visa a colaborar para o fortalecimento destas virtudes e para a reflexão em torno delas.(...)</p>\n<p>(35) <strong>ZS</strong>: Acha que a melhor compreensão da ética ajudaria a encurtar o abismo entre o discurso e a prática política?</p>\n<p><strong>GC</strong>: Sem dúvida. Muitos representantes da classe política precisam compreender melhor o que é o chamado “caminho do bem” — magistralmente descrito por (40) Aristóteles — bem como o que é a ciência do bem comum. Dessa forma, certamente agiriam de maneira muito mais comprometida e responsável.</p>\n<p>Estou convencido de que o resultado de suas ações seria muito melhor se refletissem mais a respeito da gran(45)de responsabilidade social que têm nas mãos quando ocupam um cargo. Outra reflexão essencial para eles seria sobre o aspecto transitório do poder e o modo como a brevidade dessa passagem impõe seriedade, princípios éticos e uma postura correta em relação às pessoas (50) e às suas necessidades mais prementes.</p>\n<p><small>Jornal de Letras, nº 72, RJ, ago. 2004. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a humanidade.",
+     "explanation": "'A humanidade' é singular e não é o antecedente do relativo."
+    },
+    {
+     "key": "B",
+     "text": "ações equivocadas.",
+     "explanation": "Termo distante, de outro período."
+    },
+    {
+     "key": "C",
+     "text": "novo milênio e novo século."
+    },
+    {
+     "key": "D",
+     "text": "essas atitudes e pensamentos.",
+     "explanation": "É o sujeito de 'estão na contramão', não de 'deveriam'."
+    },
+    {
+     "key": "E",
+     "text": "vários momentos da sua História.",
+     "explanation": "Termo de outro período."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O relativo 'que' retoma 'o novo milênio e um novo século' (sujeito composto), e o verbo concorda no plural: 'deveriam'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q6",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 6,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "portugues",
+   "subtopic": "P.5 Emprego de tempos e modos verbais",
+   "stem": "<p>“São valores, concepções e ações equivocadas, distorcidas e arcaicas que <strong>vêm</strong> prejudicando...” (l. 17-18). Na forma verbal assinalada está o verbo:</p>",
+   "passage": "<p><em>O texto a seguir é parte de uma entrevista concedida por Gabriel Chalita a Zora Seljan e publicada no Jornal de Letras.</em></p>\n<p>(1) Ao longo de uma vida inteiramente dedicada ao estudo e à análise da ética enquanto base da convivência humana, e de uma permanente reflexão sobre o papel da ética na conquista de um autoconhecimento, pode o profes(5)sor Gabriel Chalita ser considerado hoje como o propugnador máximo de uma transformação ética do país, só ela capaz de resolver os grandes problemas que o Brasil vem enfrentando há séculos.(...)</p>\n<p><strong>ZS</strong>: Qual foi o ponto de partida para seu livro (<em>Os dez (10) mandamentos da ética</em>) sobre ética?</p>\n<p><strong>GC</strong>: Foi minha permanente observação de que o ser humano está cada vez mais distante da ética e do equilíbrio. O que vemos é a agressividade quase gratuita que se traduz em brigas, violência no trânsito e no radicalismo exa(15)cerbado gerador dos conflitos de ordem política, social e religiosa, bem como dos vários tipos de preconceito e de discriminação. São valores, concepções e ações equivocadas, distorcidas e arcaicas que vêm prejudicando a humanidade, como um todo, em vários momentos da sua (20) História. Essas atitudes e pensamentos estão na contramão do que se espera de um mundo marcado pela forte simbologia do novo milênio e de um novo século que, em tese, deveriam trazer mais evolução, mais conscientização, mais compreensão a respeito das coisas. Neste contexto, (25) creio que o resgate e/ou fortalecimento de valores essenciais à vida em comunidade, tais como: honestidade, respeito às diferenças, tolerância, amor e solidariedade — cada vez mais necessários nos dias de hoje — estão profundamente vinculados e dependentes da apreensão (30) da ética e do seu exercício contínuo. Por isso, este livro — fruto de anos como estudioso da filosofia, educador e observador do comportamento humano — visa a colaborar para o fortalecimento destas virtudes e para a reflexão em torno delas.(...)</p>\n<p>(35) <strong>ZS</strong>: Acha que a melhor compreensão da ética ajudaria a encurtar o abismo entre o discurso e a prática política?</p>\n<p><strong>GC</strong>: Sem dúvida. Muitos representantes da classe política precisam compreender melhor o que é o chamado “caminho do bem” — magistralmente descrito por (40) Aristóteles — bem como o que é a ciência do bem comum. Dessa forma, certamente agiriam de maneira muito mais comprometida e responsável.</p>\n<p>Estou convencido de que o resultado de suas ações seria muito melhor se refletissem mais a respeito da gran(45)de responsabilidade social que têm nas mãos quando ocupam um cargo. Outra reflexão essencial para eles seria sobre o aspecto transitório do poder e o modo como a brevidade dessa passagem impõe seriedade, princípios éticos e uma postura correta em relação às pessoas (50) e às suas necessidades mais prementes.</p>\n<p><small>Jornal de Letras, nº 72, RJ, ago. 2004. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "vir, na terceira pessoa do plural do presente do subjuntivo.",
+     "explanation": "O presente do subjuntivo de 'vir' é 'venham'."
+    },
+    {
+     "key": "B",
+     "text": "vir, na terceira pessoa do plural do presente do indicativo."
+    },
+    {
+     "key": "C",
+     "text": "vir, na terceira pessoa do singular do presente do subjuntivo.",
+     "explanation": "Seria 'venha'."
+    },
+    {
+     "key": "D",
+     "text": "ver, na terceira pessoa do plural do presente do indicativo.",
+     "explanation": "De 'ver' a forma seria 'veem' (antes do Acordo, 'vêem')."
+    },
+    {
+     "key": "E",
+     "text": "ver, na terceira pessoa do singular do presente do indicativo.",
+     "explanation": "Seria 'vê'."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "'Vêm' (com acento diferencial de plural) é a 3ª pessoa do plural do presente do indicativo de 'vir' ('eles vêm'), auxiliar da locução 'vêm prejudicando'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q7",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 7,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "<p>“<strong>Dessa forma</strong>, certamente agiriam de maneira muito mais comprometida e responsável.” (l. 41-42). A expressão assinalada pode ser substituída, sem alteração de sentido, por:</p>",
+   "passage": "<p><em>O texto a seguir é parte de uma entrevista concedida por Gabriel Chalita a Zora Seljan e publicada no Jornal de Letras.</em></p>\n<p>(1) Ao longo de uma vida inteiramente dedicada ao estudo e à análise da ética enquanto base da convivência humana, e de uma permanente reflexão sobre o papel da ética na conquista de um autoconhecimento, pode o profes(5)sor Gabriel Chalita ser considerado hoje como o propugnador máximo de uma transformação ética do país, só ela capaz de resolver os grandes problemas que o Brasil vem enfrentando há séculos.(...)</p>\n<p><strong>ZS</strong>: Qual foi o ponto de partida para seu livro (<em>Os dez (10) mandamentos da ética</em>) sobre ética?</p>\n<p><strong>GC</strong>: Foi minha permanente observação de que o ser humano está cada vez mais distante da ética e do equilíbrio. O que vemos é a agressividade quase gratuita que se traduz em brigas, violência no trânsito e no radicalismo exa(15)cerbado gerador dos conflitos de ordem política, social e religiosa, bem como dos vários tipos de preconceito e de discriminação. São valores, concepções e ações equivocadas, distorcidas e arcaicas que vêm prejudicando a humanidade, como um todo, em vários momentos da sua (20) História. Essas atitudes e pensamentos estão na contramão do que se espera de um mundo marcado pela forte simbologia do novo milênio e de um novo século que, em tese, deveriam trazer mais evolução, mais conscientização, mais compreensão a respeito das coisas. Neste contexto, (25) creio que o resgate e/ou fortalecimento de valores essenciais à vida em comunidade, tais como: honestidade, respeito às diferenças, tolerância, amor e solidariedade — cada vez mais necessários nos dias de hoje — estão profundamente vinculados e dependentes da apreensão (30) da ética e do seu exercício contínuo. Por isso, este livro — fruto de anos como estudioso da filosofia, educador e observador do comportamento humano — visa a colaborar para o fortalecimento destas virtudes e para a reflexão em torno delas.(...)</p>\n<p>(35) <strong>ZS</strong>: Acha que a melhor compreensão da ética ajudaria a encurtar o abismo entre o discurso e a prática política?</p>\n<p><strong>GC</strong>: Sem dúvida. Muitos representantes da classe política precisam compreender melhor o que é o chamado “caminho do bem” — magistralmente descrito por (40) Aristóteles — bem como o que é a ciência do bem comum. Dessa forma, certamente agiriam de maneira muito mais comprometida e responsável.</p>\n<p>Estou convencido de que o resultado de suas ações seria muito melhor se refletissem mais a respeito da gran(45)de responsabilidade social que têm nas mãos quando ocupam um cargo. Outra reflexão essencial para eles seria sobre o aspecto transitório do poder e o modo como a brevidade dessa passagem impõe seriedade, princípios éticos e uma postura correta em relação às pessoas (50) e às suas necessidades mais prementes.</p>\n<p><small>Jornal de Letras, nº 72, RJ, ago. 2004. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Assim"
+    },
+    {
+     "key": "B",
+     "text": "Porque",
+     "explanation": "'Porque' é causal; 'dessa forma' indica modo/consequência."
+    },
+    {
+     "key": "C",
+     "text": "Embora",
+     "explanation": "'Embora' é concessivo."
+    },
+    {
+     "key": "D",
+     "text": "Porém",
+     "explanation": "'Porém' é adversativo."
+    },
+    {
+     "key": "E",
+     "text": "Isto é",
+     "explanation": "'Isto é' introduz explicação/retificação."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "'Dessa forma' (= desse modo, assim) retoma o que foi dito e introduz a consequência. Equivale a 'Assim'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q8",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 8,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "<p>Dentre as palavras assinaladas, a que <strong>NÃO</strong> pertence à mesma classe gramatical das demais é:</p>",
+   "passage": "<p><em>O texto a seguir é parte de uma entrevista concedida por Gabriel Chalita a Zora Seljan e publicada no Jornal de Letras.</em></p>\n<p>(1) Ao longo de uma vida inteiramente dedicada ao estudo e à análise da ética enquanto base da convivência humana, e de uma permanente reflexão sobre o papel da ética na conquista de um autoconhecimento, pode o profes(5)sor Gabriel Chalita ser considerado hoje como o propugnador máximo de uma transformação ética do país, só ela capaz de resolver os grandes problemas que o Brasil vem enfrentando há séculos.(...)</p>\n<p><strong>ZS</strong>: Qual foi o ponto de partida para seu livro (<em>Os dez (10) mandamentos da ética</em>) sobre ética?</p>\n<p><strong>GC</strong>: Foi minha permanente observação de que o ser humano está cada vez mais distante da ética e do equilíbrio. O que vemos é a agressividade quase gratuita que se traduz em brigas, violência no trânsito e no radicalismo exa(15)cerbado gerador dos conflitos de ordem política, social e religiosa, bem como dos vários tipos de preconceito e de discriminação. São valores, concepções e ações equivocadas, distorcidas e arcaicas que vêm prejudicando a humanidade, como um todo, em vários momentos da sua (20) História. Essas atitudes e pensamentos estão na contramão do que se espera de um mundo marcado pela forte simbologia do novo milênio e de um novo século que, em tese, deveriam trazer mais evolução, mais conscientização, mais compreensão a respeito das coisas. Neste contexto, (25) creio que o resgate e/ou fortalecimento de valores essenciais à vida em comunidade, tais como: honestidade, respeito às diferenças, tolerância, amor e solidariedade — cada vez mais necessários nos dias de hoje — estão profundamente vinculados e dependentes da apreensão (30) da ética e do seu exercício contínuo. Por isso, este livro — fruto de anos como estudioso da filosofia, educador e observador do comportamento humano — visa a colaborar para o fortalecimento destas virtudes e para a reflexão em torno delas.(...)</p>\n<p>(35) <strong>ZS</strong>: Acha que a melhor compreensão da ética ajudaria a encurtar o abismo entre o discurso e a prática política?</p>\n<p><strong>GC</strong>: Sem dúvida. Muitos representantes da classe política precisam compreender melhor o que é o chamado “caminho do bem” — magistralmente descrito por (40) Aristóteles — bem como o que é a ciência do bem comum. Dessa forma, certamente agiriam de maneira muito mais comprometida e responsável.</p>\n<p>Estou convencido de que o resultado de suas ações seria muito melhor se refletissem mais a respeito da gran(45)de responsabilidade social que têm nas mãos quando ocupam um cargo. Outra reflexão essencial para eles seria sobre o aspecto transitório do poder e o modo como a brevidade dessa passagem impõe seriedade, princípios éticos e uma postura correta em relação às pessoas (50) e às suas necessidades mais prementes.</p>\n<p><small>Jornal de Letras, nº 72, RJ, ago. 2004. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“... uma vida <strong>inteiramente</strong> dedicada ao estudo...” (l. 1)",
+     "explanation": "Advérbio de modo/intensidade."
+    },
+    {
+     "key": "B",
+     "text": "“... minha <strong>permanente</strong> observação ...” (l. 11)"
+    },
+    {
+     "key": "C",
+     "text": "“... estão <strong>profundamente</strong> vinculados ...” (l. 28-29)",
+     "explanation": "Advérbio."
+    },
+    {
+     "key": "D",
+     "text": "“... <strong>magistralmente</strong> descrito ...” (l. 39)",
+     "explanation": "Advérbio de modo."
+    },
+    {
+     "key": "E",
+     "text": "“Dessa forma, <strong>certamente</strong> agiriam ...” (l. 41)",
+     "explanation": "Advérbio de afirmação."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "'Permanente' é adjetivo (qualifica 'observação'). As demais, terminadas em -mente, são advérbios.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q9",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 9,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "portugues",
+   "subtopic": "P.2 Ortografia oficial",
+   "stem": "<p>A palavra que FOGE à regra de acentuação que as demais seguem é:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "substância.",
+     "explanation": "Paroxítona terminada em ditongo crescente, acentuada pela mesma regra que as demais."
+    },
+    {
+     "key": "B",
+     "text": "núcleo.",
+     "explanation": "Paroxítona terminada em ditongo crescente (-eo), mesma regra."
+    },
+    {
+     "key": "C",
+     "text": "idéia."
+    },
+    {
+     "key": "D",
+     "text": "família.",
+     "explanation": "Paroxítona terminada em ditongo crescente, mesma regra."
+    },
+    {
+     "key": "E",
+     "text": "tendências.",
+     "explanation": "Paroxítona terminada em ditongo crescente (seguido de s), mesma regra."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Substância, núcleo, família e tendências são paroxítonas terminadas em ditongo crescente. 'Idéia' era acentuada pela regra do ditongo aberto 'éi' em paroxítona.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos. Pelo Acordo Ortográfico de 1990 (vigente desde 2009), 'ideia' perdeu o acento (ditongos abertos éi/ói em paroxítonas não se acentuam mais). A palavra continua fugindo da regra das demais, mas a grafia 'idéia' está desatualizada."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q10",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 10,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "<p>Assinale a opção em que o item destacado muda de significado e passa a pertencer a outra classe de palavras quando colocado após o substantivo.</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Drásticas limitações.",
+     "explanation": "'Drástico' é adjetivo antes ou depois do substantivo, com o mesmo sentido."
+    },
+    {
+     "key": "B",
+     "text": "Criativa resistência.",
+     "explanation": "Adjetivo nas duas posições, sem mudança de sentido."
+    },
+    {
+     "key": "C",
+     "text": "Difíceis tempos.",
+     "explanation": "Adjetivo nas duas posições, sem mudança de sentido."
+    },
+    {
+     "key": "D",
+     "text": "Negros anos.",
+     "explanation": "Continua adjetivo nas duas posições (sentido figurado de 'sombrios')."
+    },
+    {
+     "key": "E",
+     "text": "Certas leis."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Antes do substantivo, 'certas' é pronome indefinido (= algumas leis). Depois, 'leis certas' é adjetivo (= corretas). Muda de sentido e de classe.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q11",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 11,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "<p>Para Chiavenatto (1999), no modelo contingencial de desenho de cargos, as cinco dimensões essenciais que todo cargo deve possuir são:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "variedade, autonomia, significado das tarefas, identidade com a tarefa, retroação."
+    },
+    {
+     "key": "B",
+     "text": "variedade, contexto do cargo, significado das tarefas, comunicação, retroação.",
+     "explanation": "Contexto do cargo e comunicação não são dimensões do modelo."
+    },
+    {
+     "key": "C",
+     "text": "racionalidade, fragmentação do trabalho, eficiência, permanência, conteúdo do cargo.",
+     "explanation": "Características do modelo clássico (taylorista) de desenho de cargos."
+    },
+    {
+     "key": "D",
+     "text": "contexto do cargo, condições sociais de desempenho, interação das pessoas, estabilidade, comunicação.",
+     "explanation": "Aproxima-se do modelo humanístico, não das cinco dimensões."
+    },
+    {
+     "key": "E",
+     "text": "identidade com as tarefas, conteúdo do cargo, eficiência, interação das pessoas, autonomia.",
+     "explanation": "Mistura dimensões com conceitos de outros modelos."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "No modelo contingencial (Chiavenato, a partir de Hackman e Oldham), as cinco dimensões essenciais do cargo são variedade, autonomia, significado das tarefas, identidade com a tarefa e retroação (feedback).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q12",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 12,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2 Gestão estratégica de pessoas",
+   "stem": "<p>Na perspectiva de Chiavenatto (1999), o salário nominal representa:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o volume de dinheiro fixado em contrato individual pelo cargo ocupado."
+    },
+    {
+     "key": "B",
+     "text": "o conjunto de recompensas quantificáveis que um empregado recebe pelo seu trabalho.",
+     "explanation": "Descreve a remuneração total, que inclui salário, benefícios e incentivos."
+    },
+    {
+     "key": "C",
+     "text": "a quantidade de bens que o empregado pode adquirir com o volume de dinheiro que recebe.",
+     "explanation": "Descreve o salário real (poder de compra)."
+    },
+    {
+     "key": "D",
+     "text": "a menor remuneração permitida por lei para trabalhadores de um ramo de atividade econômica.",
+     "explanation": "Descreve o piso salarial/salário mínimo."
+    },
+    {
+     "key": "E",
+     "text": "as recompensas que as pessoas recebem em troca do desempenho das tarefas organizacionais.",
+     "explanation": "Definição genérica de recompensa, não de salário nominal."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Chiavenato distingue salário nominal, valor em dinheiro fixado no contrato pelo cargo, de salário real, o que esse valor permite adquirir.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q13",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 13,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "<p>De acordo com Spector (2002), na abordagem orientada à pessoa, um CHAO é definido como:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aquilo que uma pessoa é capaz de realizar no trabalho.",
+     "explanation": "Descreve habilidade, apenas um dos componentes do CHAO."
+    },
+    {
+     "key": "B",
+     "text": "o que uma pessoa precisa saber para desempenhar um determinado trabalho.",
+     "explanation": "Descreve conhecimento, só um dos componentes."
+    },
+    {
+     "key": "C",
+     "text": "a capacidade de uma pessoa para desempenhar tarefas ou aprendê-las.",
+     "explanation": "Descreve aptidão, só um dos componentes."
+    },
+    {
+     "key": "D",
+     "text": "um atributo ou característica exigida para que alguém possa desempenhar uma determinada tarefa."
+    },
+    {
+     "key": "E",
+     "text": "uma determinada atividade que uma pessoa executa em um trabalho.",
+     "explanation": "Descreve tarefa, objeto da abordagem orientada ao trabalho."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Para Spector, na análise do trabalho orientada à pessoa, CHAO (conhecimentos, habilidades, aptidões e outras características; KSAOs) são os atributos ou características necessários para desempenhar o trabalho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q14",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 14,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "<p>Na avaliação de um Programa de Treinamento, Spector (2002) classifica os critérios de treinamento em dois níveis importantes, um dos quais é o critério do nível de desempenho que:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "avalia o que uma pessoa é capaz de fazer ao final do treinamento dentro do ambiente de treinamento, em si.",
+     "explanation": "Descreve o critério de nível de treinamento (o outro nível)."
+    },
+    {
+     "key": "B",
+     "text": "indica quais são os efeitos do treinamento no desempenho da pessoa em seu ambiente de trabalho."
+    },
+    {
+     "key": "C",
+     "text": "observa se os comportamentos da pessoa traduzem, ou não, o que lhe foi ensinado no treinamento.",
+     "explanation": "Refere-se à aprendizagem durante o treinamento, não ao efeito no trabalho."
+    },
+    {
+     "key": "D",
+     "text": "mede o que a pessoa aprendeu e o que é capaz de demonstrar por meio de seu comportamento, em termos de seus conhecimentos e habilidades.",
+     "explanation": "Descreve aprendizagem medida no contexto do treinamento."
+    },
+    {
+     "key": "E",
+     "text": "se refere a quanto os sujeitos gostaram do treinamento e quanto eles acreditam ter aprendido.",
+     "explanation": "Descreve critérios de reação (Kirkpatrick)."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Spector separa critérios de nível de treinamento (o que se aprendeu, medido no próprio treinamento) e de nível de desempenho (efeito do treinamento no trabalho, isto é, transferência).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q15",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 15,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "<p>Na seleção de pessoal, segundo Chiavenatto (1999), as informações a respeito do cargo a ser preenchido podem ser colhidas de cinco modos distintos. Um desses modos é a técnica dos incidentes críticos que consiste no(a):</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "levantamento sistemático das informações sobre os requisitos e características desejáveis do futuro ocupante do cargo, assinalados na requisição de pessoal.",
+     "explanation": "Descreve a análise da requisição de empregado."
+    },
+    {
+     "key": "B",
+     "text": "levantamento dos aspectos intrínsecos referentes ao conteúdo do cargo e extrínsecos relativos aos requisitos que o cargo exige de seus ocupantes.",
+     "explanation": "Descreve a descrição e análise do cargo."
+    },
+    {
+     "key": "C",
+     "text": "previsão aproximada do conteúdo do cargo e de sua exigibilidade em relação ao ocupante (requisitos e características) como uma simulação inicial.",
+     "explanation": "Descreve a análise do cargo no mercado ou hipótese de trabalho."
+    },
+    {
+     "key": "D",
+     "text": "comparação dos cargos da empresa com a estrutura dos cargos de outras bem-sucedidas no mercado a fim de adequá-los às novas demandas.",
+     "explanation": "Descreve a análise do cargo no mercado (benchmarking)."
+    },
+    {
+     "key": "E",
+     "text": "anotação sistemática e criteriosa de todos os fatos e comportamentos dos ocupantes do cargo considerado que produziram um bom ou mau desempenho no trabalho."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Chiavenato lista cinco fontes de informação sobre o cargo para a seleção: descrição e análise do cargo, incidentes críticos, requisição de pessoal, análise do cargo no mercado e hipótese de trabalho. Os incidentes críticos são o registro sistemático de comportamentos que levaram a desempenho muito bom ou muito ruim.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q16",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 16,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "<p>Em Psicologia, existem dois critérios psicométricos para avaliar um preditor: confiabilidade e validade. Muchinsky (2004) define validade como um(a):</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "padrão para avaliação de testes que se refere à precisão ou adequação de fazer inferências a respeito dos escores dos testes."
+    },
+    {
+     "key": "B",
+     "text": "padrão para avaliar testes que se refere à coerência, estabilidade ou equivalência dos escores do teste.",
+     "explanation": "Define confiabilidade (fidedignidade)."
+    },
+    {
+     "key": "C",
+     "text": "tipo de medida que revela o grau de concordância entre as avaliações de dois ou mais avaliadores.",
+     "explanation": "Define confiabilidade entre avaliadores."
+    },
+    {
+     "key": "D",
+     "text": "técnica que revela a estabilidade dos escores do teste em repetidas aplicações do teste.",
+     "explanation": "Define confiabilidade teste-reteste."
+    },
+    {
+     "key": "E",
+     "text": "medida de precisão e fidedignidade de um teste ante o constructo que ele se propõe a medir.",
+     "explanation": "Confunde validade com precisão/fidedignidade."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Para Muchinsky, a validade é o padrão que avalia a precisão ou adequação das inferências feitas a partir dos escores de um teste. A confiabilidade trata de coerência, estabilidade e equivalência dos escores.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q17",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 17,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "<p>Na perspectiva de Muchinsky (2004), um dos pressupostos no qual se baseia a estratégia de avaliação 360 graus é de que:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a discrepância entre os avaliadores é indesejável porque reduz a confiabilidade da avaliação.",
+     "explanation": "No 360 graus, as discrepâncias entre fontes são vistas como informativas, não como erro a eliminar."
+    },
+    {
+     "key": "B",
+     "text": "a percepção das discrepâncias entre a nossa maneira de nos ver e a maneira como os outros nos vêem melhora a nossa auto-percepção."
+    },
+    {
+     "key": "C",
+     "text": "as auto-avaliações são importantes porque as pessoas tendem a fazer julgamentos sobre si irrelevantes para o seu desempenho.",
+     "explanation": "Contraditória: se os julgamentos fossem irrelevantes, a autoavaliação não seria importante."
+    },
+    {
+     "key": "D",
+     "text": "o feedback negativo e as discrepâncias tendem a produzir reações negativas entre os avaliados.",
+     "explanation": "É um risco do método, não seu pressuposto."
+    },
+    {
+     "key": "E",
+     "text": "o propósito de uma avaliação adequada deve ser o de estabelecer, comunicar e implementar uma meta ou visão.",
+     "explanation": "Não é pressuposto do 360 graus."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O feedback 360 graus pressupõe que conhecer as diferenças entre a autoavaliação e a avaliação feita por outros (chefes, pares, subordinados) melhora o autoconhecimento e orienta o desenvolvimento (Muchinsky).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q18",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 18,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "<p>Segundo Spector (2002), tem havido, em muitos países, um número crescente de ações judiciais contra diferentes organizações, acusadas de discriminação, pelo fato de que se valeram dos resultados obtidos através de sistemas de avaliação de desempenho para fins de promoção ou demissão. Entre as várias medidas sugeridas, capazes de tornar os sistemas de avaliação de desempenho, passíveis de defesa legal, encontra-se a de:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "evitar que os funcionários de desempenho insatisfatório sejam avaliados por seus pares.",
+     "explanation": "Não consta das recomendações; a avaliação por pares não é o problema."
+    },
+    {
+     "key": "B",
+     "text": "desenvolver programas de integração entre os funcionários, antes de se promover a avaliação.",
+     "explanation": "Integração não confere defensabilidade legal."
+    },
+    {
+     "key": "C",
+     "text": "controlar a manifestação dos erros de distribuição, de intolerância e de acomodação, por parte dos avaliadores.",
+     "explanation": "Erros de avaliação são relevantes, mas a lista de Spector não traz essa formulação."
+    },
+    {
+     "key": "D",
+     "text": "adotar critérios objetivos que impeçam que os efeitos positivos, negativos e as expectativas dos avaliadores interfiram na avaliação.",
+     "explanation": "Nenhum critério 'impede' completamente vieses; a recomendação é basear-se na análise do cargo e documentar."
+    },
+    {
+     "key": "E",
+     "text": "fornecer assistência e aconselhamento aos funcionários que apresentarem desempenho insatisfatório, antes de qualquer decisão."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Spector (com base em Barrett e Kernan) recomenda, entre outros pontos: basear a avaliação na análise do cargo, dar instruções escritas aos avaliadores, permitir que o empregado conheça e conteste a avaliação, documentar decisões e oferecer assistência e aconselhamento a quem tem desempenho insatisfatório antes de qualquer ação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q20",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 20,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>Alguns papéis profissionais exigem daqueles que os exercem uma constante exibição artificial de emoções, que acabam por bloquear sua livre manifestação de emoções autênticas, como tem sido observado, por exemplo, em comissários de bordo, atendentes e operadores de teleatendimento. Tal fenômeno, segundo Gondim &amp; Siqueira, in Zanelli et alli (2002), denomina-se:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "coartação profissional.",
+     "explanation": "Termo inexistente como conceito estabelecido."
+    },
+    {
+     "key": "B",
+     "text": "conformismo organizacional.",
+     "explanation": "Conformismo é adesão às normas do grupo, não gestão de emoções."
+    },
+    {
+     "key": "C",
+     "text": "flexibilidade cultural.",
+     "explanation": "Não se refere à expressão de emoções exigida pelo papel."
+    },
+    {
+     "key": "D",
+     "text": "trabalho emocional."
+    },
+    {
+     "key": "E",
+     "text": "resiliência funcional.",
+     "explanation": "Resiliência é capacidade de recuperação diante da adversidade."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Trabalho emocional (emotional labor, Hochschild) é a exigência de exibir emoções prescritas pela organização (simpatia, calma), suprimindo as autênticas. É típico de comissários de bordo e atendentes e está associado a desgaste e burnout.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q21",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 21,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "diag-org",
+   "subtopic": "4.9 Diversidade e políticas afirmativas nas organizações",
+   "stem": "<p>Sexo, raça, preferência sexual, nacionalidade, idade são alguns dos elementos que compõem a diversidade cultural presente nas organizações, e são fontes, na maioria das vezes, de preconceitos e conflitos que dificultam a integração e produção organizacional. Segundo Torres &amp; Pérez-Neha, in Zanelli et alli (2002), para enfrentar este desafio é necessária a adoção de programas e estratégias organizacionais que estimulem a tolerância e:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "valorizem as diferenças."
+    },
+    {
+     "key": "B",
+     "text": "promovam a igualdade.",
+     "explanation": "Promover igualdade é importante, mas a gestão da diversidade enfatiza valorizar as diferenças, não apagá-las."
+    },
+    {
+     "key": "C",
+     "text": "respeitem os mais fracos.",
+     "explanation": "Formulação paternalista, alheia à gestão da diversidade."
+    },
+    {
+     "key": "D",
+     "text": "eliminem as hierarquias.",
+     "explanation": "Diversidade não implica eliminar hierarquias."
+    },
+    {
+     "key": "E",
+     "text": "punam os preconceitos.",
+     "explanation": "A abordagem proposta é educativa (tolerância e valorização), não punitiva."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "A gestão da diversidade propõe programas que estimulem a tolerância e a valorização das diferenças, reconhecendo-as como recurso, e não exigir assimilação nem apenas punir preconceitos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos. O caderno grafa 'Pérez-Neha'; o nome correto da autora é Amalia Raquel Pérez-Nebra (mantida a grafia do caderno)."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q22",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 22,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "<p>Segundo Robbins (2002), a percepção geral que os membros de uma organização fazem do grau de tolerância ao risco existente, da ênfase atribuída ao trabalho em equipe ou do desempenho individual e/ou coletivo são elementos constitutivos do fenômeno denominado:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "clima organizacional.",
+     "explanation": "Para Robbins, as sete características citadas (inovação e risco, orientação para equipes etc.) definem a cultura; clima refere-se à satisfação percebida com o ambiente."
+    },
+    {
+     "key": "B",
+     "text": "inconsciente organizacional.",
+     "explanation": "Não é o conceito de Robbins."
+    },
+    {
+     "key": "C",
+     "text": "cultura organizacional."
+    },
+    {
+     "key": "D",
+     "text": "campo organizacional.",
+     "explanation": "Não é o conceito descrito."
+    },
+    {
+     "key": "E",
+     "text": "contexto organizacional.",
+     "explanation": "Termo genérico, não o conceito definido."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Robbins define cultura organizacional como um sistema de significados compartilhados, uma percepção comum dos membros. Ele a descreve por sete características: inovação e tolerância ao risco, atenção aos detalhes, orientação para resultados, para pessoas, para equipes, agressividade e estabilidade.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q25",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 25,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "<p>Segundo Muchinsky (2004), a estratégia de treinamento na qual o novo funcionário é tutorado, durante um longo tempo, por um funcionário mais experiente denomina-se:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aprendizado on-the-job.",
+     "explanation": "Treinamento no trabalho é categoria ampla; o tutorado longo por um experiente tem nome próprio."
+    },
+    {
+     "key": "B",
+     "text": "método off-site.",
+     "explanation": "Métodos fora do local de trabalho não envolvem tutoria no posto."
+    },
+    {
+     "key": "C",
+     "text": "sistema aprendiz."
+    },
+    {
+     "key": "D",
+     "text": "rodízio de papéis.",
+     "explanation": "Rodízio de papéis (ou de cargos) movimenta a pessoa por funções, sem tutor fixo."
+    },
+    {
+     "key": "E",
+     "text": "supervisão indireta.",
+     "explanation": "Não é método de treinamento."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "No sistema de aprendiz (apprenticeship), descrito por Muchinsky, o novato aprende o ofício ao longo de um período extenso sob a tutela de um trabalhador experiente, combinando prática e instrução.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q26",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 26,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "<p>Segundo Muchinsky (2004), uma das iniciativas de intervenção contra estresse no campo organizacional são os:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "programas de avaliação reativa.",
+     "explanation": "Termo sem correspondência na literatura de manejo do estresse."
+    },
+    {
+     "key": "B",
+     "text": "grupos de apoio social."
+    },
+    {
+     "key": "C",
+     "text": "incentivos ao locus de controle.",
+     "explanation": "Locus de controle é traço individual, não intervenção organizacional."
+    },
+    {
+     "key": "D",
+     "text": "investimentos em técnicas de auto-controle.",
+     "explanation": "Formulação vaga, não listada como intervenção organizacional."
+    },
+    {
+     "key": "E",
+     "text": "exercícios de gestão do tempo.",
+     "explanation": "Gestão do tempo é estratégia individual."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Entre as intervenções organizacionais contra o estresse descritas por Muchinsky estão a redefinição de papéis e tarefas, a participação nas decisões e a criação de redes e grupos de apoio social. O apoio social amortece os efeitos dos estressores.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q28",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 28,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "<p>Segundo Robbins &amp; Finley (1997), a confiança desgastada nos líderes de equipes é uma das dificuldades mais freqüentes que impedem as equipes de funcionar. Entre as estratégias para conquistar a confiança, sugerem:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "estabelecer um tratamento diferenciado.",
+     "explanation": "Tratamento diferenciado mina a confiança; a recomendação é ser justo e coerente."
+    },
+    {
+     "key": "B",
+     "text": "investir no <em>empowerment</em>."
+    },
+    {
+     "key": "C",
+     "text": "ser intransigente com os irresponsáveis.",
+     "explanation": "Intransigência não é estratégia de construção de confiança."
+    },
+    {
+     "key": "D",
+     "text": "definir claramente os limites.",
+     "explanation": "Não é a estratégia de confiança enfatizada pelos autores."
+    },
+    {
+     "key": "E",
+     "text": "proteger os discriminados.",
+     "explanation": "Formulação paternalista, não estratégia de confiança na equipe."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Robbins e Finley (Por que as equipes não funcionam) recomendam confiar na equipe para obter confiança: delegar poder (empowerment), compartilhar informação, ser coerente e cumprir o que se promete.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q30",
+   "source": {
+    "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 30,
+    "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+    "org": "Casa da Moeda do Brasil"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "<p>Segundo Robbins (2002), um dos atributos mais estudados e considerados hoje em dia e que constitui a base da liderança é a:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "inteligência.",
+     "explanation": "Inteligência é traço estudado, mas Robbins não a aponta como base da liderança."
+    },
+    {
+     "key": "B",
+     "text": "comunicação.",
+     "explanation": "Importante, mas não é o que Robbins chama de base da liderança."
+    },
+    {
+     "key": "C",
+     "text": "confiança."
+    },
+    {
+     "key": "D",
+     "text": "organização.",
+     "explanation": "Não é atributo destacado como base."
+    },
+    {
+     "key": "E",
+     "text": "honestidade.",
+     "explanation": "A integridade é dimensão da confiança, mas o conceito apontado como base é a confiança."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Robbins afirma que a confiança é o atributo fundamental associado à liderança, a base sobre a qual ela se constrói. Suas dimensões são integridade, competência, consistência, lealdade e abertura.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "casa-da-moeda-2005-psicologo-q19",
+   "motivo": "Não consegui derivar com segurança: A (gabarito) e D (viés de atratividade, documentado na literatura) são desvantagens plausíveis; depende da formulação literal de Spector, não consultada. Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos.",
+   "gabaritoOficial": "A",
+   "derivada": "?",
+   "questao": {
+    "id": "casa-da-moeda-2005-psicologo-q19",
+    "source": {
+     "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+     "year": 2005,
+     "originalNumber": 19,
+     "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+     "org": "Casa da Moeda do Brasil"
+    },
+    "area": "diag-org",
+    "subtopic": "4.2 Processo de Recrutamento e Seleção",
+    "stem": "<p>Para Spector (2002), a desvantagem do uso da entrevista na seleção de pessoal em relação ao formulário de pedido de emprego está na(o):</p>",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "possibilidade de o entrevistador influenciar as respostas do entrevistado."
+     },
+     {
+      "key": "B",
+      "text": "possibilidade de o entrevistado camuflar suas atitudes em relação ao trabalho pretendido."
+     },
+     {
+      "key": "C",
+      "text": "necessidade de o entrevistador inferir na conveniência do candidato para a função."
+     },
+     {
+      "key": "D",
+      "text": "descoberta de que as decisões de contratação dos entrevistadores estão relacionadas ao nível de atração exercida pelo candidato."
+     },
+     {
+      "key": "E",
+      "text": "fato de que a entrevista é considerada uma amostra do comportamento interpessoal."
+     }
+    ],
+    "correctKey": "A",
+    "explanationSummary": "",
+    "status": "review",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "A",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+    }
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q23",
+   "motivo": "Não consegui derivar com segurança: o gabarito é E; a alternativa C (programas de reconhecimento) também aparece em Robbins como estratégia para trabalhadores de baixa remuneração. Depende da formulação literal da edição de 2002. Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos.",
+   "gabaritoOficial": "E",
+   "derivada": "?",
+   "questao": {
+    "id": "casa-da-moeda-2005-psicologo-q23",
+    "source": {
+     "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+     "year": 2005,
+     "originalNumber": 23,
+     "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+     "org": "Casa da Moeda do Brasil"
+    },
+    "area": "diag-org",
+    "subtopic": "4.7 Motivação no trabalho",
+    "stem": "<p>Um dos maiores desafios para as organizações tem sido lidar com os problemas de motivação de seus integrantes, principalmente dos que ganham salários baixos e têm poucas oportunidades de aumentar seus rendimentos, mesmo com as promoções. Segundo Robbins (2002), algumas experiências recentes apontam para resultados positivos alcançados por intermédio de estratégias que procuram investir nas demandas destes funcionários, tais como:</p>",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "aumentar, gradativamente, as responsabilidades por outras atividades, consideradas de maior status."
+     },
+     {
+      "key": "B",
+      "text": "adotar um programa de padronização visando à simplificação de todas as tarefas."
+     },
+     {
+      "key": "C",
+      "text": "elevar a auto-estima, através de um programa de reconhecimento aos que forem considerados mais produtivos."
+     },
+     {
+      "key": "D",
+      "text": "dar prioridade de matrícula nos cursos oferecidos aos que mais se destacarem no desempenho de seus diferentes papéis."
+     },
+     {
+      "key": "E",
+      "text": "dar maior atenção aos interesses particulares dos indivíduos."
+     }
+    ],
+    "correctKey": "E",
+    "explanationSummary": "",
+    "status": "review",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "E",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+    }
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q24",
+   "motivo": "Divergência: o gabarito é E (importância das tarefas). Pelo modelo de dimensões do cargo, a relação entre o que o trabalhador executa e o produto final (fazer uma parte identificável do todo) corresponde à identidade da tarefa (D); importância/significado refere-se ao impacto do trabalho sobre outras pessoas. Pode refletir a terminologia específica de Davis e Newstrom. Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos.",
+   "gabaritoOficial": "E",
+   "derivada": "D",
+   "questao": {
+    "id": "casa-da-moeda-2005-psicologo-q24",
+    "source": {
+     "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+     "year": 2005,
+     "originalNumber": 24,
+     "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+     "org": "Casa da Moeda do Brasil"
+    },
+    "area": "saude-trab",
+    "subtopic": "6.10 Qualidade de Vida e Bem-Estar no Trabalho",
+    "stem": "<p>Segundo Davis &amp; Newstrom (1992), os programas de qualidade de vida no trabalho devem basear-se no diagnóstico obtido através da análise de alguns elementos que compõem as dimensões essenciais do trabalho. Entre essas informações encontra-se a análise das percepções que o trabalhador faz da relação entre aquilo que executa e o produto final realizado pelo setor/organização, denominado:</p>",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "significado do trabalho."
+     },
+     {
+      "key": "B",
+      "text": "autonomia do trabalho."
+     },
+     {
+      "key": "C",
+      "text": "variedade das tarefas."
+     },
+     {
+      "key": "D",
+      "text": "identidade das tarefas."
+     },
+     {
+      "key": "E",
+      "text": "importância das tarefas."
+     }
+    ],
+    "correctKey": "E",
+    "explanationSummary": "",
+    "status": "review",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "E",
+     "independentlyDerivedAnswer": "D",
+     "agree": false,
+     "confidence": "high",
+     "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+    }
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q27",
+   "motivo": "Não consegui derivar com segurança: o gabarito é C (mudança de clima); depende da formulação literal de Zimerman (Fundamentos básicos das grupoterapias), não consultada. Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos.",
+   "gabaritoOficial": "C",
+   "derivada": "?",
+   "questao": {
+    "id": "casa-da-moeda-2005-psicologo-q27",
+    "source": {
+     "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+     "year": 2005,
+     "originalNumber": 27,
+     "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+     "org": "Casa da Moeda do Brasil"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1 Processos Grupais",
+    "stem": "<p>Segundo Zimerman (2000), os grupos operativos institucionais podem ser utilizados para resolver, nas organizações, problemas relacionados à:</p>",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "definição de metas."
+     },
+     {
+      "key": "B",
+      "text": "reorientação de valores."
+     },
+     {
+      "key": "C",
+      "text": "mudança de clima."
+     },
+     {
+      "key": "D",
+      "text": "prevenção de saúde."
+     },
+     {
+      "key": "E",
+      "text": "redução de preconceitos."
+     }
+    ],
+    "correctKey": "C",
+    "explanationSummary": "",
+    "status": "review",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "C",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+    }
+   }
+  },
+  {
+   "id": "casa-da-moeda-2005-psicologo-q29",
+   "motivo": "Não consegui derivar com segurança: o gabarito é D (escolha dos benefícios); depende da formulação literal de Robbins e Finley, não consultada. Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos.",
+   "gabaritoOficial": "D",
+   "derivada": "?",
+   "questao": {
+    "id": "casa-da-moeda-2005-psicologo-q29",
+    "source": {
+     "file": "casa-da-moeda-2005-psicologo/prova.pdf",
+     "year": 2005,
+     "originalNumber": 29,
+     "exam": "Casa da Moeda do Brasil 2005 – Psicólogo",
+     "org": "Casa da Moeda do Brasil"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1.3 Equipes de Trabalho",
+    "stem": "<p>Segundo Robbins &amp; Finley (1997), existe uma certa incoerência quanto às expectativas que as organizações nutrem em relação ao trabalho em equipe e às práticas utilizadas para reconhecimento e recompensas, cuja ênfase é eminentemente individualista. Embora alguns estudiosos afirmem que as equipes não deveriam decidir sobre seu próprio sistema de recompensas, as experiências têm demonstrado que vale a pena atribuir às equipes algumas responsabilidades, entre estas a de definir as formas de:</p>",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "participação acionária."
+     },
+     {
+      "key": "B",
+      "text": "participação nos lucros."
+     },
+     {
+      "key": "C",
+      "text": "ascensão funcional."
+     },
+     {
+      "key": "D",
+      "text": "escolha dos benefícios."
+     },
+     {
+      "key": "E",
+      "text": "hierarquia salarial."
+     }
+    ],
+    "correctKey": "D",
+    "explanationSummary": "",
+    "status": "review",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "D",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": "Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos."
+    }
+   }
+  }
+ ],
+ "fora": [],
+ "log": "Gabarito: página única rotacionada, renderizada com qlmanage e conferida com recorte da coluna PSICÓLOGO (11-30) e da linha Português III (1-10). Gabarito em formato oficial (cópia Aprova/IESDE); recursos.doc não aberto e não menciona Psicólogo no texto convertido (fontes.md). Não confirmado como pós-recursos. Fila: Q19, Q23, Q24, Q27 e Q29, que dependem de formulações literais de autores (Spector, Robbins, Davis e Newstrom, Zimerman, Robbins e Finley) que não consegui derivar com segurança ou que divergiram."
+}

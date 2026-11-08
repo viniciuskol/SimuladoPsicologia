@@ -1,0 +1,1059 @@
+{
+ "concurso": "secad-to-2009-psicologo",
+ "questions": [
+  {
+   "id": "secad-to-2009-psicologo-q1",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 1,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Quanto à tipologia, o Texto I classifica-se como",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>A sua vez</strong></p><p><em>Você já é grandinho o suficiente para saber que brincadeira é para a vida toda</em></p><p>1 Boa parte das brincadeiras infantis são um<br>2 ensaio para a vida adulta. Criança brinca de ser mãe,<br>3 pai, cozinheiro, motorista, polícia, ladrão (e isso, você<br>4 sabe, não implica nenhum tipo de propensão ao crime).<br>5 E, ah, quando não há ninguém por perto, brinca de<br>6 médico também. É uma forma de viver todas as vidas<br>7 possíveis antes de fazer uma escolha ou descoberta.<br>8 Talvez seja por isso que a gente pare de brincar aos<br>9 poucos – como se tudo isso perdesse o sentido quando<br>10 viramos adultos de verdade. E tudo agora é para valer.<br>11 Mas será que parar de brincar é, de fato, uma decisão<br>12 madura?</p><p>13 Atividades de recreação e lazer estimulam o<br>14 imaginário e a criatividade, facilitam a socialização e<br>15 nos ajudam a combater o estresse. Mas, se tudo isso<br>16 for o objetivo, perde a graça, deixa de ser brincadeira.<br>17 Vira mais uma atividade produtiva a cumprir na<br>18 agenda. Você só brinca de verdade (ainda que de<br>19 mentirinha) pelo prazer de brincar. E só. Como escreveu<br>20 Rubem Alves, quem brinca não quer chegar a lugar<br>21 nenhum – já chegou.</p><p>QUINTANILHA, Leandro. Disponível em: http://www.vidasimples.abril.com.br/edicoes/073/pe_no_chao/conteudo_399675.shtml</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "injuntivo.",
+     "explanation": "Texto injuntivo dá instruções e ordens (receitas, manuais); o Texto I defende um ponto de vista."
+    },
+    {
+     "key": "B",
+     "text": "narrativo.",
+     "explanation": "Não há enredo com personagens e sequência de fatos; os exemplos de brincadeiras servem à argumentação."
+    },
+    {
+     "key": "C",
+     "text": "descritivo.",
+     "explanation": "O texto não se organiza para retratar características de um ser ou cenário."
+    },
+    {
+     "key": "D",
+     "text": "expositivo.",
+     "explanation": "Não se limita a informar: questiona ('será que parar de brincar é [...] uma decisão madura?') e toma posição."
+    },
+    {
+     "key": "E",
+     "text": "argumentativo."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O texto defende uma tese (brincar não deve ser abandonado na vida adulta e só vale pelo prazer de brincar), sustentando-a com exemplos, pergunta retórica e citação de autoridade (Rubem Alves). Esses são traços do tipo argumentativo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q2",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 2,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "“Mas, se tudo isso for o objetivo, perde a graça, deixa de ser brincadeira.” (l. 15-16)<br>A justificativa para o que se afirma na passagem acima está na",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>A sua vez</strong></p><p><em>Você já é grandinho o suficiente para saber que brincadeira é para a vida toda</em></p><p>1 Boa parte das brincadeiras infantis são um<br>2 ensaio para a vida adulta. Criança brinca de ser mãe,<br>3 pai, cozinheiro, motorista, polícia, ladrão (e isso, você<br>4 sabe, não implica nenhum tipo de propensão ao crime).<br>5 E, ah, quando não há ninguém por perto, brinca de<br>6 médico também. É uma forma de viver todas as vidas<br>7 possíveis antes de fazer uma escolha ou descoberta.<br>8 Talvez seja por isso que a gente pare de brincar aos<br>9 poucos – como se tudo isso perdesse o sentido quando<br>10 viramos adultos de verdade. E tudo agora é para valer.<br>11 Mas será que parar de brincar é, de fato, uma decisão<br>12 madura?</p><p>13 Atividades de recreação e lazer estimulam o<br>14 imaginário e a criatividade, facilitam a socialização e<br>15 nos ajudam a combater o estresse. Mas, se tudo isso<br>16 for o objetivo, perde a graça, deixa de ser brincadeira.<br>17 Vira mais uma atividade produtiva a cumprir na<br>18 agenda. Você só brinca de verdade (ainda que de<br>19 mentirinha) pelo prazer de brincar. E só. Como escreveu<br>20 Rubem Alves, quem brinca não quer chegar a lugar<br>21 nenhum – já chegou.</p><p>QUINTANILHA, Leandro. Disponível em: http://www.vidasimples.abril.com.br/edicoes/073/pe_no_chao/conteudo_399675.shtml</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "casualidade com que as atividades de recreação e lazer ocorrem.",
+     "explanation": "O problema apontado é o oposto da casualidade: é fazer a brincadeira com um objetivo definido."
+    },
+    {
+     "key": "B",
+     "text": "esporadicidade em relação ao tempo disponível das pessoas para recreação e lazer.",
+     "explanation": "O texto não discute frequência nem tempo disponível."
+    },
+    {
+     "key": "C",
+     "text": "intencionalidade com relação à prática das atividades de recreação e lazer."
+    },
+    {
+     "key": "D",
+     "text": "periodicidade cujo espaço de tempo entre uma ocorrência e outra não surte o efeito esperado.",
+     "explanation": "Periodicidade não é tratada; o que tira a graça é o propósito utilitário."
+    },
+    {
+     "key": "E",
+     "text": "regularidade da prática de tais atividades, o que faz com que se torne uma rotina na vida das pessoas.",
+     "explanation": "O texto fala em virar 'atividade produtiva a cumprir na agenda' por causa do objetivo, não por causa da regularidade."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "A brincadeira perde a graça quando é feita com uma finalidade (estimular a criatividade, combater o estresse): vira 'atividade produtiva a cumprir na agenda'. Para o autor, só se brinca de verdade 'pelo prazer de brincar', isto é, sem intencionalidade.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q3",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 3,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Reescrevendo a passagem retirada do Texto I, o sentido se mantém em",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>A sua vez</strong></p><p><em>Você já é grandinho o suficiente para saber que brincadeira é para a vida toda</em></p><p>1 Boa parte das brincadeiras infantis são um<br>2 ensaio para a vida adulta. Criança brinca de ser mãe,<br>3 pai, cozinheiro, motorista, polícia, ladrão (e isso, você<br>4 sabe, não implica nenhum tipo de propensão ao crime).<br>5 E, ah, quando não há ninguém por perto, brinca de<br>6 médico também. É uma forma de viver todas as vidas<br>7 possíveis antes de fazer uma escolha ou descoberta.<br>8 Talvez seja por isso que a gente pare de brincar aos<br>9 poucos – como se tudo isso perdesse o sentido quando<br>10 viramos adultos de verdade. E tudo agora é para valer.<br>11 Mas será que parar de brincar é, de fato, uma decisão<br>12 madura?</p><p>13 Atividades de recreação e lazer estimulam o<br>14 imaginário e a criatividade, facilitam a socialização e<br>15 nos ajudam a combater o estresse. Mas, se tudo isso<br>16 for o objetivo, perde a graça, deixa de ser brincadeira.<br>17 Vira mais uma atividade produtiva a cumprir na<br>18 agenda. Você só brinca de verdade (ainda que de<br>19 mentirinha) pelo prazer de brincar. E só. Como escreveu<br>20 Rubem Alves, quem brinca não quer chegar a lugar<br>21 nenhum – já chegou.</p><p>QUINTANILHA, Leandro. Disponível em: http://www.vidasimples.abril.com.br/edicoes/073/pe_no_chao/conteudo_399675.shtml</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“Boa parte das brincadeiras infantis são um ensaio para a vida adulta.” (l. 1-2) - As brincadeiras infantis são, em grande parte, um ensaio para a vida adulta."
+    },
+    {
+     "key": "B",
+     "text": "“E, ah, quando não há ninguém por perto, brinca de médico também.” (l. 5-6) - E, ah, brinca de médico quando também não há ninguém por perto.",
+     "explanation": "Deslocar 'também' muda seu escopo: no original, brincar de médico se soma às outras brincadeiras; na reescrita, a adição recai sobre a circunstância."
+    },
+    {
+     "key": "C",
+     "text": "“Talvez seja por isso que a gente pare de brincar aos poucos -” (l. 8-9) - Por isso, talvez, a gente é que pare de brincar aos poucos.",
+     "explanation": "'A gente é que' introduz ênfase contrastiva (a gente, e não outros), ausente no original."
+    },
+    {
+     "key": "D",
+     "text": "“Mas será que parar de brincar é, de fato, uma decisão madura?” (l. 11-12) - Mas será que uma decisão realmente madura não é parar de brincar?",
+     "explanation": "A reescrita inverte a pergunta e sugere que parar de brincar seria maduro, o contrário do que o texto insinua."
+    },
+    {
+     "key": "E",
+     "text": "“Você só brinca de verdade (ainda que de mentirinha) pelo prazer de brincar.” (l. 18-19) - Ainda que de mentirinha, só você brinca de verdade pelo prazer de brincar.",
+     "explanation": "Deslocar 'só' muda o foco: passa a significar que apenas 'você' brinca de verdade, e não que se brinca apenas pelo prazer."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Em A, 'boa parte das brincadeiras' equivale a 'as brincadeiras, em grande parte', e o sentido se preserva. Nas demais, o deslocamento de palavras de foco ('também', 'só', 'é que') ou a inversão da pergunta altera o sentido.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q4",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 4,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Assinale a afirmativa procedente em relação às ideias do Texto I.",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>A sua vez</strong></p><p><em>Você já é grandinho o suficiente para saber que brincadeira é para a vida toda</em></p><p>1 Boa parte das brincadeiras infantis são um<br>2 ensaio para a vida adulta. Criança brinca de ser mãe,<br>3 pai, cozinheiro, motorista, polícia, ladrão (e isso, você<br>4 sabe, não implica nenhum tipo de propensão ao crime).<br>5 E, ah, quando não há ninguém por perto, brinca de<br>6 médico também. É uma forma de viver todas as vidas<br>7 possíveis antes de fazer uma escolha ou descoberta.<br>8 Talvez seja por isso que a gente pare de brincar aos<br>9 poucos – como se tudo isso perdesse o sentido quando<br>10 viramos adultos de verdade. E tudo agora é para valer.<br>11 Mas será que parar de brincar é, de fato, uma decisão<br>12 madura?</p><p>13 Atividades de recreação e lazer estimulam o<br>14 imaginário e a criatividade, facilitam a socialização e<br>15 nos ajudam a combater o estresse. Mas, se tudo isso<br>16 for o objetivo, perde a graça, deixa de ser brincadeira.<br>17 Vira mais uma atividade produtiva a cumprir na<br>18 agenda. Você só brinca de verdade (ainda que de<br>19 mentirinha) pelo prazer de brincar. E só. Como escreveu<br>20 Rubem Alves, quem brinca não quer chegar a lugar<br>21 nenhum – já chegou.</p><p>QUINTANILHA, Leandro. Disponível em: http://www.vidasimples.abril.com.br/edicoes/073/pe_no_chao/conteudo_399675.shtml</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "A fantasia, na idade adulta, cerceia a atividade profissional do indivíduo.",
+     "explanation": "O texto não relaciona fantasia a prejuízo profissional."
+    },
+    {
+     "key": "B",
+     "text": "A fase adulta, por traduzir a realidade, não comporta mais brincadeiras.",
+     "explanation": "É a ideia que o texto questiona ('será que parar de brincar é, de fato, uma decisão madura?')."
+    },
+    {
+     "key": "C",
+     "text": "As brincadeiras na infância determinam o rumo que a vida do indivíduo irá tomar.",
+     "explanation": "O texto diz que são 'ensaio' e forma de viver vidas possíveis, não que determinam o futuro (e ressalva que brincar de ladrão não implica propensão ao crime)."
+    },
+    {
+     "key": "D",
+     "text": "Atividades de recreação e lazer precisam ter um espaço na fase adulta."
+    },
+    {
+     "key": "E",
+     "text": "Na fase adulta, as brincadeiras infantis devem ser estimuladas com o intuito de contrabalançar os impactos causados pela realidade.",
+     "explanation": "O texto rejeita brincar com um objetivo utilitário; brincar vale pelo prazer, não para compensar a realidade."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Já no subtítulo ('brincadeira é para a vida toda') e na pergunta das l. 11-12, o autor defende que o adulto não deve abandonar o brincar. A alternativa D resume essa tese.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q5",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 5,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "Em, “Mas, <strong>se</strong> tudo isso for o objetivo, perde a graça, deixa de ser brincadeira.” (l. 15-16), o conectivo destacado estabelece, entre a ideia que introduz e a anterior, uma relação de",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>A sua vez</strong></p><p><em>Você já é grandinho o suficiente para saber que brincadeira é para a vida toda</em></p><p>1 Boa parte das brincadeiras infantis são um<br>2 ensaio para a vida adulta. Criança brinca de ser mãe,<br>3 pai, cozinheiro, motorista, polícia, ladrão (e isso, você<br>4 sabe, não implica nenhum tipo de propensão ao crime).<br>5 E, ah, quando não há ninguém por perto, brinca de<br>6 médico também. É uma forma de viver todas as vidas<br>7 possíveis antes de fazer uma escolha ou descoberta.<br>8 Talvez seja por isso que a gente pare de brincar aos<br>9 poucos – como se tudo isso perdesse o sentido quando<br>10 viramos adultos de verdade. E tudo agora é para valer.<br>11 Mas será que parar de brincar é, de fato, uma decisão<br>12 madura?</p><p>13 Atividades de recreação e lazer estimulam o<br>14 imaginário e a criatividade, facilitam a socialização e<br>15 nos ajudam a combater o estresse. Mas, se tudo isso<br>16 for o objetivo, perde a graça, deixa de ser brincadeira.<br>17 Vira mais uma atividade produtiva a cumprir na<br>18 agenda. Você só brinca de verdade (ainda que de<br>19 mentirinha) pelo prazer de brincar. E só. Como escreveu<br>20 Rubem Alves, quem brinca não quer chegar a lugar<br>21 nenhum – já chegou.</p><p>QUINTANILHA, Leandro. Disponível em: http://www.vidasimples.abril.com.br/edicoes/073/pe_no_chao/conteudo_399675.shtml</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "causa.",
+     "explanation": "Causa seria expressa por 'porque', 'já que'; 'se' com futuro do subjuntivo ('for') indica hipótese."
+    },
+    {
+     "key": "B",
+     "text": "condição."
+    },
+    {
+     "key": "C",
+     "text": "conclusão.",
+     "explanation": "Conclusão seria 'portanto', 'logo'."
+    },
+    {
+     "key": "D",
+     "text": "conformidade.",
+     "explanation": "Conformidade seria 'conforme', 'segundo'."
+    },
+    {
+     "key": "E",
+     "text": "oposição.",
+     "explanation": "A oposição está em 'Mas', não em 'se'."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "'Se' é conjunção subordinativa condicional: a perda da graça depende da hipótese de 'tudo isso' ser o objetivo. O verbo no futuro do subjuntivo ('for') reforça o valor hipotético.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q7",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 7,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "O verbo destacado é impessoal na frase",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>A sua vez</strong></p><p><em>Você já é grandinho o suficiente para saber que brincadeira é para a vida toda</em></p><p>1 Boa parte das brincadeiras infantis são um<br>2 ensaio para a vida adulta. Criança brinca de ser mãe,<br>3 pai, cozinheiro, motorista, polícia, ladrão (e isso, você<br>4 sabe, não implica nenhum tipo de propensão ao crime).<br>5 E, ah, quando não há ninguém por perto, brinca de<br>6 médico também. É uma forma de viver todas as vidas<br>7 possíveis antes de fazer uma escolha ou descoberta.<br>8 Talvez seja por isso que a gente pare de brincar aos<br>9 poucos – como se tudo isso perdesse o sentido quando<br>10 viramos adultos de verdade. E tudo agora é para valer.<br>11 Mas será que parar de brincar é, de fato, uma decisão<br>12 madura?</p><p>13 Atividades de recreação e lazer estimulam o<br>14 imaginário e a criatividade, facilitam a socialização e<br>15 nos ajudam a combater o estresse. Mas, se tudo isso<br>16 for o objetivo, perde a graça, deixa de ser brincadeira.<br>17 Vira mais uma atividade produtiva a cumprir na<br>18 agenda. Você só brinca de verdade (ainda que de<br>19 mentirinha) pelo prazer de brincar. E só. Como escreveu<br>20 Rubem Alves, quem brinca não quer chegar a lugar<br>21 nenhum – já chegou.</p><p>QUINTANILHA, Leandro. Disponível em: http://www.vidasimples.abril.com.br/edicoes/073/pe_no_chao/conteudo_399675.shtml</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“(e isso, você sabe, não <strong>implica</strong> nenhum tipo de propensão ao crime).” (l. 3-4).",
+     "explanation": "'Implica' tem sujeito ('isso')."
+    },
+    {
+     "key": "B",
+     "text": "“E, ah, quando não <strong>há</strong> ninguém por perto,...” (l. 5)."
+    },
+    {
+     "key": "C",
+     "text": "“E tudo agora <strong>é</strong> para valer.” (l. 10).",
+     "explanation": "'É' tem sujeito ('tudo')."
+    },
+    {
+     "key": "D",
+     "text": "“<strong>Vira</strong> mais uma atividade produtiva a cumprir...” (l. 17).",
+     "explanation": "'Vira' tem sujeito oculto (a brincadeira / 'tudo isso')."
+    },
+    {
+     "key": "E",
+     "text": "“quem <strong>brinca</strong> não quer chegar a lugar nenhum –” (l. 20-21).",
+     "explanation": "'Brinca' tem sujeito ('quem')."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O verbo 'haver' no sentido de existir é impessoal: não tem sujeito e fica na 3ª pessoa do singular ('não há ninguém'). Nos demais casos os verbos têm sujeito expresso ou oculto.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q8",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 8,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "Na passagem “...o grupo pretende <strong>expandir</strong> a periodicidade das visitas.” (l. 34-35), o vocábulo destacado pode ser substituído, sem alteração de sentido, por",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>Terapia do humor em hospital com doutores do riso</strong></p><p>1 Com o objetivo de contagiar as pessoas com uma<br>2 dose de carinho e dedicação é que o Grupo Doutores<br>3 do Riso realizou esta semana uma visita no Hospital<br>4 e Maternidade Vital Brazil despertando sorrisos de<br>5 pacientes e funcionários. Formado por uma equipe<br>6 multiprofissional de voluntários, os Doutores do Riso<br>7 visitam, além de hospitais, creches e asilos.</p><p>8 A visita no HMVB contou com a participação de<br>9 três voluntários: Silvio Lopes, o Farofa, Janete, a<br>10 Bolinha, e Lúcio, o Batatinha. Com o intuito de minimizar<br>11 a ansiedade e o sofrimento dos internados, os<br>12 integrantes visitaram pacientes da clínica médica<br>13 e da pediatria do hospital. Há sete anos à frente dos<br>14 trabalhos do grupo, Silvio conta que, durante as visitas,<br>15 eles são sempre bem-vindos.</p><p>16 “Não existe ninguém que não queira receber<br>17 carinho e alegria. Todo mundo quer ter motivos para<br>18 sorrir, sempre. Mais do que alegria para os pacientes,<br>19 somos nós quem ganhamos com essas visitas.<br>20 O ambiente de hospital por si, já é sério, por isso, a<br>21 importância do nosso trabalho”, conta o humorista.</p><p>22 O projeto Doutores do Riso atua no HMVB por<br>23 intermédio de Érica Dias, da Responsabilidade<br>24 Socioambiental. “O trabalho do Grupo é de grande<br>25 importância para o hospital por ser uma forma de<br>26 descontração; um momento de levar alegrias e desper-<br>27 tar o bom humor das pessoas que aqui estão”, define.</p><p>28 Por onde eles passam, a alegria é certa, garante<br>29 Janete. “Nosso trabalho não é voltado somente para<br>30 crianças. Somos sempre muito espontâneos e imagino<br>31 que conseguimos levar alegria para pessoas de todas<br>32 as idades, por onde passamos”, destaca.</p><p>33 As visitas no hospital acontecem em média<br>34 duas vezes por mês, mas o grupo pretende expandir a<br>35 periodicidade das visitas. “Nós temos um carinho muito<br>36 grande pelo Vital Brazil e já está em fase de discussão<br>37 estabelecer um “plantão” aqui, para que possamos mar-<br>38 car presença com mais frequência no HMVB”, expli-<br>39 ca Lúcio.</p><p>(Adaptado) Disponível em: http://www.plox.com.br/caderno/ci%C3%AAncia-e-sa%C3%BAde/terapia-do-humor-em-hospital-com-doutores-do-riso</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "postergar.",
+     "explanation": "Postergar é adiar, deixar para depois."
+    },
+    {
+     "key": "B",
+     "text": "protelar.",
+     "explanation": "Protelar também é adiar, retardar."
+    },
+    {
+     "key": "C",
+     "text": "alternar.",
+     "explanation": "Alternar é revezar, fazer suceder alternadamente."
+    },
+    {
+     "key": "D",
+     "text": "dirimir.",
+     "explanation": "Dirimir é resolver, desfazer (uma dúvida, um conflito)."
+    },
+    {
+     "key": "E",
+     "text": "dilatar."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Expandir significa ampliar, estender; 'dilatar' tem o mesmo sentido. O grupo pretende aumentar a frequência das visitas, como confirma a fala de Lúcio sobre um 'plantão'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q9",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 9,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "As expressões abaixo, retiradas do Texto II, que contrastam semanticamente são:",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>Terapia do humor em hospital com doutores do riso</strong></p><p>1 Com o objetivo de contagiar as pessoas com uma<br>2 dose de carinho e dedicação é que o Grupo Doutores<br>3 do Riso realizou esta semana uma visita no Hospital<br>4 e Maternidade Vital Brazil despertando sorrisos de<br>5 pacientes e funcionários. Formado por uma equipe<br>6 multiprofissional de voluntários, os Doutores do Riso<br>7 visitam, além de hospitais, creches e asilos.</p><p>8 A visita no HMVB contou com a participação de<br>9 três voluntários: Silvio Lopes, o Farofa, Janete, a<br>10 Bolinha, e Lúcio, o Batatinha. Com o intuito de minimizar<br>11 a ansiedade e o sofrimento dos internados, os<br>12 integrantes visitaram pacientes da clínica médica<br>13 e da pediatria do hospital. Há sete anos à frente dos<br>14 trabalhos do grupo, Silvio conta que, durante as visitas,<br>15 eles são sempre bem-vindos.</p><p>16 “Não existe ninguém que não queira receber<br>17 carinho e alegria. Todo mundo quer ter motivos para<br>18 sorrir, sempre. Mais do que alegria para os pacientes,<br>19 somos nós quem ganhamos com essas visitas.<br>20 O ambiente de hospital por si, já é sério, por isso, a<br>21 importância do nosso trabalho”, conta o humorista.</p><p>22 O projeto Doutores do Riso atua no HMVB por<br>23 intermédio de Érica Dias, da Responsabilidade<br>24 Socioambiental. “O trabalho do Grupo é de grande<br>25 importância para o hospital por ser uma forma de<br>26 descontração; um momento de levar alegrias e desper-<br>27 tar o bom humor das pessoas que aqui estão”, define.</p><p>28 Por onde eles passam, a alegria é certa, garante<br>29 Janete. “Nosso trabalho não é voltado somente para<br>30 crianças. Somos sempre muito espontâneos e imagino<br>31 que conseguimos levar alegria para pessoas de todas<br>32 as idades, por onde passamos”, destaca.</p><p>33 As visitas no hospital acontecem em média<br>34 duas vezes por mês, mas o grupo pretende expandir a<br>35 periodicidade das visitas. “Nós temos um carinho muito<br>36 grande pelo Vital Brazil e já está em fase de discussão<br>37 estabelecer um “plantão” aqui, para que possamos mar-<br>38 car presença com mais frequência no HMVB”, expli-<br>39 ca Lúcio.</p><p>(Adaptado) Disponível em: http://www.plox.com.br/caderno/ci%C3%AAncia-e-sa%C3%BAde/terapia-do-humor-em-hospital-com-doutores-do-riso</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“dose de carinho e dedicação” (l. 2) e “alegria para os pacientes” (l. 18).",
+     "explanation": "As duas expressões têm sentido positivo e convergente."
+    },
+    {
+     "key": "B",
+     "text": "“a ansiedade e o sofrimento dos internados” (l. 11) e “pacientes da clínica médica e da pediatria” (l. 12-13).",
+     "explanation": "A segunda apenas identifica os internados; não se opõe à primeira."
+    },
+    {
+     "key": "C",
+     "text": "“ambiente de hospital” (l. 20) e “O trabalho do Grupo” (l. 24)."
+    },
+    {
+     "key": "D",
+     "text": "“O projeto Doutores do Riso” (l. 22) e “forma de descontração” (l. 25-26).",
+     "explanation": "A segunda caracteriza o próprio projeto; há equivalência, não contraste."
+    },
+    {
+     "key": "E",
+     "text": "“As visitas no hospital” (l. 33) e “motivos para sorrir, sempre.” (l. 17-18).",
+     "explanation": "As visitas dão motivos para sorrir; as expressões se complementam."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O texto opõe o ambiente hospitalar, que 'por si, já é sério' (l. 20), ao trabalho do grupo, definido como 'forma de descontração' e de levar alegria (l. 24-26). As demais duplas são equivalentes ou complementares.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q10",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 10,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "No Texto II, quem expressa a opinião de que a situação é gratificante principalmente para os voluntários é o(a)",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>Terapia do humor em hospital com doutores do riso</strong></p><p>1 Com o objetivo de contagiar as pessoas com uma<br>2 dose de carinho e dedicação é que o Grupo Doutores<br>3 do Riso realizou esta semana uma visita no Hospital<br>4 e Maternidade Vital Brazil despertando sorrisos de<br>5 pacientes e funcionários. Formado por uma equipe<br>6 multiprofissional de voluntários, os Doutores do Riso<br>7 visitam, além de hospitais, creches e asilos.</p><p>8 A visita no HMVB contou com a participação de<br>9 três voluntários: Silvio Lopes, o Farofa, Janete, a<br>10 Bolinha, e Lúcio, o Batatinha. Com o intuito de minimizar<br>11 a ansiedade e o sofrimento dos internados, os<br>12 integrantes visitaram pacientes da clínica médica<br>13 e da pediatria do hospital. Há sete anos à frente dos<br>14 trabalhos do grupo, Silvio conta que, durante as visitas,<br>15 eles são sempre bem-vindos.</p><p>16 “Não existe ninguém que não queira receber<br>17 carinho e alegria. Todo mundo quer ter motivos para<br>18 sorrir, sempre. Mais do que alegria para os pacientes,<br>19 somos nós quem ganhamos com essas visitas.<br>20 O ambiente de hospital por si, já é sério, por isso, a<br>21 importância do nosso trabalho”, conta o humorista.</p><p>22 O projeto Doutores do Riso atua no HMVB por<br>23 intermédio de Érica Dias, da Responsabilidade<br>24 Socioambiental. “O trabalho do Grupo é de grande<br>25 importância para o hospital por ser uma forma de<br>26 descontração; um momento de levar alegrias e desper-<br>27 tar o bom humor das pessoas que aqui estão”, define.</p><p>28 Por onde eles passam, a alegria é certa, garante<br>29 Janete. “Nosso trabalho não é voltado somente para<br>30 crianças. Somos sempre muito espontâneos e imagino<br>31 que conseguimos levar alegria para pessoas de todas<br>32 as idades, por onde passamos”, destaca.</p><p>33 As visitas no hospital acontecem em média<br>34 duas vezes por mês, mas o grupo pretende expandir a<br>35 periodicidade das visitas. “Nós temos um carinho muito<br>36 grande pelo Vital Brazil e já está em fase de discussão<br>37 estabelecer um “plantão” aqui, para que possamos mar-<br>38 car presença com mais frequência no HMVB”, expli-<br>39 ca Lúcio.</p><p>(Adaptado) Disponível em: http://www.plox.com.br/caderno/ci%C3%AAncia-e-sa%C3%BAde/terapia-do-humor-em-hospital-com-doutores-do-riso</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Farofa."
+    },
+    {
+     "key": "B",
+     "text": "Bolinha.",
+     "explanation": "Janete (Bolinha) fala que o trabalho leva alegria a pessoas de todas as idades, não de ganho dos voluntários."
+    },
+    {
+     "key": "C",
+     "text": "Batatinha.",
+     "explanation": "Lúcio (Batatinha) fala do carinho pelo hospital e do plano de um 'plantão'."
+    },
+    {
+     "key": "D",
+     "text": "narrador.",
+     "explanation": "O narrador relata os fatos sem dar essa opinião."
+    },
+    {
+     "key": "E",
+     "text": "socioambientalista.",
+     "explanation": "Érica Dias destaca a importância do trabalho para o hospital."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Silvio Lopes, o Farofa, afirma: 'Mais do que alegria para os pacientes, somos nós quem ganhamos com essas visitas' (l. 18-19). A fala é atribuída 'ao humorista', isto é, a Silvio, que está à frente do grupo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q11",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 11,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "De acordo com o Texto II, o Grupo Doutores do Riso",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>Terapia do humor em hospital com doutores do riso</strong></p><p>1 Com o objetivo de contagiar as pessoas com uma<br>2 dose de carinho e dedicação é que o Grupo Doutores<br>3 do Riso realizou esta semana uma visita no Hospital<br>4 e Maternidade Vital Brazil despertando sorrisos de<br>5 pacientes e funcionários. Formado por uma equipe<br>6 multiprofissional de voluntários, os Doutores do Riso<br>7 visitam, além de hospitais, creches e asilos.</p><p>8 A visita no HMVB contou com a participação de<br>9 três voluntários: Silvio Lopes, o Farofa, Janete, a<br>10 Bolinha, e Lúcio, o Batatinha. Com o intuito de minimizar<br>11 a ansiedade e o sofrimento dos internados, os<br>12 integrantes visitaram pacientes da clínica médica<br>13 e da pediatria do hospital. Há sete anos à frente dos<br>14 trabalhos do grupo, Silvio conta que, durante as visitas,<br>15 eles são sempre bem-vindos.</p><p>16 “Não existe ninguém que não queira receber<br>17 carinho e alegria. Todo mundo quer ter motivos para<br>18 sorrir, sempre. Mais do que alegria para os pacientes,<br>19 somos nós quem ganhamos com essas visitas.<br>20 O ambiente de hospital por si, já é sério, por isso, a<br>21 importância do nosso trabalho”, conta o humorista.</p><p>22 O projeto Doutores do Riso atua no HMVB por<br>23 intermédio de Érica Dias, da Responsabilidade<br>24 Socioambiental. “O trabalho do Grupo é de grande<br>25 importância para o hospital por ser uma forma de<br>26 descontração; um momento de levar alegrias e desper-<br>27 tar o bom humor das pessoas que aqui estão”, define.</p><p>28 Por onde eles passam, a alegria é certa, garante<br>29 Janete. “Nosso trabalho não é voltado somente para<br>30 crianças. Somos sempre muito espontâneos e imagino<br>31 que conseguimos levar alegria para pessoas de todas<br>32 as idades, por onde passamos”, destaca.</p><p>33 As visitas no hospital acontecem em média<br>34 duas vezes por mês, mas o grupo pretende expandir a<br>35 periodicidade das visitas. “Nós temos um carinho muito<br>36 grande pelo Vital Brazil e já está em fase de discussão<br>37 estabelecer um “plantão” aqui, para que possamos mar-<br>38 car presença com mais frequência no HMVB”, expli-<br>39 ca Lúcio.</p><p>(Adaptado) Disponível em: http://www.plox.com.br/caderno/ci%C3%AAncia-e-sa%C3%BAde/terapia-do-humor-em-hospital-com-doutores-do-riso</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "é formado por artistas humoristas diversos.",
+     "explanation": "O grupo é formado por 'uma equipe multiprofissional de voluntários' (l. 5-6)."
+    },
+    {
+     "key": "B",
+     "text": "dedica-se a visitar, semanalmente, hospitais.",
+     "explanation": "As visitas ao HMVB ocorrem 'em média duas vezes por mês' (l. 33-34)."
+    },
+    {
+     "key": "C",
+     "text": "estende seu trabalho a outras entidades."
+    },
+    {
+     "key": "D",
+     "text": "contou com a presença de outros artistas, além dos citados no texto, quando da visita ao HMVB.",
+     "explanation": "A visita 'contou com a participação de três voluntários', todos nomeados (l. 8-10)."
+    },
+    {
+     "key": "E",
+     "text": "tem a intenção de aumentar seu vínculo empregatício com o hospital.",
+     "explanation": "O grupo é voluntário; pretende aumentar a frequência das visitas, não criar vínculo empregatício."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "As linhas 6-7 informam que os Doutores do Riso visitam, 'além de hospitais, creches e asilos', ou seja, estendem o trabalho a outras entidades.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q12",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 12,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.8 Emprego dos sinais de pontuação",
+   "stem": "Em qual das seguintes frases está <strong>INCORRETO</strong>, segundo o registro culto e formal da língua, o uso da(s) vírgula(s)?",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Durante as visitas do grupo, os pacientes e os funcionários recebem carinho e atenção.",
+     "explanation": "Vírgula correta após adjunto adverbial deslocado para o início."
+    },
+    {
+     "key": "B",
+     "text": "É preciso divulgar o nosso projeto em outros hospitais, disse um dos participantes.",
+     "explanation": "Vírgula correta antes do verbo de elocução no discurso direto."
+    },
+    {
+     "key": "C",
+     "text": "Os idosos, chorando de emoção, despediam-se dos voluntários.",
+     "explanation": "Vírgulas corretas isolando oração reduzida de gerúndio intercalada."
+    },
+    {
+     "key": "D",
+     "text": "O diretor da Instituição acredita que, a equipe multiprofissional de voluntários, contagia a todos."
+    },
+    {
+     "key": "E",
+     "text": "O projeto do Grupo Doutores do Riso, além de trazer conforto, minimiza o sofrimento dos pacientes.",
+     "explanation": "Vírgulas corretas isolando expressão intercalada ('além de trazer conforto')."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Em D, as vírgulas separam o sujeito ('a equipe multiprofissional de voluntários') do seu verbo ('contagia'), o que a norma não admite. Nas demais, as vírgulas marcam adjunto deslocado, verbo de elocução ou termos intercalados.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q13",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 13,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.7 Coordenação e subordinação",
+   "stem": "Em “As visitas no hospital acontecem em média duas vezes por mês, <strong>mas</strong> o grupo pretende expandir a periodicidade das visitas.” (l. 33-35), o conectivo destacado só <strong>NÃO</strong> pode ser substituído, devido a alterar o sentido original, por:",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>Terapia do humor em hospital com doutores do riso</strong></p><p>1 Com o objetivo de contagiar as pessoas com uma<br>2 dose de carinho e dedicação é que o Grupo Doutores<br>3 do Riso realizou esta semana uma visita no Hospital<br>4 e Maternidade Vital Brazil despertando sorrisos de<br>5 pacientes e funcionários. Formado por uma equipe<br>6 multiprofissional de voluntários, os Doutores do Riso<br>7 visitam, além de hospitais, creches e asilos.</p><p>8 A visita no HMVB contou com a participação de<br>9 três voluntários: Silvio Lopes, o Farofa, Janete, a<br>10 Bolinha, e Lúcio, o Batatinha. Com o intuito de minimizar<br>11 a ansiedade e o sofrimento dos internados, os<br>12 integrantes visitaram pacientes da clínica médica<br>13 e da pediatria do hospital. Há sete anos à frente dos<br>14 trabalhos do grupo, Silvio conta que, durante as visitas,<br>15 eles são sempre bem-vindos.</p><p>16 “Não existe ninguém que não queira receber<br>17 carinho e alegria. Todo mundo quer ter motivos para<br>18 sorrir, sempre. Mais do que alegria para os pacientes,<br>19 somos nós quem ganhamos com essas visitas.<br>20 O ambiente de hospital por si, já é sério, por isso, a<br>21 importância do nosso trabalho”, conta o humorista.</p><p>22 O projeto Doutores do Riso atua no HMVB por<br>23 intermédio de Érica Dias, da Responsabilidade<br>24 Socioambiental. “O trabalho do Grupo é de grande<br>25 importância para o hospital por ser uma forma de<br>26 descontração; um momento de levar alegrias e desper-<br>27 tar o bom humor das pessoas que aqui estão”, define.</p><p>28 Por onde eles passam, a alegria é certa, garante<br>29 Janete. “Nosso trabalho não é voltado somente para<br>30 crianças. Somos sempre muito espontâneos e imagino<br>31 que conseguimos levar alegria para pessoas de todas<br>32 as idades, por onde passamos”, destaca.</p><p>33 As visitas no hospital acontecem em média<br>34 duas vezes por mês, mas o grupo pretende expandir a<br>35 periodicidade das visitas. “Nós temos um carinho muito<br>36 grande pelo Vital Brazil e já está em fase de discussão<br>37 estabelecer um “plantão” aqui, para que possamos mar-<br>38 car presença com mais frequência no HMVB”, expli-<br>39 ca Lúcio.</p><p>(Adaptado) Disponível em: http://www.plox.com.br/caderno/ci%C3%AAncia-e-sa%C3%BAde/terapia-do-humor-em-hospital-com-doutores-do-riso</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "não obstante.",
+     "explanation": "Locução adversativa/concessiva; mantém a oposição."
+    },
+    {
+     "key": "B",
+     "text": "no entanto.",
+     "explanation": "Conjunção adversativa, equivalente a 'mas'."
+    },
+    {
+     "key": "C",
+     "text": "todavia.",
+     "explanation": "Conjunção adversativa, equivalente a 'mas'."
+    },
+    {
+     "key": "D",
+     "text": "contudo.",
+     "explanation": "Conjunção adversativa, equivalente a 'mas'."
+    },
+    {
+     "key": "E",
+     "text": "porquanto."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "'Mas' é conjunção coordenativa adversativa; 'não obstante', 'no entanto', 'todavia' e 'contudo' têm o mesmo valor. 'Porquanto' é causal/explicativa ('porque'), e alteraria a relação entre as orações.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q14",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 14,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.11 Emprego do sinal indicativo de crase",
+   "stem": "Os profissionais do riso, ________ partir de amanhã, darão assistência, também, ________ família dos pacientes que estão internados, __________ espera de um transplante.<br>As palavras que preenchem, corretamente, as lacunas da frase acima são",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "à – à – à",
+     "explanation": "Não há crase antes de verbo ('a partir')."
+    },
+    {
+     "key": "B",
+     "text": "à – à – a",
+     "explanation": "Erra na primeira lacuna (verbo) e na terceira ('à espera de' é locução feminina com crase)."
+    },
+    {
+     "key": "C",
+     "text": "a – à – à"
+    },
+    {
+     "key": "D",
+     "text": "a – a – à",
+     "explanation": "'Dar assistência a' + 'a família' exige crase: 'à família'."
+    },
+    {
+     "key": "E",
+     "text": "a – a – a",
+     "explanation": "Faltam as crases de 'à família' e da locução 'à espera de'."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Não ocorre crase antes de verbo ('a partir'). 'Dar assistência a' rege a preposição 'a', que se funde ao artigo de 'a família': 'à família'. 'À espera de' é locução adverbial feminina, com crase.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q15",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 15,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.9 Concordância verbal e nominal",
+   "stem": "Leia as frases abaixo.<br>I - <strong>Fazem</strong>, hoje, três meses que participo de um trabalho voluntário.<br>II - Seremos nós quem <strong>conseguirá</strong> levar esperança para os enfermos.<br>III - Não <strong>deve haver</strong> pessoas que não apreciem as nossas brincadeiras.<br>Em relação à concordância dos verbos destacados, está(ão) correta(s) a(s) frase(s)",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I, apenas.",
+     "explanation": "I está errada: 'fazer' indicando tempo decorrido é impessoal ('Faz três meses')."
+    },
+    {
+     "key": "B",
+     "text": "I e II, apenas.",
+     "explanation": "Inclui I, que está errada."
+    },
+    {
+     "key": "C",
+     "text": "I e III, apenas.",
+     "explanation": "Inclui I, que está errada, e omite II, que está correta."
+    },
+    {
+     "key": "D",
+     "text": "II e III, apenas."
+    },
+    {
+     "key": "E",
+     "text": "I, II e III.",
+     "explanation": "I está errada: 'faz', no singular."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "'Fazer' indicando tempo decorrido é impessoal: 'Faz três meses' (I errada). Com o pronome 'quem', o verbo pode ir para a 3ª pessoa do singular ('nós quem conseguirá') ou concordar com o antecedente (II correta). 'Haver' = existir é impessoal e transmite a impessoalidade ao auxiliar: 'deve haver' (III correta).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q33",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 33,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.1 Pesquisa e intervenções nas organizações",
+   "stem": "Ao realizar uma pesquisa de levantamento, o pesquisador concluiu que",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "entrevistas são melhores do que questionários porque os dados coletados são sempre menos padronizados e fornecem muita informação.",
+     "explanation": "Entrevistas não são sempre menos padronizadas (há entrevistas estruturadas), e menor padronização não as torna 'melhores' em absoluto."
+    },
+    {
+     "key": "B",
+     "text": "questionários permitem que as pessoas fiquem mais livres para se expressar e interagir do que entrevistas.",
+     "explanation": "É o contrário: a entrevista permite interação e aprofundamento; o questionário restringe a expressão às perguntas propostas."
+    },
+    {
+     "key": "C",
+     "text": "questionários são melhores do que entrevistas para colher dados mais precisos de qualquer tipo de população.",
+     "explanation": "O questionário não serve a qualquer população (exige alfabetização, por exemplo) nem garante maior precisão."
+    },
+    {
+     "key": "D",
+     "text": "questionários garantem maior fidedignidade das respostas por serem mais bem estruturados.",
+     "explanation": "Estrutura padronizada não garante fidedignidade; o respondente pode não entender ou responder de forma enviesada sem que o pesquisador perceba."
+    },
+    {
+     "key": "E",
+     "text": "questionários são processos menos dispendiosos do que entrevistas."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Em pesquisas de levantamento (survey), a vantagem clássica do questionário é o menor custo: alcança muitas pessoas ao mesmo tempo, sem exigir entrevistadores treinados. A entrevista, mais cara, permite flexibilidade, esclarecimento de dúvidas e uso com populações não alfabetizadas. Nenhum dos dois é superior em termos absolutos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Questão de metodologia de pesquisa (levantamento), aplicável a pesquisas de clima e diagnóstico organizacional."
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q45",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 45,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.2 Modelos de intervenções psicossociais em crise, emergência e catástrofe",
+   "stem": "Em intervenções nos casos de crise, nem sempre o profissional da área de Saúde Mental consegue seguir a rotina estabelecida no atendimento ambulatorial ou hospitalar. Ao ser chamado a intervir em tais casos, um psicólogo deve, em primeiro lugar,",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "manter o controle da situação com atitudes claras e seguras, de maneira a dar ao paciente os limites necessários para cumprir as rotinas iniciais.",
+     "explanation": "Prioriza impor limites e cumprir rotinas, justamente o que a crise impede; a intervenção começa pela avaliação e pelo alívio da ansiedade."
+    },
+    {
+     "key": "B",
+     "text": "mobilizar outros profissionais do serviço, de forma a garantir o controle e a segurança de todos os envolvidos.",
+     "explanation": "Acionar a equipe pode ser necessário, mas não é o primeiro passo: antes é preciso entrar em contato com a pessoa e avaliar a situação."
+    },
+    {
+     "key": "C",
+     "text": "interagir com o paciente em crise para avaliar a situação, aliviar sua ansiedade e agir no menor tempo possível, dando-lhe a sensação de controle."
+    },
+    {
+     "key": "D",
+     "text": "permitir que o paciente desabafe e fale livremente para aliviá-lo daquilo que o angustia, até que se acalme naturalmente.",
+     "explanation": "Postura passiva; a intervenção em crise é ativa, breve e diretiva, sem esperar que a pessoa se acalme sozinha."
+    },
+    {
+     "key": "E",
+     "text": "entrar em contato com a família imediatamente, a fim de que os responsáveis tomem ciência do que acontece.",
+     "explanation": "Acionar a família pode fazer parte da rede de apoio, mas não substitui a avaliação e o contato direto com a pessoa em crise."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "A intervenção em crise (Caplan; primeiros cuidados psicológicos) é breve, ativa e imediata: o profissional estabelece contato com a pessoa, avalia a situação e os riscos, reduz a ansiedade e busca devolver-lhe a sensação de controle. Posturas passivas ou que priorizam rotinas, terceiros ou a contenção vêm depois ou são inadequadas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Crise psiquiátrica em serviço de saúde mental; classificada em intervenções psicossociais em crise pelos princípios gerais de intervenção em crise."
+   }
+  },
+  {
+   "id": "secad-to-2009-psicologo-q46",
+   "source": {
+    "file": "secad-to-2009-psicologo/prova.pdf",
+    "year": 2009,
+    "originalNumber": 46,
+    "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "Grupos de apoio e suporte têm o objetivo primário de sustentar e manter a força existente de seus integrantes, em situações de uma crise comum. Eles se caracterizam pela",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "doença ou distúrbio semelhante por parte de seus membros.",
+     "explanation": "Grupos de apoio não exigem doença: reúnem também cuidadores, enlutados, pessoas em situação de vida comum."
+    },
+    {
+     "key": "B",
+     "text": "agregação produzida naturalmente em situações de informalidade.",
+     "explanation": "São grupos intencionalmente organizados, com objetivo definido, não agregações espontâneas e informais."
+    },
+    {
+     "key": "C",
+     "text": "necessidade de apoio psicológico a uma determinada categoria de pessoas."
+    },
+    {
+     "key": "D",
+     "text": "interface necessária entre saúde, trabalho e doença.",
+     "explanation": "Não há essa exigência; a interface saúde-trabalho é característica de outros grupos (por exemplo, de trabalhadores adoecidos)."
+    },
+    {
+     "key": "E",
+     "text": "demanda das pessoas por um tratamento mais humanizado.",
+     "explanation": "Humanização é diretriz do cuidado em geral, não o traço que define os grupos de apoio."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Grupos de apoio/suporte reúnem pessoas de uma mesma categoria que vivem uma situação de crise comum (pacientes de uma doença, familiares, enlutados, trabalhadores após um evento) para sustentar e fortalecer seus recursos. O que os define é a necessidade de apoio psicológico compartilhada por essa categoria, e não um diagnóstico idêntico.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Tipologia de grupos (Zimerman); questão do contexto de saúde, classificada em processos grupais."
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "secad-to-2009-psicologo-q6",
+   "motivo": "Questão anulada pela banca (resposta oficial aos recursos, Nível Superior, Língua Portuguesa: 'contenção' também pode ser grafada com S).",
+   "gabaritoOficial": "ANULADA",
+   "derivada": "-",
+   "questao": {
+    "id": "secad-to-2009-psicologo-q6",
+    "source": {
+     "file": "secad-to-2009-psicologo/prova.pdf",
+     "year": 2009,
+     "originalNumber": 6,
+     "exam": "SECAD-TO 2009 – Psicólogo (Quadro dos Profissionais da Saúde)",
+     "org": "Cesgranrio"
+    },
+    "area": "portugues",
+    "subtopic": "P.2 Ortografia oficial",
+    "stem": "A segunda palavra é grafada com a(o) mesma(o) letra(dígrafo) que foi destacada(o) na palavra anterior em",
+    "images": null,
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "propen<strong>s</strong>ão — conten____ão"
+     },
+     {
+      "key": "B",
+      "text": "recr<strong>e</strong>ação — ___mpecilho"
+     },
+     {
+      "key": "C",
+      "text": "la<strong>z</strong>er — anali____ar"
+     },
+     {
+      "key": "D",
+      "text": "sociali<strong>z</strong>ação — parali____ar"
+     },
+     {
+      "key": "E",
+      "text": "estre<strong>ss</strong>e — exce___ão"
+     }
+    ],
+    "correctKey": "ANULADA"
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "secad-to-2009-psicologo-q16",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q17",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q18",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q19",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q20",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q21",
+   "tema": "Legislação estadual do Tocantins e Lei 8.080/1990"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q22",
+   "tema": "Legislação estadual do Tocantins e Lei 8.080/1990"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q23",
+   "tema": "Legislação estadual do Tocantins e Lei 8.080/1990"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q24",
+   "tema": "Legislação estadual do Tocantins e Lei 8.080/1990"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q25",
+   "tema": "Legislação estadual do Tocantins e Lei 8.080/1990"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q26",
+   "tema": "Atualidades"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q27",
+   "tema": "Atualidades"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q28",
+   "tema": "Atualidades"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q29",
+   "tema": "Atualidades"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q30",
+   "tema": "Atualidades"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q31",
+   "tema": "Indicação de psicoterapia breve (clínica)"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q32",
+   "tema": "Entrevista motivacional (clínica, dependência)"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q34",
+   "tema": "Psicopatologia infantil (ansiedade, TDAH)"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q35",
+   "tema": "Psicopatologia infantil (ansiedade, TDAH)"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q36",
+   "tema": "Esquizofrenia e demências (saúde mental)"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q37",
+   "tema": "Fluxo em serviço de saúde mental"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q38",
+   "tema": "Ideação suicida em contexto hospitalar (psicologia hospitalar)"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q39",
+   "tema": "Promoção da saúde e alcoolismo na comunidade"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q40",
+   "tema": "Terapia cognitivo-comportamental (clínica)"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q42",
+   "tema": "Terapia cognitivo-comportamental (clínica)"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q41",
+   "tema": "TCC em grupo (clínica) — questão ANULADA pela banca"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q43",
+   "tema": "Dor crônica (psicologia da saúde)"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q44",
+   "tema": "Prochaska e DiClemente, dependência química (clínica)"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q47",
+   "tema": "Políticas para o idoso"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q48",
+   "tema": "Recaída na dependência química, Marlatt & Gordon (clínica) — questão ANULADA pela banca"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q49",
+   "tema": "Maus-tratos: ECA e Estatuto do Idoso"
+  },
+  {
+   "id": "secad-to-2009-psicologo-q50",
+   "tema": "Obesidade grave (psicologia da saúde)"
+  }
+ ],
+ "log": "Coluna PSICÓLOGO (19a) do gabarito, lida na renderização qlmanage. Português 1-15 comum ao nível superior; q6 anulada (recursos, LP nível superior). q41 e q48 anuladas, ambas clínicas: registradas em fora com a anotação 'ANULADA'. Português conferido nas imagens das p. 2-4."
+}

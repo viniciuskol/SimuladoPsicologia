@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "examDate": "2026-12-06",
+  "sourceNote": "Edital nº 04/2026 TRANSPETRO/PSP/TERRA/NÍVEL SUPERIOR, Ênfase 31: Psicologia (Anexo IV). Prova objetiva em 06/12/2026 (Anexo V, sujeita a alteração por edital), com 4h30 de duração (subitem 8.1): 50 questões de Conhecimentos Específicos nas 6 áreas do programa e 10 de Língua Portuguesa + 10 de Língua Inglesa nos Conhecimentos Gerais (subitem 7.1.1). É eliminado quem tiver menos de 50% em Específicos ou em Gerais, ou zerar Português ou Inglês (subitem 7.1.4.3). As fatias por área citadas nos blocos são a contagem das 169 questões específicas oficiais do banco, de 8 cadernos de Psicologia da Cesgranrio (2005 a 2024): diagnóstico e intervenção 57, saúde do trabalhador 38, psicologia organizacional 37, psicologia social 27, Código de Ética 7, resoluções do CFP 3. É um indicador histórico para priorizar, não a distribuição da prova de 2026, que o edital não informa. O programa de 2026 é mais largo que as provas antigas: 5 das 8 resoluções do CFP, o capítulo de riscos psicossociais da NR-1 e a Portaria GM/MS 1.999/2023 são posteriores a quase todas as provas do banco, e para elas o estudo se apoia em 86 questões autorais e nos resumos conferidos em docs/normas.",
+  "crossPatterns": [
+    {
+      "title": "A certa é a conduta equilibrada e coletiva, não a extrema nem a individual",
+      "body": "É o padrão que atravessa ética, organização, grupos e saúde. Diante do conflito entre empresa e trabalhador, a resposta é a relação 'tão equânime quanto possível', sem negar o conflito (petrobras-2012-psicologo-junior-q57, petrobras-2012-psicologo-junior-q66). Diante do sofrimento no trabalho, a saída é um espaço coletivo de discussão, não psicoterapia individual (bndes-2013-profissional-basico-psicologia-q37). Diante de uma equipe que bate a meta com conflito e absenteísmo, a efetividade falha porque satisfação e sobrevivência da equipe também contam (bndes-2024-analista-psicologia-organizacional-q41). Distratores típicos: adesão total à empresa, adesão total ao trabalhador, 'eliminar o conflito', 'tratar individualmente'.",
+      "evidence": [
+        "petrobras-2012-psicologo-junior-q57",
+        "petrobras-2012-psicologo-junior-q66",
+        "bndes-2013-profissional-basico-psicologia-q37",
+        "bndes-2024-analista-psicologia-organizacional-q41"
+      ]
+    },
+    {
+      "title": "Autor e ano no enunciado: a resposta é a definição do livro",
+      "body": "As provas de 2005 citam o autor ('Segundo Pontes (2002)', 'Para Chiavenato (1999)', 'Segundo Robbins (2002)', 'Spector (2002)', 'Bion, citado por Zimerman') e cobram a frase do manual. Não vale raciocinar além do autor: a mesma pergunta de Pontes e a mesma de Chiavenato caíram em duas provas do mesmo ano com respostas idênticas. Estude por definições canônicas: avaliação de desempenho (al-to-2005-consultor-legislativo-psicologia-q21), modelo de classificação (al-to-2005-consultor-legislativo-psicologia-q26), grupo x equipe (al-to-2005-consultor-legislativo-psicologia-q36), controle percebido (al-to-2005-consultor-legislativo-psicologia-q40), grupo de trabalho de Bion (mpe-ro-2005-analista-psicologia-q28).",
+      "evidence": [
+        "al-to-2005-consultor-legislativo-psicologia-q21",
+        "al-to-2005-consultor-legislativo-psicologia-q26",
+        "al-to-2005-consultor-legislativo-psicologia-q36",
+        "al-to-2005-consultor-legislativo-psicologia-q40",
+        "mpe-ro-2005-analista-psicologia-q28"
+      ]
+    },
+    {
+      "title": "Caso curto: nomeie a teoria antes de ler as alternativas",
+      "body": "Desde 2013, e em quase toda a prova BNDES 2024, a banca descreve uma cena de trabalho e as alternativas trazem rótulos ou condutas. Satisfeito com salário, insatisfeito com o conteúdo: Herzberg (bndes-2024-analista-psicologia-organizacional-q39). Líder que impõe solução pelo poder: competição de Thomas-Kilmann (bndes-2024-analista-psicologia-organizacional-q42). Frases de candidatos para causar boa impressão: técnicas de gerenciamento de impressões (bndes-2024-analista-psicologia-organizacional-q70). Pesadelos e hipervigilância depois de ver o irmão cair: TEPT (bndes-2024-analista-psicologia-organizacional-q58). Escreva no caderno o nome da teoria antes de olhar as opções; se ele não aparecer, releia o caso.",
+      "evidence": [
+        "bndes-2024-analista-psicologia-organizacional-q39",
+        "bndes-2024-analista-psicologia-organizacional-q42",
+        "bndes-2024-analista-psicologia-organizacional-q70",
+        "bndes-2024-analista-psicologia-organizacional-q58"
+      ]
+    },
+    {
+      "title": "Afirmativas I, II e III e relação de colunas",
+      "body": "Formato frequente em 2011 a 2013, em ética, T&D, segurança, cultura e poder. Julgue cada afirmativa sozinha, marque V ou F ao lado e só então procure a combinação; nas colunas, comece pelo par mais óbvio e use as alternativas para eliminar. Exemplos: greve e Código de Ética (seplag-salvador-2011-psicologo-q41), métodos de treinamento (petrobras-2012-psicologo-junior-q59), riscos à segurança e estilo de vida (petrobras-2012-psicologo-junior-q55), poder e cultura (bndes-2013-profissional-basico-psicologia-q46), difusão de poder (bndes-2013-profissional-basico-psicologia-q70).",
+      "evidence": [
+        "seplag-salvador-2011-psicologo-q41",
+        "petrobras-2012-psicologo-junior-q59",
+        "petrobras-2012-psicologo-junior-q55",
+        "bndes-2013-profissional-basico-psicologia-q46",
+        "bndes-2013-profissional-basico-psicologia-q70"
+      ]
+    },
+    {
+      "title": "'Por si só', 'nenhum conflito', 'apenas': o absoluto costuma ser o erro",
+      "body": "Em afirmativas e alternativas de conceito, a falsa costuma fechar demais: organização que aprende 'sem conflito' e 'que valoriza estabilidade' (petrobras-2012-psicologo-junior-q64), mais informação gerando aprendizagem por si só (petrobras-2012-psicologo-junior-q69), gestão do desempenho olhando só o indivíduo (bndes-2013-profissional-basico-psicologia-q33), o mito de que todos trabalham melhor em equipe (al-to-2005-consultor-legislativo-psicologia-q38). Absoluto é sinal para conferir primeiro, não licença para descartar sem saber o conteúdo.",
+      "evidence": [
+        "petrobras-2012-psicologo-junior-q64",
+        "petrobras-2012-psicologo-junior-q69",
+        "bndes-2013-profissional-basico-psicologia-q33",
+        "al-to-2005-consultor-legislativo-psicologia-q38"
+      ]
+    },
+    {
+      "title": "Prova antiga, norma nova: responda pelo que a questão pergunta e estude pela norma vigente",
+      "body": "As questões oficiais de documentos, avaliação psicológica e CIPA são anteriores às normas que o edital de 2026 lista: documentos pela Res. 07/2003 (seplag-salvador-2011-psicologo-q45), avaliação psicológica antes da Res. 31/2022 (petrobras-2012-psicologo-junior-q67), CIPA antes da Lei 14.457/2022 e da NR-5 atual (seplag-salvador-2011-psicologo-q57). O simulado mostra um aviso depois da resposta e mantém o gabarito oficial. Para a prova, valem as normas de docs/normas: 6/2019, 31/2022, NR-5 com assédio.",
+      "evidence": [
+        "seplag-salvador-2011-psicologo-q45",
+        "petrobras-2012-psicologo-junior-q67",
+        "seplag-salvador-2011-psicologo-q57"
+      ]
+    }
+  ],
+  "examDay": [
+    {
+      "title": "Ordem de ataque: Gerais primeiro, depois Específicos do mais firme ao mais caro",
+      "body": "As duas notas de corte são separadas (subitem 7.1.4.3): menos de 50% em Gerais ou em Específicos elimina, e zerar Português ou Inglês também. Comece pelas 10 de Inglês e pelas 10 de Português, com o cérebro fresco, para garantir os pontos que podem eliminar. Depois as 50 específicas, começando por normas e Código de Ética, em que a resposta é lembrar o número ou o verbo, e deixando para o fim os casos longos de psicodinâmica e de organização, que pedem leitura atenta."
+    },
+    {
+      "title": "Orçamento de tempo: 3 minutos e 50 segundos por questão",
+      "body": "São 4h30 para 70 questões (subitem 8.1), cerca de 3 min 50 s cada. Questão de norma ou de definição deve custar menos de 2 minutos; a sobra paga os casos e as afirmativas I, II e III. Faça duas passadas: na primeira, resolva o que sai rápido e marque o resto; na segunda, volte às marcadas. Reserve 20 minutos no fim para transcrever o cartão-resposta. Não é permitido sair antes de 2 horas de prova (subitem 8.12)."
+    },
+    {
+      "title": "Questão de norma: verbo, número e lista vizinha",
+      "body": "Nas resoluções e NRs, o erro está no verbo (deverá x poderá x considerará), no número (5, 15 ou 20 anos; 30 ou 15 dias; 40 por sala; 3º grau) ou num item trocado com a lista vizinha (fontes fundamentais x complementares; laudo x parecer; Banca Examinadora x Avaliadora). Leia a alternativa procurando esses três pontos antes de julgar o conteúdo."
+    },
+    {
+      "title": "Chute e revisão",
+      "body": "Não encontrei no edital previsão de desconto por resposta errada: cada questão vale 1 ponto (subitem 7.1.1). Então nada fica em branco. Elimine o que souber falso e escolha entre as que sobram; não troque uma resposta na revisão sem um motivo concreto que você consiga dizer em uma frase."
+    },
+    {
+      "title": "Na véspera",
+      "body": "Nada de conteúdo novo. Revise só as tabelas de números (NRs, resoluções, Código), as listas de autores por teoria e os erros pendentes do simulado. Separe o documento e o material que o edital permite, confira o local e o horário e durma cedo."
+    }
+  ],
+  "blocks": [
+    {
+      "n": 1,
+      "label": "Bloco 1 — Peso histórico: diagnóstico, intervenção e psicologia organizacional",
+      "weeks": "dias 1-7 (07/11 a 13/11)",
+      "focus": [
+        "diag-org",
+        "psi-org",
+        "portugues"
+      ],
+      "goal": "Fechar as duas áreas mais cobradas do banco (57 + 37 das 169 questões específicas oficiais): motivação, seleção, T&D, cultura e clima, competências, desempenho, mudança e conflito.",
+      "checklist": [
+        "Ler o resumo e os padrões da banca de Diagnóstico e Intervenção e de Psicologia Organizacional",
+        "Fazer os 50 cards de diag-org e os 44 de psi-org com 2 rodadas de acerto em dias diferentes",
+        "Montar uma tabela de teorias de motivação (Maslow, Herzberg, McGregor, Alderfer, McClelland, Vroom, Adams, Locke, Deci, Hackman e Oldham) com uma frase e um caso de cada, e conferir com bndes-2024-analista-psicologia-organizacional-q39 e bndes-2013-profissional-basico-psicologia-q32",
+        "Treinar as 57 questões de diag-org e as 37 de psi-org por assunto e refazer todas as erradas no dia seguinte",
+        "Escrever de memória os modelos de decisão e os tipos de entrevista de Chiavenato e os níveis de Kirkpatrick e do MAIS",
+        "Estudar desligamento e preparação para aposentadoria pelo resumo (são do edital e não têm questão no banco)",
+        "10 questões de Português por dia em dias alternados com Inglês"
+      ]
+    },
+    {
+      "n": 2,
+      "label": "Bloco 2 — Primeira prova completa, saúde do trabalhador e psicologia social",
+      "weeks": "dias 8-14 (14/11 a 20/11)",
+      "focus": [
+        "saude-trab",
+        "psi-social",
+        "etica",
+        "ingles"
+      ],
+      "goal": "Medir o nível com uma prova completa no início do bloco e cobrir psicodinâmica, estresse, assédio, grupos, liderança e o Código de Ética.",
+      "checklist": [
+        "Fazer a 1ª prova completa cronometrada (70 questões, 4h30) em 14/11 ou 15/11, quando a tela 'Hoje' passa a pedi-la",
+        "Anotar a nota de Gerais e de Específicos e os 3 assuntos com mais erros",
+        "Ler o resumo de Saúde do Trabalhador com foco em Dejours, Clot, Karasek, Selye e burnout e fazer os cards de saude-trab que não são de NR",
+        "Ler o resumo de Psicologia Social e fazer os 42 cards de psi-social, decorando as listas de Robbins (poder, influência, impressões) e as fases de Tuckman",
+        "Fazer os 40 cards de etica e treinar as 13 questões de Código de Ética (7 oficiais e 6 autorais)",
+        "Estudar intervenção em crise, emergência e catástrofe pelo resumo, porque o banco tem só 1 questão do item",
+        "Refazer os erros pendentes da 1ª prova completa até o fim do bloco"
+      ]
+    },
+    {
+      "n": 3,
+      "label": "Bloco 3 — Normas que nenhuma prova antiga cobre",
+      "weeks": "dias 15-22 (21/11 a 28/11)",
+      "focus": [
+        "resolucoes",
+        "saude-trab",
+        "etica"
+      ],
+      "goal": "Decorar as 8 resoluções do CFP, as 7 NRs e a Portaria GM/MS 1.999/2023 pelo texto conferido: números, listas e verbos.",
+      "checklist": [
+        "Ler os resumos de docs/normas na ordem do edital e marcar o que está só em reprodução de terceiro (Res. 8/2025 e Res. 9/2024)",
+        "Fazer os 50 cards de resolucoes com 2 rodadas de acerto",
+        "Fazer os cards de NR e de LDRT de saude-trab com 2 rodadas de acerto",
+        "Treinar as 39 questões autorais de resoluções e as 41 autorais de NR e LDRT, refazendo todas as erradas",
+        "Escrever de memória a tabela de prazos (5, 15 e 20 anos; 30 e 15 dias; 60, 30 e 15 dias da CIPA; 40 candidatos; 3º grau) e conferir com o resumo",
+        "Escrever de memória as 5 modalidades de documento da Res. 6/2019 com finalidade e número de itens, e as fontes fundamentais e complementares da Res. 31/2022",
+        "10 questões de Inglês por dia em dias alternados com Português"
+      ]
+    },
+    {
+      "n": 4,
+      "label": "Bloco 4 — Revisão e segunda prova completa",
+      "weeks": "dias 23-27 (29/11 a 03/12)",
+      "focus": [
+        "diag-org",
+        "saude-trab",
+        "psi-org",
+        "resolucoes",
+        "portugues",
+        "ingles"
+      ],
+      "goal": "Sem conteúdo novo: revisar pelos erros, fazer a 2ª prova completa e fechar os cards vencidos.",
+      "checklist": [
+        "Fazer a 2ª prova completa cronometrada entre 29/11 e 01/12, pelo menos 4 dias depois da primeira",
+        "Comparar as duas provas por bloco (Gerais e Específicos) e por área e escolher as 2 áreas mais fracas",
+        "Refazer todos os erros pendentes das duas provas sem ver o gabarito",
+        "Fazer só os cards vencidos de cada dia, sem cards novos",
+        "Reler os padrões da banca das 6 áreas específicas e o painel 'O que a banca repete entre áreas'"
+      ]
+    },
+    {
+      "n": 5,
+      "label": "Bloco 5 — Véspera e prova",
+      "weeks": "dias 28-30 (04/12 a 06/12)",
+      "focus": [
+        "resolucoes",
+        "saude-trab",
+        "etica"
+      ],
+      "goal": "Manter a memória das normas fresca e chegar descansado.",
+      "checklist": [
+        "Revisar as tabelas de números das NRs, das resoluções e do Código de Ética",
+        "Fazer os cards vencidos e nada mais",
+        "Conferir local, horário, documento e caneta no dia 05/12",
+        "Prova em 06/12"
+      ]
+    }
+  ]
+}

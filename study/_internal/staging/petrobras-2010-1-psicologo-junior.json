@@ -1,0 +1,3470 @@
+{
+ "concurso": "petrobras-2010-1-psicologo-junior",
+ "questions": [
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q1",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 1,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.1 Processo saúde-doença",
+   "stem": "No filme Le couperet (O corte, 2005), Garcia, um executivo que trabalhou quinze anos na indústria do papel, perde seu emprego. Com isso, todo seu estilo de vida de classe média vai entrando em colapso, continuamente. Ele permanece por muito tempo desempregado, procurando um trabalho à altura de suas altas qualificações, até que um dia tem um insight sobre a solução de seus problemas: eliminar seus adversários, isto é, aqueles que possam num mesmo nível de competência, competir com ele por uma vaga de emprego. Analisando o comportamento do personagem à luz da psicologia do trabalho, em uma perspectiva sociohistórica, conclui-se que seu comportamento - continuar procurando, por um longo período, um emprego à altura de suas aspirações profissionais, não aceitando de forma alguma outro qualquer - retrata",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "ideais narcísicos estruturados em torno dos valores do capitalismo contemporâneo.",
+     "explanation": "O caso não é lido por ideais narcísicos, categoria psicanalítica fora da perspectiva pedida."
+    },
+    {
+     "key": "B",
+     "text": "sintomas patológicos típicos da síndrome do estresse pós-traumático.",
+     "explanation": "Não houve evento traumático nem os sintomas do TEPT."
+    },
+    {
+     "key": "C",
+     "text": "escala de valores pessoais do personagem situando o emprego como secundário em sua vida.",
+     "explanation": "É o contrário: o emprego é central para o personagem."
+    },
+    {
+     "key": "D",
+     "text": "formação defensiva do tipo passivo-agressiva.",
+     "explanation": "Mecanismo de defesa passivo-agressivo é categoria clínica alheia à perspectiva sócio-histórica."
+    },
+    {
+     "key": "E",
+     "text": "ocupação valorizada como um dos elementos imprescindíveis de sua identidade."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Na perspectiva sócio-histórica, o trabalho é um dos elementos centrais da identidade. Garcia se recusa a aceitar qualquer emprego porque a ocupação qualificada sustenta quem ele é.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q2",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 2,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.1 Processo saúde-doença",
+   "stem": "A psicologia sociohistórica se debruça sobre a tríade conceitual consciência-atividade-identidade, sendo esta mediada pela linguagem para construir sua concepção do homem e a relação deste com o trabalho. Ao se analisar essa teoria psicológica em seu exame das vicissitudes do trabalho, vislumbra-se",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "uma concepção psicológica que naturaliza o trabalho.",
+     "explanation": "Ela historiciza o trabalho e recusa naturalizá-lo."
+    },
+    {
+     "key": "B",
+     "text": "o uso do grupo como ferramenta visando a maior produtividade.",
+     "explanation": "Usar o grupo para produtividade é visão gerencial (Relações Humanas)."
+    },
+    {
+     "key": "C",
+     "text": "o uso da classificação dos trabalhadores na busca de melhor desempenho nas suas tarefas.",
+     "explanation": "Classificar trabalhadores para desempenho é a psicotécnica tradicional."
+    },
+    {
+     "key": "D",
+     "text": "a proposta de analisar o trabalho sob a ótica dos trabalhadores."
+    },
+    {
+     "key": "E",
+     "text": "a ideia de que estão na essência do homem a luta pela sobrevivência e a construção do seu mundo pelo trabalho.",
+     "explanation": "Postular uma essência do homem é visão naturalizante, oposta à sócio-histórica."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A psicologia sócio-histórica (consciência, atividade e identidade mediadas pela linguagem) estuda o trabalho a partir da perspectiva e da vivência dos trabalhadores, de forma crítica e historicizada.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q3",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 3,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.10 Qualidade de Vida e Bem-Estar no Trabalho",
+   "stem": "Organizações desenvolvem estratégias que visam a reduzir os conflitos entre a vida pessoal e a vida profissional dos empregados. Qual dos seguintes programas ou políticas organizacionais para alcançar a redução desses conflitos exemplifica uma estratégia financeira?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Compartilhamento de tarefas.",
+     "explanation": "Compartilhamento de cargos é estratégia baseada em tempo."
+    },
+    {
+     "key": "B",
+     "text": "Foco no desempenho real dos funcionários.",
+     "explanation": "Foco no desempenho real (e não nas horas) é estratégia de mudança de cultura."
+    },
+    {
+     "key": "C",
+     "text": "Horários flexíveis.",
+     "explanation": "Horário flexível é estratégia baseada em tempo."
+    },
+    {
+     "key": "D",
+     "text": "Licença maternidade ou paternidade.",
+     "explanation": "Licença maternidade ou paternidade é estratégia baseada em tempo."
+    },
+    {
+     "key": "E",
+     "text": "Convênios com instituições de ensino."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Robbins classifica as iniciativas de conciliação trabalho-vida em estratégias de tempo, informação, financeiras, serviços diretos e mudança de cultura. Convênios e subsídios para educação são estratégias financeiras.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q4",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 4,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "O sentido do trabalho é abordado de várias maneiras diferentes, dependendo dos modelos teóricos. A psicodinâmica do trabalho é uma importante abordagem teórica que analisa a correlação entre saúde e trabalho. Sob o ponto de vista dessa teoria, o trabalho implica um(a)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "engajamento da personalidade com o objetivo de lidar com tarefas delimitadas por pressões sociais e materiais."
+    },
+    {
+     "key": "B",
+     "text": "engajamento responsável do trabalhador perante o seu ofício e suas regras correspondentes.",
+     "explanation": "Responsabilidade perante o ofício é dimensão ética, não a definição psicodinâmica."
+    },
+    {
+     "key": "C",
+     "text": "procedimento técnico que respeita regras e prescrições sustentadas pelo empregador.",
+     "explanation": "Reduz o trabalho ao prescrito; a psicodinâmica enfatiza o trabalho real."
+    },
+    {
+     "key": "D",
+     "text": "atividade técnica de produção fundada nas normas regulamentadoras do trabalho.",
+     "explanation": "Visão técnico-normativa, não psicodinâmica."
+    },
+    {
+     "key": "E",
+     "text": "relação salarial apoiada nos dispositivos legais da consolidação das leis do trabalho.",
+     "explanation": "Visão jurídica do trabalho assalariado."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Para a psicodinâmica do trabalho (Dejours), trabalhar é engajar a personalidade para responder a uma tarefa delimitada por pressões materiais e sociais.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q6",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 6,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "Em relação à concepção ergonômica de carga de trabalho, a ergonomia,",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "em sua tentativa de responder sobre o problema de saúde no trabalho, se ateve somente aos aspectos físicos da carga de trabalho.",
+     "explanation": "A ergonomia também estuda a carga mental e cognitiva."
+    },
+    {
+     "key": "B",
+     "text": "em sua tentativa de responder sobre o problema de saúde no trabalho, negligenciou os aspectos mentais da carga de trabalho.",
+     "explanation": "A ergonomia não negligenciou os aspectos mentais (há ergonomia cognitiva)."
+    },
+    {
+     "key": "C",
+     "text": "devido à sua visão dinâmica, deu ênfase exclusivamente à relação da carga de trabalho com os processos perceptivos associados à tarefa.",
+     "explanation": "Não deu ênfase exclusiva aos processos perceptivos."
+    },
+    {
+     "key": "D",
+     "text": "devido à sua objetividade e pela quantificação da carga de trabalho, sustenta uma visão reducionista."
+    },
+    {
+     "key": "E",
+     "text": "ao dar ênfase aos aspectos físicos da carga de trabalho, negligenciou os aspectos mais sutis do processo perceptivo em relação à tarefa.",
+     "explanation": "A ergonomia também estudou os aspectos perceptivos e cognitivos da tarefa."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A crítica feita à concepção ergonômica de carga de trabalho é que, ao objetivar e quantificar a carga (física, cognitiva), reduz a experiência subjetiva do trabalhador a medidas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q7",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 7,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "No Brasil o sofrimento psicológico, no trabalho, tem sido analisado ao longo da história das áreas de Saúde Mental e Trabalho, principalmente, por três abordagens: o estresse, a psicodinâmica do trabalho e a epidemiologia do trabalho. Segundo a psicodinâmica do trabalho, o trabalho",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "deve ser fruto da adaptação do homem em sua relação com a luta pela sobrevivência.",
+     "explanation": "Adaptação na luta pela sobrevivência é visão naturalizante, não psicodinâmica."
+    },
+    {
+     "key": "B",
+     "text": "deve ser um ambiente em que o homem encontre paz.",
+     "explanation": "O trabalho não é concebido como lugar de paz; o sofrimento é inerente."
+    },
+    {
+     "key": "C",
+     "text": "é portador de sofrimento por afastar o homem do prazer, com exceção dos trabalhos que possibilitem a sublimação do sofrimento."
+    },
+    {
+     "key": "D",
+     "text": "deve gerar prazer porque é nele que o homem se constitui enquanto ser-no-mundo.",
+     "explanation": "O prazer não é garantido; depende das condições de reconhecimento."
+    },
+    {
+     "key": "E",
+     "text": "deve possibilitar um perfeito equilíbrio metabólico entre o homem e a natureza.",
+     "explanation": "“Equilíbrio metabólico” com a natureza é formulação marxista, não psicodinâmica."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Na psicodinâmica do trabalho, o trabalho é fonte de sofrimento, que pode ser transformado em prazer quando a organização do trabalho permite a sublimação e o reconhecimento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q8",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 8,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.1 Processo saúde-doença",
+   "stem": "A posição metodológica da epidemiologia do trabalho se baseia em estudos tanto quantitativos quanto qualitativos.<br><b>PORQUE</b><br>A epidemiologia do trabalho utiliza escalas psicométricas como instrumental avaliativo.<br>Analisando as afirmações acima, conclui-se que",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "as duas afirmações são verdadeiras e a segunda justifica a primeira.",
+     "explanation": "O uso de escalas não justifica a combinação de métodos quantitativos e qualitativos."
+    },
+    {
+     "key": "B",
+     "text": "as duas afirmações são verdadeiras e a segunda não justifica a primeira."
+    },
+    {
+     "key": "C",
+     "text": "a primeira afirmação é verdadeira e a segunda é falsa.",
+     "explanation": "A segunda também é verdadeira."
+    },
+    {
+     "key": "D",
+     "text": "a primeira afirmação é falsa e a segunda é verdadeira.",
+     "explanation": "A primeira é verdadeira."
+    },
+    {
+     "key": "E",
+     "text": "as duas afirmações são falsas.",
+     "explanation": "As duas são verdadeiras."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "A epidemiologia em saúde mental e trabalho combina estudos quantitativos e qualitativos, e usa escalas psicométricas (como o SRQ-20). As duas afirmações são verdadeiras, mas o uso de escalas não explica a combinação de abordagens.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q9",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 9,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "Considerando os dois estilos opostos de administração, conhecidos como Teoria X e Teoria Y, quanto à abordagem administrativa relativa à Teoria X, como se caracteriza o estilo de gerência?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Autocrático e impositivo."
+    },
+    {
+     "key": "B",
+     "text": "Democrático e diretivo.",
+     "explanation": "Democrático corresponde à Teoria Y."
+    },
+    {
+     "key": "C",
+     "text": "Transformacional e comportamental.",
+     "explanation": "Transformacional não é categoria de McGregor."
+    },
+    {
+     "key": "D",
+     "text": "Autocrático e conceitual.",
+     "explanation": "“Conceitual” não caracteriza a Teoria X."
+    },
+    {
+     "key": "E",
+     "text": "Democrático e comportamental.",
+     "explanation": "Democrático corresponde à Teoria Y."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "McGregor: a Teoria X supõe que as pessoas evitam o trabalho e precisam ser controladas, o que leva a uma gerência autocrática e impositiva; a Teoria Y leva a uma gestão participativa.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q10",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 10,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "Todas as organizações possuem regras e procedimentos que servem de diretrizes para o comportamento do empregado. A disciplina é uma das formas estratégicas, tomadas pela organização, que tem como objetivo adequar os comportamentos de seus trabalhadores às suas diretrizes institucionais. Dentre as técnicas disciplinares usadas atualmente, está a disciplina positiva, que tem como uma de suas principais limitações o(a)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "alto custo da implementação de suas tecnologias de vigilância.",
+     "explanation": "Não envolve tecnologias de vigilância."
+    },
+    {
+     "key": "B",
+     "text": "risco de gerar um aumento na rotatividade e no absenteísmo.",
+     "explanation": "Não há esse risco típico; a ideia é melhorar o engajamento."
+    },
+    {
+     "key": "C",
+     "text": "tempo de trabalho dedicado às sessões de aconselhamento entre supervisor e empregado."
+    },
+    {
+     "key": "D",
+     "text": "possibilidade de gerar um forte ressentimento no empregado, devido às advertências e punições veiculadas por seu supervisor.",
+     "explanation": "Advertências e punições caracterizam a disciplina progressiva."
+    },
+    {
+     "key": "E",
+     "text": "tensão produzida pelas etapas de detecção do funcionário problemático para que as ações inadequadas sejam devidamente punidas.",
+     "explanation": "Detectar e punir é lógica punitiva, não da disciplina positiva."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "A disciplina positiva substitui punições por conversas de aconselhamento entre supervisor e empregado. Sua principal limitação é o tempo que essas sessões consomem.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q11",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 11,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.4 Análise e desenvolvimento organizacional",
+   "stem": "A estrutura organizacional delimita como devem ser ordenadas as tarefas nas organizações. A estrutura matricial é um dos modelos de estrutura organizacional existente e se caracteriza por designar uma organização",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "achatada com baixo grau de departamentalização, autoridade centralizada e grande amplitude de controle.",
+     "explanation": "Descreve a estrutura simples."
+    },
+    {
+     "key": "B",
+     "text": "permeada por um sistema rotineiro de tarefas, autoridade centralizada, pequena amplitude de comando e alta formalização.",
+     "explanation": "Descreve a burocracia."
+    },
+    {
+     "key": "C",
+     "text": "com pouca ou nenhuma departamentalização e altamente centralizada.",
+     "explanation": "Descreve a estrutura simples."
+    },
+    {
+     "key": "D",
+     "text": "com nenhuma departamentalização, autoridade descentralizada e funcionários generalistas.",
+     "explanation": "Descreve a organização sem fronteiras ou em rede."
+    },
+    {
+     "key": "E",
+     "text": "com duas formas de departamentalização, agrupamento de especialistas e dupla cadeia de comando."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A estrutura matricial combina dois tipos de departamentalização (funcional e por produto ou projeto) e cria dupla cadeia de comando (Robbins).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q12",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 12,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.1 Transformações no mundo do trabalho e mudanças nas organizações",
+   "stem": "O século XX foi rico em mudanças no âmbito das organizações. É possível nomear três fases históricas: a Industrialização Clássica (1900-1950), a Industrialização Neoclássica (1950-1990) e a Era da Informação (após 1990). Em cada uma dessas fases, encontram-se a forma e a estrutura organizacional que correspondem às técnicas e às mentalidades do período. Partindo da compreensão histórica das etapas assinaladas acima, qual seria a estrutura organizacional predominante no período da Industrialização Neoclássica?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Organização sem fronteiras.",
+     "explanation": "A organização sem fronteiras é típica da Era da Informação."
+    },
+    {
+     "key": "B",
+     "text": "Matricial."
+    },
+    {
+     "key": "C",
+     "text": "Simples.",
+     "explanation": "A estrutura simples não caracteriza nenhum desses períodos."
+    },
+    {
+     "key": "D",
+     "text": "Burocrática.",
+     "explanation": "A burocrática é típica da Industrialização Clássica."
+    },
+    {
+     "key": "E",
+     "text": "Virtual.",
+     "explanation": "A virtual é típica da Era da Informação."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Chiavenato: na Industrialização Clássica predominou a estrutura funcional e burocrática; na Neoclássica, a matricial; na Era da Informação, as estruturas fluidas, em rede e virtuais.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q13",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 13,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "Na atualidade, em virtude das exigências de permanente aquisição de conhecimento e de alta produtividade, o estresse surge, comumente, no horizonte sintomatológico encontrado em empresas. Nessa perspectiva, pode-se afirmar que<br>I - o estresse pode funcionar como um estimulante que impulsiona o indivíduo a encontrar soluções mais criativas na vida;<br>II - a incapacidade do homem em administrar suas próprias emoções é um dos fatores disparadores do estresse;<br>III - o estresse é uma doença que ocorre subitamente na vida de trabalhadores com dificuldades em estabelecer relações sociais saudáveis.<br>É correto o que se afirma em",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I, apenas.",
+     "explanation": "II também é correta."
+    },
+    {
+     "key": "B",
+     "text": "II, apenas.",
+     "explanation": "I também é correta."
+    },
+    {
+     "key": "C",
+     "text": "I e II, apenas."
+    },
+    {
+     "key": "D",
+     "text": "II e III, apenas.",
+     "explanation": "III é falsa."
+    },
+    {
+     "key": "E",
+     "text": "I, II e III.",
+     "explanation": "III é falsa."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "I: o estresse pode ser positivo (eustresse). II: a dificuldade de lidar com as próprias emoções é um disparador individual. III erra: o estresse é um processo, não uma doença súbita restrita a quem tem dificuldades sociais.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q14",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 14,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "O estresse está diretamente ligado aos limites e às demandas que o trabalhador encontra na vida pessoal e organizacional.<br><b>PORQUE</b><br>As fontes causadoras do estresse são ambientais, organizacionais e individuais.<br>Analisando as afirmações acima, conclui-se que",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "as duas afirmações são verdadeiras e a segunda justifica a primeira.",
+     "explanation": "A classificação das fontes não justifica a definição do estresse."
+    },
+    {
+     "key": "B",
+     "text": "as duas afirmações são verdadeiras e a segunda não justifica a primeira."
+    },
+    {
+     "key": "C",
+     "text": "a primeira afirmação é verdadeira e a segunda é falsa.",
+     "explanation": "A segunda também é verdadeira."
+    },
+    {
+     "key": "D",
+     "text": "a primeira afirmação é falsa e a segunda é verdadeira.",
+     "explanation": "A primeira é verdadeira."
+    },
+    {
+     "key": "E",
+     "text": "as duas afirmações são falsas.",
+     "explanation": "As duas são verdadeiras."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O estresse resulta do confronto entre demandas e limites (recursos) da pessoa, e suas fontes são ambientais, organizacionais e individuais (Robbins). Ambas são verdadeiras, mas a tipologia das fontes não explica o que é o estresse.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q15",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 15,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "Em 2009, em virtude da crise na indústria automobilística, a empresa em que D. trabalha precisou cortar inúmeros funcionários de sua lista de pagamento, sobrecarregando os remanescentes. D. não conseguia mais responder adequadamente ao volume de trabalho proposto por seu supervisor, tendo ainda seu tempo de almoço prejudicado e sendo obrigado, por conseguinte, a fazer refeições rápidas. D. foi acometido por sintomas como dores de cabeça, insônia, mal-estar gástrico e sinais de cansaço e esgotamento, indicando um quadro de estresse. A qual grupo de estressores ambientais a causa do quadro clínico de D. está diretamente ligada?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Papel.",
+     "explanation": "Estressores de papel envolvem conflito, ambiguidade ou sobrecarga de papéis."
+    },
+    {
+     "key": "B",
+     "text": "Fatores externos.",
+     "explanation": "Fatores externos (econômicos, políticos) causaram as demissões, mas não são a causa direta do quadro."
+    },
+    {
+     "key": "C",
+     "text": "Relacionamentos.",
+     "explanation": "Não há problemas de relacionamento descritos."
+    },
+    {
+     "key": "D",
+     "text": "Estrutura.",
+     "explanation": "Estrutura diz respeito a regras, hierarquia e participação."
+    },
+    {
+     "key": "E",
+     "text": "Cargo."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Sobrecarga de volume de trabalho, pressão de tempo e pausas reduzidas são estressores ligados às demandas do cargo (da tarefa).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q16",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 16,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "No ambiente organizacional contemporâneo, é comum a irrupção de casos de estresse entre os trabalhadores, devido às exigências às quais tanto o empregado quanto a empresa propriamente dita são submetidos. Nessa perspectiva, relacione os elementos da 1<sup>a</sup> coluna com os da 2<sup>a</sup>.<table><tr><td>1 - Formas de tratamentos do estresse<br>2 - Estressores individuais<br>3 - Estressores ambientais<br>4 - Consequências disfuncionais</td><td>( ) Culpa<br>( ) Absenteísmo<br>( ) Iniquidade<br>( ) Aspirações<br>( ) Ambiguidade<br>( ) <i>Biofeedback</i></td></tr></table>A ordem correta dos números da 2<sup>a</sup> coluna, de cima para baixo, é:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "4 - 4 - 3 - 2 - 3 - 1"
+    },
+    {
+     "key": "B",
+     "text": "2 - 3 - 4 - 1 - 3 - 2",
+     "explanation": "Absenteísmo é consequência (4) e biofeedback é tratamento (1)."
+    },
+    {
+     "key": "C",
+     "text": "4 - 2 - 1 - 4 - 3 - 2",
+     "explanation": "Iniquidade é estressor ambiental (3) e biofeedback é tratamento (1)."
+    },
+    {
+     "key": "D",
+     "text": "2 - 3 - 1 - 1 - 4 - 4",
+     "explanation": "Absenteísmo é consequência (4) e biofeedback é tratamento (1)."
+    },
+    {
+     "key": "E",
+     "text": "2 - 4 - 1 - 3 - 2 - 4",
+     "explanation": "Absenteísmo é consequência (4) e biofeedback é tratamento (1)."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Culpa e absenteísmo são consequências disfuncionais (4); iniquidade e ambiguidade são estressores ambientais, organizacionais (3); aspirações são estressor individual (2); biofeedback é técnica de tratamento (1).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q17",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 17,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.9 Acidente de trabalho e implicações psicossociais",
+   "stem": "A segurança no trabalho é uma das temáticas mais importantes relacionadas ao dia a dia nas organizações. Em relação a esse problema, analise as afirmativas a seguir.<br>I - As principais atividades da segurança do trabalho são a prevenção de acidentes, a de incêndios e a de roubos.<br>II - A CIPA é o órgão de segurança encarregado de encontrar as soluções de segurança no trabalho, em cada setor da organização.<br>III - O coeficiente de gravidade é o que relaciona o número de acidentes com um milhão de homens/horas trabalhadas para estabelecer índices de comparação entre diferentes organizações.<br>IV - A proporção aceita, em vários países, entre os valores de custo indireto e direto dos acidentes ocorridos em ambiente de trabalho é de 4 para 1.<br>São corretas APENAS as afirmativas",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I e II.",
+     "explanation": "II é falsa."
+    },
+    {
+     "key": "B",
+     "text": "I e IV."
+    },
+    {
+     "key": "C",
+     "text": "II e III.",
+     "explanation": "II e III são falsas."
+    },
+    {
+     "key": "D",
+     "text": "II e IV.",
+     "explanation": "II é falsa."
+    },
+    {
+     "key": "E",
+     "text": "III e IV.",
+     "explanation": "III é falsa: descreve o coeficiente de frequência."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "I (Chiavenato: prevenção de acidentes, incêndios e roubos) e IV (custo indireto cerca de 4 vezes o direto, Heinrich) estão corretas. II erra: a CIPA observa, relata e propõe medidas; não é o órgão que resolve a segurança de cada setor. III descreve o coeficiente de frequência, não o de gravidade (dias perdidos).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Desde a Lei 14.457/2022, a CIPA é a Comissão Interna de Prevenção de Acidentes e de Assédio (NR-5)."
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q18",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 18,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.9 Acidente de trabalho e implicações psicossociais",
+   "stem": "As causas e/ou fatores determinantes de acidentes podem ser identificados e removidos para que acidentes de trabalho não venham a ocorrer. Dentre estas causas e/ou fatores está o agente que é o (a)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "objeto ou a substância que, em contato com a pessoa, determina o acidente."
+    },
+    {
+     "key": "B",
+     "text": "falha física que compromete a segurança do trabalhador.",
+     "explanation": "Falha física que compromete a segurança é a condição insegura."
+    },
+    {
+     "key": "C",
+     "text": "maneira pela qual o trabalhador se expõe ao risco de acidente.",
+     "explanation": "A maneira de exposição ao risco é o ato inseguro."
+    },
+    {
+     "key": "D",
+     "text": "forma como a pessoa sofre a lesão.",
+     "explanation": "A forma como a lesão ocorre é o tipo de acidente."
+    },
+    {
+     "key": "E",
+     "text": "característica mental ou física que ocasiona o ato inseguro gerador do acidente.",
+     "explanation": "Característica que leva ao ato inseguro é o fator pessoal de insegurança."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Na análise de acidentes, agente é o objeto ou substância que, em contato com a pessoa, provoca a lesão (Chiavenato).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q19",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 19,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.9 Acidente de trabalho e implicações psicossociais",
+   "stem": "O processo de seleção de pessoal pode ser usado como estratégia para prevenção de atos inseguros.<br><b>PORQUE</b><br>A partir da análise dos traços psíquicos dos candidatos, pode-se prever quais estariam mais propensos a acidentes em determinados cargos.<br>Analisando as afirmações acima, conclui-se que",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "as duas afirmações são verdadeiras e a segunda justifica a primeira."
+    },
+    {
+     "key": "B",
+     "text": "as duas afirmações são verdadeiras e a segunda não justifica a primeira.",
+     "explanation": "Na visão da banca, a segunda justifica a primeira."
+    },
+    {
+     "key": "C",
+     "text": "a primeira afirmação é verdadeira e a segunda é falsa.",
+     "explanation": "A segunda é considerada verdadeira pela referência adotada."
+    },
+    {
+     "key": "D",
+     "text": "a primeira afirmação é falsa e a segunda é verdadeira.",
+     "explanation": "A primeira é verdadeira."
+    },
+    {
+     "key": "E",
+     "text": "as duas afirmações são falsas.",
+     "explanation": "As duas são consideradas verdadeiras."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Na visão da administração de RH cobrada na prova (Chiavenato), a seleção ajuda a prevenir atos inseguros porque a avaliação de características pessoais permite identificar candidatos mais propensos a acidentes em certos cargos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "A “propensão a acidentes” por traços pessoais é muito criticada hoje: a saúde do trabalhador privilegia a análise das condições e da organização do trabalho."
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q20",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 20,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "A má iluminação em local de trabalho, além de causar agravos à saúde do trabalhador, pode gerar acidentes. Por esse motivo, o sistema de iluminação deve ser suficiente, constante e distribuído uniformemente. Cada forma de trabalho requer níveis de iluminação para que o empregado possa trabalhar normalmente. Qual é o nível mínimo de iluminação (em luxes) para tarefas que requerem observação contínua de detalhes?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "250 a 500",
+     "explanation": "250 a 500 lux servem a tarefas visuais simples e variadas."
+    },
+    {
+     "key": "B",
+     "text": "500 a 1000"
+    },
+    {
+     "key": "C",
+     "text": "1000 a 2000",
+     "explanation": "1000 a 2000 lux são para tarefas contínuas de precisão."
+    },
+    {
+     "key": "D",
+     "text": "2000 a 4000",
+     "explanation": "Acima de 2000 lux é para trabalhos muito finos."
+    },
+    {
+     "key": "E",
+     "text": "Mais de 4000",
+     "explanation": "Valor excessivo para essa tarefa."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na tabela clássica de iluminação (Chiavenato), tarefas que exigem observação contínua de detalhes pedem de 500 a 1000 lux.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Valores didáticos da literatura de RH. Desde 2021, a NR-17 (item 17.8) remete os níveis de iluminamento à NHO 11 da Fundacentro."
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q22",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 22,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "Quando se trata das relações entre a percepção e as expectativas sobre o desempenho das pessoas, o efeito Pigmaleão consiste",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "em esperar comportamentos negativos ou positivos dos outros a partir de generalizações relacionadas com os grupos a que pertencem.",
+     "explanation": "Esperar comportamentos a partir do grupo é estereotipagem."
+    },
+    {
+     "key": "B",
+     "text": "no fato de que as expectativas são modos de controlar os riscos da realidade.",
+     "explanation": "Não define o efeito Pigmalião."
+    },
+    {
+     "key": "C",
+     "text": "no fato de que as expectativas das pessoas determinam seu comportamento e sua percepção dos resultados quanto ao desempenho."
+    },
+    {
+     "key": "D",
+     "text": "no fato de que as expectativas negativas em relação a outras pessoas a partir de generalizações étnicas levam a comportamentos prejudiciais às organizações em que trabalham.",
+     "explanation": "Descreve preconceito e discriminação étnica."
+    },
+    {
+     "key": "E",
+     "text": "no fato de que a percepção pode induzir um entrevistador a aceitar ou não um candidato por este se identificar com alguma de suas características.",
+     "explanation": "Descreve o viés de semelhança (“similar to me”)."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Efeito Pigmalião (profecia autorrealizadora): as expectativas sobre o desempenho de alguém influenciam o comportamento e o resultado, que tende a confirmá-las.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q23",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 23,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.8 Tomada de decisão",
+   "stem": "Um dos personagens do livro de Juan José Millás, intitulado Laura e Júlio, diz o seguinte: “a história da humanidade podia ser resumida em um combate contra a percepção, criadora incansável de miragens” MILLAS, J.J. <b>Laura e Julio</b>. São Paulo: Planeta do Brasil, 2007, p. 126. Em seu combate contra a percepção, ou melhor, contra suas miragens, os cientistas organizacionais pesquisaram as relações estabelecidas entre a ação de tomada de decisão e a percepção, analisando erros e vieses que atrapalham e obliteram nossos julgamentos sobre a realidade, no ato decisório. Dentre esses erros e vieses, se encontra o erro de aleatoriedade que se caracteriza por uma tendência",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "de buscar informações que corroborem a aleatoriedade dos fatos percebidos.",
+     "explanation": "Buscar informações que confirmem crenças é o viés de confirmação."
+    },
+    {
+     "key": "B",
+     "text": "de julgar coisas e pessoas a partir das informações mais acessíveis.",
+     "explanation": "Julgar pelas informações mais acessíveis é a heurística da disponibilidade."
+    },
+    {
+     "key": "C",
+     "text": "dos homens em se fixarem em informações prévias sobre a realidade, comprometendo-se cada vez mais em seus relacionamentos.",
+     "explanation": "Fixar-se em informações iniciais é a ancoragem; comprometer-se cada vez mais é a escalada do comprometimento."
+    },
+    {
+     "key": "D",
+     "text": "que leva os homens a darem sentidos a fatos que são da ordem do acaso."
+    },
+    {
+     "key": "E",
+     "text": "em achar que já se sabia, antecipamente, o resultado de um fato que iria acontecer.",
+     "explanation": "Achar que já sabia o resultado é o viés da retrospectiva."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O erro de aleatoriedade é a tendência a acreditar que se pode prever eventos aleatórios, dando sentido a fatos que são obra do acaso (Robbins).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q24",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 24,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "A teoria da atribuição é uma das mais importantes teorias que visam a explicar o processo perceptivo em relação a outras pessoas. Ela afirma basicamente que, quando se observa o comportamento de outrem, tende-se a determinar sua causalidade como interna ou externa, seguindo a dinâmica de três fatores determinantes: o consenso, a diferenciação e a coerência. A partir dessa lógica, analise as duas narrativas relacionadas abaixo, apontando a forma adequada de interpretação dos comportamentos de seus personagens.<br>Narrativa I – João trabalha em uma empresa petrolífera, sendo um dos geólogos de seu setor. Toda manhã ele costuma cumprimentar todos, demonstrando certo carinho e alegria no trato com as pessoas do seu ambiente de trabalho. Em uma segunda-feira, após um feriado prolongado, seu comportamento é percebido pelos outros membros de seu setor como estranho, pois entrou cabisbaixo e ficou calado o dia inteiro.<br>Narrativa II – Soraia trabalha em uma loja de materiais esportivos. Esta loja tem como característica um baixo nível de absenteísmo e rotatividade dos empregados. Em uma terça-feira, o gerente da loja observa que tanto Soraia quanto as outras duas funcionárias que moram no mesmo bairro se atrasaram.<br>A partir dessas duas narrativas, como os comportamentos de João e Soraia seriam interpretados por seus colegas de trabalho, nos dias especificados em particular, e quais seriam as respectivas atribuições de causa correspondentes? Narrativa I Narrativa II",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "<table><tr><td>Consenso baixo e atribuição externa</td><td>Coerência alta e atribuição interna</td></tr></table>",
+     "explanation": "João foge do próprio padrão (coerência); e o atraso coletivo de Soraia indica consenso alto e causa externa."
+    },
+    {
+     "key": "B",
+     "text": "<table><tr><td>Consenso alto e atribuição externa</td><td>Consenso alto e atribuição externa</td></tr></table>",
+     "explanation": "No caso de João, o dado relevante é a coerência (comportamento diferente do habitual), não o consenso."
+    },
+    {
+     "key": "C",
+     "text": "<table><tr><td>Coerência baixa e atribuição externa</td><td>Consenso alto e atribuição externa</td></tr></table>"
+    },
+    {
+     "key": "D",
+     "text": "<table><tr><td>Coerência alta e atribuição interna</td><td>Diferenciação alta e atribuição externa</td></tr></table>",
+     "explanation": "O comportamento de João é incoerente com o habitual, o que indica causa externa."
+    },
+    {
+     "key": "E",
+     "text": "<table><tr><td>Diferenciação baixa e atribuição externa</td><td>Coerência baixa e atribuição externa</td></tr></table>",
+     "explanation": "A informação sobre João é de coerência, e o caso de Soraia é de consenso alto."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Teoria da atribuição (Kelley): João age diferente do habitual (coerência baixa), o que leva a atribuição externa. Soraia se atrasou como as colegas do mesmo bairro (consenso alto), o que também leva a atribuição externa.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q25",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 25,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "Nas últimas décadas, diversos estudos tentaram identificar dimensões em que as culturas diferem entre si. Os modelos propostos nesses estudos podem ser aplicados para compreender as relações entre a cultura e a satisfação com o trabalho. A partir desses modelos, constata-se que, em uma organização multinacional,",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "as recompensas financeiras serão menos eficazes em países que valorizam mais a qualidade de vida que a quantidade na vida, se comparadas com benefícios como o tempo livre."
+    },
+    {
+     "key": "B",
+     "text": "as filiais sediadas em países com alto distanciamento do poder aumentarão a satisfação dos funcionários se, dentro da organização, não houver diferenças hierárquicas muito visíveis.",
+     "explanation": "Em culturas de alta distância do poder, diferenças hierárquicas visíveis são aceitas e esperadas."
+    },
+    {
+     "key": "C",
+     "text": "o uso de recompensas coletivas é mais indicado do que as recompensas individuais para aumentar a satisfação dos funcionários no ambiente de trabalho.",
+     "explanation": "Recompensas coletivas são mais indicadas apenas em culturas coletivistas."
+    },
+    {
+     "key": "D",
+     "text": "os funcionários de um país com um índice alto de prevenção da incerteza tendem a ser mais satisfeitos em um ambiente de trabalho com poucas regras e protocolos.",
+     "explanation": "Alta aversão à incerteza pede regras e procedimentos claros."
+    },
+    {
+     "key": "E",
+     "text": "os aumentos salariais e a participação nos lucros serão menos eficazes em países orientados para o curto prazo, se comparados com um plano de cargos e salários.",
+     "explanation": "Culturas de curto prazo tendem a valorizar recompensas imediatas como aumentos e participação nos lucros."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Hofstede: em culturas que valorizam a qualidade de vida (dimensão “feminina”) mais que a quantidade (posses, dinheiro), benefícios como tempo livre tendem a satisfazer mais que recompensas financeiras.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q26",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 26,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "Dentre outros aspectos, o estudo do comportamento organizacional se ocupa das atitudes do trabalhador em relação a diversos fatores de seu ambiente de trabalho. Relacione as atitudes listadas na primeira coluna com a respectiva definição na segunda coluna.<table><tr><td>I - Satisfação com o trabalho<br>II - Envolvimento com o trabalho<br>III - Comprometimento organizacional</td><td>P - Percepção de dependência do trabalho que realiza<br>Q - Identificação com a tarefa que realiza<br>R - Identificação com a empresa e seus objetivos<br>S - Atitude geral em relação ao trabalho que realiza</td></tr></table>Estão corretas as associações",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I – S , II – P , III – R.",
+     "explanation": "Envolvimento é identificação com o trabalho (Q), não dependência."
+    },
+    {
+     "key": "B",
+     "text": "I – Q , II – S , III – P.",
+     "explanation": "Satisfação é a atitude geral (S)."
+    },
+    {
+     "key": "C",
+     "text": "I – R, II– P, III– Q.",
+     "explanation": "Satisfação é S, envolvimento é Q e comprometimento é R."
+    },
+    {
+     "key": "D",
+     "text": "I – S , II – Q, III – R."
+    },
+    {
+     "key": "E",
+     "text": "I – S , II – P , III – Q.",
+     "explanation": "Envolvimento é Q e comprometimento é R."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Robbins: satisfação é a atitude geral em relação ao trabalho (S); envolvimento é a identificação psicológica com o trabalho (Q); comprometimento organizacional é a identificação com a organização e seus objetivos (R).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q27",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 27,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "Um psicólogo que trabalha em uma organização precisa considerar os valores dos funcionários e seus efeitos no ambiente do trabalho. O estudo dos valores no ambiente de trabalho, nos últimos anos, demonstrou que",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "os valores terminais qualificam as vias pelas quais se alcançam os objetivos delimitados pelos valores instrumentais.",
+     "explanation": "Está invertido: valores instrumentais são os meios para os estados finais definidos pelos terminais."
+    },
+    {
+     "key": "B",
+     "text": "a instabilidade dos valores, se comparados às atitudes, favorece intervenções que visem a modificar os valores individuais para melhorar a atitude em relação ao trabalho.",
+     "explanation": "Valores são mais estáveis que atitudes, e por isso mais difíceis de mudar."
+    },
+    {
+     "key": "C",
+     "text": "a imensa variação dos valores entre indivíduos impede a tipificação de valores característicos de uma dada sociedade ou de uma dada geração.",
+     "explanation": "É possível identificar valores típicos de uma sociedade ou geração."
+    },
+    {
+     "key": "D",
+     "text": "os valores devem ser entendidos porque eles são responsáveis por promover a objetividade e a racionalidade das decisões na organização.",
+     "explanation": "Valores envolvem julgamentos do que é certo e desejável; não garantem objetividade."
+    },
+    {
+     "key": "E",
+     "text": "a confluência entre os valores da organização e os valores individuais de um funcionário favorece sua atitude positiva em relação ao trabalho."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A congruência entre valores pessoais e organizacionais (ajuste pessoa-organização) favorece atitudes positivas como satisfação e comprometimento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q28",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 28,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "De acordo com o modelo de características do trabalho, o planejamento do trabalho deve levar em conta",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "variedade de habilidades, identidade da tarefa, significância da tarefa, autonomia e feedback."
+    },
+    {
+     "key": "B",
+     "text": "necessidade de realização, necessidade de poder e necessidade de associação.",
+     "explanation": "São as necessidades de McClelland."
+    },
+    {
+     "key": "C",
+     "text": "avaliação das habilidades pessoais, estabelecimento de metas e planos, feedback e recompensa.",
+     "explanation": "Mistura elementos de metas e reforço, não do modelo."
+    },
+    {
+     "key": "D",
+     "text": "necessidades fisiológicas, de segurança, sociais, de estima e de autorrealização.",
+     "explanation": "É a hierarquia de Maslow."
+    },
+    {
+     "key": "E",
+     "text": "fatores intrínsecos como o progresso pessoal e o reconhecimento social, e fatores extrínsecos como a supervisão e as condições de trabalho.",
+     "explanation": "São os fatores de Herzberg."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Modelo das características do trabalho (Hackman e Oldham): variedade de habilidades, identidade da tarefa, significância da tarefa, autonomia e feedback.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q29",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 29,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "O psicólogo da empresa Lugar de Trabalho S.A. recebe a tarefa de solucionar o alto índice de rotatividade e a baixa produtividade dos funcionários de alto escalão. Ele propõe que o programa de remuneração variável da empresa, com base na participação dos lucros, passe a ser fundamentado na participação nos resultados. De acordo com a teoria da expectativa, sua proposta se justifica porque aumenta o(a)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "valor da recompensa, uma vez que a participação nos resultados é maior que a participação nos lucros, motivando mais o funcionário.",
+     "explanation": "O ponto não é o valor maior da recompensa, mas sua ligação com o desempenho."
+    },
+    {
+     "key": "B",
+     "text": "relação entre o desempenho pessoal e a recompensa, facilitando a percepção de que um certo nível de desempenho levará ao resultado desejado."
+    },
+    {
+     "key": "C",
+     "text": "relação entre a recompensa e as metas pessoais, facilitando a percepção de que a recompensa para o trabalho produtivo é atraente.",
+     "explanation": "A ligação recompensa-metas pessoais (valência) não muda com a proposta."
+    },
+    {
+     "key": "D",
+     "text": "dificuldade para a manutenção da remuneração anterior, incentivando a produtividade e tornando o trabalho mais desafiador.",
+     "explanation": "A teoria não fala em tornar mais difícil manter a remuneração."
+    },
+    {
+     "key": "E",
+     "text": "autoeficácia dos funcionários, levando a um maior desempenho e, consequentemente, uma maior motivação para se manter no cargo.",
+     "explanation": "Autoeficácia é conceito de Bandura, não da expectância."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na teoria da expectância (Vroom), a motivação depende da instrumentalidade, a ligação percebida entre desempenho e recompensa. Participação nos resultados, ligada ao desempenho, reforça essa ligação mais que participação nos lucros.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q30",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 30,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "Nos últimos 60 anos, diversas teorias acerca da motivação no ambiente de trabalho vêm sendo apresentadas. A comprovação de cada uma delas é independente das outras, o que justifica que um psicólogo as utilize conjuntamente na elaboração de modelos motivacionais. Considere as afirmativas abaixo sobre a motivação de um funcionário no ambiente de trabalho.<br>I - Os estudos das relações entre a motivação e o desempenho indicam que o recebimento de um feedback negativo tende a diminuir a motivação de um funcionário, sendo preferível, nestes casos, a ausência de feedback.<br>II - A teoria da avaliação cognitiva demonstra que a motivação pode baixar com a introdução de um reforçador externo (como um bônus salarial), o que significa que mesmo que o desempenho aumente, a motivação intrínseca ao trabalho decai.<br>III - A teoria da autoeficácia indica que o índice mais alto de motivação para o trabalho é alcançado quando a tarefa proposta é desafiadora, mas, ao mesmo tempo, não é percebida como excedendo a capacidade que o funcionário tem de executá-la.<br>É correto o que se afirma em",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I, apenas",
+     "explanation": "I é falsa."
+    },
+    {
+     "key": "B",
+     "text": "II, apenas",
+     "explanation": "III também é correta."
+    },
+    {
+     "key": "C",
+     "text": "I e III, apenas",
+     "explanation": "I é falsa."
+    },
+    {
+     "key": "D",
+     "text": "II e III, apenas"
+    },
+    {
+     "key": "E",
+     "text": "I, II e III.",
+     "explanation": "I é falsa."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "II reflete a teoria da avaliação cognitiva (recompensas externas podem reduzir a motivação intrínseca). III reflete a autoeficácia aplicada a desafios. I erra: feedback, mesmo negativo, é preferível à ausência de feedback.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q31",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 31,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "O estabelecimento de metas para aumentar a produtividade do funcionário é largamente utilizado nos ambientes de trabalho. De acordo com a teoria da fixação de metas, para a eficácia desse recurso, é necessário que",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a meta seja a mesma para todos os funcionários que desempenham a mesma função e a recompensa seja estabelecida de forma consensual.",
+     "explanation": "A teoria não exige metas iguais nem recompensa consensual."
+    },
+    {
+     "key": "B",
+     "text": "o funcionário perceba a relação entre o dispêndio de trabalho necessário ao alcance da meta e a recompensa como justa.",
+     "explanation": "Justiça na relação esforço-recompensa é a teoria da equidade."
+    },
+    {
+     "key": "C",
+     "text": "as metas sejam aceitas pelo funcionário, sejam específicas e moderadamente difíceis, com possibilidade de feedback."
+    },
+    {
+     "key": "D",
+     "text": "as metas sejam múltiplas e com diferentes graus de dificuldade, de modo que o funcionário tenha como escolher entre elas de acordo com sua capacidade pessoal.",
+     "explanation": "Metas múltiplas para escolha não é condição da teoria."
+    },
+    {
+     "key": "E",
+     "text": "haja a intenção inicial, o estabelecimento de um plano de ação, a execução do plano e o feedback.",
+     "explanation": "A sequência intenção-plano-execução-feedback é a teoria da ação."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Locke: metas específicas, difíceis mas aceitas, com feedback, levam a melhor desempenho que metas vagas ou fáceis.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q32",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 32,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "Frequentemente, nas organizações de trabalho, tarefas de diferente complexidade e decisões de diferentes graus de importância são conduzidas em grupo. Analise as afirmativas a seguir sobre o funcionamento dos grupos.<br>I – A produção em grupo sofre, inevitavelmente, perdas relativas ao esforço de manutenção do grupo enquanto tal, o que significa que parte da energia produtiva é dirigida no sentido de enfatizar normas, solucionar conflitos entre os membros ou mesmo em atividades sociais necessárias à coesão do grupo.<br>II – As pesquisas demonstraram que as decisões grupais sofrem um efeito chamado polarização, que indica que a posição do grupo tende a ser mais extremada que a posição média de seus membros.<br>III – O fenômeno do pensamento em grupo descreve a situação em que o grupo toma decisões que os membros, individualmente, sabem ser ruins, supondo-se que isto ocorra pela interação de fatores como a força do líder, a coesão do grupo e a pressão no sentido da concordância entre os membros.<br>É (são) correta(s) a(s) afirmativa(s)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "III, apenas.",
+     "explanation": "I e II também são corretas."
+    },
+    {
+     "key": "B",
+     "text": "I e II, apenas.",
+     "explanation": "III também é correta."
+    },
+    {
+     "key": "C",
+     "text": "I e III, apenas.",
+     "explanation": "II também é correta."
+    },
+    {
+     "key": "D",
+     "text": "II e III, apenas.",
+     "explanation": "I também é correta."
+    },
+    {
+     "key": "E",
+     "text": "I, II e III."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "I: há perdas de processo ligadas à manutenção do grupo. II: a polarização grupal desloca a decisão para posições mais extremas. III: o pensamento grupal (Janis) leva a decisões ruins por pressão de conformidade, coesão e liderança forte.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q33",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 33,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "No contexto organizacional, diversos tipos de grupos e equipes são desejáveis, sendo cada um deles dotado de características e formato próprios. A esse respeito, analise as afirmativas abaixo.<br>I – Um grupo de trabalho autônomo ou autogerenciado é responsável direto pela elaboração de um produto inteiro, e essa forma de grupo requer supervisão direta e papéis bem claros e imutáveis.<br>II – Em um grupo nominal, a tarefa de cada membro é somada para compor a produção do grupo, ao contrário de um grupo interativo em que a tarefa é realizada em conjunto.<br>III – As características que distinguem uma equipe de um grupo de trabalho são a interdependência e a coordenação entre as tarefas, a especificidade dos papéis e a coincidência no objetivo das tarefas.<br>IV – Um grupo de tarefa é aquele que se caracteriza pela coincidência de papéis entre seus membros e constitui uma organização em que todos os membros executam a mesma tarefa.<br>São corretas APENAS as afirmativas",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I e II.",
+     "explanation": "I é falsa."
+    },
+    {
+     "key": "B",
+     "text": "I e III.",
+     "explanation": "I é falsa."
+    },
+    {
+     "key": "C",
+     "text": "II e III."
+    },
+    {
+     "key": "D",
+     "text": "II e IV.",
+     "explanation": "IV é falsa."
+    },
+    {
+     "key": "E",
+     "text": "III e IV.",
+     "explanation": "IV é falsa."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "II e III estão corretas. I erra: o grupo autogerenciado dispensa supervisão direta e tem papéis flexíveis. IV erra: grupo de tarefa é formado para executar uma tarefa, não pela coincidência de papéis.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q34",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 34,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "João ocupa a liderança formal de um grupo de trabalho em uma petrolífera e precisa indicar qual funcionário passará os próximos 15 dias embarcado em uma plataforma. Dentre todos os funcionários, o mais indicado, no momento em questão, para esta tarefa específica é Pedro, seu sogro. O período do embarque, no entanto, abrange o aniversário de seu filho, neto de Pedro, e sua família está organizando uma festa. A situação está produzindo muita ansiedade em João. Em termos de estrutura dos grupos, o que está acontecendo no ambiente de trabalho, nessa situação, é",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a pressão para a conformidade, no sentido em que João percebe a necessidade de modificar a estrutura de seu grupo para não precisar gerenciar seu sogro.",
+     "explanation": "Não há pressão do grupo para João se conformar a normas."
+    },
+    {
+     "key": "B",
+     "text": "um conflito de papéis, uma vez que a expectativa da empresa está em conflito com a expectativa familiar, e esses dois papéis se superpõem em relação a Pedro."
+    },
+    {
+     "key": "C",
+     "text": "uma discrepância de status, uma vez que a posição de chefia de João entra em choque com a posição que ocupa na família.",
+     "explanation": "Discrepância de status é a diferença entre status percebido e atribuído; o caso é de papéis conflitantes."
+    },
+    {
+     "key": "D",
+     "text": "uma falha no estabelecimento dos papéis grupais que deveriam garantir a João a objetividade e a impessoalidade de sua decisão.",
+     "explanation": "Os papéis grupais não prometem impessoalidade; o conflito vem da sobreposição de papéis."
+    },
+    {
+     "key": "E",
+     "text": "uma baixa coesão no grupo de trabalho, o que permite que outros grupos, no caso a família, influenciem a decisão de seus membros.",
+     "explanation": "Não há dado sobre a coesão do grupo de trabalho."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Há conflito de papéis quando as expectativas de um papel (chefe na empresa) chocam com as de outro (genro e pai na família), ambas sobre a mesma pessoa, Pedro.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q35",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 35,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "Dentre as abordagens atuais sobre a liderança, uma das mais utilizadas e respeitadas é a Teoria da Meta e do Caminho (Path-Goal Theory), em virtude da sua aplicabilidade e ao fato de considerar as contingências que envolvem os líderes, os liderados e a situação. Considerando as características situacionais e a dos liderados, qual dos comportamentos de liderança abaixo respeita as conclusões dessa teoria?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Uma liderança apoiadora diante de tarefas ambíguas ou estressantes, tendendo a gerar mais satisfação dos liderados.",
+     "explanation": "Diante de tarefas ambíguas ou estressantes, a teoria prevê mais satisfação com liderança diretiva; a apoiadora serve a tarefas estruturadas."
+    },
+    {
+     "key": "B",
+     "text": "Um comportamento diretivo diante de tarefas estruturadas, tendendo a gerar mais satisfação dos liderados e melhor desempenho.",
+     "explanation": "Liderança diretiva com tarefas estruturadas é redundante e reduz a satisfação."
+    },
+    {
+     "key": "C",
+     "text": "Uma liderança diretiva para orientar funcionários que possuam grande capacidade percebida e experiência considerável.",
+     "explanation": "Liderados capazes e experientes percebem a liderança diretiva como redundante."
+    },
+    {
+     "key": "D",
+     "text": "Uma liderança participativa para gerar mais satisfação em funcionários com centro de controle externo.",
+     "explanation": "Liderança participativa satisfaz mais quem tem centro de controle interno."
+    },
+    {
+     "key": "E",
+     "text": "A liderança orientada para a conquista, quando as tarefas são estruturadas de maneira ambígua para aumentar a percepção da relação entre o esforço e o desempenho."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Robbins resume as hipóteses da teoria do caminho-meta: a liderança orientada para a conquista aumenta a expectativa de que o esforço leva a alto desempenho quando as tarefas são estruturadas de forma ambígua.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q36",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 36,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "Uma equipe possui características que a distinguem de qualquer outro grupo de trabalho. O que distingue, no entanto, uma equipe multifuncional das outras equipes é a(o)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "horizontalidade hierárquica e a diversidade das funções exercidas por cada membro."
+    },
+    {
+     "key": "B",
+     "text": "ausência do contato pessoal direto entre os membros.",
+     "explanation": "Ausência de contato presencial caracteriza equipes virtuais."
+    },
+    {
+     "key": "C",
+     "text": "complementaridade e a interdependência das tarefas entre os membros.",
+     "explanation": "Complementaridade e interdependência caracterizam qualquer equipe."
+    },
+    {
+     "key": "D",
+     "text": "duração previamente estabelecida vinculada à consecução de uma meta única.",
+     "explanation": "Duração fixa para uma meta é característica de forças-tarefa."
+    },
+    {
+     "key": "E",
+     "text": "objetivo de encontrar formas de melhorar a qualidade e a eficiência no ambiente de trabalho.",
+     "explanation": "Melhorar qualidade e eficiência é o objetivo das equipes de solução de problemas."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Equipe multifuncional (Robbins): membros de nível hierárquico semelhante, vindos de áreas diferentes, reunidos para uma tarefa.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q37",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 37,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "A Teoria da Liderança Situacional argumenta que uma liderança eficaz depende da habilidade e disposição das pessoas lideradas para executar uma determinada tarefa. Articule o comportamento específico de um líder, descrito na coluna da esquerda, com as características dos liderados, descritas na coluna da direita, de modo a indicar quais as relações mais eficazes, segundo a teoria indicada acima.<table><tr><th>Comportamento do líder</th><th>Características dos liderados</th></tr><tr><td>I - Apoiador e participativo.<br>II - Orientação para a tarefa e orientação de relacionamento.<br>III - Orientação diretiva clara e específica.</td><td>P - Incapazes e desmotivados.<br>Q - Incapazes mas motivados.<br>R - Capazes e motivados.<br>S - Capazes mas desmotivados.</td></tr></table>Estão corretas as associações",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I – R , II – P , III – S.",
+     "explanation": "Capazes e motivados pedem delegação, e incapazes e desmotivados pedem direção."
+    },
+    {
+     "key": "B",
+     "text": "I – S , II – Q , III – P."
+    },
+    {
+     "key": "C",
+     "text": "I – Q , II – R , III – P.",
+     "explanation": "Incapazes mas motivados pedem tarefa mais relacionamento (II), não apoio."
+    },
+    {
+     "key": "D",
+     "text": "I – P , II – S , III – R.",
+     "explanation": "Incapazes e desmotivados pedem direção (III)."
+    },
+    {
+     "key": "E",
+     "text": "I – R , II – P , III – Q.",
+     "explanation": "Capazes e motivados pedem delegação."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Hersey e Blanchard: liderados incapazes e desmotivados pedem direção clara (III–P); incapazes mas motivados pedem alta tarefa e alto relacionamento (II–Q); capazes mas desmotivados pedem apoio e participação (I–S); capazes e motivados, delegação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q38",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 38,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "Os dados obtidos por uma série de estudos vêm demonstrando que a importância da liderança pode ser muito diminuída em algumas circunstâncias. As características dos liderados, da organização ou da natureza do trabalho podem substituir ou neutralizar a influência do líder sobre os liderados. Qual conjunto de características abaixo substituiria a importância de um líder orientado para a tarefa?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Inexperiência dos indivíduos, desestruturação das tarefas e metas organizacionais obscuras.",
+     "explanation": "Inexperiência e ambiguidade aumentam a necessidade de liderança orientada para a tarefa."
+    },
+    {
+     "key": "B",
+     "text": "Liderados muito interessados nas recompensas, trabalho intrinsecamente satisfatório, poucas regras e poucos procedimentos organizacionais.",
+     "explanation": "Trabalho intrinsecamente satisfatório substitui a liderança orientada para relacionamento."
+    },
+    {
+     "key": "C",
+     "text": "Profissionalismo dos liderados, tarefas pouco estruturadas e grupos de trabalho com alto grau de coesão.",
+     "explanation": "Tarefas pouco estruturadas aumentam a necessidade de direção."
+    },
+    {
+     "key": "D",
+     "text": "Indivíduos bem treinados e experientes, trabalhos que fornecem o próprio feedback e metas organizacionais formalizadas explicitamente."
+    },
+    {
+     "key": "E",
+     "text": "Profissionalismo dos liderados, trabalhos desafiadores e pouco rotineiros e ausência de regras formais.",
+     "explanation": "Trabalho desafiador e ausência de regras não substituem a orientação para a tarefa."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Kerr e Jermier: experiência e treino dos liderados, tarefas que dão o próprio feedback e metas formalizadas substituem a liderança orientada para a tarefa.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q39",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 39,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "Uma teoria com grande aplicabilidade e aceitação no que diz respeito à liderança se tornou conhecida como o modelo de Vroom-Yetton, ou sua versão mais complexa e confiável, o modelo de Vroom-Jago. Esse modelo se distingue de todos os outros porque",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "demonstra a diferença entre líderes transformacionais e transacionais de forma comportamental, embasando, com seus resultados, o treinamento transformacional.",
+     "explanation": "Não trata de liderança transformacional ou transacional."
+    },
+    {
+     "key": "B",
+     "text": "é o único que considera a influência das variáveis sociais e demográficas na capacidade de liderança de um indivíduo, permitindo a expansão de seus resultados para outras culturas.",
+     "explanation": "Não é o único a considerar variáveis sociodemográficas, nem é esse o foco."
+    },
+    {
+     "key": "C",
+     "text": "foi desenvolvido e testado em uma cultura globalizada, de modo que os resultados que ele propõe sofrem os efeitos da nova espacialidade gerada pela conectividade contemporânea.",
+     "explanation": "Não foi desenvolvido “em cultura globalizada”."
+    },
+    {
+     "key": "D",
+     "text": "se concentra no par subordinado/supervisor, em vez de se concentrar na relação entre o subordinado, a organização e o grupo de trabalho.",
+     "explanation": "Foco no par subordinado-supervisor é da teoria LMX."
+    },
+    {
+     "key": "E",
+     "text": "apresenta um modelo prescritivo que indica, exclusivamente, o método de supervisão que se espera seja o mais eficaz ao tomar decisões em uma determinada situação."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O modelo Vroom-Yetton/Jago é normativo e prescritivo: por uma árvore de decisão, indica o grau de participação dos liderados (estilo decisório) mais eficaz para cada situação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q40",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 40,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "A literatura especializada distingue amplamente liderança, autoridade e poder nas organizações de trabalho. Estabeleça as relações entre os tipos de poder descritos na coluna da esquerda com suas definições descritas na coluna da direita.<table><tr><td>I – Poder de especialização<br>II – Poder de referência<br>III – Poder de coerção</td><td>P – Derivado da possibilidade de negar recompensas ou administrar punições.<br>Q – Derivado do maior conhecimento de como deve ser feito aquilo que precisa ser feito.<br>R – Derivado do desejo do subordinado de se assemelhar ao detentor do poder.<br>S – Derivado da crença do subordinado na legitimidade de uma posição gerencial.</td></tr></table>Estão corretas as associações",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I – P , II – Q , III – R.",
+     "explanation": "Especialização é Q, não P."
+    },
+    {
+     "key": "B",
+     "text": "I – Q , II – R , III – P."
+    },
+    {
+     "key": "C",
+     "text": "I – S , II – Q , III – P.",
+     "explanation": "S é o poder legítimo, e referência é R."
+    },
+    {
+     "key": "D",
+     "text": "I – P , II – S , III – R.",
+     "explanation": "Especialização é Q e referência é R."
+    },
+    {
+     "key": "E",
+     "text": "I – Q , II – R , III – S.",
+     "explanation": "S é poder legítimo; coerção é P."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "French e Raven: especialização (competência) vem do conhecimento (Q); referência, da identificação e do desejo de se parecer com o detentor (R); coerção, da capacidade de punir ou retirar recompensas (P). S descreve o poder legítimo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q41",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 41,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "Entende-se por tática de poder a opção escolhida na tentativa de transformar uma base de poder em ações específicas. Uma tática de poder muito utilizada é a coalizão, um agrupamento informal gerado pela busca de um único objetivo. A respeito do surgimento de coalizões em uma organização de trabalho, pode-se prever que",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "quanto mais rotineiras as tarefas exercidas pelos trabalhadores, maior a probabilidade de surgirem coalizões."
+    },
+    {
+     "key": "B",
+     "text": "quanto mais abundantes forem os recursos, maior a probabilidade do surgimento de coalizões.",
+     "explanation": "Coalizões surgem mais com recursos escassos."
+    },
+    {
+     "key": "C",
+     "text": "quanto mais autossuficientes as subunidades de trabalho, maior a probabilidade do surgimento de coalizões.",
+     "explanation": "Coalizões surgem mais com alta interdependência entre subunidades."
+    },
+    {
+     "key": "D",
+     "text": "as coalizões tendem a surgir em torno de interesses claros e específicos e a se fortalecer, uma vez que os objetivos tenham sido atingidos.",
+     "explanation": "Coalizões tendem a se dissolver depois de atingidos os objetivos."
+    },
+    {
+     "key": "E",
+     "text": "as coalizões bem sucedidas tendem a ter apenas o tamanho suficiente para alcançar seus objetivos, tendendo à pulverização, caso o número de membros aumente muito.",
+     "explanation": "Coalizões tendem a buscar o maior tamanho possível."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Robbins: coalizões tendem a se formar quando as tarefas são rotineiras (pessoas substituíveis precisam se unir), quando os recursos são escassos e quando há interdependência. Elas buscam maximizar o tamanho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q42",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 42,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.3 Gestão de conflitos",
+   "stem": "As características organizacionais que favorecem o comportamento político são",
+   "passage": "<b>Considere o texto abaixo na resolução das questões de n<sup>os</sup> 42 e 43.</b><br>Dentro de qualquer organização de trabalho, ocorre uma série de comportamentos que, mesmo não sendo descritos como parte do papel formal na organização, influenciam a distribuição de vantagens e desvantagens dentro dela. Esses são comportamentos classificados como políticos.",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "cúpula executiva egocêntrica e politicamente engajada, poucas oportunidades de promoção e processo decisório autocrático.",
+     "explanation": "Poucas promoções e decisão autocrática reduzem a política."
+    },
+    {
+     "key": "B",
+     "text": "escassez de recursos, ambiguidade dos papéis formais e pouca pressão para o alto desempenho.",
+     "explanation": "Pouca pressão por desempenho reduz a política."
+    },
+    {
+     "key": "C",
+     "text": "muitas oportunidades de promoção, processo decisório democrático e nível de confiança organizacional baixo."
+    },
+    {
+     "key": "D",
+     "text": "sistema de avaliação de desempenho obscuro, sistema de recompensas ganha-ganha e clareza na definição dos papéis formais.",
+     "explanation": "Recompensas ganha-ganha e papéis claros reduzem a política."
+    },
+    {
+     "key": "E",
+     "text": "sistema de recompensas soma-zero, alto nível de confiança organizacional e processo decisório autocrático.",
+     "explanation": "Alta confiança e decisão autocrática reduzem a política."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Robbins: favorecem o comportamento político as oportunidades de promoção, a baixa confiança, a ambiguidade de papéis, a avaliação de desempenho pouco clara, as recompensas de soma zero, o processo decisório democrático, a pressão por desempenho e uma cúpula egocêntrica.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q43",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 43,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.3 Gestão de conflitos",
+   "stem": "As características pessoais que favorecem a ocorrência e o sucesso do comportamento político são",
+   "passage": "<b>Considere o texto abaixo na resolução das questões de n<sup>os</sup> 42 e 43.</b><br>Dentro de qualquer organização de trabalho, ocorre uma série de comportamentos que, mesmo não sendo descritos como parte do papel formal na organização, influenciam a distribuição de vantagens e desvantagens dentro dela. Esses são comportamentos classificados como políticos.",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "alto investimento na organização, baixa capacidade de automonitoramento e poucas alternativas percebidas de trabalho.",
+     "explanation": "Alto investimento na organização e poucas alternativas inibem a política; baixo automonitoramento também."
+    },
+    {
+     "key": "B",
+     "text": "alta capacidade de automonitoramento, centro interno de controle e alta conformidade às normas grupais."
+    },
+    {
+     "key": "C",
+     "text": "alta capacidade de automonitoramento, centro externo de controle e muitas alternativas percebidas de trabalho.",
+     "explanation": "Centro de controle externo inibe a política."
+    },
+    {
+     "key": "D",
+     "text": "centro interno de controle, baixa conformidade às normas grupais e baixo investimento na organização.",
+     "explanation": "Baixa conformidade às normas grupais não favorece o sucesso político."
+    },
+    {
+     "key": "E",
+     "text": "centro externo de controle, alta conformidade às normas grupais e pouca expectativa de sucesso.",
+     "explanation": "Controle externo e baixa expectativa de sucesso inibem a política."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Robbins: pessoas com alto automonitoramento são sensíveis às pistas sociais e mais conformistas socialmente; com centro de controle interno, acreditam poder influenciar o ambiente. Ambos os traços favorecem o comportamento político.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q44",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 44,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "Quanto mais forte a cultura organizacional, menor será a necessidade de desenvolver regras e regulamentos para orientar o comportamento dos funcionários.<br><b>PORQUE</b><br>A formalização e a cultura organizacional geram os mesmos efeitos de previsibilidade, ordem e consistência em relação ao comportamento dos trabalhadores.<br>Analisando as afirmações acima, conclui-se que",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "as duas afirmações são verdadeiras e a segunda justifica a primeira."
+    },
+    {
+     "key": "B",
+     "text": "as duas afirmações são verdadeiras e a segunda não justifica a primeira.",
+     "explanation": "A segunda afirmação é justamente a razão da primeira."
+    },
+    {
+     "key": "C",
+     "text": "a primeira afirmação é verdadeira e a segunda é falsa.",
+     "explanation": "A segunda também é verdadeira."
+    },
+    {
+     "key": "D",
+     "text": "a primeira afirmação é falsa e a segunda é verdadeira.",
+     "explanation": "A primeira é verdadeira."
+    },
+    {
+     "key": "E",
+     "text": "as duas afirmações são falsas.",
+     "explanation": "As duas são verdadeiras."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Robbins: a cultura forte substitui a formalização, porque ambas produzem previsibilidade, ordem e consistência no comportamento. Por isso, quanto mais forte a cultura, menos regras são necessárias.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q45",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 45,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "Uma empresa que pretenda sustentar uma cultura organizacional voltada para o cliente deve",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "formalizar os papéis, pois os funcionários que trabalham com clientes precisam saber os limites que poderão ou não ultrapassar, ao conduzir o atendimento.",
+     "explanation": "Culturas voltadas ao cliente têm baixa formalização."
+    },
+    {
+     "key": "B",
+     "text": "reduzir a autonomia dos funcionários que atendem diretamente o cliente, para homogeneizar os serviços.",
+     "explanation": "Recomenda-se dar autonomia (empowerment) a quem atende o cliente."
+    },
+    {
+     "key": "C",
+     "text": "priorizar avaliações de desempenho com base no comportamento e na satisfação do cliente, em detrimento de avaliações embasadas na produtividade."
+    },
+    {
+     "key": "D",
+     "text": "adotar uma estrutura bastante estratificada e especializada, de modo que o cliente possa ser direcionado ao funcionário mais indicado para satisfazer sua demanda.",
+     "explanation": "Estrutura estratificada e especializada dificulta o atendimento."
+    },
+    {
+     "key": "E",
+     "text": "selecionar os novos funcionários com base em suas características pessoais, em virtude da ineficiência do treinamento de habilidades sociais.",
+     "explanation": "Seleção por personalidade é recomendada, mas o treinamento também é eficaz."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Robbins: a cultura voltada para o cliente avalia o desempenho por comportamentos ligados ao cliente e pela satisfação dele, seleciona por personalidade, treina, dá autonomia e mantém baixa formalização.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q46",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 46,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "A cultura de uma organização não pode ser modificada de forma ativa e intencional pela administração.<br><b>PORQUE</b><br>A cultura organizacional é influenciada pelos valores nacionais, pela história da fundação e dos fundadores da empresa e pelos valores compartilhados pelos funcionários.<br>Analisando as afirmações acima, conclui-se que",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "as duas afirmações são verdadeiras e a segunda justifica a primeira.",
+     "explanation": "A primeira afirmação é falsa."
+    },
+    {
+     "key": "B",
+     "text": "as duas afirmações são verdadeiras e a segunda não justifica a primeira.",
+     "explanation": "A primeira afirmação é falsa."
+    },
+    {
+     "key": "C",
+     "text": "a primeira afirmação é verdadeira e a segunda é falsa.",
+     "explanation": "A primeira é falsa e a segunda é verdadeira."
+    },
+    {
+     "key": "D",
+     "text": "a primeira afirmação é falsa e a segunda é verdadeira."
+    },
+    {
+     "key": "E",
+     "text": "as duas afirmações são falsas.",
+     "explanation": "A segunda é verdadeira."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A primeira é falsa: a administração pode gerir e mudar a cultura, ainda que com dificuldade (crises, nova liderança, socialização). A segunda é verdadeira: a cultura sofre influência dos valores nacionais, dos fundadores e dos membros.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q47",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 47,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "As organizações de trabalho atuais são caracterizadas por alta competitividade, exigências quanto ao desempenho e incertezas quanto ao futuro profissional. Nesse contexto, pode ocorrer que a administração da organização promova medidas que arrisquem a saúde e diminuam a qualidade de vida das pessoas e coletividades. Um psicólogo organizacional, contratado por uma organização que se encontre na situação acima descrita, respalda-se no Código de ética profissional do psicólogo para",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "elaborar, divulgar, propor e implementar medidas que minimizem os danos provocados à saúde dos trabalhadores da organização e promovam a qualidade de vida.",
+     "explanation": "Minimizar danos de práticas incompatíveis não é a solução prevista: o Código manda recusar."
+    },
+    {
+     "key": "B",
+     "text": "elaborar, divulgar, propor e implementar medidas de profilaxia e tratamento da saúde dos trabalhadores da organização.",
+     "explanation": "Profilaxia e tratamento não respondem à incompatibilidade ética."
+    },
+    {
+     "key": "C",
+     "text": "promover e sustentar, perante a administração, medidas substitutivas que favoreçam a classe trabalhadora e respeitem as diretrizes mínimas de saúde propostas pela OMS.",
+     "explanation": "O Código não prevê “medidas substitutivas” perante a administração."
+    },
+    {
+     "key": "D",
+     "text": "se recusar a prestar serviços e, se pertinente, apresentar denúncia ao órgão competente, após avaliar as normas e as práticas vigentes na organização."
+    },
+    {
+     "key": "E",
+     "text": "condicionar sua participação na organização à adequação das práticas organizacionais aos princípios fundamentais do Código de ética profissional do psicólogo.",
+     "explanation": "O Código prevê recusa e denúncia, não condicionar a participação."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Código de Ética, art. 3º: antes de ingressar ou permanecer numa organização, o psicólogo verifica se as normas e práticas são compatíveis com o Código. Havendo incompatibilidade, cabe-lhe recusar-se a prestar serviços e, se pertinente, denunciar ao órgão competente.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q48",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 48,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Considere a situação a seguir. Em seu trabalho no interior de uma empresa, o psicólogo toma conhecimento de decisões francamente discriminatórias sendo tomadas por um gerente. Essa informação foi recebida no estrito exercício de seu trabalho como psicólogo, e sua divulgação expõe a intimidade da pessoa que lhe confidenciou o fato. A solução prevista no Código de Ética Profissional para um conflito desta ordem respalda o psicólogo quando este",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "denuncia à administração da empresa o comportamento antiético e potencialmente ilegal de seu gerente, sem divulgar a fonte de sua informação.",
+     "explanation": "O Código não prevê denúncia automática; a decisão passa pela análise do menor prejuízo."
+    },
+    {
+     "key": "B",
+     "text": "silencia diante do caso em nome da manutenção do sigilo profissional.",
+     "explanation": "O sigilo não é absoluto diante de conflito com os Princípios."
+    },
+    {
+     "key": "C",
+     "text": "se decide pela quebra ou não do sigilo profissional, embasando-se na busca do menor prejuízo."
+    },
+    {
+     "key": "D",
+     "text": "expõe o caso ao Conselho Federal de Psicologia para que as medidas adequadas sejam tomadas.",
+     "explanation": "O Código não prevê levar o caso ao CFP como solução."
+    },
+    {
+     "key": "E",
+     "text": "mantém o sigilo profissional, mas conduz as medidas que estejam a seu alcance para modificar a situação discriminatória.",
+     "explanation": "O Código dá ao psicólogo a decisão sobre quebrar ou não o sigilo, pelo menor prejuízo."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Código de Ética, art. 10: em conflito entre o sigilo (art. 9º) e os Princípios Fundamentais, o psicólogo pode decidir pela quebra do sigilo, baseando a decisão na busca do menor prejuízo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q49",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 49,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "Em termos de orientação ético-política dos psicólogos em um contexto organizacional, a orientação que pode ser sustentada pelo Código de ética profissional aponta a(o)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "necessidade de manter a responsabilidade social e um posicionamento crítico da realidade política, econômica, social e cultural, bem como a atenção às relações de poder nos contextos em que atua e seus impactos sobre sua atividade."
+    },
+    {
+     "key": "B",
+     "text": "necessidade de circunscrever o exercício da profissão do psicólogo em relação à realidade individual, de modo que a atuação em organizações sociais leve em conta, antes de mais nada, a promoção e a sustentação da saúde psicológica do indivíduo.",
+     "explanation": "O Código não restringe a atuação à realidade individual."
+    },
+    {
+     "key": "C",
+     "text": "impossibilidade da interação humana ser livre de conflitos e diferenças, sendo reconhecido que é função do psicólogo facilitar a resolução de conflitos e a minimização do impacto das diferenças individuais, promovendo a realização pessoal no contexto em que atua.",
+     "explanation": "Minimizar diferenças individuais não é orientação do Código."
+    },
+    {
+     "key": "D",
+     "text": "reconhecimento da necessidade de organizações sociais em torno da cadeia de produção, devendo o psicólogo cuidar da preparação do homem para o controle de suas próprias mudanças e das mudanças do ambiente exterior, entendendo a produtividade como um modo de modificação do ambiente.",
+     "explanation": "Preparar o homem para a produtividade não é orientação ético-política do Código."
+    },
+    {
+     "key": "E",
+     "text": "reconhecimento da relação conflituosa entre os interesses que sustentam a sociedade capitalista e o respeito à integridade e à dignidade do ser humano, devendo o psicólogo promover modos de emancipação do trabalhador e melhoria de sua qualidade de vida.",
+     "explanation": "O Código não traz orientação emancipatória anticapitalista; fala de análise crítica e respeito à dignidade."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Princípios III e VII do Código: o psicólogo atua com responsabilidade social, analisando crítica e historicamente a realidade política, econômica, social e cultural, e considera as relações de poder nos contextos em que atua.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q50",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 50,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.4 Análise e desenvolvimento organizacional",
+   "stem": "As teorias organizacionais descrevem como as organizações de trabalho se estruturam, suas diferentes características e seu funcionamento quanto às interações interpessoais e entre as pessoas e a tecnologia. Dentre elas, a Teoria da Burocracia de Weber",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "descreve a operação da maioria das empresas em termos de divisão do trabalho, delegação de autoridade, amplitude de controle e de distinção entre cargos de linha e cargos de equipe."
+    },
+    {
+     "key": "B",
+     "text": "descreve a organização de trabalho por características que vão da importação e transformação de energia à coordenação/integração e à finalidade equitativa.",
+     "explanation": "Importação e transformação de energia é a teoria dos sistemas abertos (Katz e Kahn)."
+    },
+    {
+     "key": "C",
+     "text": "analisa como as atitudes e as crenças dos supervisores sobre os subordinados determinam o tipo de gerência e, por consequência, a forma como os subordinados se comportam.",
+     "explanation": "Crenças dos supervisores sobre subordinados é a Teoria X e Y (McGregor)."
+    },
+    {
+     "key": "D",
+     "text": "enfatiza as relações entre as pessoas e as tecnologias e o modo como as tecnologias afetam as pessoas e as relações interpessoais.",
+     "explanation": "Relações entre pessoas e tecnologia é a teoria sociotécnica."
+    },
+    {
+     "key": "E",
+     "text": "demonstra a necessidade de registro e controle dos processos de produção em termos matematizados e em linguagem própria.",
+     "explanation": "Registrar processos de forma matematizada lembra a administração científica, não Weber."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Spector: a teoria da burocracia (Weber) descreve a organização por divisão do trabalho, delegação de autoridade, amplitude de controle e distinção entre linha e assessoria (staff).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q51",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 51,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.4 Análise e desenvolvimento organizacional",
+   "stem": "Existem várias técnicas de promoção do desenvolvimento organizacional. Cada uma delas enfatiza uma determinada meta ou estratégia. Qual das atividades abaixo possui uma meta de resultado?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Treinamento de tomada de decisões.",
+     "explanation": "Treinamento de tomada de decisão visa habilidades (processo)."
+    },
+    {
+     "key": "B",
+     "text": "Grupo T.",
+     "explanation": "Grupo T visa autoconhecimento e relações interpessoais (processo)."
+    },
+    {
+     "key": "C",
+     "text": "Treino de resolução de conflitos.",
+     "explanation": "Treino de resolução de conflitos visa habilidades (processo)."
+    },
+    {
+     "key": "D",
+     "text": "Análise do desempenho."
+    },
+    {
+     "key": "E",
+     "text": "Avaliação das habilidades sociais.",
+     "explanation": "Avaliar habilidades sociais é diagnóstico de processo."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Entre as técnicas de desenvolvimento organizacional, algumas visam processos (habilidades, relações) e outras visam resultados. A análise do desempenho é orientada a resultados.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q52",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 52,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.4 Análise e desenvolvimento organizacional",
+   "stem": "As estratégias de desenvolvimento organizacional produzem resultados específicos e são comumente utilizadas em conjunto para somar suas vantagens. Relacione as estratégias apresentadas na coluna da esquerda com seus respectivos resultados na coluna da direita.<table><tr><td>I – Feedback de pesquisa.<br>II – Administração por objetivos.<br>III – Reprojeto de cargo</td><td>P – Maior adequação das pessoas às funções.<br>Q – Aumento da clareza quanto aos processos de avaliação de desempenho.<br>R – Maior participação dos funcionários nos processos decisórios.<br>S – Incremento das habilidades sociais dos funcionários.</td></tr></table>Estão corretas as associações",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I – Q , II – R , III – P.",
+     "explanation": "Feedback de pesquisa é R e APO é Q."
+    },
+    {
+     "key": "B",
+     "text": "I – R , II – P , III – S.",
+     "explanation": "APO é Q e reprojeto é P; nenhuma das três visa habilidades sociais (S)."
+    },
+    {
+     "key": "C",
+     "text": "I – S , II – Q , III – R.",
+     "explanation": "Feedback de pesquisa não visa habilidades sociais."
+    },
+    {
+     "key": "D",
+     "text": "I – P , II – S , III – Q.",
+     "explanation": "Feedback de pesquisa é R, e S não corresponde a nenhuma."
+    },
+    {
+     "key": "E",
+     "text": "I – R , II – Q , III – P."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O feedback de pesquisa envolve os funcionários no diagnóstico e nas decisões (R); a APO torna claros os critérios de avaliação, por metas acordadas (Q); o reprojeto de cargos ajusta as funções às pessoas (P).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q53",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 53,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "Um programa de administração por objetivos bem implementado precisa",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "realizar um levantamento inicial para avaliar o clima organizacional.",
+     "explanation": "Avaliar o clima não é requisito da APO."
+    },
+    {
+     "key": "B",
+     "text": "constituir uma equipe organizada, como grupo-tarefa, orientada para os resultados.",
+     "explanation": "A APO não exige formar uma equipe-tarefa."
+    },
+    {
+     "key": "C",
+     "text": "analisar, precisamente, os resultados alcançados por empresas concorrentes.",
+     "explanation": "Analisar concorrentes é benchmarking."
+    },
+    {
+     "key": "D",
+     "text": "estabelecer metas organizacionais gerais definidas de forma democrática.",
+     "explanation": "Na APO, as metas gerais vêm da cúpula e se desdobram com participação; não precisam ser definidas democraticamente."
+    },
+    {
+     "key": "E",
+     "text": "estabelecer um método eficaz de mensuração dos resultados."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A APO exige metas mensuráveis e um método eficaz de medir resultados, para comparar o alcançado com o acordado e dar feedback.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q54",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 54,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "“Enquanto historicamente a expressão cidadania foi empregada como conceito para sintetizar a busca incessante de condições sociais, políticas e jurídicas idealizadas para o ser humano dentro de uma sociedade, o seu emprego no âmbito dos estudos do comportamento organizacional limitou-se a designar uma modalidade de atos que resultariam em benefícios ao sistema organizacional.” SIQUEIRA, M. GOMIDE Júnior, S. e OLIVEIRA. A. <b>Cidadania, Justiça e</b> <b>Cultura nas Organizações.</b> São Bernardo do Campo: Universidade Metodista de São Bernardo do Campo, 2002, p. 29. A posição sustentada no trecho acima permite concluir que",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a cidadania organizacional não sofre os males da idealização testemunhada nos âmbitos social, político e jurídico, sendo definida de forma mais realista e objetiva no contexto organizacional.",
+     "explanation": "O texto não diz que o uso organizacional é mais realista; aponta seu estreitamento."
+    },
+    {
+     "key": "B",
+     "text": "o enfoque jurídico, político ou social busca reformular a estrutura da sociedade para permitir ao indivíduo o gozo pleno da cidadania, ao passo que o enfoque organizacional busca reformular o sistema produtivo.",
+     "explanation": "O texto não trata de reformular o sistema produtivo."
+    },
+    {
+     "key": "C",
+     "text": "a cidadania funciona como um meio para a consecução de um fim; portanto, no caso social, político e jurídico, o objetivo da cidadania é a justiça social, e no caso organizacional, o objetivo da cidadania é a justiça nas organizações.",
+     "explanation": "O texto não fala em cidadania como meio para a justiça organizacional."
+    },
+    {
+     "key": "D",
+     "text": "o uso do termo cidadania é contraditório quanto à ênfase no contexto social e no contexto organizacional: no primeiro, é a sociedade que oferece ao indivíduo os benefícios da cidadania; no segundo, é o indivíduo que beneficia a organização."
+    },
+    {
+     "key": "E",
+     "text": "o uso histórico do termo cidadania não condiz com o uso contemporâneo, pois o uso atual dirige o foco às atitudes voluntárias que o indivíduo sustenta em benefício da sociedade e, nesse sentido, coincide com o termo no âmbito organizacional.",
+     "explanation": "O texto contrapõe os usos; não diz que coincidem."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O trecho aponta o deslocamento do termo: na tradição social, política e jurídica, a cidadania traz benefícios da sociedade ao indivíduo; no comportamento organizacional, designa atos do indivíduo que beneficiam a organização.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q56",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 56,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "A análise do trabalho é um procedimento que pode ser realizado de maneiras diferentes, de acordo com o instrumento escolhido ou criado para sua realização. Independente da técnica escolhida, o objetivo da análise do trabalho é",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "avaliar a complexidade relativa de um trabalho em relação às atividades que o condicionam e às atividades que ele condiciona.",
+     "explanation": "Comparar a complexidade relativa de trabalhos é avaliação de cargos."
+    },
+    {
+     "key": "B",
+     "text": "descrever a natureza das tarefas realizadas no trabalho bem como as características pessoais necessárias para sua realização."
+    },
+    {
+     "key": "C",
+     "text": "discriminar os recursos, tanto humanos quanto materiais, necessários à realização de um trabalho.",
+     "explanation": "Discriminar recursos humanos e materiais é planejamento de recursos."
+    },
+    {
+     "key": "D",
+     "text": "discriminar os recursos consumidos, tanto materiais quanto em horas de trabalho, e compará-los aos recursos produzidos.",
+     "explanation": "Comparar recursos consumidos e produzidos é análise de produtividade."
+    },
+    {
+     "key": "E",
+     "text": "comparar os efeitos esperados pela realização de um trabalho com a situação na qual o trabalho não é realizado.",
+     "explanation": "Comparar com a não realização do trabalho não é objetivo da análise."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "A análise do trabalho descreve as tarefas (o que se faz) e os requisitos pessoais (conhecimentos, habilidades, aptidões e outras características) necessários para realizá-las.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q57",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 57,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "O modelo multifatorial de Thurstone formula a existência de capacidades mentais primárias, indicando habilidades intelectuais por meio de fatores independentes entre si. Essa importante teoria ajudou na construção de métodos de análise das aptidões, usados em processos de seleção de pessoal. Supondo que uma empresa esteja fazendo uma seleção para compor o seu quadro de funcionários, qual seria o fator preponderante para a admissão de um candidato com habilidade em resolução de cálculos numéricos simples?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Fator V.",
+     "explanation": "V é compreensão verbal."
+    },
+    {
+     "key": "B",
+     "text": "Fator S.",
+     "explanation": "S é aptidão espacial."
+    },
+    {
+     "key": "C",
+     "text": "Fator N."
+    },
+    {
+     "key": "D",
+     "text": "Fator W.",
+     "explanation": "W é fluência verbal."
+    },
+    {
+     "key": "E",
+     "text": "Fator R.",
+     "explanation": "R é raciocínio."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Thurstone: capacidades mentais primárias são V (compreensão verbal), W (fluência verbal), N (numérica), S (espacial), M (memória), P (rapidez perceptiva) e R/I (raciocínio). Cálculo numérico simples é o fator N.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q58",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 58,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Na prática da seleção de pessoal, o entrevistador deve evitar o efeito de halo que consiste na tendência de julgar um candidato",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a partir de características raciais, ideológicas ou religiosas.",
+     "explanation": "Julgar por raça, ideologia ou religião é discriminação ou estereótipo."
+    },
+    {
+     "key": "B",
+     "text": "a partir de características pessoais próprias ao entrevistador.",
+     "explanation": "Julgar por semelhança com o entrevistador é o viés de similaridade ou projeção."
+    },
+    {
+     "key": "C",
+     "text": "a partir de uma única característica."
+    },
+    {
+     "key": "D",
+     "text": "comparando-o com o anterior.",
+     "explanation": "Comparar com o candidato anterior é o efeito de contraste."
+    },
+    {
+     "key": "E",
+     "text": "observando similitudes entre o seu relato e o dos candidatos anteriormente entrevistados.",
+     "explanation": "Comparar relatos entre candidatos não é efeito halo."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Efeito halo: a impressão geral sobre o candidato é contaminada por uma única característica marcante.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q59",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 59,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Uma empresa selecionou candidatos para preencher o quadro de seu setor administrativo. Foram examinados 50000 candidatos, sendo apenas 20 admitidos. A partir dos dados indicados, o coeficiente de seleção é",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "0,0004",
+     "explanation": "0,0004 é a razão sem multiplicar por 100."
+    },
+    {
+     "key": "B",
+     "text": "0,04"
+    },
+    {
+     "key": "C",
+     "text": "2,5",
+     "explanation": "2,5 não sai da fórmula."
+    },
+    {
+     "key": "D",
+     "text": "25",
+     "explanation": "25 não sai da fórmula."
+    },
+    {
+     "key": "E",
+     "text": "2500",
+     "explanation": "2500 é a relação inversa (examinados ÷ admitidos)."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Quociente de seleção (Chiavenato) = admitidos ÷ examinados × 100 = 20 ÷ 50.000 × 100 = 0,04.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q60",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 60,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "O conceito de aprendizado de círculo duplo se caracteriza por ser um aprendizado que",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "corrige erros a partir de políticas e rotinas preestabelecidas.",
+     "explanation": "Corrigir erros dentro de políticas e rotinas é circuito simples."
+    },
+    {
+     "key": "B",
+     "text": "possibilita colocar em questão as normas e as regras mais arraigadas da organização."
+    },
+    {
+     "key": "C",
+     "text": "é limitado às relações estabelecidas entre a liderança da organização e seus empregados, seguindo uma lógica vertical de poder institucional.",
+     "explanation": "Não se limita a relações verticais de poder."
+    },
+    {
+     "key": "D",
+     "text": "prioriza a aquisição de conhecimento por meio de reforço negativo.",
+     "explanation": "Não se trata de reforço negativo."
+    },
+    {
+     "key": "E",
+     "text": "visa à correção de estímulos errôneos provenientes da percepção do meio em que o individuo se encontra.",
+     "explanation": "Não se trata de corrigir estímulos perceptivos."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Argyris: a aprendizagem de circuito duplo questiona e muda normas, políticas e pressupostos subjacentes; a de circuito simples só corrige erros dentro das regras existentes.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q61",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 61,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "Na sociedade contemporânea, as expressões e as produções na vida cotidiana são tomadas constantemente por uma exigência de contínua produção de conhecimento e de permanente mudança. Seguindo essa lógica, os cientistas organizacionais e os executivos assinalam que as organizações devem reagir a esse mundo tomado por incertezas, mudanças e inovações tecnológicas constantes por meio de estratégias diferenciadas. Um conceito que retrata bem essa forma de reação organizacional é o da organização que aprende. A partir desse conceito, os principais problemas encontrados em organizações tradicionais que essa forma de organização ideal combate, são",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "rotatividade e absenteísmo.",
+     "explanation": "Rotatividade e absenteísmo são indicadores de RH, não os problemas apontados."
+    },
+    {
+     "key": "B",
+     "text": "roubos e acidentes.",
+     "explanation": "Roubos e acidentes não são o foco do conceito."
+    },
+    {
+     "key": "C",
+     "text": "absenteísmo, rotatividade e acidentes.",
+     "explanation": "Não são os problemas apontados por Senge."
+    },
+    {
+     "key": "D",
+     "text": "cooperação e departamentalização.",
+     "explanation": "Cooperação é valorizada, não combatida."
+    },
+    {
+     "key": "E",
+     "text": "competição, reatividade e fragmentação."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Senge e Robbins: a organização que aprende combate três problemas das organizações tradicionais: fragmentação, competição excessiva e reatividade.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q62",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 62,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "Em relação às organizações que aprendem, um dos aspectos que as caracterizam é o fato de que a(o)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o estilo de aprendizado usado nestas organizações se baseia no controle e na recompensa dos trabalhadores que seguem as ordens de seus líderes diretos.",
+     "explanation": "O aprendizado não se baseia em controle e recompensa por obediência."
+    },
+    {
+     "key": "B",
+     "text": "a visão entre os empregados é fragmentada devido ao forte impacto crítico que a sua posição contrária à ideia de poder institucional sustenta.",
+     "explanation": "Há visão compartilhada, não fragmentada."
+    },
+    {
+     "key": "C",
+     "text": "líder carismático com o comportamento diretivo é o mais utilizado nesse âmbito organizacional de trabalho.",
+     "explanation": "A liderança típica não é diretiva."
+    },
+    {
+     "key": "D",
+     "text": "estratégia disciplinar mais utilizada é a disciplina progressiva.",
+     "explanation": "Disciplina progressiva não é característica dessas organizações."
+    },
+    {
+     "key": "E",
+     "text": "pensamento sistêmico está na base de sua forma de pensar a organização."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Na organização que aprende, o pensamento sistêmico é a “quinta disciplina” que integra as demais (Senge).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q63",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 63,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "Devido à sua necessidade de implementação de uma visão compartilhada, as organizações que aprendem necessitam de uma forma de liderança",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "transformacional."
+    },
+    {
+     "key": "B",
+     "text": "transacional",
+     "explanation": "A transacional se baseia em trocas e recompensas contingentes."
+    },
+    {
+     "key": "C",
+     "text": "carismática.",
+     "explanation": "Carisma ajuda, mas a ênfase em visão compartilhada e desenvolvimento é transformacional."
+    },
+    {
+     "key": "D",
+     "text": "laissez-faire.",
+     "explanation": "Laissez-faire é ausência de liderança."
+    },
+    {
+     "key": "E",
+     "text": "autocrática.",
+     "explanation": "A autocrática é incompatível com visão compartilhada."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Construir e comunicar uma visão compartilhada e estimular o aprendizado são marcas da liderança transformacional.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q64",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 64,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "O <i>e-training</i> é um método de treinamento de pessoal barato e pouco eficiente.<br><b>PORQUE</b><br>É grande a possibilidade de o empregado se distrair diante do computador.<br>Analisando as afirmações acima,",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "as duas afirmações são verdadeiras e a segunda justifica a primeira.",
+     "explanation": "A primeira afirmação é falsa."
+    },
+    {
+     "key": "B",
+     "text": "as duas afirmações são verdadeiras e a segunda não justifica a primeira.",
+     "explanation": "A primeira afirmação é falsa."
+    },
+    {
+     "key": "C",
+     "text": "a primeira afirmação é verdadeira e a segunda é falsa.",
+     "explanation": "A primeira é falsa e a segunda é verdadeira."
+    },
+    {
+     "key": "D",
+     "text": "a primeira afirmação é falsa e a segunda é verdadeira."
+    },
+    {
+     "key": "E",
+     "text": "as duas afirmações são falsas.",
+     "explanation": "A segunda é verdadeira."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O e-training não é, por definição, pouco eficiente (pode ser eficaz e flexível, embora caro de desenvolver), logo a primeira é falsa. A distração diante do computador é uma limitação real, então a segunda é verdadeira.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q65",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 65,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "O método de treinamento é uma estratégia educativa tomada pelas empresas para aprimorar a execução dos trabalhos, possibilitando o ajustamento comportamental dos funcionários em relação aos objetivos organizacionais. Esse processo de aprendizagem se constrói ao longo de quatro etapas determinadas pelas seguintes ações, colocadas em ordem da 1a etapa à última:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "diagnosticar, planejar, executar, avaliar."
+    },
+    {
+     "key": "B",
+     "text": "diagnosticar, executar, avaliar, planejar.",
+     "explanation": "O planejamento vem antes da execução."
+    },
+    {
+     "key": "C",
+     "text": "avaliar, diagnosticar, planejar, executar.",
+     "explanation": "Começa pelo diagnóstico, não pela avaliação."
+    },
+    {
+     "key": "D",
+     "text": "avaliar, planejar, executar, diagnosticar.",
+     "explanation": "A avaliação é a última etapa."
+    },
+    {
+     "key": "E",
+     "text": "planejar, executar, avaliar, diagnosticar.",
+     "explanation": "O diagnóstico é a primeira etapa."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O treinamento é um ciclo de quatro etapas: diagnóstico (levantamento de necessidades), planejamento (programação), execução e avaliação dos resultados.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q66",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 66,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "Os indicadores de necessidade de treinamento são divididos, comumente, em duas categorias: indicadores a priori e indicadores a posteriori. Os indicadores a priori são eventos que, se ocorrerem, indicarão necessidades futuras de treinamento, enquanto os a posteriori são problemas surgidos por necessidades de treinamento não atendidas. Em relação aos indicadores de necessidade de treinamento, qual dos seguintes exemplos corresponde a um exemplo de indicador a priori?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Baixa produtividade.",
+     "explanation": "Baixa produtividade é indicador a posteriori."
+    },
+    {
+     "key": "B",
+     "text": "Redução do número de empregados."
+    },
+    {
+     "key": "C",
+     "text": "Número excessivo de queixas.",
+     "explanation": "Excesso de queixas é indicador a posteriori."
+    },
+    {
+     "key": "D",
+     "text": "Falta de cooperação.",
+     "explanation": "Falta de cooperação é indicador a posteriori."
+    },
+    {
+     "key": "E",
+     "text": "Elevado número de acidentes.",
+     "explanation": "Muitos acidentes é indicador a posteriori."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Chiavenato: indicadores a priori antecipam necessidades (expansão, admissões, redução de quadro, mudança de métodos). Indicadores a posteriori são problemas já instalados (baixa produtividade, queixas, acidentes, falta de cooperação).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q67",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 67,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "A avaliação dos resultados do treinamento é necessária para medir a eficiência do processo. Ela pode ser feita em três níveis: o organizacional, o de recursos humanos e o de tarefas e operação. Qual resultado abaixo corresponde ao esperado pela avaliação no nível de recursos humanos?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Redução do índice de acidentes.",
+     "explanation": "Redução de acidentes é resultado no nível das tarefas e operações."
+    },
+    {
+     "key": "B",
+     "text": "Redução do absenteísmo."
+    },
+    {
+     "key": "C",
+     "text": "Melhor atendimento ao cliente.",
+     "explanation": "Melhor atendimento é resultado no nível das tarefas e operações."
+    },
+    {
+     "key": "D",
+     "text": "Melhor relacionamento empresa/empregados.",
+     "explanation": "Relacionamento empresa-empregados é do nível organizacional."
+    },
+    {
+     "key": "E",
+     "text": "Melhoria na imagem da empresa.",
+     "explanation": "Imagem da empresa é do nível organizacional."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Chiavenato: no nível de recursos humanos, espera-se menos rotatividade e absenteísmo e mais eficácia individual. Imagem e relacionamento empresa-empregados são do nível organizacional; acidentes e atendimento, do nível de tarefas e operações.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q68",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 68,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Uma das principais tarefas que os psicólogos conduzem no contexto organizacional é a avaliação das características das pessoas para seleção e colocação. Dentre os vários métodos de avaliação utilizados, o que caracteriza a amostra de trabalho é a(o)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "série padronizada de problemas ou questões que a pessoa deve resolver para avaliar uma característica individual específica.",
+     "explanation": "Problemas padronizados para uma característica específica são testes psicológicos."
+    },
+    {
+     "key": "B",
+     "text": "coleta de informações sobre a experiência pessoal, dentro e fora do tabalho, de forma mais detalhada que a feita em formulário ou currículo.",
+     "explanation": "Coleta detalhada da história pessoal são os dados biográficos."
+    },
+    {
+     "key": "C",
+     "text": "utilização de uma série de exercícios diferentes aplicados, durante um ou mais dias, em diversos tipos de tarefas necessárias ao desempenho de seu trabalho .",
+     "explanation": "Série de exercícios variados durante um ou mais dias é o centro de avaliação (assessment center)."
+    },
+    {
+     "key": "D",
+     "text": "estabelecimento de condições padronizadas nas quais o avaliando demonstra como se desempenham as tarefas envolvidas em uma função."
+    },
+    {
+     "key": "E",
+     "text": "encontro face a face com um ou mais entrevistadores que recolhem informações diretamente do entrevistado.",
+     "explanation": "Encontro face a face é a entrevista."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A amostra de trabalho (work sample) põe o candidato, em condições padronizadas, para executar tarefas reais do cargo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q69",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 69,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "No âmbito da saúde mental, a alienação é entendida como a consequência direta da ruptura de vínculo do sujeito com o real e/ou com outrem. Podem ser diferenciados três tipos de alienação que compõem, cada um à sua maneira, um quadro comportamental determinado: a mental, a social e a cultural. Assim sendo, como distinguir a alienação mental da alienação social, sob a ótica da psicodinâmica do trabalho?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Na alienação mental, ocorre somente a ruptura do vínculo do sujeito com o outro, ao passo que na alienação social, ocorre apenas a ruptura do vínculo com o real.",
+     "explanation": "Na alienação mental, rompem-se os vínculos com o real e com o outro."
+    },
+    {
+     "key": "B",
+     "text": "Na alienação mental, ocorre somente a ruptura do vínculo do sujeito com o real, enquanto, na alienação social, ocorre apenas a ruptura do vínculo com o outro.",
+     "explanation": "Está invertido e incompleto: na social, mantém-se o real e perde-se o outro."
+    },
+    {
+     "key": "C",
+     "text": "Na alienação mental, ocorre a ruptura do vínculo do sujeito com o real e com o outro, ao passo que, na alienação social, ocorre apenas a ruptura do vínculo com o outro."
+    },
+    {
+     "key": "D",
+     "text": "Na alienação mental, ocorre a ruptura do vínculo do sujeito com o real e com o outro, ao passo que, na alienação social, ocorre apenas a ruptura do vínculo com o real.",
+     "explanation": "Na alienação social, perde-se o outro, não o real."
+    },
+    {
+     "key": "E",
+     "text": "Na alienação mental, ocorre somente a ruptura do sujeito com o real, ao passo que, na alienação social, ocorre a ruptura do vínculo do sujeito com o real e com o outro.",
+     "explanation": "Está invertido."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Dejours: na alienação mental, o sujeito rompe com o real e com o outro; na alienação social, mantém a relação com o real, mas perde o reconhecimento do outro; na alienação cultural, a comunidade mantém o laço entre si, mas se desliga do real.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q70",
+   "source": {
+    "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+    "year": 2010,
+    "originalNumber": 70,
+    "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "Analise o caso abaixo. Identificação: Ivone, 32 anos, divorciada, sem filhos, nível superior. História de trabalho e relações com o desenvolvimento de sinais e sintomas: trabalha, nos últimos 8 anos, em uma grande empresa de petróleo como engenheira e aponta os seguintes problemas: insatisfação com o trabalho embarcado (fica 15 dias embarcada e 15 dias em casa); muita cobrança em relação às metas; jornada de trabalho de mais de 8 horas por dia durante o período embarcado e dificuldades de trabalhar, sendo a única mulher da equipe. Quadro clínico: apresentou dificuldade de conciliar o sono, por cerca de duas semanas, queda na satisfação com o trabalho e desinteresse por atividades externas ao mesmo; experimentou fadiga aumentada e não conseguiu descansar nem no período em que não esteve trabalhando; relatou também que, durante o período, não tinha muito apetite. Considerando os dados fornecidos acima e, de acordo com os padrões estabelecidos pelo CID-10, a funcionária em questão apresenta sintomas relativos a",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "hipomania.",
+     "explanation": "Hipomania tem humor elevado e energia aumentada, o oposto do quadro."
+    },
+    {
+     "key": "B",
+     "text": "transtorno depressivo recorrente.",
+     "explanation": "Transtorno recorrente exige episódios anteriores, não relatados."
+    },
+    {
+     "key": "C",
+     "text": "neurastenia.",
+     "explanation": "Neurastenia é fadiga após esforço, sem o quadro de perda de interesse e alterações de apetite."
+    },
+    {
+     "key": "D",
+     "text": "transtorno de ansiedade generalizada.",
+     "explanation": "O quadro não é de ansiedade generalizada (preocupação excessiva por meses)."
+    },
+    {
+     "key": "E",
+     "text": "episódio depressivo leve."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "CID-10 F32.0, episódio depressivo leve: por pelo menos duas semanas, há perda de interesse, fadiga aumentada e alterações de sono e de apetite, com prejuízo leve.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "A CID-11 (vigente desde 2022) reorganizou os transtornos depressivos. Episódios depressivos estão na Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS 1.999/2023)."
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q21",
+   "motivo": "Duas alternativas defensáveis. O gabarito C (estereotipagem e efeito de contraste) é plausível, mas a fala “Eles não são como eu e você. Nós sabemos que…” também caracteriza projeção (atribuir a Gabriel as próprias crenças), o que daria E. A derivação não é inequívoca.",
+   "gabaritoOficial": "E",
+   "derivada": "C ou E",
+   "questao": {
+    "id": "petrobras-2010-1-psicologo-junior-q21",
+    "source": {
+     "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+     "year": 2010,
+     "originalNumber": 21,
+     "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1 Processos Grupais",
+    "stem": "Hamed, mauritanês, Gabriel, brasileiro e Tchen, chinês, trabalham em uma fabricante de pneus francesa. Tchen foi promovido, recentemente, a chefe do setor em que eles trabalham. Um dia depois do expediente, Hamed e Gabriel vão ao bar mais próximo para beber e conversar um pouco. Em um dado momento, Hamed assim interpela Gabriel: — Você sabe por que Tchen foi promovido? — Não. — Porque ele é chinês! — Como assim? — Você já viu algum chinês sair para beber, jogar futebol? Curtir a vida, ora? Os chineses só pensam em trabalho. São decididos, obedientes e competentes. Eles não são como eu e você. Nós sabemos que o trabalho não é tudo na vida. Considerando o diálogo, quais são os efeitos simplificadores da percepção de outras pessoas, apresentados pela fala de Hamed?",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "Projeção e percepção seletiva."
+     },
+     {
+      "key": "B",
+      "text": "Efeito de contraste e atribuição indutiva."
+     },
+     {
+      "key": "C",
+      "text": "Estereotipagem e efeito de contraste."
+     },
+     {
+      "key": "D",
+      "text": "Atribuição indutiva e percepção seletiva."
+     },
+     {
+      "key": "E",
+      "text": "Estereotipagem e projeção."
+     }
+    ],
+    "correctKey": "E",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "E",
+     "independentlyDerivedAnswer": "C ou E",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q55",
+   "motivo": "Divergência. Pela dissonância cognitiva (Festinger; Robbins), recompensa alta reduz a dissonância e a pressão para mudar de atitude, logo I seria falsa; II também é falsa (sem escolha, há menos dissonância). Só III seria correta (B). O gabarito oficial é D (I e III).",
+   "gabaritoOficial": "D",
+   "derivada": "B",
+   "questao": {
+    "id": "petrobras-2010-1-psicologo-junior-q55",
+    "source": {
+     "file": "petrobras-2010-1-psicologo-junior/prova.pdf",
+     "year": 2010,
+     "originalNumber": 55,
+     "exam": "Petrobras 2010 (28/03) – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1 Processos Grupais",
+    "stem": "Um gerente analisa a possibilidade de automatizar um processo de sua empresa, mas suas atitudes são negativas em relação às demissões que poderão advir dessa automação. Neste contexto, considere as afirmativas a seguir.<br>I – A experiência subjetiva de pressão para a mudança de sua atitude é proporcional à recompensa que ele receberá por seu trabalho.<br>II – Se as demissões independem de sua análise, o gerente tende a modificar sua atitude em relação às demissões.<br>III – A tendência à racionalização de seu trabalho gerencial é proporcional à intensidade de sua atitude negativa em relação às demissões.<br>De acordo com a teoria da dissonância cognitiva, é (são) correta(s) apenas a(s) afirmativa(s)",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "I."
+     },
+     {
+      "key": "B",
+      "text": "III."
+     },
+     {
+      "key": "C",
+      "text": "I e II."
+     },
+     {
+      "key": "D",
+      "text": "I e III."
+     },
+     {
+      "key": "E",
+      "text": "II e III."
+     }
+    ],
+    "correctKey": "D",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "D",
+     "independentlyDerivedAnswer": "B",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "petrobras-2010-1-psicologo-junior-q5",
+   "tema": "Limite legal de ruído (NR-15, Anexo 1: 85 dB(A) para 8 h): NR-15 não consta do edital 2026 (o 6.2 lista NR-1, 4, 5, 7, 17, 20 e 37)"
+  }
+ ],
+ "log": "Petrobras 2010 (28/03), prova 24. Gabarito oficial (Wayback): coluna PSICÓLOGO JR, 7ª de 8, na p.7, lida visualmente com zoom em duas metades. Não há documento de recursos para esse grupo. O caderno de Conhecimentos Básicos (prova-basicos.pdf, 50 questões comuns de nível superior) é só imagem a partir da p.2 e não foi transcrito neste lote, o que fica registrado como pendência. Tabelas das q16, q24, q26, q37, q40 e q52 conferidas na imagem."
+}

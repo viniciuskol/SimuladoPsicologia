@@ -1,0 +1,303 @@
+{
+ "concurso": "secad-to-2009-psico-oncologista",
+ "questions": [
+  {
+   "id": "secad-to-2009-psico-oncologista-q42",
+   "source": {
+    "file": "secad-to-2009-psico-oncologista/prova.pdf",
+    "year": 2009,
+    "originalNumber": 42,
+    "exam": "SECAD-TO 2009 – Psicólogo Psico-oncologista (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "Além de atender o paciente e sua família, o psico-oncologista dirige também sua atenção para a equipe de saúde. O contato direto com o sofrimento dos pacientes e o envolvimento em situações indutoras do estresse exigem dos cuidadores capacidade para autogerenciar as emoções e habilidades para se distanciar do paciente, sem, contudo, afastar-se afetivamente. O cuidador também precisa de cuidados, deve estar saudável e desenvolver resiliência. Precisa também de uma equipe harmoniosa, com um bom relacionamento, interdependência, coesão e competência (Waldow).<br>Nesse contexto, resiliência diz respeito à(ao)",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "orientação dos profissionais de saúde quanto ao manejo psicológico do paciente em situações estressantes.",
+     "explanation": "Descreve uma ação de orientação ou capacitação da equipe, não uma capacidade pessoal de enfrentamento."
+    },
+    {
+     "key": "B",
+     "text": "capacidade de responder de forma positiva às situações adversas que enfrenta, mesmo quando estas comportam risco potencial para seu equilíbrio biopsíquico."
+    },
+    {
+     "key": "C",
+     "text": "compreensão das relações entre os profissionais, entre os profissionais e os pacientes, e entre os profissionais e a família.",
+     "explanation": "Descreve a leitura das relações institucionais (papel de intermediação do psicólogo), não a resiliência."
+    },
+    {
+     "key": "D",
+     "text": "trabalho em equipe, como cooperação e integração, e criação de espaço para troca e compartilhamento de experiências.",
+     "explanation": "Descreve coesão e cooperação da equipe, que o texto cita como condição separada da resiliência."
+    },
+    {
+     "key": "E",
+     "text": "estudo do indivíduo enquanto um ser que adoece, em situação permeada de sofrimento físico e psicológico.",
+     "explanation": "Descreve o objeto da psicologia hospitalar, não a resiliência."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Resiliência é a capacidade de enfrentar adversidades e estressores e responder a eles de forma positiva, recuperando-se ou adaptando-se mesmo diante de risco para o equilíbrio biopsicossocial. No trabalho em saúde, é um recurso individual de enfrentamento do estresse ocupacional, ao lado do suporte da equipe.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Estresse e resiliência de profissionais de saúde (cuidadores); classificada em Teoria do Estresse."
+   }
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q49",
+   "source": {
+    "file": "secad-to-2009-psico-oncologista/prova.pdf",
+    "year": 2009,
+    "originalNumber": 49,
+    "exam": "SECAD-TO 2009 – Psicólogo Psico-oncologista (Quadro dos Profissionais da Saúde)",
+    "org": "Cesgranrio"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.3 Lista de Doenças relacionadas ao Trabalho (Portaria GM/MS 1.999/2023)",
+   "stem": "O câncer ocupacional causado pela exposição, durante a vida laboral, a agentes cancerígenos presentes nos ambientes de trabalho representa de 2% a 4% dos casos de câncer. Os fatores de risco de câncer podem ser externos (ambientais) ou endógenos (hereditários), estando ambos inter-relacionados e interagindo de várias formas para dar início às alterações celulares presentes na etiologia do câncer. A atividade laboral leva à maior incidência de câncer em órgãos como:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "cólon, reto, fígado e pâncreas.",
+     "explanation": "São cânceres associados sobretudo a dieta, álcool e hepatites virais, não às exposições ocupacionais mais frequentes."
+    },
+    {
+     "key": "B",
+     "text": "colo do útero, mama e uretra.",
+     "explanation": "Colo do útero está ligado ao HPV, mama a fatores hormonais e genéticos; não são os sítios típicos do câncer ocupacional."
+    },
+    {
+     "key": "C",
+     "text": "tireoide, esôfago e cavidade oral.",
+     "explanation": "Esôfago e cavidade oral relacionam-se principalmente a tabaco e álcool; tireoide, a radiação, sem ser o principal grupo ocupacional."
+    },
+    {
+     "key": "D",
+     "text": "cérebro, estômago e rim.",
+     "explanation": "Não estão entre os sítios de maior incidência de câncer de origem ocupacional."
+    },
+    {
+     "key": "E",
+     "text": "pulmão, pele e bexiga."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Segundo o INCA, os órgãos mais atingidos pelo câncer relacionado ao trabalho são pulmão (asbesto, sílica, radônio, fumos metálicos), pele (radiação solar, arsênio, hidrocarbonetos) e bexiga (aminas aromáticas, corantes), além de leucemias (benzeno). Esses cânceres figuram na Lista de Doenças Relacionadas ao Trabalho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Lista de Doenças Relacionadas ao Trabalho atualizada pela Portaria GM/MS 1.999/2023, que mantém as neoplasias de pulmão, pele e bexiga associadas a agentes ocupacionais."
+   }
+  }
+ ],
+ "queue": [],
+ "fora": [
+  {
+   "id": "secad-to-2009-psico-oncologista-q1",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q2",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q3",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q4",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q5",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q6",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q7",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q8",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q9",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q10",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q11",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q12",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q13",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q14",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q15",
+   "tema": "Língua Portuguesa idêntica à de secad-to-2009-psicologo (mesmo bloco de nível superior, mesmo gabarito; q6 anulada): duplicata, extraída apenas naquele concurso"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q16",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q17",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q18",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q19",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q20",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q21",
+   "tema": "Legislação estadual do Tocantins e Lei 8.080/1990"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q22",
+   "tema": "Legislação estadual do Tocantins e Lei 8.080/1990"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q23",
+   "tema": "Legislação estadual do Tocantins e Lei 8.080/1990"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q24",
+   "tema": "Legislação estadual do Tocantins e Lei 8.080/1990"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q25",
+   "tema": "Legislação estadual do Tocantins e Lei 8.080/1990"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q26",
+   "tema": "Atualidades"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q27",
+   "tema": "Atualidades"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q28",
+   "tema": "Atualidades"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q29",
+   "tema": "Atualidades"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q30",
+   "tema": "Atualidades"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q31",
+   "tema": "Psicologia hospitalar e psico-oncologia (atuação clínica com o paciente)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q34",
+   "tema": "Psicologia hospitalar e psico-oncologia (atuação clínica com o paciente)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q36",
+   "tema": "Psicologia hospitalar e psico-oncologia (atuação clínica com o paciente)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q38",
+   "tema": "Psicologia hospitalar e psico-oncologia (atuação clínica com o paciente)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q40",
+   "tema": "Psicologia hospitalar e psico-oncologia (atuação clínica com o paciente)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q43",
+   "tema": "Psicologia hospitalar e psico-oncologia (atuação clínica com o paciente)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q45",
+   "tema": "Psicologia hospitalar e psico-oncologia (atuação clínica com o paciente)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q32",
+   "tema": "Bioética (ortotanásia, princípio terapêutico, autonomia do paciente)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q37",
+   "tema": "Bioética (ortotanásia, princípio terapêutico, autonomia do paciente)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q39",
+   "tema": "Bioética (ortotanásia, princípio terapêutico, autonomia do paciente)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q33",
+   "tema": "Mecanismos de defesa / ganho secundário (clínica)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q35",
+   "tema": "Modelo assistencial em oncologia (INCA)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q41",
+   "tema": "Programa Nacional de Humanização da Assistência Hospitalar"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q44",
+   "tema": "Interconsulta em saúde mental (psicologia hospitalar)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q48",
+   "tema": "Interconsulta em saúde mental (psicologia hospitalar)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q46",
+   "tema": "Metodologia científica geral (métodos de raciocínio, tipos de conhecimento, métodos quantitativos)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q47",
+   "tema": "Metodologia científica geral (métodos de raciocínio, tipos de conhecimento, métodos quantitativos)"
+  },
+  {
+   "id": "secad-to-2009-psico-oncologista-q50",
+   "tema": "Metodologia científica geral (métodos de raciocínio, tipos de conhecimento, métodos quantitativos)"
+  }
+ ],
+ "log": "Coluna PSICÓLOGO PSICO-ONCOLOGISTA (20a) do gabarito, lida na renderização qlmanage; recursos sem alteração para este cargo. Português idêntico ao do caderno de Psicólogo: registrado em fora como duplicata. Conteúdo específico quase todo de psicologia hospitalar/oncológica: fora."
+}

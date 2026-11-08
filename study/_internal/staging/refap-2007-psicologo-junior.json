@@ -1,0 +1,1568 @@
+{
+ "concurso": "refap-2007-psicologo-junior",
+ "questions": [
+  {
+   "id": "refap-2007-psicologo-junior-q1",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 1,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "A alusão ao poema e à opinião do poeta Garcia Lorca reforça os argumentos do autor do texto contra:",
+   "passage": "<b>Acostumar-se a tudo?</b><br>A gente se acostuma praticamente a tudo.<br>Isso é bom? Isso é ruim?<br>A resposta – inevitável – é: isso é bom e é ruim.<br>Senão, vejamos. Nossa elasticidade, nossa capa-<br><small>5</small> cidade de adaptação, tem permitido que sobrevivamos em<br>condições muitas vezes bastante adversas.<br>Lembro-me de que o escritor francês Saint-Exupéry<br>contou, uma vez, sobre como o avião caiu em cima de<br>montanhas geladas e como o piloto conseguiu sobreviver<br><small>10</small> durante vários dias, enfrentando o frio, a fome, a dor e<br>inúmeros perigos, adaptando-se às circunstâncias para,<br>na medida do possível, poder dominá-las.<br>Nunca esquecerei o justificado orgulho com que ele<br>falou: “O que eu fiz, nenhum bicho jamais faria”.<br><small>15</small> Por outro lado, a capacidade de adaptação pode<br>funcionar como mola propulsora de um mecanismo<br>oportunista, de uma facilitação resignada à aceitação de<br>coisas inaceitáveis.<br>É um fenômeno que, infelizmente, não é raro.<br><small>20</small> Acontece nas melhores famílias. Pode estar acontecendo<br>agora mesmo, com você, que está lendo este jornal.<br>Quando nos acostumamos a ver o que se passa<br>em volta e começamos a achar que tudo é “normal”,<br>deixamos de enxergar as “anormalidades”, deixamos de<br><small>25</small> nos assustar e de nos preocupar com elas.<br>O poeta espanhol Federico Garcia Lorca esteve nos<br>Estados Unidos em 1929/1930 e ficou assustado com<br>Nova York. Enquanto os turistas, como nós, ficam maravi-<br>lhados com a imponência dos prédios, Lorca se referia a<br><small>30</small> eles como“montanhas de cimento”.<br>Enquanto os turistas admiram a qualidade da<br>comida nos magníficos restaurantes, Lorca se espantava<br>com o fato de ninguém se escandalizar com a matança<br>dos animais. (...)<br><small>35</small> A insensibilidade se generaliza, a indiferença em<br>relação aos animais se estende, inexoravelmente, aos<br>seres humanos. A mesma máquina que tritura os animais<br>esmaga as vacas e sufoca os seres humanos.<br>Lorca interpela os que se beneficiam com esse<br><small>40</small> sistema, investe contra a contabilidade deles: “Embaixo<br>das multiplicações / há uma gota de sangue de pato. /<br>Embaixo das divisões, há uma gota de sangue de<br>marinheiro”.<br>Acusa os detentores do poder e da riqueza de<br><small>45</small> camuflarem a dura realidade social para fazê-la aparecer<br>apenas como espaço de rudes entretenimentos e<br>vertiginoso progresso tecnológico. Furioso, brada:<br>“Cuspo-lhes na cara”.<br>É possível que alguns aspectos da reação do poeta<br><small>50</small> nos pareçam exagerados, unilaterais. Afinal, Nova York<br>também é lugar de cultura, tem museus maravilhosos,<br>encena peças magníficas, faz um excelente cinema,<br>apresenta espetáculos musicais fantásticos.<br>O exagero, porém, ajuda Garcia Lorca a chamar<br>a nossa atenção para o “lado noturno” dessa “face<br><small>55</small> luminosa” de Nova York. E Nova York, no caso, vale<br>como símbolo das contradições que estão enraizadas<br>em praticamente todas as grandes cidades modernas.<br>Os habitantes dessas cidades tendem a fixar sua<br>atenção em falhas que podem ser sanadas, em defeitos<br><small>60</small> que podem ser superados, em feridas que podem ser<br>curadas por um tratamento tópico.<br>Falta-lhes a percepção de que determinadas<br>questões só poderiam ser efetivamente resolvidas por<br>uma mudança radical, através de um novo modelo.<br><small>65</small> Só um modelo novo de cidade permitirá que sejam<br>pensadas e postas em prática soluções para os impasses<br>a que chegaram as nossas megalópoles.<br>O que é pior do que ter graves problemas? É ter<br>graves problemas e se recusar a reconhecê-los.<br><small>70</small> A condenação do poeta levanta questões para as<br>quais não temos, atualmente, soluções viáveis. Lorca nos<br>presta, contudo, o relevante serviço de nos cobrar que as<br>encaremos.<br>KONDER, Leandro. <b>Jornal do Brasil</b>. 26 maio 2005.",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o desenvolvimento tecnológico nas megalópoles.",
+     "explanation": "O texto não ataca o desenvolvimento tecnológico."
+    },
+    {
+     "key": "B",
+     "text": "o sacrifício das pessoas humildes que moram na cidade.",
+     "explanation": "Lorca denuncia o sacrifício dos humildes; não é ele o alvo da crítica."
+    },
+    {
+     "key": "C",
+     "text": "os interesses dos grandes investidores rurais.",
+     "explanation": "Investidores rurais não são mencionados."
+    },
+    {
+     "key": "D",
+     "text": "a ganância de uma classe social formada por estrangeiros.",
+     "explanation": "Não se trata de classe de estrangeiros."
+    },
+    {
+     "key": "E",
+     "text": "a indiferença diante da gravidade dos problemas sociais."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O autor critica o hábito de se acostumar a tudo; Lorca, chocado com Nova York, denuncia os contrastes que os moradores deixam de ver. A alusão reforça a crítica à indiferença diante de problemas sociais graves.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q2",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 2,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "A partir do texto, interpreta-se a capacidade de adaptação, na vida da sociedade, como:",
+   "passage": "<b>Acostumar-se a tudo?</b><br>A gente se acostuma praticamente a tudo.<br>Isso é bom? Isso é ruim?<br>A resposta – inevitável – é: isso é bom e é ruim.<br>Senão, vejamos. Nossa elasticidade, nossa capa-<br><small>5</small> cidade de adaptação, tem permitido que sobrevivamos em<br>condições muitas vezes bastante adversas.<br>Lembro-me de que o escritor francês Saint-Exupéry<br>contou, uma vez, sobre como o avião caiu em cima de<br>montanhas geladas e como o piloto conseguiu sobreviver<br><small>10</small> durante vários dias, enfrentando o frio, a fome, a dor e<br>inúmeros perigos, adaptando-se às circunstâncias para,<br>na medida do possível, poder dominá-las.<br>Nunca esquecerei o justificado orgulho com que ele<br>falou: “O que eu fiz, nenhum bicho jamais faria”.<br><small>15</small> Por outro lado, a capacidade de adaptação pode<br>funcionar como mola propulsora de um mecanismo<br>oportunista, de uma facilitação resignada à aceitação de<br>coisas inaceitáveis.<br>É um fenômeno que, infelizmente, não é raro.<br><small>20</small> Acontece nas melhores famílias. Pode estar acontecendo<br>agora mesmo, com você, que está lendo este jornal.<br>Quando nos acostumamos a ver o que se passa<br>em volta e começamos a achar que tudo é “normal”,<br>deixamos de enxergar as “anormalidades”, deixamos de<br><small>25</small> nos assustar e de nos preocupar com elas.<br>O poeta espanhol Federico Garcia Lorca esteve nos<br>Estados Unidos em 1929/1930 e ficou assustado com<br>Nova York. Enquanto os turistas, como nós, ficam maravi-<br>lhados com a imponência dos prédios, Lorca se referia a<br><small>30</small> eles como“montanhas de cimento”.<br>Enquanto os turistas admiram a qualidade da<br>comida nos magníficos restaurantes, Lorca se espantava<br>com o fato de ninguém se escandalizar com a matança<br>dos animais. (...)<br><small>35</small> A insensibilidade se generaliza, a indiferença em<br>relação aos animais se estende, inexoravelmente, aos<br>seres humanos. A mesma máquina que tritura os animais<br>esmaga as vacas e sufoca os seres humanos.<br>Lorca interpela os que se beneficiam com esse<br><small>40</small> sistema, investe contra a contabilidade deles: “Embaixo<br>das multiplicações / há uma gota de sangue de pato. /<br>Embaixo das divisões, há uma gota de sangue de<br>marinheiro”.<br>Acusa os detentores do poder e da riqueza de<br><small>45</small> camuflarem a dura realidade social para fazê-la aparecer<br>apenas como espaço de rudes entretenimentos e<br>vertiginoso progresso tecnológico. Furioso, brada:<br>“Cuspo-lhes na cara”.<br>É possível que alguns aspectos da reação do poeta<br><small>50</small> nos pareçam exagerados, unilaterais. Afinal, Nova York<br>também é lugar de cultura, tem museus maravilhosos,<br>encena peças magníficas, faz um excelente cinema,<br>apresenta espetáculos musicais fantásticos.<br>O exagero, porém, ajuda Garcia Lorca a chamar<br>a nossa atenção para o “lado noturno” dessa “face<br><small>55</small> luminosa” de Nova York. E Nova York, no caso, vale<br>como símbolo das contradições que estão enraizadas<br>em praticamente todas as grandes cidades modernas.<br>Os habitantes dessas cidades tendem a fixar sua<br>atenção em falhas que podem ser sanadas, em defeitos<br><small>60</small> que podem ser superados, em feridas que podem ser<br>curadas por um tratamento tópico.<br>Falta-lhes a percepção de que determinadas<br>questões só poderiam ser efetivamente resolvidas por<br>uma mudança radical, através de um novo modelo.<br><small>65</small> Só um modelo novo de cidade permitirá que sejam<br>pensadas e postas em prática soluções para os impasses<br>a que chegaram as nossas megalópoles.<br>O que é pior do que ter graves problemas? É ter<br>graves problemas e se recusar a reconhecê-los.<br><small>70</small> A condenação do poeta levanta questões para as<br>quais não temos, atualmente, soluções viáveis. Lorca nos<br>presta, contudo, o relevante serviço de nos cobrar que as<br>encaremos.<br>KONDER, Leandro. <b>Jornal do Brasil</b>. 26 maio 2005.",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "fator que propicia a estagnação e a indiferença."
+    },
+    {
+     "key": "B",
+     "text": "único caminho para a resolução de problemas.",
+     "explanation": "O texto não a apresenta como único caminho."
+    },
+    {
+     "key": "C",
+     "text": "modelo ideal de superação das adversidades.",
+     "explanation": "O texto não a idealiza."
+    },
+    {
+     "key": "D",
+     "text": "elemento facilitador de mudanças estruturais.",
+     "explanation": "É o contrário: impede mudanças radicais."
+    },
+    {
+     "key": "E",
+     "text": "qualidade para quem procura emprego.",
+     "explanation": "Emprego não é o tema."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Para o autor, a capacidade de se acostumar a tudo tem um lado negativo: leva a aceitar os problemas sem enfrentá-los, à estagnação e à indiferença.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q3",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 3,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Assinale a afirmativa que se comprova no texto.",
+   "passage": "<b>Acostumar-se a tudo?</b><br>A gente se acostuma praticamente a tudo.<br>Isso é bom? Isso é ruim?<br>A resposta – inevitável – é: isso é bom e é ruim.<br>Senão, vejamos. Nossa elasticidade, nossa capa-<br><small>5</small> cidade de adaptação, tem permitido que sobrevivamos em<br>condições muitas vezes bastante adversas.<br>Lembro-me de que o escritor francês Saint-Exupéry<br>contou, uma vez, sobre como o avião caiu em cima de<br>montanhas geladas e como o piloto conseguiu sobreviver<br><small>10</small> durante vários dias, enfrentando o frio, a fome, a dor e<br>inúmeros perigos, adaptando-se às circunstâncias para,<br>na medida do possível, poder dominá-las.<br>Nunca esquecerei o justificado orgulho com que ele<br>falou: “O que eu fiz, nenhum bicho jamais faria”.<br><small>15</small> Por outro lado, a capacidade de adaptação pode<br>funcionar como mola propulsora de um mecanismo<br>oportunista, de uma facilitação resignada à aceitação de<br>coisas inaceitáveis.<br>É um fenômeno que, infelizmente, não é raro.<br><small>20</small> Acontece nas melhores famílias. Pode estar acontecendo<br>agora mesmo, com você, que está lendo este jornal.<br>Quando nos acostumamos a ver o que se passa<br>em volta e começamos a achar que tudo é “normal”,<br>deixamos de enxergar as “anormalidades”, deixamos de<br><small>25</small> nos assustar e de nos preocupar com elas.<br>O poeta espanhol Federico Garcia Lorca esteve nos<br>Estados Unidos em 1929/1930 e ficou assustado com<br>Nova York. Enquanto os turistas, como nós, ficam maravi-<br>lhados com a imponência dos prédios, Lorca se referia a<br><small>30</small> eles como“montanhas de cimento”.<br>Enquanto os turistas admiram a qualidade da<br>comida nos magníficos restaurantes, Lorca se espantava<br>com o fato de ninguém se escandalizar com a matança<br>dos animais. (...)<br><small>35</small> A insensibilidade se generaliza, a indiferença em<br>relação aos animais se estende, inexoravelmente, aos<br>seres humanos. A mesma máquina que tritura os animais<br>esmaga as vacas e sufoca os seres humanos.<br>Lorca interpela os que se beneficiam com esse<br><small>40</small> sistema, investe contra a contabilidade deles: “Embaixo<br>das multiplicações / há uma gota de sangue de pato. /<br>Embaixo das divisões, há uma gota de sangue de<br>marinheiro”.<br>Acusa os detentores do poder e da riqueza de<br><small>45</small> camuflarem a dura realidade social para fazê-la aparecer<br>apenas como espaço de rudes entretenimentos e<br>vertiginoso progresso tecnológico. Furioso, brada:<br>“Cuspo-lhes na cara”.<br>É possível que alguns aspectos da reação do poeta<br><small>50</small> nos pareçam exagerados, unilaterais. Afinal, Nova York<br>também é lugar de cultura, tem museus maravilhosos,<br>encena peças magníficas, faz um excelente cinema,<br>apresenta espetáculos musicais fantásticos.<br>O exagero, porém, ajuda Garcia Lorca a chamar<br>a nossa atenção para o “lado noturno” dessa “face<br><small>55</small> luminosa” de Nova York. E Nova York, no caso, vale<br>como símbolo das contradições que estão enraizadas<br>em praticamente todas as grandes cidades modernas.<br>Os habitantes dessas cidades tendem a fixar sua<br>atenção em falhas que podem ser sanadas, em defeitos<br><small>60</small> que podem ser superados, em feridas que podem ser<br>curadas por um tratamento tópico.<br>Falta-lhes a percepção de que determinadas<br>questões só poderiam ser efetivamente resolvidas por<br>uma mudança radical, através de um novo modelo.<br><small>65</small> Só um modelo novo de cidade permitirá que sejam<br>pensadas e postas em prática soluções para os impasses<br>a que chegaram as nossas megalópoles.<br>O que é pior do que ter graves problemas? É ter<br>graves problemas e se recusar a reconhecê-los.<br><small>70</small> A condenação do poeta levanta questões para as<br>quais não temos, atualmente, soluções viáveis. Lorca nos<br>presta, contudo, o relevante serviço de nos cobrar que as<br>encaremos.<br>KONDER, Leandro. <b>Jornal do Brasil</b>. 26 maio 2005.",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Para justificar o lado negativo do tema abordado, o autor recorre à experiência de Saint-Exupéry, nos parágrafos 5 e 6.",
+     "explanation": "A experiência de Saint-Exupéry não ilustra o lado negativo."
+    },
+    {
+     "key": "B",
+     "text": "A abordagem do assunto é delimitada no primeiro parágrafo, no qual o autor se posiciona de forma inflexível.",
+     "explanation": "O primeiro parágrafo levanta perguntas; não é inflexível."
+    },
+    {
+     "key": "C",
+     "text": "Os fatos analisados por Federico Lorca, nos parágrafos 11 a 14, corroboram o aspecto negativo da idéia central."
+    },
+    {
+     "key": "D",
+     "text": "No parágrafo 8, o autor começa a estabelecer restrições ao posicionamento anterior sobre o assunto.",
+     "explanation": "O parágrafo 8 não inicia restrições."
+    },
+    {
+     "key": "E",
+     "text": "A partir do parágrafo 15, o autor reproduz, com isenção, as conclusões a que chegou o poeta espanhol.",
+     "explanation": "O autor não reproduz Lorca com isenção; avalia o exagero do poeta."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Os fatos que Lorca observa em Nova York (contrastes sociais mascarados) corroboram o aspecto negativo da ideia central, o de acostumar-se a tudo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q4",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 4,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "O significado da expressão “tratamento tópico” (l. 62) está, no texto, em oposição a:",
+   "passage": "<b>Acostumar-se a tudo?</b><br>A gente se acostuma praticamente a tudo.<br>Isso é bom? Isso é ruim?<br>A resposta – inevitável – é: isso é bom e é ruim.<br>Senão, vejamos. Nossa elasticidade, nossa capa-<br><small>5</small> cidade de adaptação, tem permitido que sobrevivamos em<br>condições muitas vezes bastante adversas.<br>Lembro-me de que o escritor francês Saint-Exupéry<br>contou, uma vez, sobre como o avião caiu em cima de<br>montanhas geladas e como o piloto conseguiu sobreviver<br><small>10</small> durante vários dias, enfrentando o frio, a fome, a dor e<br>inúmeros perigos, adaptando-se às circunstâncias para,<br>na medida do possível, poder dominá-las.<br>Nunca esquecerei o justificado orgulho com que ele<br>falou: “O que eu fiz, nenhum bicho jamais faria”.<br><small>15</small> Por outro lado, a capacidade de adaptação pode<br>funcionar como mola propulsora de um mecanismo<br>oportunista, de uma facilitação resignada à aceitação de<br>coisas inaceitáveis.<br>É um fenômeno que, infelizmente, não é raro.<br><small>20</small> Acontece nas melhores famílias. Pode estar acontecendo<br>agora mesmo, com você, que está lendo este jornal.<br>Quando nos acostumamos a ver o que se passa<br>em volta e começamos a achar que tudo é “normal”,<br>deixamos de enxergar as “anormalidades”, deixamos de<br><small>25</small> nos assustar e de nos preocupar com elas.<br>O poeta espanhol Federico Garcia Lorca esteve nos<br>Estados Unidos em 1929/1930 e ficou assustado com<br>Nova York. Enquanto os turistas, como nós, ficam maravi-<br>lhados com a imponência dos prédios, Lorca se referia a<br><small>30</small> eles como“montanhas de cimento”.<br>Enquanto os turistas admiram a qualidade da<br>comida nos magníficos restaurantes, Lorca se espantava<br>com o fato de ninguém se escandalizar com a matança<br>dos animais. (...)<br><small>35</small> A insensibilidade se generaliza, a indiferença em<br>relação aos animais se estende, inexoravelmente, aos<br>seres humanos. A mesma máquina que tritura os animais<br>esmaga as vacas e sufoca os seres humanos.<br>Lorca interpela os que se beneficiam com esse<br><small>40</small> sistema, investe contra a contabilidade deles: “Embaixo<br>das multiplicações / há uma gota de sangue de pato. /<br>Embaixo das divisões, há uma gota de sangue de<br>marinheiro”.<br>Acusa os detentores do poder e da riqueza de<br><small>45</small> camuflarem a dura realidade social para fazê-la aparecer<br>apenas como espaço de rudes entretenimentos e<br>vertiginoso progresso tecnológico. Furioso, brada:<br>“Cuspo-lhes na cara”.<br>É possível que alguns aspectos da reação do poeta<br><small>50</small> nos pareçam exagerados, unilaterais. Afinal, Nova York<br>também é lugar de cultura, tem museus maravilhosos,<br>encena peças magníficas, faz um excelente cinema,<br>apresenta espetáculos musicais fantásticos.<br>O exagero, porém, ajuda Garcia Lorca a chamar<br>a nossa atenção para o “lado noturno” dessa “face<br><small>55</small> luminosa” de Nova York. E Nova York, no caso, vale<br>como símbolo das contradições que estão enraizadas<br>em praticamente todas as grandes cidades modernas.<br>Os habitantes dessas cidades tendem a fixar sua<br>atenção em falhas que podem ser sanadas, em defeitos<br><small>60</small> que podem ser superados, em feridas que podem ser<br>curadas por um tratamento tópico.<br>Falta-lhes a percepção de que determinadas<br>questões só poderiam ser efetivamente resolvidas por<br>uma mudança radical, através de um novo modelo.<br><small>65</small> Só um modelo novo de cidade permitirá que sejam<br>pensadas e postas em prática soluções para os impasses<br>a que chegaram as nossas megalópoles.<br>O que é pior do que ter graves problemas? É ter<br>graves problemas e se recusar a reconhecê-los.<br><small>70</small> A condenação do poeta levanta questões para as<br>quais não temos, atualmente, soluções viáveis. Lorca nos<br>presta, contudo, o relevante serviço de nos cobrar que as<br>encaremos.<br>KONDER, Leandro. <b>Jornal do Brasil</b>. 26 maio 2005.",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aplicação de medidas superficiais.",
+     "explanation": "Medidas superficiais equivalem ao tratamento tópico, não se opõem a ele."
+    },
+    {
+     "key": "B",
+     "text": "uso de medicação externa.",
+     "explanation": "Medicação externa é o sentido literal, não a oposição do texto."
+    },
+    {
+     "key": "C",
+     "text": "execução de transformações radicais."
+    },
+    {
+     "key": "D",
+     "text": "colocação em prática de medidas oportunistas.",
+     "explanation": "Medidas oportunistas não são a oposição do texto."
+    },
+    {
+     "key": "E",
+     "text": "emprego de normas circunstanciais.",
+     "explanation": "Normas circunstanciais se aproximam do tópico."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "“Tratamento tópico” é o tratamento localizado, superficial; o texto o opõe à “mudança radical, através de um novo modelo”.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q5",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 5,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "portugues",
+   "subtopic": "P.2 Ortografia oficial",
+   "stem": "A seqüência em que a letra <b>x</b> corresponde ao mesmo fonema em todas as palavras é:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "exonerar – expelir – extinto.",
+     "explanation": "Exonerar tem /z/; expelir e extinto, /s/."
+    },
+    {
+     "key": "B",
+     "text": "sexo – afixar – inexeqüível.",
+     "explanation": "Sexo /ks/; afixar /ks/; inexequível /z/."
+    },
+    {
+     "key": "C",
+     "text": "exuberante – excitar – exótico.",
+     "explanation": "Excitar tem x mudo (som /s/ do c); exótico /z/."
+    },
+    {
+     "key": "D",
+     "text": "máximo – sintaxe – tórax.",
+     "explanation": "Máximo /s/; sintaxe /s/; tórax /ks/."
+    },
+    {
+     "key": "E",
+     "text": "exuberante–exumar–exonerar."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Em “exuberante”, “exumar” e “exonerar”, o x tem som de /z/.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q6",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 6,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "portugues",
+   "subtopic": "P.10 Regência verbal e nominal",
+   "stem": "Assinale a frase em que a parte destacada NÃO atende às regras da norma culta.",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Todos apóiam a luta <b>sem a qual não há justiça</b>.",
+     "explanation": "“Luta sem a qual”: regência correta."
+    },
+    {
+     "key": "B",
+     "text": "São válidos os motivos <b>dos quais os ambientalistas se</b> <b>interessam</b>."
+    },
+    {
+     "key": "C",
+     "text": "Não é certo o sacrifício <b>de quem já é discriminado</b> <b>socialmente</b>.",
+     "explanation": "Construção correta."
+    },
+    {
+     "key": "D",
+     "text": "Solidariedade é sentimento <b>de que toda a humanidade</b> <b>precisa</b>.",
+     "explanation": "Precisar de: “de que… precisa”, correto."
+    },
+    {
+     "key": "E",
+     "text": "É justa a causa <b>pela qual luta o poeta Federico Garcia</b> <b>Lorca</b>.",
+     "explanation": "Lutar por: “pela qual luta”, correto."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Interessar-se rege a preposição “por”: “motivos pelos quais os ambientalistas se interessam”.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q7",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 7,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "Em “<b>Afinal</b>, Nova York também é lugar de cultura,” (l. 50-51), o termo destacado introduz um novo período, atribuindo a este, em relação ao anterior, a noção de:",
+   "passage": "<b>Acostumar-se a tudo?</b><br>A gente se acostuma praticamente a tudo.<br>Isso é bom? Isso é ruim?<br>A resposta – inevitável – é: isso é bom e é ruim.<br>Senão, vejamos. Nossa elasticidade, nossa capa-<br><small>5</small> cidade de adaptação, tem permitido que sobrevivamos em<br>condições muitas vezes bastante adversas.<br>Lembro-me de que o escritor francês Saint-Exupéry<br>contou, uma vez, sobre como o avião caiu em cima de<br>montanhas geladas e como o piloto conseguiu sobreviver<br><small>10</small> durante vários dias, enfrentando o frio, a fome, a dor e<br>inúmeros perigos, adaptando-se às circunstâncias para,<br>na medida do possível, poder dominá-las.<br>Nunca esquecerei o justificado orgulho com que ele<br>falou: “O que eu fiz, nenhum bicho jamais faria”.<br><small>15</small> Por outro lado, a capacidade de adaptação pode<br>funcionar como mola propulsora de um mecanismo<br>oportunista, de uma facilitação resignada à aceitação de<br>coisas inaceitáveis.<br>É um fenômeno que, infelizmente, não é raro.<br><small>20</small> Acontece nas melhores famílias. Pode estar acontecendo<br>agora mesmo, com você, que está lendo este jornal.<br>Quando nos acostumamos a ver o que se passa<br>em volta e começamos a achar que tudo é “normal”,<br>deixamos de enxergar as “anormalidades”, deixamos de<br><small>25</small> nos assustar e de nos preocupar com elas.<br>O poeta espanhol Federico Garcia Lorca esteve nos<br>Estados Unidos em 1929/1930 e ficou assustado com<br>Nova York. Enquanto os turistas, como nós, ficam maravi-<br>lhados com a imponência dos prédios, Lorca se referia a<br><small>30</small> eles como“montanhas de cimento”.<br>Enquanto os turistas admiram a qualidade da<br>comida nos magníficos restaurantes, Lorca se espantava<br>com o fato de ninguém se escandalizar com a matança<br>dos animais. (...)<br><small>35</small> A insensibilidade se generaliza, a indiferença em<br>relação aos animais se estende, inexoravelmente, aos<br>seres humanos. A mesma máquina que tritura os animais<br>esmaga as vacas e sufoca os seres humanos.<br>Lorca interpela os que se beneficiam com esse<br><small>40</small> sistema, investe contra a contabilidade deles: “Embaixo<br>das multiplicações / há uma gota de sangue de pato. /<br>Embaixo das divisões, há uma gota de sangue de<br>marinheiro”.<br>Acusa os detentores do poder e da riqueza de<br><small>45</small> camuflarem a dura realidade social para fazê-la aparecer<br>apenas como espaço de rudes entretenimentos e<br>vertiginoso progresso tecnológico. Furioso, brada:<br>“Cuspo-lhes na cara”.<br>É possível que alguns aspectos da reação do poeta<br><small>50</small> nos pareçam exagerados, unilaterais. Afinal, Nova York<br>também é lugar de cultura, tem museus maravilhosos,<br>encena peças magníficas, faz um excelente cinema,<br>apresenta espetáculos musicais fantásticos.<br>O exagero, porém, ajuda Garcia Lorca a chamar<br>a nossa atenção para o “lado noturno” dessa “face<br><small>55</small> luminosa” de Nova York. E Nova York, no caso, vale<br>como símbolo das contradições que estão enraizadas<br>em praticamente todas as grandes cidades modernas.<br>Os habitantes dessas cidades tendem a fixar sua<br>atenção em falhas que podem ser sanadas, em defeitos<br><small>60</small> que podem ser superados, em feridas que podem ser<br>curadas por um tratamento tópico.<br>Falta-lhes a percepção de que determinadas<br>questões só poderiam ser efetivamente resolvidas por<br>uma mudança radical, através de um novo modelo.<br><small>65</small> Só um modelo novo de cidade permitirá que sejam<br>pensadas e postas em prática soluções para os impasses<br>a que chegaram as nossas megalópoles.<br>O que é pior do que ter graves problemas? É ter<br>graves problemas e se recusar a reconhecê-los.<br><small>70</small> A condenação do poeta levanta questões para as<br>quais não temos, atualmente, soluções viáveis. Lorca nos<br>presta, contudo, o relevante serviço de nos cobrar que as<br>encaremos.<br>KONDER, Leandro. <b>Jornal do Brasil</b>. 26 maio 2005.",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "explicação."
+    },
+    {
+     "key": "B",
+     "text": "conclusão.",
+     "explanation": "Não conclui o raciocínio anterior."
+    },
+    {
+     "key": "C",
+     "text": "finalização.",
+     "explanation": "Não marca fim de enumeração."
+    },
+    {
+     "key": "D",
+     "text": "oposição.",
+     "explanation": "Não há oposição explícita."
+    },
+    {
+     "key": "E",
+     "text": "condição.",
+     "explanation": "Não há condição."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "“Afinal” introduz uma explicação ou justificativa em relação ao período anterior (Nova York também é lugar de cultura).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q8",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 8,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "portugues",
+   "subtopic": "P.5 Emprego de tempos e modos verbais",
+   "stem": "Assinale a opção em que o par de orações NÃO apresenta transformação da voz verbal.",
+   "passage": "<b>Acostumar-se a tudo?</b><br>A gente se acostuma praticamente a tudo.<br>Isso é bom? Isso é ruim?<br>A resposta – inevitável – é: isso é bom e é ruim.<br>Senão, vejamos. Nossa elasticidade, nossa capa-<br><small>5</small> cidade de adaptação, tem permitido que sobrevivamos em<br>condições muitas vezes bastante adversas.<br>Lembro-me de que o escritor francês Saint-Exupéry<br>contou, uma vez, sobre como o avião caiu em cima de<br>montanhas geladas e como o piloto conseguiu sobreviver<br><small>10</small> durante vários dias, enfrentando o frio, a fome, a dor e<br>inúmeros perigos, adaptando-se às circunstâncias para,<br>na medida do possível, poder dominá-las.<br>Nunca esquecerei o justificado orgulho com que ele<br>falou: “O que eu fiz, nenhum bicho jamais faria”.<br><small>15</small> Por outro lado, a capacidade de adaptação pode<br>funcionar como mola propulsora de um mecanismo<br>oportunista, de uma facilitação resignada à aceitação de<br>coisas inaceitáveis.<br>É um fenômeno que, infelizmente, não é raro.<br><small>20</small> Acontece nas melhores famílias. Pode estar acontecendo<br>agora mesmo, com você, que está lendo este jornal.<br>Quando nos acostumamos a ver o que se passa<br>em volta e começamos a achar que tudo é “normal”,<br>deixamos de enxergar as “anormalidades”, deixamos de<br><small>25</small> nos assustar e de nos preocupar com elas.<br>O poeta espanhol Federico Garcia Lorca esteve nos<br>Estados Unidos em 1929/1930 e ficou assustado com<br>Nova York. Enquanto os turistas, como nós, ficam maravi-<br>lhados com a imponência dos prédios, Lorca se referia a<br><small>30</small> eles como“montanhas de cimento”.<br>Enquanto os turistas admiram a qualidade da<br>comida nos magníficos restaurantes, Lorca se espantava<br>com o fato de ninguém se escandalizar com a matança<br>dos animais. (...)<br><small>35</small> A insensibilidade se generaliza, a indiferença em<br>relação aos animais se estende, inexoravelmente, aos<br>seres humanos. A mesma máquina que tritura os animais<br>esmaga as vacas e sufoca os seres humanos.<br>Lorca interpela os que se beneficiam com esse<br><small>40</small> sistema, investe contra a contabilidade deles: “Embaixo<br>das multiplicações / há uma gota de sangue de pato. /<br>Embaixo das divisões, há uma gota de sangue de<br>marinheiro”.<br>Acusa os detentores do poder e da riqueza de<br><small>45</small> camuflarem a dura realidade social para fazê-la aparecer<br>apenas como espaço de rudes entretenimentos e<br>vertiginoso progresso tecnológico. Furioso, brada:<br>“Cuspo-lhes na cara”.<br>É possível que alguns aspectos da reação do poeta<br><small>50</small> nos pareçam exagerados, unilaterais. Afinal, Nova York<br>também é lugar de cultura, tem museus maravilhosos,<br>encena peças magníficas, faz um excelente cinema,<br>apresenta espetáculos musicais fantásticos.<br>O exagero, porém, ajuda Garcia Lorca a chamar<br>a nossa atenção para o “lado noturno” dessa “face<br><small>55</small> luminosa” de Nova York. E Nova York, no caso, vale<br>como símbolo das contradições que estão enraizadas<br>em praticamente todas as grandes cidades modernas.<br>Os habitantes dessas cidades tendem a fixar sua<br>atenção em falhas que podem ser sanadas, em defeitos<br><small>60</small> que podem ser superados, em feridas que podem ser<br>curadas por um tratamento tópico.<br>Falta-lhes a percepção de que determinadas<br>questões só poderiam ser efetivamente resolvidas por<br>uma mudança radical, através de um novo modelo.<br><small>65</small> Só um modelo novo de cidade permitirá que sejam<br>pensadas e postas em prática soluções para os impasses<br>a que chegaram as nossas megalópoles.<br>O que é pior do que ter graves problemas? É ter<br>graves problemas e se recusar a reconhecê-los.<br><small>70</small> A condenação do poeta levanta questões para as<br>quais não temos, atualmente, soluções viáveis. Lorca nos<br>presta, contudo, o relevante serviço de nos cobrar que as<br>encaremos.<br>KONDER, Leandro. <b>Jornal do Brasil</b>. 26 maio 2005.",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“‘O que eu fiz, nenhum bicho jamais faria.’” (l. 14)/Oque foi feito por mim não teria sido feito por nenhum bicho.",
+     "explanation": "Ativa (“eu fiz”) passa a passiva (“foi feito por mim”)."
+    },
+    {
+     "key": "B",
+     "text": "“O poeta espanhol Federico Garcia Lorca... ficou assustado com Nova York.” (l. 26-28) / O poeta espanhol Federico Garcia Lorca foi assustado por Nova York."
+    },
+    {
+     "key": "C",
+     "text": "“Enquanto os turistas admiram a qualidade da comida nos magníficos restaurantes,” (l. 31-32) / Enquanto a qualidade da comida é admirada pelos turistas nos magníficos restaurantes.",
+     "explanation": "Ativa (“admiram”) passa a passiva (“é admirada”)."
+    },
+    {
+     "key": "D",
+     "text": "“Lorca interpela os que se beneficiam com esse sistema,” (l. 39-40) / Os que se beneficiam com esse sistema são interpelados por Lorca.",
+     "explanation": "Ativa (“interpela”) passa a passiva (“são interpelados”)."
+    },
+    {
+     "key": "E",
+     "text": "(Lorca) “Acusa os detentores do poder e da riqueza de camuflarem a dura realidade social.",
+     "explanation": "Ativa (“acusa”) passa a passiva (“são acusados”)."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "“Ficou assustado” é verbo de ligação com predicativo, e “foi assustado por” é voz passiva: não há transformação de voz entre estruturas equivalentes. Nas demais, há passagem da ativa para a passiva.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q9",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 9,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "ingles",
+   "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+   "stem": "The main purpose of the text is to:",
+   "passage": "REPORT: BIOFUELS POISED TO DISPLACE OIL<br>Biofuels such as ethanol and biodiesel can<br>significantly reduce global dependence on oil, according<br>to a new report by the Worldwatch Institute.<br>Last year, world biofuel production surpassed 670,000<br><small>5</small> barrels per day, the equivalent of about 1 percent of the<br>global transport fuel market. Although oil still accounts for<br>more than 96 percent of transport fuel use, biofuel<br>production has doubled since 2001 and is poised for even<br>stronger growth as the industry responds to higher fuel<br>prices and supportive government policies. “Coordinated<br><small>1</small> 0<br>action to expand biofuel markets and advance new<br>technologies could relieve pressure on oil prices while<br>strengthening agricultural economies and reducing climate-<br>altering emissions,” says Worldwatch Institute President<br>Christopher Flavin.<br><small>1</small> 5<br>Brazil is the world’s biofuel leader, with half of its<br>sugar cane crop providing more than 40 percent of its non-<br>diesel transport fuel. In the United States, where 15 percent<br>of the corn crop provides about 2 percent of the non-diesel<br>transport fuel, ethanol production is growing even more<br><small>2</small> 0<br>rapidly. This surging growth may allow the U.S. to overtake<br>Brazil as the world’s biofuel leader this year. Both countries<br>are now estimated to be producing ethanol at less than<br>the current cost of gasoline.<br>Figures cited in the report reveal that biofuels could<br><small>2</small> 5<br>provide 37 percent of U.S. transport fuel within the next 25<br>years, and up to 75 percent if automobile fuel economy<br>doubles. Biofuels could replace 20–30 percent of the oil<br>used in European Union countries during the same time<br>frame.<br><small>3</small> 0<br>As the first-ever global assessment of the potential<br>social and environmental impacts of biofuels, <b>Biofuels for</b><br><b>Transportation</b> warns that the large-scale use of biofuels<br>carries significant agricultural and ecological risks. “It is<br>essential that government incentives be used to minimize<br><small>3</small> 5<br>competition between food and fuel crops and to discourage<br>expansion onto ecologically valuable lands,” says<br>Worldwatch Biofuels Project Manager Suzanne Hunt.<br>However, the report also finds that biofuels have the potential<br><small>40</small> to increase energy security, create new economic<br>opportunities in rural areas, and reduce local pollution and<br>emissions of greenhouse gases.<br>The long-term potential of biofuels is in the use of<br>non-food feedstock that include agricultural, municipal, and<br><small>45</small> forestry wastes as well as fast-growing, cellulose-rich<br>energy crops such as switchgrass. It is expected that the<br>combination of cellulosic biomass resources and “next-<br>generation” biofuel conversion technologies will compete<br>with conventional gasoline and diesel fuel without subsidies<br><small>50</small> in the medium term.<br>The report recommends policies to accelerate the<br>development of biofuels, while maximizing the benefits and<br>minimizing the risks. Recommendations include:<br><b>strengthening the market</b> (i.e. focusing on market<br><small>55</small> development, infrastructure development, and the building<br>of transportation fleets that are able to use the new fuels),<br><b>speeding the transition to next-generation</b><br><b>technologies</b> allowing for dramatic all y increased<br>production at lower cost, and <b>facilitating sustainable</b><br><small>60</small> <b>international biofuel trade</b>, developing a true<br>international market unimpeded by the trade restrictions<br>in place today.<br>Worldwatch Institute - June 7, 2006.<br>Adapted from: http://www.worldwatch.org/node/4079",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "criticize the release of the report Biofuels for Transportation.",
+     "explanation": "The text does not criticize the report."
+    },
+    {
+     "key": "B",
+     "text": "highlight the potential of biofuels as substitutes for conventional fuels."
+    },
+    {
+     "key": "C",
+     "text": "expose the several risks associated with the use of biofuels in transportation.",
+     "explanation": "Risks are mentioned, but they are not the main purpose."
+    },
+    {
+     "key": "D",
+     "text": "suggest the elimination of oil as transport fuel to reduce pollution and emissions of greenhouse gases.",
+     "explanation": "It does not suggest eliminating oil."
+    },
+    {
+     "key": "E",
+     "text": "warn against the agricultural and ecological damages associated with the production of biofuels.",
+     "explanation": "Damages are a caveat, not the purpose."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "The report highlights biofuels’ potential to significantly reduce dependence on oil.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q10",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 10,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "ingles",
+   "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+   "stem": "Based on what Christopher Flavin, President of the Worldwatch Institute, has said, it is possible to state that:",
+   "passage": "REPORT: BIOFUELS POISED TO DISPLACE OIL<br>Biofuels such as ethanol and biodiesel can<br>significantly reduce global dependence on oil, according<br>to a new report by the Worldwatch Institute.<br>Last year, world biofuel production surpassed 670,000<br><small>5</small> barrels per day, the equivalent of about 1 percent of the<br>global transport fuel market. Although oil still accounts for<br>more than 96 percent of transport fuel use, biofuel<br>production has doubled since 2001 and is poised for even<br>stronger growth as the industry responds to higher fuel<br>prices and supportive government policies. “Coordinated<br><small>1</small> 0<br>action to expand biofuel markets and advance new<br>technologies could relieve pressure on oil prices while<br>strengthening agricultural economies and reducing climate-<br>altering emissions,” says Worldwatch Institute President<br>Christopher Flavin.<br><small>1</small> 5<br>Brazil is the world’s biofuel leader, with half of its<br>sugar cane crop providing more than 40 percent of its non-<br>diesel transport fuel. In the United States, where 15 percent<br>of the corn crop provides about 2 percent of the non-diesel<br>transport fuel, ethanol production is growing even more<br><small>2</small> 0<br>rapidly. This surging growth may allow the U.S. to overtake<br>Brazil as the world’s biofuel leader this year. Both countries<br>are now estimated to be producing ethanol at less than<br>the current cost of gasoline.<br>Figures cited in the report reveal that biofuels could<br><small>2</small> 5<br>provide 37 percent of U.S. transport fuel within the next 25<br>years, and up to 75 percent if automobile fuel economy<br>doubles. Biofuels could replace 20–30 percent of the oil<br>used in European Union countries during the same time<br>frame.<br><small>3</small> 0<br>As the first-ever global assessment of the potential<br>social and environmental impacts of biofuels, <b>Biofuels for</b><br><b>Transportation</b> warns that the large-scale use of biofuels<br>carries significant agricultural and ecological risks. “It is<br>essential that government incentives be used to minimize<br><small>3</small> 5<br>competition between food and fuel crops and to discourage<br>expansion onto ecologically valuable lands,” says<br>Worldwatch Biofuels Project Manager Suzanne Hunt.<br>However, the report also finds that biofuels have the potential<br><small>40</small> to increase energy security, create new economic<br>opportunities in rural areas, and reduce local pollution and<br>emissions of greenhouse gases.<br>The long-term potential of biofuels is in the use of<br>non-food feedstock that include agricultural, municipal, and<br><small>45</small> forestry wastes as well as fast-growing, cellulose-rich<br>energy crops such as switchgrass. It is expected that the<br>combination of cellulosic biomass resources and “next-<br>generation” biofuel conversion technologies will compete<br>with conventional gasoline and diesel fuel without subsidies<br><small>50</small> in the medium term.<br>The report recommends policies to accelerate the<br>development of biofuels, while maximizing the benefits and<br>minimizing the risks. Recommendations include:<br><b>strengthening the market</b> (i.e. focusing on market<br><small>55</small> development, infrastructure development, and the building<br>of transportation fleets that are able to use the new fuels),<br><b>speeding the transition to next-generation</b><br><b>technologies</b> allowing for dramatic all y increased<br>production at lower cost, and <b>facilitating sustainable</b><br><small>60</small> <b>international biofuel trade</b>, developing a true<br>international market unimpeded by the trade restrictions<br>in place today.<br>Worldwatch Institute - June 7, 2006.<br>Adapted from: http://www.worldwatch.org/node/4079",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "reducing climate-altering emissions ought to relieve pressure on oil prices.",
+     "explanation": "Inverts cause and effect."
+    },
+    {
+     "key": "B",
+     "text": "strengthening agricultural economies will naturally increase the environmental impact of oil production.",
+     "explanation": "Contradicts the text."
+    },
+    {
+     "key": "C",
+     "text": "creating new technologies is an alternative to expanding biofuel markets in an effort to reduce oil prices.",
+     "explanation": "New technologies are not presented as an alternative to biofuels."
+    },
+    {
+     "key": "D",
+     "text": "extending the market for biofuels will ultimately reduce the price of oil and improve agricultural economies."
+    },
+    {
+     "key": "E",
+     "text": "in fighting against higher fuel prices and supportive government polices, the Worldwatch Institute will support the growth of oil production.",
+     "explanation": "The Institute supports biofuels, not oil."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Flavin says expanding biofuel markets can relieve pressure on oil prices and strengthen agricultural economies.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q11",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 11,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "ingles",
+   "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+   "stem": "According to the text, Brazil:",
+   "passage": "REPORT: BIOFUELS POISED TO DISPLACE OIL<br>Biofuels such as ethanol and biodiesel can<br>significantly reduce global dependence on oil, according<br>to a new report by the Worldwatch Institute.<br>Last year, world biofuel production surpassed 670,000<br><small>5</small> barrels per day, the equivalent of about 1 percent of the<br>global transport fuel market. Although oil still accounts for<br>more than 96 percent of transport fuel use, biofuel<br>production has doubled since 2001 and is poised for even<br>stronger growth as the industry responds to higher fuel<br>prices and supportive government policies. “Coordinated<br><small>1</small> 0<br>action to expand biofuel markets and advance new<br>technologies could relieve pressure on oil prices while<br>strengthening agricultural economies and reducing climate-<br>altering emissions,” says Worldwatch Institute President<br>Christopher Flavin.<br><small>1</small> 5<br>Brazil is the world’s biofuel leader, with half of its<br>sugar cane crop providing more than 40 percent of its non-<br>diesel transport fuel. In the United States, where 15 percent<br>of the corn crop provides about 2 percent of the non-diesel<br>transport fuel, ethanol production is growing even more<br><small>2</small> 0<br>rapidly. This surging growth may allow the U.S. to overtake<br>Brazil as the world’s biofuel leader this year. Both countries<br>are now estimated to be producing ethanol at less than<br>the current cost of gasoline.<br>Figures cited in the report reveal that biofuels could<br><small>2</small> 5<br>provide 37 percent of U.S. transport fuel within the next 25<br>years, and up to 75 percent if automobile fuel economy<br>doubles. Biofuels could replace 20–30 percent of the oil<br>used in European Union countries during the same time<br>frame.<br><small>3</small> 0<br>As the first-ever global assessment of the potential<br>social and environmental impacts of biofuels, <b>Biofuels for</b><br><b>Transportation</b> warns that the large-scale use of biofuels<br>carries significant agricultural and ecological risks. “It is<br>essential that government incentives be used to minimize<br><small>3</small> 5<br>competition between food and fuel crops and to discourage<br>expansion onto ecologically valuable lands,” says<br>Worldwatch Biofuels Project Manager Suzanne Hunt.<br>However, the report also finds that biofuels have the potential<br><small>40</small> to increase energy security, create new economic<br>opportunities in rural areas, and reduce local pollution and<br>emissions of greenhouse gases.<br>The long-term potential of biofuels is in the use of<br>non-food feedstock that include agricultural, municipal, and<br><small>45</small> forestry wastes as well as fast-growing, cellulose-rich<br>energy crops such as switchgrass. It is expected that the<br>combination of cellulosic biomass resources and “next-<br>generation” biofuel conversion technologies will compete<br>with conventional gasoline and diesel fuel without subsidies<br><small>50</small> in the medium term.<br>The report recommends policies to accelerate the<br>development of biofuels, while maximizing the benefits and<br>minimizing the risks. Recommendations include:<br><b>strengthening the market</b> (i.e. focusing on market<br><small>55</small> development, infrastructure development, and the building<br>of transportation fleets that are able to use the new fuels),<br><b>speeding the transition to next-generation</b><br><b>technologies</b> allowing for dramatic all y increased<br>production at lower cost, and <b>facilitating sustainable</b><br><small>60</small> <b>international biofuel trade</b>, developing a true<br>international market unimpeded by the trade restrictions<br>in place today.<br>Worldwatch Institute - June 7, 2006.<br>Adapted from: http://www.worldwatch.org/node/4079",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "actually grows 40% of the sugar cane crop in the world.",
+     "explanation": "The 40% figure does not refer to that."
+    },
+    {
+     "key": "B",
+     "text": "currently produces biofuel that costs far more than gasoline.",
+     "explanation": "The text says Brazilian biofuel is competitive with gasoline."
+    },
+    {
+     "key": "C",
+     "text": "will eventually lead the world market of non-diesel transport fuel.",
+     "explanation": "Not stated."
+    },
+    {
+     "key": "D",
+     "text": "competes with the United States for the 2% of non-diesel transport fuel.",
+     "explanation": "Not stated."
+    },
+    {
+     "key": "E",
+     "text": "will possibly be surpassed by the United States in terms of biofuel production."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "The text says US ethanol production is surging and may surpass Brazil’s.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q12",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 12,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "ingles",
+   "subtopic": "I.2 Itens gramaticais relevantes para a compreensão dos conteúdos semânticos",
+   "stem": "“This surging growth...” (line 21) refers to:",
+   "passage": "REPORT: BIOFUELS POISED TO DISPLACE OIL<br>Biofuels such as ethanol and biodiesel can<br>significantly reduce global dependence on oil, according<br>to a new report by the Worldwatch Institute.<br>Last year, world biofuel production surpassed 670,000<br><small>5</small> barrels per day, the equivalent of about 1 percent of the<br>global transport fuel market. Although oil still accounts for<br>more than 96 percent of transport fuel use, biofuel<br>production has doubled since 2001 and is poised for even<br>stronger growth as the industry responds to higher fuel<br>prices and supportive government policies. “Coordinated<br><small>1</small> 0<br>action to expand biofuel markets and advance new<br>technologies could relieve pressure on oil prices while<br>strengthening agricultural economies and reducing climate-<br>altering emissions,” says Worldwatch Institute President<br>Christopher Flavin.<br><small>1</small> 5<br>Brazil is the world’s biofuel leader, with half of its<br>sugar cane crop providing more than 40 percent of its non-<br>diesel transport fuel. In the United States, where 15 percent<br>of the corn crop provides about 2 percent of the non-diesel<br>transport fuel, ethanol production is growing even more<br><small>2</small> 0<br>rapidly. This surging growth may allow the U.S. to overtake<br>Brazil as the world’s biofuel leader this year. Both countries<br>are now estimated to be producing ethanol at less than<br>the current cost of gasoline.<br>Figures cited in the report reveal that biofuels could<br><small>2</small> 5<br>provide 37 percent of U.S. transport fuel within the next 25<br>years, and up to 75 percent if automobile fuel economy<br>doubles. Biofuels could replace 20–30 percent of the oil<br>used in European Union countries during the same time<br>frame.<br><small>3</small> 0<br>As the first-ever global assessment of the potential<br>social and environmental impacts of biofuels, <b>Biofuels for</b><br><b>Transportation</b> warns that the large-scale use of biofuels<br>carries significant agricultural and ecological risks. “It is<br>essential that government incentives be used to minimize<br><small>3</small> 5<br>competition between food and fuel crops and to discourage<br>expansion onto ecologically valuable lands,” says<br>Worldwatch Biofuels Project Manager Suzanne Hunt.<br>However, the report also finds that biofuels have the potential<br><small>40</small> to increase energy security, create new economic<br>opportunities in rural areas, and reduce local pollution and<br>emissions of greenhouse gases.<br>The long-term potential of biofuels is in the use of<br>non-food feedstock that include agricultural, municipal, and<br><small>45</small> forestry wastes as well as fast-growing, cellulose-rich<br>energy crops such as switchgrass. It is expected that the<br>combination of cellulosic biomass resources and “next-<br>generation” biofuel conversion technologies will compete<br>with conventional gasoline and diesel fuel without subsidies<br><small>50</small> in the medium term.<br>The report recommends policies to accelerate the<br>development of biofuels, while maximizing the benefits and<br>minimizing the risks. Recommendations include:<br><b>strengthening the market</b> (i.e. focusing on market<br><small>55</small> development, infrastructure development, and the building<br>of transportation fleets that are able to use the new fuels),<br><b>speeding the transition to next-generation</b><br><b>technologies</b> allowing for dramatic all y increased<br>production at lower cost, and <b>facilitating sustainable</b><br><small>60</small> <b>international biofuel trade</b>, developing a true<br>international market unimpeded by the trade restrictions<br>in place today.<br>Worldwatch Institute - June 7, 2006.<br>Adapted from: http://www.worldwatch.org/node/4079",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "ethanol production."
+    },
+    {
+     "key": "B",
+     "text": "sugar cane crop.",
+     "explanation": "Sugar cane is the raw material, not the growth referred to."
+    },
+    {
+     "key": "C",
+     "text": "corn crop.",
+     "explanation": "Corn is the raw material."
+    },
+    {
+     "key": "D",
+     "text": "gasoline.",
+     "explanation": "Gasoline is not the reference."
+    },
+    {
+     "key": "E",
+     "text": "diesel.",
+     "explanation": "Diesel is not the reference."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "“This surging growth” refers to ethanol production.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q13",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 13,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "ingles",
+   "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+   "stem": "Some of the benefits of the increase in biofuel production listed by the author are:",
+   "passage": "REPORT: BIOFUELS POISED TO DISPLACE OIL<br>Biofuels such as ethanol and biodiesel can<br>significantly reduce global dependence on oil, according<br>to a new report by the Worldwatch Institute.<br>Last year, world biofuel production surpassed 670,000<br><small>5</small> barrels per day, the equivalent of about 1 percent of the<br>global transport fuel market. Although oil still accounts for<br>more than 96 percent of transport fuel use, biofuel<br>production has doubled since 2001 and is poised for even<br>stronger growth as the industry responds to higher fuel<br>prices and supportive government policies. “Coordinated<br><small>1</small> 0<br>action to expand biofuel markets and advance new<br>technologies could relieve pressure on oil prices while<br>strengthening agricultural economies and reducing climate-<br>altering emissions,” says Worldwatch Institute President<br>Christopher Flavin.<br><small>1</small> 5<br>Brazil is the world’s biofuel leader, with half of its<br>sugar cane crop providing more than 40 percent of its non-<br>diesel transport fuel. In the United States, where 15 percent<br>of the corn crop provides about 2 percent of the non-diesel<br>transport fuel, ethanol production is growing even more<br><small>2</small> 0<br>rapidly. This surging growth may allow the U.S. to overtake<br>Brazil as the world’s biofuel leader this year. Both countries<br>are now estimated to be producing ethanol at less than<br>the current cost of gasoline.<br>Figures cited in the report reveal that biofuels could<br><small>2</small> 5<br>provide 37 percent of U.S. transport fuel within the next 25<br>years, and up to 75 percent if automobile fuel economy<br>doubles. Biofuels could replace 20–30 percent of the oil<br>used in European Union countries during the same time<br>frame.<br><small>3</small> 0<br>As the first-ever global assessment of the potential<br>social and environmental impacts of biofuels, <b>Biofuels for</b><br><b>Transportation</b> warns that the large-scale use of biofuels<br>carries significant agricultural and ecological risks. “It is<br>essential that government incentives be used to minimize<br><small>3</small> 5<br>competition between food and fuel crops and to discourage<br>expansion onto ecologically valuable lands,” says<br>Worldwatch Biofuels Project Manager Suzanne Hunt.<br>However, the report also finds that biofuels have the potential<br><small>40</small> to increase energy security, create new economic<br>opportunities in rural areas, and reduce local pollution and<br>emissions of greenhouse gases.<br>The long-term potential of biofuels is in the use of<br>non-food feedstock that include agricultural, municipal, and<br><small>45</small> forestry wastes as well as fast-growing, cellulose-rich<br>energy crops such as switchgrass. It is expected that the<br>combination of cellulosic biomass resources and “next-<br>generation” biofuel conversion technologies will compete<br>with conventional gasoline and diesel fuel without subsidies<br><small>50</small> in the medium term.<br>The report recommends policies to accelerate the<br>development of biofuels, while maximizing the benefits and<br>minimizing the risks. Recommendations include:<br><b>strengthening the market</b> (i.e. focusing on market<br><small>55</small> development, infrastructure development, and the building<br>of transportation fleets that are able to use the new fuels),<br><b>speeding the transition to next-generation</b><br><b>technologies</b> allowing for dramatic all y increased<br>production at lower cost, and <b>facilitating sustainable</b><br><small>60</small> <b>international biofuel trade</b>, developing a true<br>international market unimpeded by the trade restrictions<br>in place today.<br>Worldwatch Institute - June 7, 2006.<br>Adapted from: http://www.worldwatch.org/node/4079",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "increase the profits achieved in agriculture and maximize ecological risks.",
+     "explanation": "Maximizing ecological risks is not a benefit."
+    },
+    {
+     "key": "B",
+     "text": "boost energy security and hinder next-generation biofuel conversion techniques.",
+     "explanation": "Hindering new techniques is not a benefit."
+    },
+    {
+     "key": "C",
+     "text": "improve the economic potential of rural areas and reduce global dependence on oil."
+    },
+    {
+     "key": "D",
+     "text": "reduce pollution in rural areas and minimize competition between food and fuel crops.",
+     "explanation": "Pollution in rural areas is not listed."
+    },
+    {
+     "key": "E",
+     "text": "control emission of greenhouse gases and discourage expansion onto ecologically valuable lands. <b>Psicólogo Júnior</b>",
+     "explanation": "Discouraging expansion is a policy, not a benefit of increased production."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Listed benefits include strengthening rural economies and reducing dependence on oil.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q14",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 14,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "ingles",
+   "subtopic": "I.2 Itens gramaticais relevantes para a compreensão dos conteúdos semânticos",
+   "stem": "Check the item in which there is an INCORRECT correspondence between the idea expressed by the words in bold type and the idea in italics.",
+   "passage": "REPORT: BIOFUELS POISED TO DISPLACE OIL<br>Biofuels such as ethanol and biodiesel can<br>significantly reduce global dependence on oil, according<br>to a new report by the Worldwatch Institute.<br>Last year, world biofuel production surpassed 670,000<br><small>5</small> barrels per day, the equivalent of about 1 percent of the<br>global transport fuel market. Although oil still accounts for<br>more than 96 percent of transport fuel use, biofuel<br>production has doubled since 2001 and is poised for even<br>stronger growth as the industry responds to higher fuel<br>prices and supportive government policies. “Coordinated<br><small>1</small> 0<br>action to expand biofuel markets and advance new<br>technologies could relieve pressure on oil prices while<br>strengthening agricultural economies and reducing climate-<br>altering emissions,” says Worldwatch Institute President<br>Christopher Flavin.<br><small>1</small> 5<br>Brazil is the world’s biofuel leader, with half of its<br>sugar cane crop providing more than 40 percent of its non-<br>diesel transport fuel. In the United States, where 15 percent<br>of the corn crop provides about 2 percent of the non-diesel<br>transport fuel, ethanol production is growing even more<br><small>2</small> 0<br>rapidly. This surging growth may allow the U.S. to overtake<br>Brazil as the world’s biofuel leader this year. Both countries<br>are now estimated to be producing ethanol at less than<br>the current cost of gasoline.<br>Figures cited in the report reveal that biofuels could<br><small>2</small> 5<br>provide 37 percent of U.S. transport fuel within the next 25<br>years, and up to 75 percent if automobile fuel economy<br>doubles. Biofuels could replace 20–30 percent of the oil<br>used in European Union countries during the same time<br>frame.<br><small>3</small> 0<br>As the first-ever global assessment of the potential<br>social and environmental impacts of biofuels, <b>Biofuels for</b><br><b>Transportation</b> warns that the large-scale use of biofuels<br>carries significant agricultural and ecological risks. “It is<br>essential that government incentives be used to minimize<br><small>3</small> 5<br>competition between food and fuel crops and to discourage<br>expansion onto ecologically valuable lands,” says<br>Worldwatch Biofuels Project Manager Suzanne Hunt.<br>However, the report also finds that biofuels have the potential<br><small>40</small> to increase energy security, create new economic<br>opportunities in rural areas, and reduce local pollution and<br>emissions of greenhouse gases.<br>The long-term potential of biofuels is in the use of<br>non-food feedstock that include agricultural, municipal, and<br><small>45</small> forestry wastes as well as fast-growing, cellulose-rich<br>energy crops such as switchgrass. It is expected that the<br>combination of cellulosic biomass resources and “next-<br>generation” biofuel conversion technologies will compete<br>with conventional gasoline and diesel fuel without subsidies<br><small>50</small> in the medium term.<br>The report recommends policies to accelerate the<br>development of biofuels, while maximizing the benefits and<br>minimizing the risks. Recommendations include:<br><b>strengthening the market</b> (i.e. focusing on market<br><small>55</small> development, infrastructure development, and the building<br>of transportation fleets that are able to use the new fuels),<br><b>speeding the transition to next-generation</b><br><b>technologies</b> allowing for dramatic all y increased<br>production at lower cost, and <b>facilitating sustainable</b><br><small>60</small> <b>international biofuel trade</b>, developing a true<br>international market unimpeded by the trade restrictions<br>in place today.<br>Worldwatch Institute - June 7, 2006.<br>Adapted from: http://www.worldwatch.org/node/4079",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“<b>Although</b> oil still accounts for more than 96 percent of transport fuel use, biofuel production has doubled ...” (lines 6-8) – <i>consequence</i>"
+    },
+    {
+     "key": "B",
+     "text": "“<b>However</b>, the report also finds that biofuels have the potential to ...” (lines 39-40) – <i>contrast</i>",
+     "explanation": "“However” does express contrast."
+    },
+    {
+     "key": "C",
+     "text": "“...forestry wastes <b>as well as</b> fast-growing, cellulose-rich energy crops ...” (lines 45-46) – <i>addition</i>",
+     "explanation": "“As well as” does express addition."
+    },
+    {
+     "key": "D",
+     "text": "“cellulose-rich energy crops <b>such as</b> switchgrass.” (lines 45-46) – <i>example</i>",
+     "explanation": "“Such as” does introduce an example."
+    },
+    {
+     "key": "E",
+     "text": "“...policies to accelerate the development of biofuels, <b>while</b> maximizing the benefits...” (lines 51-52) – <i>simultaneity</i>",
+     "explanation": "“While” does express simultaneity."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "“Although” expresses concession, not consequence.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q23",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 23,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Um psicólogo reuniu os resultados de diferentes técnicas aplicadas na seleção psicológica para determinado cargo, com o intuito de avaliá-las. Após analisar as informações disponíveis, apresentadas nas opções abaixo, é correto concluir que o preditor de desempenho profissional mais indicado foi a(o):",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "prova prática (validade preditiva / r = 0,46).",
+     "explanation": "Validade preditiva menor (0,46)."
+    },
+    {
+     "key": "B",
+     "text": "avaliação de desempenho(confiabilidade dos avaliadores/ r = 0,71).",
+     "explanation": "0,71 é confiabilidade entre avaliadores, não validade preditiva."
+    },
+    {
+     "key": "C",
+     "text": "teste de inteligência (validade preditiva / r = 0,52)."
+    },
+    {
+     "key": "D",
+     "text": "teste projetivo de personalidade (validade de constructo / r = 0,67).",
+     "explanation": "0,67 é validade de constructo, não preditiva."
+    },
+    {
+     "key": "E",
+     "text": "índice de produção média mensal (intervalo de um ano).",
+     "explanation": "Índice de produção é critério, não preditor."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O melhor preditor é o que tem a maior validade preditiva informada: teste de inteligência (r = 0,52). Confiabilidade e validade de constructo não indicam capacidade de prever desempenho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q24",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 24,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.10 Qualidade de Vida e Bem-Estar no Trabalho",
+   "stem": "Os principais itens de um Programa de Higiene do Trabalho relacionados ao Ambiente Físico são:<br>I - Iluminosidade adequada a cada tipo de atividade;<br>II - remoção de gases, fumaça e odores desagradáveis;<br>III - manutenção de níveis adequados de temperatura;<br>IV - remoção ou redução de ruídos;<br>V - eliminação de fontes de stress.<br>Estão corretos os itens:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I e V, apenas.",
+     "explanation": "V não é ambiente físico, e faltam II, III e IV."
+    },
+    {
+     "key": "B",
+     "text": "I, III e V, apenas.",
+     "explanation": "V não é ambiente físico."
+    },
+    {
+     "key": "C",
+     "text": "II, III e IV, apenas.",
+     "explanation": "Falta I (iluminação)."
+    },
+    {
+     "key": "D",
+     "text": "I, II, III e IV, apenas."
+    },
+    {
+     "key": "E",
+     "text": "II, III, IV e V, apenas. <b>Psicólogo Júnior</b>",
+     "explanation": "V não é ambiente físico."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O ambiente físico abrange iluminação, ventilação (gases, odores), temperatura e ruído. Eliminar fontes de estresse diz respeito ao ambiente psicológico.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q25",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 25,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "Muitos estudiosos sustentam que motivação não é condicionamento e, como tal, não se pode identificar uma fonte externa capaz de prover de energia os comportamentos humanos. Dentro dessa perspectiva, um psicólogo atuando num campo organizacional pode identificar a fonte interna de motivação de um funcionário procurando conhecer o:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "sentido que atribui ao seu trabalho."
+    },
+    {
+     "key": "B",
+     "text": "nível de importância do trabalho para a sua auto-imagem.",
+     "explanation": "Autoimagem é aspecto parcial."
+    },
+    {
+     "key": "C",
+     "text": "grau do seu comprometimento com a organização.",
+     "explanation": "Comprometimento é atitude, não a fonte."
+    },
+    {
+     "key": "D",
+     "text": "efeito transitório que atribui às recompensas recebidas.",
+     "explanation": "Efeito das recompensas é condicionamento."
+    },
+    {
+     "key": "E",
+     "text": "seu sentimento de prazer em relação ao trabalho.",
+     "explanation": "Prazer é consequência, não a fonte."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Se a motivação é interna, o psicólogo a identifica conhecendo o sentido que o funcionário atribui ao seu trabalho (Bergamini).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q26",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 26,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "Gestão de Conhecimento, Capital Intelectual e Aprendizagem Organizacional são conceitos distintos, embora complementares. Aprendizagem organizacional é o(a):",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "somatório das capacidades, conhecimento, habilidades e experiências de toda a organização.",
+     "explanation": "Somatório de capacidades é capital intelectual (humano)."
+    },
+    {
+     "key": "B",
+     "text": "conhecimento do valor de uma organização, constituído pelo seu capital humano, estrutural e de clientes.",
+     "explanation": "Valor composto por capital humano, estrutural e de clientes é capital intelectual."
+    },
+    {
+     "key": "C",
+     "text": "processo de criar, captar e utilizar a informação para aprimorar a performance organizacional.",
+     "explanation": "Criar, captar e usar informação é gestão do conhecimento."
+    },
+    {
+     "key": "D",
+     "text": "processo pelo qual uma organização exercita a sua competência e inteligência coletiva para responder ao ambiente interno e externo."
+    },
+    {
+     "key": "E",
+     "text": "capacidade de inovação da organização e os resultados por ela trazidos, incluindo os direitos comerciais e a propriedade intelectual.",
+     "explanation": "Inovação e propriedade intelectual são capital estrutural."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Aprendizagem organizacional é o processo pelo qual a organização exercita sua competência e inteligência coletiva para responder aos ambientes interno e externo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q27",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 27,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "Indicadores de situação estressante podem ser detectados no indivíduo, nos grupos e nas organizações. Três indicadores que permitem o diagnóstico dessa situação em grupo são:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "greves, atrasos constantes nos prazos e absenteísmo.",
+     "explanation": "Greves e absenteísmo são indicadores organizacionais."
+    },
+    {
+     "key": "B",
+     "text": "competição não saudável, grande dependência do líder e perda de tempo com discussões inúteis."
+    },
+    {
+     "key": "C",
+     "text": "grande nível de tensão, altas taxas de doenças e sabotagem.",
+     "explanation": "Doenças e sabotagem são indicadores organizacionais ou individuais."
+    },
+    {
+     "key": "D",
+     "text": "sobrecarga voluntária de trabalho, irritabilidade constante e grande dependência do líder.",
+     "explanation": "Irritabilidade é indicador individual."
+    },
+    {
+     "key": "E",
+     "text": "vínculos empobrecidos, alta rotatividade de funcionários e insegurança nas decisões.",
+     "explanation": "Rotatividade é indicador organizacional."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Indicadores de estresse no grupo: competição não saudável, dependência excessiva do líder e perda de tempo com discussões inúteis.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q28",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 28,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "A afirmativa “...um bom líder e uma boa equipe podem resolver qualquer tarefa” é um falso pressuposto porque:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "uma boa equipe é aquela que funciona sem líder.",
+     "explanation": "Equipes podem ter líder."
+    },
+    {
+     "key": "B",
+     "text": "uma equipe se desenvolve em torno da autoridade do líder para a resolução de tarefas específicas.",
+     "explanation": "A equipe não se desenvolve só em torno da autoridade do líder."
+    },
+    {
+     "key": "C",
+     "text": "uma equipe necessita de múltiplos desafios para a sua estruturação e nem toda tarefa é desafiadora.",
+     "explanation": "Não é o motivo do erro do pressuposto."
+    },
+    {
+     "key": "D",
+     "text": "o sucesso na resolução da tarefa depende da competência das pessoas.",
+     "explanation": "A competência importa, mas não explica o erro."
+    },
+    {
+     "key": "E",
+     "text": "nem toda tarefa é apropriada para a ação em equipe. <b>Psicólogo Júnior</b>"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Nem toda tarefa é apropriada ao trabalho em equipe; por isso o pressuposto é falso.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q29",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 29,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "diag-org",
+   "subtopic": "4.1 Pesquisa e intervenções nas organizações",
+   "stem": "Em Psicologia Organizacional, a pesquisa conta com vários testes de estatística dedutiva. O mais utilizado para determinar se duas ou mais variáveis podem prever significativamente uma variável do critério é:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Teste t para Grupos Independentes.",
+     "explanation": "O teste t compara médias de dois grupos."
+    },
+    {
+     "key": "B",
+     "text": "Teste t para Correlação.",
+     "explanation": "O teste t para correlação avalia uma correlação simples."
+    },
+    {
+     "key": "C",
+     "text": "ANOVA fatorial.",
+     "explanation": "A ANOVA fatorial compara médias com vários fatores."
+    },
+    {
+     "key": "D",
+     "text": "Análise da Variância(ANOVA).",
+     "explanation": "A ANOVA compara médias de grupos."
+    },
+    {
+     "key": "E",
+     "text": "Regressão Múltipla."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A regressão múltipla verifica se duas ou mais variáveis preditoras preveem significativamente uma variável critério.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q31",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 31,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Um psicólogo recebeu a incumbência de realizar a avaliação psicológica de vários candidatos à gerência, tendo como referência os seguintes atributos considerados os mais relevantes: liderança, tomada de decisão, julgamento prático e habilidades de relacionamento interpessoal. Nesse caso, o mais indicado é a utilização de:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "provas específicas.",
+     "explanation": "Provas específicas medem conhecimentos."
+    },
+    {
+     "key": "B",
+     "text": "entrevistas semi-estruturadas.",
+     "explanation": "Entrevistas não observam o comportamento em ação."
+    },
+    {
+     "key": "C",
+     "text": "centro de avaliação."
+    },
+    {
+     "key": "D",
+     "text": "testes de julgamento situacional.",
+     "explanation": "Julgamento situacional cobre só parte dos atributos."
+    },
+    {
+     "key": "E",
+     "text": "testes de inteligência emocional.",
+     "explanation": "Testes de IE não cobrem liderança e decisão."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Para atributos gerenciais como liderança, decisão, julgamento prático e relações interpessoais, o centro de avaliação, com exercícios múltiplos observados, é o mais indicado.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q32",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 32,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.1 Processo saúde-doença",
+   "stem": "Alcoolismo e abuso de drogas no local de trabalho constituem, hoje em dia, problemas dos mais relevantes enfrentados pelas grandes corporações, tendo em vista as implicações na deterioração do desempenho, no absenteísmo e em acidentes de trabalho. Ao enfrentar esse desafio, um psicólogo comprometido com o modo psicossocial de atuação nas práticas de saúde mental deverá:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "considerar o funcionário como portador de um problema mental.",
+     "explanation": "Rotular como portador de problema mental é o modelo asilar."
+    },
+    {
+     "key": "B",
+     "text": "reconhecer a implicação da família e do ambiente de trabalho no problema."
+    },
+    {
+     "key": "C",
+     "text": "empenhar-se no sentido de convencer o funcionário a participar dos “Alcoólicos Anônimos”.",
+     "explanation": "Convencer a ir ao AA não é o princípio do modo psicossocial."
+    },
+    {
+     "key": "D",
+     "text": "levar em conta que o funcionário encontra-se doente, inclusive em relação ao trabalho.",
+     "explanation": "Ver só como doente é visão biomédica."
+    },
+    {
+     "key": "E",
+     "text": "estruturar seu plano de trabalho tendo o funcionário como centro do problema.",
+     "explanation": "Centrar no funcionário individualiza o problema."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "No modo psicossocial, o problema não é só do indivíduo: reconhece-se a implicação da família e do ambiente de trabalho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q33",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 33,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.10 Qualidade de Vida e Bem-Estar no Trabalho",
+   "stem": "Dentre as tarefas desenvolvidas por um psicólogo, voltadas para a promoção de bem-estar e saúde do funcionário, encontram-se a atenção e os cuidados com alguns problemas pessoais, entre os quais o relativo a:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tabagismo.",
+     "explanation": "Tabagismo é hábito de saúde, tratado em programas médicos."
+    },
+    {
+     "key": "B",
+     "text": "nutrição inadequada.",
+     "explanation": "Nutrição também é tema de saúde física."
+    },
+    {
+     "key": "C",
+     "text": "questões conjugais."
+    },
+    {
+     "key": "D",
+     "text": "condições de trabalho precárias.",
+     "explanation": "Condições de trabalho não são problema pessoal."
+    },
+    {
+     "key": "E",
+     "text": "cobranças de produção em prazos inexeqüíveis.",
+     "explanation": "Cobranças de produção são problema organizacional."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Entre os problemas pessoais dos quais o psicólogo cuida em programas de bem-estar estão as questões conjugais e familiares.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q34",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 34,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.1 Gestão por competências",
+   "stem": "Segundo Zarifian, a compreensão da passagem da Gestão Tradicional de Recursos Humanos para a Moderna Gestão de Competências implica a incorporação de uma nova lógica envolvendo a relação - especificação do trabalho / atributos do trabalhador / produtividade do trabalho. Uma das características essenciais dessa mutação é que o trabalhador seja capaz de:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "se adaptar ao fluxo de produção estabelecido.",
+     "explanation": "Adaptar-se ao fluxo é lógica do posto de trabalho."
+    },
+    {
+     "key": "B",
+     "text": "resolver os problemas que revela ou que gera."
+    },
+    {
+     "key": "C",
+     "text": "respeitar, rigorosamente, as prescrições do tempo e do espaço industrial.",
+     "explanation": "Respeitar prescrições é lógica taylorista."
+    },
+    {
+     "key": "D",
+     "text": "realizar com eficiência as operações solicitadas pela direção.",
+     "explanation": "Executar operações solicitadas é lógica tradicional."
+    },
+    {
+     "key": "E",
+     "text": "atuar com disciplina de forma a disponibilizar as suas capacidades visando a alcançar as metas.",
+     "explanation": "Disciplina para cumprir metas é lógica tradicional."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Zarifian: na lógica da competência, o trabalhador assume iniciativa e responsabilidade, resolvendo os problemas que revela ou gera, em vez de só seguir prescrições.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q35",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 35,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "Diante de problemas envolvendo um determinado posto de trabalho, um psicólogo resolveu empreender um estudo das condições de trabalho, visando a levantar possíveis discrepâncias entre o trabalho real e o trabalho prescrito. Diante desse pressuposto, a dimensão central do trabalho, objeto de sua intervenção, será a análise das:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tarefas.",
+     "explanation": "A tarefa é o prescrito."
+    },
+    {
+     "key": "B",
+     "text": "especificações.",
+     "explanation": "Especificações são o prescrito."
+    },
+    {
+     "key": "C",
+     "text": "atividades."
+    },
+    {
+     "key": "D",
+     "text": "situações.",
+     "explanation": "Situações são o contexto."
+    },
+    {
+     "key": "E",
+     "text": "condições.",
+     "explanation": "Condições são parte do contexto."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Na ergonomia, a discrepância entre trabalho prescrito (tarefa) e real aparece na análise da atividade.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q40",
+   "source": {
+    "file": "refap-2007-psicologo-junior/prova.pdf",
+    "year": 2007,
+    "originalNumber": 40,
+    "exam": "REFAP 2007 – Psicólogo Júnior",
+    "org": "REFAP S.A. (Sistema Petrobras)"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "Diante do enorme volume de informações disponíveis num campo organizacional, um dos grandes desafios dos sistemas de TD&amp; E tornou-se a transformação desse manancial existente em conhecimento útil e aproveitável, o mais rápido possível, pelo maior número de membros da organização. Para isso, um procedimento eficaz é a criação de:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "mapas de aprendizagem."
+    },
+    {
+     "key": "B",
+     "text": "universidades corporativas.",
+     "explanation": "Universidades corporativas são estrutura, não procedimento de transformação."
+    },
+    {
+     "key": "C",
+     "text": "medidas de suporte social.",
+     "explanation": "Suporte social é fator de transferência."
+    },
+    {
+     "key": "D",
+     "text": "medidas de aprendizagem e transferência.",
+     "explanation": "Medidas de aprendizagem avaliam, não transformam."
+    },
+    {
+     "key": "E",
+     "text": "novas capacidades, habilidades e atitudes (CHA). <b>Psicólogo Júnior</b>",
+     "explanation": "CHA são resultados."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Mapas de aprendizagem organizam e tornam acessível o conhecimento disponível, transformando informação em conhecimento útil para muitos membros.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "refap-2007-psicologo-junior-q22",
+   "motivo": "Derivação incerta: B (fim da obediência por intimidação) e E (substituir o pacto burocrático rompido) são ambas plausíveis; o gabarito é E.",
+   "gabaritoOficial": "E",
+   "derivada": "B ou E",
+   "questao": {
+    "id": "refap-2007-psicologo-junior-q22",
+    "source": {
+     "file": "refap-2007-psicologo-junior/prova.pdf",
+     "year": 2007,
+     "originalNumber": 22,
+     "exam": "REFAP 2007 – Psicólogo Júnior",
+     "org": "REFAP S.A. (Sistema Petrobras)"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1.1 Liderança",
+    "stem": "Devido às grandes mudanças ocorridas na dinâmica das organizações, constata-se que os administradores eficazes precisam, cada vez mais, desenvolver relacionamentos de confiança com os seus liderados, porque:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "a previsibilidade dos comportamentos tornou-se fundamental para a sobrevivência das organizações."
+     },
+     {
+      "key": "B",
+      "text": "o escalão dirigente não consegue mais obediência na base de intimidação."
+     },
+     {
+      "key": "C",
+      "text": "as práticas de reengenharia fortaleceram a arquitetura organizacional em detrimento do crescimento na carreira."
+     },
+     {
+      "key": "D",
+      "text": "os mecanismos de controle de comportamentos tornaram-se ineficazes."
+     },
+     {
+      "key": "E",
+      "text": "é preciso um substitutivo para minimizar os efeitos da ruptura do pacto de convivência burocrático."
+     }
+    ],
+    "correctKey": "E",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "E",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q38",
+   "motivo": "Derivação incerta: a pesquisa que aponta a falta de confiança entre colegas como o fator de clima mais estressor (gabarito D) não foi identificada; E (falta de participação) também é plausível.",
+   "gabaritoOficial": "D",
+   "derivada": "incerta",
+   "questao": {
+    "id": "refap-2007-psicologo-junior-q38",
+    "source": {
+     "file": "refap-2007-psicologo-junior/prova.pdf",
+     "year": 2007,
+     "originalNumber": 38,
+     "exam": "REFAP 2007 – Psicólogo Júnior",
+     "org": "REFAP S.A. (Sistema Petrobras)"
+    },
+    "area": "diag-org",
+    "subtopic": "4.6 Cultura e clima organizacional",
+    "stem": "A gestão do clima organizacional é considerada, hoje em dia, o mais eficaz instrumento contra os efeitos negativos do estresse no trabalho. Pesquisas realizadas apontam que o fator do clima considerado o mais estressor é o(a):",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "elevado nível de exigência."
+     },
+     {
+      "key": "B",
+      "text": "compartilhamento de crenças básicas."
+     },
+     {
+      "key": "C",
+      "text": "existência de padrões de comportamentos a serem seguidos."
+     },
+     {
+      "key": "D",
+      "text": "falta de confiança entre os colegas."
+     },
+     {
+      "key": "E",
+      "text": "falta de participação nos processos decisórios."
+     }
+    ],
+    "correctKey": "D",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "D",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q39",
+   "motivo": "Ambiguidade: Mintzberg lista autoridade, ideologia, competência (especialização) e política como sistemas de influência; C (ideologia) e E (especialização) são ambas bases. O gabarito é E.",
+   "gabaritoOficial": "E",
+   "derivada": "C ou E",
+   "questao": {
+    "id": "refap-2007-psicologo-junior-q39",
+    "source": {
+     "file": "refap-2007-psicologo-junior/prova.pdf",
+     "year": 2007,
+     "originalNumber": 39,
+     "exam": "REFAP 2007 – Psicólogo Júnior",
+     "org": "REFAP S.A. (Sistema Petrobras)"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1.1 Liderança",
+    "stem": "Para Mintzberg, uma das bases do poder organizacional capaz de efetivamente influenciar os resultados constitui o poder exercido pela:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "burocracia."
+     },
+     {
+      "key": "B",
+      "text": "hierarquia."
+     },
+     {
+      "key": "C",
+      "text": "ideologia."
+     },
+     {
+      "key": "D",
+      "text": "autocracia."
+     },
+     {
+      "key": "E",
+      "text": "especialização."
+     }
+    ],
+    "correctKey": "E",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "E",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "refap-2007-psicologo-junior-q15",
+   "tema": "Raciocínio Lógico II"
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q16",
+   "tema": "Raciocínio Lógico II"
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q17",
+   "tema": "Raciocínio Lógico II"
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q18",
+   "tema": "Raciocínio Lógico II"
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q19",
+   "tema": "Raciocínio Lógico II"
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q20",
+   "tema": "Raciocínio Lógico II"
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q21",
+   "tema": "Mecanismos de defesa (psicanálise)"
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q30",
+   "tema": "Caráter esquizoide/esquizofrênico (psicopatologia clínica)"
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q36",
+   "tema": "Psicodiagnóstico clínico"
+  },
+  {
+   "id": "refap-2007-psicologo-junior-q37",
+   "tema": "Teorias da personalidade (Hall, Lindzey e Campbell)"
+  }
+ ],
+ "log": "REFAP 2007. Caderno de cópia de terceiro (Estude Grátis). Gabarito oficial (Wayback): p.4, quadro “Psicólogo Júnior”, lido com zoom. Recursos não localizados. Raciocínio Lógico (q15-20) está em “fora”."
+}

@@ -1,0 +1,1047 @@
+{
+  "concurso": "seplag-salvador-2011-psicologo",
+  "questions": [
+    {
+      "id": "seplag-salvador-2011-psicologo-q1",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 1,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "portugues",
+      "subtopic": "P.1 Compreensão de textos",
+      "stem": "Segundo o neurologista entrevistado, a sociedade do futuro transformará a linguagem em meio secundário de comunicação porque",
+      "passage": "<p><strong>Texto I</strong></p><p><strong>A FORÇA DO PENSAMENTO</strong></p><p>1 Leia a seguir a entrevista com o neurocientista Miguel<br>2 Nicolelis sobre seu novo livro, em que discute como a<br>3 ligação entre cérebro e máquina revolucionará a me-<br>4 dicina e o modo como iremos nos relacionar.</p><p>5 No futuro, controlaremos máquinas e resolveremos<br>6 problemas de saúde pelo comando da mente.</p><p>7 Revista Galileu: O que é uma interface cérebro-má-<br>8 quina?<br>9 Miguel Nicolelis: Basicamente, é o envio de informa-<br>10 ções por pensamento. Transferimos o sinal elétrico<br>11 do cérebro, codificado de forma digital, sem fio, a<br>12 equipamentos adaptados para receber esse coman-<br>13 do. Com essa união da mente a sistemas virtuais, po-<br>14 deremos ter grandes avanços na medicina já nos pró-<br>15 ximos anos. A curto prazo, a paralisia é nosso foco.<br>16 Trabalhamos para fazer quadriplégicos andarem<br>17 usando uma espécie de esqueleto externo controla-<br>18 do pela mente. A longo prazo, tentaremos encontrar<br>19 formas de reduzir o processo neurodegenerativo ou<br>20 as lesões neuronais. Mais adiante, o objetivo será<br>21 chegar à melhora de funções cognitivas.</p><p>22 Revista Galileu: A interação direta com as máquinas<br>23 mudará o modo como nos comunicamos?<br>24 Miguel Nicolelis: Por completo. Internet, redes sociais<br>25 e voz são interfaces lentas. Digitação, e até mesmo a<br>26 linguagem, são imprecisas. Se você pudesse intera-<br>27 gir com milhões de pessoas por pensamento ao mes-<br>28 mo tempo, aumentaria a velocidade de comunicação<br>29 e essas interações seriam muito mais vívidas e reais.<br>30 Não haveria interface entre você e a máquina, seria<br>31 uma interação quase que como uma fusão, um in-<br>32 consciente coletivo, uma rede social feita apenas por<br>33 pensamentos. A linguagem passa a se transformar<br>34 num meio secundário de comunicação. Isso só ocor-<br>35 rerá daqui a centenas e centenas de anos.</p><p>36 Revista Galileu: Que mudanças ocorreriam em uma<br>37 sociedade que se comunica assim?<br>38 Miguel Nicolelis: Essa tecnologia pode realmente li-<br>39 bertar a percepção dos limites. Com o cérebro, con-<br>40 seguiremos controlar os mais diferentes artefatos<br>41 mecânicos, robóticos, virtuais, computacionais. Além<br>42 disso, poderemos também criar novos sentidos.</p><p>PAVARIN, Guilherme. A força do pensamento: entrevista com Miguel Nicolelis. <strong>Revista Galileu</strong>, n. 236, São Paulo: Globo. mar. 2011, p. 11-13. Adaptado.</p>",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "artefatos robóticos serão responsáveis por emitir mensagens automaticamente.",
+          "explanation": "Os artefatos robóticos aparecem no texto como coisas que serão controladas pelo cérebro (l. 39-41), não como emissores automáticos de mensagens."
+        },
+        {
+          "key": "B",
+          "text": "equipamentos modernos serão responsáveis pela digitação das mensagens.",
+          "explanation": "O entrevistado diz que a digitação é imprecisa e será superada; não fala em equipamentos que digitem mensagens."
+        },
+        {
+          "key": "C",
+          "text": "sistemas virtuais permitirão que o cérebro envie informações por pensamento."
+        },
+        {
+          "key": "D",
+          "text": "máquinas eficientes terão a capacidade de registrar por escrito as mensagens.",
+          "explanation": "O texto não menciona registro escrito; a ideia é justamente dispensar a linguagem e a escrita."
+        },
+        {
+          "key": "E",
+          "text": "linguagens de caráter visual serão criadas para substituir a linguagem verbal.",
+          "explanation": "Não há referência a linguagens visuais; o substituto apontado é a comunicação direta por pensamento."
+        }
+      ],
+      "correctKey": "C",
+      "explanationSummary": "Nicolelis define a interface cérebro-máquina como 'o envio de informações por pensamento' e afirma que, numa rede feita apenas de pensamentos, 'a linguagem passa a se transformar num meio secundário de comunicação' (l. 30-34). A causa é, portanto, a comunicação direta do cérebro por meio de sistemas virtuais.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "C",
+        "independentlyDerivedAnswer": "C",
+        "agree": true,
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q2",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 2,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "portugues",
+      "subtopic": "P.3 Mecanismos de coesão textual",
+      "stem": "Normalmente, utiliza-se a conjunção “porque” para expressar a relação lógica de causalidade entre duas ideias em um texto. Mas essa relação pode ocorrer, também, entre duas frases que se relacionam sem a presença explícita dessa conjunção, como em",
+      "passage": "<p><strong>Texto I</strong></p><p><strong>A FORÇA DO PENSAMENTO</strong></p><p>1 Leia a seguir a entrevista com o neurocientista Miguel<br>2 Nicolelis sobre seu novo livro, em que discute como a<br>3 ligação entre cérebro e máquina revolucionará a me-<br>4 dicina e o modo como iremos nos relacionar.</p><p>5 No futuro, controlaremos máquinas e resolveremos<br>6 problemas de saúde pelo comando da mente.</p><p>7 Revista Galileu: O que é uma interface cérebro-má-<br>8 quina?<br>9 Miguel Nicolelis: Basicamente, é o envio de informa-<br>10 ções por pensamento. Transferimos o sinal elétrico<br>11 do cérebro, codificado de forma digital, sem fio, a<br>12 equipamentos adaptados para receber esse coman-<br>13 do. Com essa união da mente a sistemas virtuais, po-<br>14 deremos ter grandes avanços na medicina já nos pró-<br>15 ximos anos. A curto prazo, a paralisia é nosso foco.<br>16 Trabalhamos para fazer quadriplégicos andarem<br>17 usando uma espécie de esqueleto externo controla-<br>18 do pela mente. A longo prazo, tentaremos encontrar<br>19 formas de reduzir o processo neurodegenerativo ou<br>20 as lesões neuronais. Mais adiante, o objetivo será<br>21 chegar à melhora de funções cognitivas.</p><p>22 Revista Galileu: A interação direta com as máquinas<br>23 mudará o modo como nos comunicamos?<br>24 Miguel Nicolelis: Por completo. Internet, redes sociais<br>25 e voz são interfaces lentas. Digitação, e até mesmo a<br>26 linguagem, são imprecisas. Se você pudesse intera-<br>27 gir com milhões de pessoas por pensamento ao mes-<br>28 mo tempo, aumentaria a velocidade de comunicação<br>29 e essas interações seriam muito mais vívidas e reais.<br>30 Não haveria interface entre você e a máquina, seria<br>31 uma interação quase que como uma fusão, um in-<br>32 consciente coletivo, uma rede social feita apenas por<br>33 pensamentos. A linguagem passa a se transformar<br>34 num meio secundário de comunicação. Isso só ocor-<br>35 rerá daqui a centenas e centenas de anos.</p><p>36 Revista Galileu: Que mudanças ocorreriam em uma<br>37 sociedade que se comunica assim?<br>38 Miguel Nicolelis: Essa tecnologia pode realmente li-<br>39 bertar a percepção dos limites. Com o cérebro, con-<br>40 seguiremos controlar os mais diferentes artefatos<br>41 mecânicos, robóticos, virtuais, computacionais. Além<br>42 disso, poderemos também criar novos sentidos.</p><p>PAVARIN, Guilherme. A força do pensamento: entrevista com Miguel Nicolelis. <strong>Revista Galileu</strong>, n. 236, São Paulo: Globo. mar. 2011, p. 11-13. Adaptado.</p>",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "“Com essa união da mente a sistemas virtuais, poderemos ter grandes avanços na medicina já nos próximos anos. A curto prazo, a paralisia é nosso foco.” (l. 13-15)",
+          "explanation": "A segunda frase especifica a primeira (detalha qual é o foco imediato), não explica sua causa."
+        },
+        {
+          "key": "B",
+          "text": "“A longo prazo, tentaremos encontrar formas de reduzir o processo neurodegenerativo ou as lesões neuronais. Mais adiante, o objetivo será chegar à melhora de funções cognitivas.” (l. 18-21)",
+          "explanation": "Relação de sequência temporal (a longo prazo / mais adiante), não de causa."
+        },
+        {
+          "key": "C",
+          "text": "“Internet, redes sociais e voz são interfaces lentas. Digitação, e até mesmo a linguagem, são imprecisas.” (l. 24-26)",
+          "explanation": "As duas frases somam críticas paralelas (relação aditiva); uma não é a causa da outra."
+        },
+        {
+          "key": "D",
+          "text": "“A linguagem passa a se transformar num meio secundário de comunicação. Isso só ocorrerá daqui a centenas e centenas de anos.” (l. 33-35)",
+          "explanation": "A segunda frase situa no tempo o fato da primeira, com valor de ressalva, não de causa."
+        },
+        {
+          "key": "E",
+          "text": "“Essa tecnologia pode realmente libertar a percepção dos limites. Com o cérebro, conseguiremos controlar os mais diferentes artefatos mecânicos, robóticos, virtuais, computacionais.” (l. 38-41)"
+        }
+      ],
+      "correctKey": "E",
+      "explanationSummary": "Em (E), a segunda frase justifica a primeira: a tecnologia pode libertar a percepção dos limites porque, com o cérebro, será possível controlar os mais diversos artefatos. Pode-se inserir 'porque' entre elas sem mudar o sentido, o que caracteriza a coesão causal implícita (justaposição).",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "E",
+        "independentlyDerivedAnswer": "E",
+        "agree": true,
+        "confidence": "medium",
+        "notes": ""
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q3",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 3,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "portugues",
+      "subtopic": "P.11 Emprego do sinal indicativo de crase",
+      "stem": "Os critérios que regulam o emprego do sinal indicativo da crase, na língua escrita padrão, determinam os casos em que seu uso é obrigatório, facultativo ou proibido. Na frase “Transferimos o sinal elétrico do cérebro, codificado de forma digital, sem fio, <strong>a equipamentos</strong> adaptados para receber esse comando.” (l. 10-13) o uso desse sinal é <strong>PROIBIDO</strong>, porque, nesse caso, se aplica a mesma regra que em",
+      "passage": "<p><strong>Texto I</strong></p><p><strong>A FORÇA DO PENSAMENTO</strong></p><p>1 Leia a seguir a entrevista com o neurocientista Miguel<br>2 Nicolelis sobre seu novo livro, em que discute como a<br>3 ligação entre cérebro e máquina revolucionará a me-<br>4 dicina e o modo como iremos nos relacionar.</p><p>5 No futuro, controlaremos máquinas e resolveremos<br>6 problemas de saúde pelo comando da mente.</p><p>7 Revista Galileu: O que é uma interface cérebro-má-<br>8 quina?<br>9 Miguel Nicolelis: Basicamente, é o envio de informa-<br>10 ções por pensamento. Transferimos o sinal elétrico<br>11 do cérebro, codificado de forma digital, sem fio, a<br>12 equipamentos adaptados para receber esse coman-<br>13 do. Com essa união da mente a sistemas virtuais, po-<br>14 deremos ter grandes avanços na medicina já nos pró-<br>15 ximos anos. A curto prazo, a paralisia é nosso foco.<br>16 Trabalhamos para fazer quadriplégicos andarem<br>17 usando uma espécie de esqueleto externo controla-<br>18 do pela mente. A longo prazo, tentaremos encontrar<br>19 formas de reduzir o processo neurodegenerativo ou<br>20 as lesões neuronais. Mais adiante, o objetivo será<br>21 chegar à melhora de funções cognitivas.</p><p>22 Revista Galileu: A interação direta com as máquinas<br>23 mudará o modo como nos comunicamos?<br>24 Miguel Nicolelis: Por completo. Internet, redes sociais<br>25 e voz são interfaces lentas. Digitação, e até mesmo a<br>26 linguagem, são imprecisas. Se você pudesse intera-<br>27 gir com milhões de pessoas por pensamento ao mes-<br>28 mo tempo, aumentaria a velocidade de comunicação<br>29 e essas interações seriam muito mais vívidas e reais.<br>30 Não haveria interface entre você e a máquina, seria<br>31 uma interação quase que como uma fusão, um in-<br>32 consciente coletivo, uma rede social feita apenas por<br>33 pensamentos. A linguagem passa a se transformar<br>34 num meio secundário de comunicação. Isso só ocor-<br>35 rerá daqui a centenas e centenas de anos.</p><p>36 Revista Galileu: Que mudanças ocorreriam em uma<br>37 sociedade que se comunica assim?<br>38 Miguel Nicolelis: Essa tecnologia pode realmente li-<br>39 bertar a percepção dos limites. Com o cérebro, con-<br>40 seguiremos controlar os mais diferentes artefatos<br>41 mecânicos, robóticos, virtuais, computacionais. Além<br>42 disso, poderemos também criar novos sentidos.</p><p>PAVARIN, Guilherme. A força do pensamento: entrevista com Miguel Nicolelis. <strong>Revista Galileu</strong>, n. 236, São Paulo: Globo. mar. 2011, p. 11-13. Adaptado.</p>",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "“Com essa união da mente <strong>a sistemas virtuais</strong>, poderemos ter grandes avanços na medicina já nos próximos anos.” (l. 13-15)"
+        },
+        {
+          "key": "B",
+          "text": "“[...] tentaremos encontrar formas de reduzir o processo neurodegenerativo ou <strong>as lesões neuronais</strong>.” (l. 18-20)",
+          "explanation": "Aqui 'as' é só artigo (objeto direto de 'reduzir'); não há preposição, logo nem se cogita crase. A regra é outra."
+        },
+        {
+          "key": "C",
+          "text": "“Não haveria interface entre você e <strong>a máquina</strong> [...]” (l. 30)",
+          "explanation": "'Entre você e a máquina': a preposição 'entre' já está expressa; 'a' é artigo feminino. Não é o caso de palavra masculina."
+        },
+        {
+          "key": "D",
+          "text": "“A linguagem passa <strong>a se transformar</strong> num meio secundário de comunicação.” (l. 33-34)",
+          "explanation": "Também é crase proibida, mas pela regra do 'a' antes de verbo, não da palavra masculina no plural."
+        },
+        {
+          "key": "E",
+          "text": "“Essa tecnologia pode realmente libertar <strong>a percepção</strong> dos limites.” (l. 38-39)",
+          "explanation": "'A' é apenas artigo de objeto direto ('libertar a percepção'); não há preposição exigida."
+        }
+      ],
+      "correctKey": "A",
+      "explanationSummary": "Em 'a equipamentos', o 'a' é só preposição diante de palavra masculina no plural, sem artigo; por isso a crase é proibida. É o mesmo caso de 'a sistemas virtuais'. Em (D) a crase também é proibida, mas por outra regra (antes de verbo).",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "A",
+        "independentlyDerivedAnswer": "A",
+        "agree": true,
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q4",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 4,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "portugues",
+      "subtopic": "P.4 Significação das palavras",
+      "stem": "Considere as afirmativas a seguir acerca das palavras em destaque.<br>I – Em “Com essa união da mente a sistemas <strong>virtuais</strong>, poderemos ter grandes avanços na medicina já nos próximos anos.” (l. 13-15), a palavra destacada refere-se a sistemas que existem apenas potencialmente, não como realidade.<br>II – Em “Internet, redes sociais e voz são <strong>interfaces</strong> lentas.” (l. 24-25), a palavra destacada refere-se aos meios pelos quais o usuário interage com um programa ou sistema operacional.<br>III – Em “[...] essas interações seriam muito mais <strong>vívidas</strong> e reais. [...]” (l. 29), a palavra destacada se refere a interações mais verdadeiras.<br>IV – Em “Com o cérebro, conseguiremos controlar os mais diferentes <strong>artefatos</strong> mecânicos, [...]” (l. 39-41), a palavra destacada se refere a aparelhos ou dispositivos.<br>São corretas <strong>APENAS</strong> as afirmativas",
+      "passage": "<p><strong>Texto I</strong></p><p><strong>A FORÇA DO PENSAMENTO</strong></p><p>1 Leia a seguir a entrevista com o neurocientista Miguel<br>2 Nicolelis sobre seu novo livro, em que discute como a<br>3 ligação entre cérebro e máquina revolucionará a me-<br>4 dicina e o modo como iremos nos relacionar.</p><p>5 No futuro, controlaremos máquinas e resolveremos<br>6 problemas de saúde pelo comando da mente.</p><p>7 Revista Galileu: O que é uma interface cérebro-má-<br>8 quina?<br>9 Miguel Nicolelis: Basicamente, é o envio de informa-<br>10 ções por pensamento. Transferimos o sinal elétrico<br>11 do cérebro, codificado de forma digital, sem fio, a<br>12 equipamentos adaptados para receber esse coman-<br>13 do. Com essa união da mente a sistemas virtuais, po-<br>14 deremos ter grandes avanços na medicina já nos pró-<br>15 ximos anos. A curto prazo, a paralisia é nosso foco.<br>16 Trabalhamos para fazer quadriplégicos andarem<br>17 usando uma espécie de esqueleto externo controla-<br>18 do pela mente. A longo prazo, tentaremos encontrar<br>19 formas de reduzir o processo neurodegenerativo ou<br>20 as lesões neuronais. Mais adiante, o objetivo será<br>21 chegar à melhora de funções cognitivas.</p><p>22 Revista Galileu: A interação direta com as máquinas<br>23 mudará o modo como nos comunicamos?<br>24 Miguel Nicolelis: Por completo. Internet, redes sociais<br>25 e voz são interfaces lentas. Digitação, e até mesmo a<br>26 linguagem, são imprecisas. Se você pudesse intera-<br>27 gir com milhões de pessoas por pensamento ao mes-<br>28 mo tempo, aumentaria a velocidade de comunicação<br>29 e essas interações seriam muito mais vívidas e reais.<br>30 Não haveria interface entre você e a máquina, seria<br>31 uma interação quase que como uma fusão, um in-<br>32 consciente coletivo, uma rede social feita apenas por<br>33 pensamentos. A linguagem passa a se transformar<br>34 num meio secundário de comunicação. Isso só ocor-<br>35 rerá daqui a centenas e centenas de anos.</p><p>36 Revista Galileu: Que mudanças ocorreriam em uma<br>37 sociedade que se comunica assim?<br>38 Miguel Nicolelis: Essa tecnologia pode realmente li-<br>39 bertar a percepção dos limites. Com o cérebro, con-<br>40 seguiremos controlar os mais diferentes artefatos<br>41 mecânicos, robóticos, virtuais, computacionais. Além<br>42 disso, poderemos também criar novos sentidos.</p><p>PAVARIN, Guilherme. A força do pensamento: entrevista com Miguel Nicolelis. <strong>Revista Galileu</strong>, n. 236, São Paulo: Globo. mar. 2011, p. 11-13. Adaptado.</p>",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "I e II",
+          "explanation": "Omite IV, que está correta: 'artefatos' são aparelhos ou dispositivos."
+        },
+        {
+          "key": "B",
+          "text": "II e III",
+          "explanation": "Inclui III, que está errada ('vívidas' é intensas, cheias de vida; 'verdadeiras' corresponde a 'reais'), e omite I e IV."
+        },
+        {
+          "key": "C",
+          "text": "I, II e III",
+          "explanation": "Inclui III, que está errada: 'vívidas' significa intensas, e não 'verdadeiras'."
+        },
+        {
+          "key": "D",
+          "text": "I, II e IV"
+        },
+        {
+          "key": "E",
+          "text": "I, III e IV",
+          "explanation": "Inclui III, que está errada, e omite II, que está correta."
+        }
+      ],
+      "correctKey": "D",
+      "explanationSummary": "'Virtuais' tem o sentido dicionarizado de algo que existe em potência, não em ato (I); 'interfaces' são os meios de interação usuário–sistema (II); 'artefatos' são aparelhos ou dispositivos (IV). Já 'vívidas' significa intensas, cheias de vida; o sentido de 'verdadeiras' cabe a 'reais', que não é a palavra destacada (III).",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "D",
+        "independentlyDerivedAnswer": "D",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "A afirmativa I adota a acepção dicionarizada de 'virtual' (que existe em potência); no texto o termo também pode ser lido como 'simulado por computador'. A resposta D decorre de III ser a única claramente falsa."
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q5",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 5,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "portugues",
+      "subtopic": "P.1 Compreensão de textos",
+      "stem": "De acordo com o Texto II, a memória é fundamental para nossa proteção porque",
+      "passage": "<p><strong>Texto II</strong></p><p><strong>A história de nós mesmos</strong></p><p>1 Somos dependentes da memória — e é justificá-<br>2 vel que sejamos. É essa faculdade que nos permite<br>3 desde executar tarefas básicas do dia a dia — como<br>4 escovar os dentes, ir ao mercado e encontrar o ca-<br>5 minho de volta para casa — até aprender (e fixar)<br>6 conceitos, procedimentos ou teorias complexas. E é<br>7 fundamental para nossa proteção, pois nos lembrar-<br>8 mos de que fogo queima e que nos envolvermos em<br>9 certas situações é prejudicial (ou até fatal) muitas<br>10 vezes garante a sobrevivência física e o bem-estar<br>11 emocional. É também a capacidade mnêmica que<br>12 nos possibilita conectar informações e transmitir nos-<br>13 sas histórias — tanto coletivas quanto pessoais. E<br>14 oferece o contorno de nossa identidade, permitindo<br>15 até mesmo planejar o futuro. Recentemente, pesqui-<br>16 sadores comprovaram que as áreas cerebrais envol-<br>17 vidas na produção de projeções e planejamentos são<br>18 as mesmas usadas na manutenção de recordações.</p><p>19 Essa constatação vai ao encontro de uma ideia<br>20 com a qual a psicanálise trabalha há mais de um sé-<br>21 culo: elaborar o que se viveu para escapar da repe-<br>22 tição e encontrar possibilidades de futuro. Hoje os<br>23 cientistas sabem que nossas recordações não são<br>24 reproduções fiéis do que vivemos.</p><p>LEAL, Gláucia. <strong>Revista Mente e Cérebro</strong>, Edição especial n. 27. São Paulo: Ediouro Duetto Editorial Ltda. Adaptado.</p>",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "assegura a sobrevivência física e também o bem-estar emocional."
+        },
+        {
+          "key": "B",
+          "text": "impede que seres humanos se beneficiem de experiências passadas.",
+          "explanation": "Diz o contrário do texto: a memória permite aproveitar o que se viveu (lembrar que o fogo queima)."
+        },
+        {
+          "key": "C",
+          "text": "oferece informações práticas sobre hábitos saudáveis ao organismo.",
+          "explanation": "O texto fala em lembrar perigos (fogo, situações prejudiciais), não em hábitos saudáveis."
+        },
+        {
+          "key": "D",
+          "text": "possibilita a descoberta de como o cérebro produz lembranças.",
+          "explanation": "Confunde a função da memória com a pesquisa científica sobre ela, citada adiante no texto."
+        },
+        {
+          "key": "E",
+          "text": "revive as recordações traumáticas que devemos esquecer.",
+          "explanation": "O texto não fala em esquecer traumas; a referência à psicanálise trata de elaborar o vivido, não de revivê-lo."
+        }
+      ],
+      "correctKey": "A",
+      "explanationSummary": "As linhas 6-11 afirmam que a memória 'é fundamental para nossa proteção, pois nos lembrarmos de que fogo queima [...] muitas vezes garante a sobrevivência física e o bem-estar emocional'. A alternativa A reproduz essa justificativa.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "A",
+        "independentlyDerivedAnswer": "A",
+        "agree": true,
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q6",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 6,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "portugues",
+      "subtopic": "P.8 Emprego dos sinais de pontuação",
+      "stem": "A justificativa do emprego do sinal de pontuação está <strong>ERRADA</strong> em",
+      "passage": "<p><strong>Texto II</strong></p><p><strong>A história de nós mesmos</strong></p><p>1 Somos dependentes da memória — e é justificá-<br>2 vel que sejamos. É essa faculdade que nos permite<br>3 desde executar tarefas básicas do dia a dia — como<br>4 escovar os dentes, ir ao mercado e encontrar o ca-<br>5 minho de volta para casa — até aprender (e fixar)<br>6 conceitos, procedimentos ou teorias complexas. E é<br>7 fundamental para nossa proteção, pois nos lembrar-<br>8 mos de que fogo queima e que nos envolvermos em<br>9 certas situações é prejudicial (ou até fatal) muitas<br>10 vezes garante a sobrevivência física e o bem-estar<br>11 emocional. É também a capacidade mnêmica que<br>12 nos possibilita conectar informações e transmitir nos-<br>13 sas histórias — tanto coletivas quanto pessoais. E<br>14 oferece o contorno de nossa identidade, permitindo<br>15 até mesmo planejar o futuro. Recentemente, pesqui-<br>16 sadores comprovaram que as áreas cerebrais envol-<br>17 vidas na produção de projeções e planejamentos são<br>18 as mesmas usadas na manutenção de recordações.</p><p>19 Essa constatação vai ao encontro de uma ideia<br>20 com a qual a psicanálise trabalha há mais de um sé-<br>21 culo: elaborar o que se viveu para escapar da repe-<br>22 tição e encontrar possibilidades de futuro. Hoje os<br>23 cientistas sabem que nossas recordações não são<br>24 reproduções fiéis do que vivemos.</p><p>LEAL, Gláucia. <strong>Revista Mente e Cérebro</strong>, Edição especial n. 27. São Paulo: Ediouro Duetto Editorial Ltda. Adaptado.</p>",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "“Somos dependentes da memória — e é justificável que sejamos.” (l. 1-2) - Emprego do travessão para introduzir um comentário.",
+          "explanation": "Justificativa correta: o travessão introduz um comentário do autor sobre a afirmação anterior."
+        },
+        {
+          "key": "B",
+          "text": "“É essa faculdade que nos permite desde executar tarefas básicas do dia a dia — como escovar os dentes, ir ao mercado e encontrar o caminho de volta para casa [...]” (l. 2-5) - Emprego do travessão para introduzir uma enumeração.",
+          "explanation": "Justificativa correta: os travessões isolam a enumeração de exemplos de tarefas básicas."
+        },
+        {
+          "key": "C",
+          "text": "“[...] pois nos lembrarmos de que fogo queima e que nos envolvermos em certas situações é prejudicial (ou até fatal) muitas vezes garante a sobrevivência física e o bem-estar emocional.” (l. 7-11) - Emprego dos parênteses para acrescentar uma informação.",
+          "explanation": "Justificativa correta: os parênteses acrescentam a informação acessória 'ou até fatal'."
+        },
+        {
+          "key": "D",
+          "text": "“É também a capacidade mnêmica que nos possibilita conectar informações e transmitir nossas histórias — tanto coletivas quanto pessoais.” (l. 11-13) - Emprego do travessão para inserir um detalhamento da informação.",
+          "explanation": "Justificativa correta: o travessão introduz o detalhamento 'tanto coletivas quanto pessoais'."
+        },
+        {
+          "key": "E",
+          "text": "“E oferece o contorno de nossa identidade, permitindo até mesmo planejar o futuro.” (l. 13-15) - Emprego da vírgula para indicar a supressão de uma palavra."
+        }
+      ],
+      "correctKey": "E",
+      "explanationSummary": "A vírgula antes de 'permitindo' separa uma oração reduzida de gerúndio, de valor adverbial (consecutivo), da oração principal; não marca elipse (zeugma) de nenhum termo. As demais justificativas descrevem corretamente o uso de travessões e parênteses.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "E",
+        "independentlyDerivedAnswer": "E",
+        "agree": true,
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q8",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 8,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "portugues",
+      "subtopic": "P.6 Emprego das classes de palavras",
+      "stem": "A correspondência oficial é uma espécie formal de comunicação, estabelecida entre os órgãos do poder público para elaborar atos normativos e comunicações. É pautada por uma padronização de linguagem e de estrutura, que se caracteriza por: padrão culto da linguagem, impessoalidade, formalidade, clareza, concisão, uniformidade, uso adequado dos pronomes de tratamento. Para que as comunicações sejam compreendidas por todo e qualquer cidadão, há que evitar o uso de uma linguagem restrita a determinados grupos, como a gíria, os regionalismos vocabulares ou o jargão técnico. Ofícios, memorandos, atas são exemplos de correspondência oficial.<br>Com relação ao emprego dos pronomes de tratamento, é <strong>INCORRETO</strong> afirmar que",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "esses pronomes exigem forma verbal conjugada na terceira pessoa gramatical.",
+          "explanation": "Correto: embora se refiram ao interlocutor, os pronomes de tratamento levam o verbo à 3ª pessoa ('Vossa Excelência sabe')."
+        },
+        {
+          "key": "B",
+          "text": "o pronome Vossa Excelência é utilizado em correspondência dirigida às altas autoridades do governo.",
+          "explanation": "Correto: Vossa Excelência é o tratamento das altas autoridades dos três Poderes."
+        },
+        {
+          "key": "C",
+          "text": "o gênero gramatical do adjetivo relacionado a um pronome de tratamento deve coincidir com o sexo da pessoa a que se refere.",
+          "explanation": "Correto: diz-se 'Vossa Excelência está atento' a um homem e 'atenta' a uma mulher."
+        },
+        {
+          "key": "D",
+          "text": "o pronome Vossa Eminência deve ser empregado em correspondência dirigida a reitores de universidades."
+        },
+        {
+          "key": "E",
+          "text": "os pronomes possessivos referidos aos pronomes de tratamento são flexionados na terceira pessoa.",
+          "explanation": "Correto: usa-se 'seu/sua' ('Vossa Senhoria e seu assessor'), e não 'vosso'."
+        }
+      ],
+      "correctKey": "D",
+      "explanationSummary": "Vossa Eminência é o tratamento de cardeais; a reitores de universidade cabe Vossa Magnificência. As demais alternativas descrevem corretamente a concordância dos pronomes de tratamento: verbo e possessivos na 3ª pessoa e adjetivo concordando com o sexo da pessoa.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "D",
+        "independentlyDerivedAnswer": "D",
+        "agree": true,
+        "confidence": "high",
+        "notes": "Pronomes de tratamento, tema do Manual de Redação da Presidência; classificado como emprego de classes de palavras (pronome)."
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q40",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 40,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "etica",
+      "subtopic": "1 Código de Ética profissional do psicólogo",
+      "stem": "O psicólogo X observa o psicólogo Y encaminhando para seu consultório particular os pacientes que buscam o serviço público em que ambos trabalham. O argumento utilizado como justificativa, por Y, refere-se à impossibilidade de o serviço público assistir todos que o procuram.<br>A orientação que o Código de Ética Profissional fornece a X, nessa circunstância, é que",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "a ética é uma questão eminentemente pessoal, não sendo da jurisdição de um profissional; portanto, a avaliação da ética de outro profissional é vedada, salvo componha uma comissão de ética.",
+          "explanation": "O Código veda ao psicólogo ser conivente com erros, faltas éticas ou crimes praticados por outros (art. 2º, e); não há vedação a avaliar a conduta de colegas."
+        },
+        {
+          "key": "B",
+          "text": "a sua conivência com faltas éticas praticadas por psicólogos é vedada, sendo considerada falta ética o desvio de pacientes de um serviço público para um serviço particular que gere benefício próprio."
+        },
+        {
+          "key": "C",
+          "text": "o psicólogo Y não incorre em falta ética, uma vez que está promovendo saúde e qualidade de vida, além de estar colaborando para acabar com a negligência.",
+          "explanation": "Ignora a vedação expressa de desviar para atendimento particular, com finalidade lucrativa, pessoa atendida em serviço público ou gratuito."
+        },
+        {
+          "key": "D",
+          "text": "o psicólogo Y deve analisar crítica e historicamente a realidade política, econômica, social e cultural em que trabalha para decidir se o argumento utilizado por Y é pertinente.",
+          "explanation": "Usa um princípio fundamental (análise crítica da realidade) para relativizar uma vedação objetiva; além disso, a pergunta é sobre a orientação a X."
+        },
+        {
+          "key": "E",
+          "text": "cabe ao psicólogo X verificar a legalidade do comportamento de Y: não havendo impedimento legal não há nada mais a considerar, uma vez que o código de ética não pode proibir algo que a lei autoriza.",
+          "explanation": "O Código de Ética estabelece deveres e vedações próprios, além da lei; a conduta de Y é falta ética mesmo sem crime."
+        }
+      ],
+      "correctKey": "B",
+      "explanationSummary": "O Código de Ética do Psicólogo (Res. CFP 10/2005) veda ser conivente com erros, faltas éticas, violação de direitos ou crimes praticados por outros (art. 2º, e) e veda desviar para serviço particular, com finalidade lucrativa, pessoa em atendimento ou atendida em instituição com a qual mantenha vínculo, inclusive serviço público (art. 2º, l). Assim, X não pode se omitir diante do desvio de pacientes feito por Y.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "B",
+        "independentlyDerivedAnswer": "B",
+        "agree": true,
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q41",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 41,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "etica",
+      "subtopic": "1 Código de Ética profissional do psicólogo",
+      "stem": "Considere a situação em que uma greve de profissionais da saúde paralise as atividades de um equipamento de saúde mental.<br>Considere as afirmativas abaixo acerca das obrigações éticas que cabem a um psicólogo que trabalha nesse serviço.<br>I - O psicólogo deve garantir a continuidade dos atendimentos pelos quais já era responsável antes do indicativo de greve.<br>II - O psicólogo deve garantir que as atividades de emergência não sejam interrompidas.<br>III - O psicólogo deve avisar previamente aos usuários que haverá a paralisação dos serviços.<br>É correto <strong>APENAS</strong> o que se afirma em",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "I",
+          "explanation": "O Código não exige manter todos os atendimentos durante a greve, só as atividades de emergência; e omite II e III."
+        },
+        {
+          "key": "B",
+          "text": "II",
+          "explanation": "Está correta, mas incompleta: o Código também exige comunicação prévia da paralisação aos usuários (III)."
+        },
+        {
+          "key": "C",
+          "text": "III",
+          "explanation": "Está correta, mas incompleta: o Código também exige que as atividades de emergência não sejam interrompidas (II)."
+        },
+        {
+          "key": "D",
+          "text": "I e II",
+          "explanation": "Inclui I, que vai além do Código: a greve pode suspender os atendimentos regulares, desde que preservada a emergência e avisados os usuários."
+        },
+        {
+          "key": "E",
+          "text": "II e III"
+        }
+      ],
+      "correctKey": "E",
+      "explanationSummary": "O art. 5º do Código de Ética do Psicólogo admite a participação em greves e paralisações, desde que as atividades de emergência não sejam interrompidas e haja prévia comunicação da paralisação aos usuários ou beneficiários dos serviços. Não há o dever de manter todos os atendimentos regulares (I).",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "E",
+        "independentlyDerivedAnswer": "E",
+        "agree": true,
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q42",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 42,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "diag-org",
+      "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+      "stem": "Em uma organização de trabalho, o planejamento do treinamento é, usualmente, tarefa do psicólogo.<br>Relacione as etapas do processo de treinamento com as características que lhe são próprias, apresentadas a seguir.<br>I – Avaliação de necessidades<br>II – Projeto do treinamento<br>III – Avaliação do treinamento<br>P – Orienta-se para a eficiência de um determinado programa de treinamento.<br>Q – Estabelece os critérios para o sucesso do treinamento.<br>R – Estabelece os passos necessários para que o conteúdo do treinamento se aplique ao trabalho executado.<br>S – Orienta-se para a eficácia de um determinado programa de treinamento.<br>As associações corretas são:",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "I – P , II – Q , III – R",
+          "explanation": "Era o gabarito preliminar, alterado após recurso. Associa o projeto à fixação de critérios e a avaliação à transferência para o trabalho, quando a transferência é planejada no desenho (R) e a avaliação verifica a eficácia (S)."
+        },
+        {
+          "key": "B",
+          "text": "I – P , II – R , III – S"
+        },
+        {
+          "key": "C",
+          "text": "I – Q , II – S , III – P",
+          "explanation": "Atribui ao projeto a verificação da eficácia, que é papel da avaliação, e à avaliação a orientação para eficiência."
+        },
+        {
+          "key": "D",
+          "text": "I – R , II – S , III – P",
+          "explanation": "Atribui ao diagnóstico de necessidades o planejamento da transferência, que é tarefa do desenho do programa."
+        },
+        {
+          "key": "E",
+          "text": "I – S , II – P , III – R",
+          "explanation": "Inverte as etapas: a eficácia (alcance dos resultados) é verificada na avaliação, não no diagnóstico de necessidades."
+        }
+      ],
+      "correctKey": "B",
+      "explanationSummary": "No modelo sistêmico de T&D (diagnóstico de necessidades, planejamento/desenho e avaliação), o desenho do programa define os passos para que o conteúdo seja transferido para o trabalho (II-R) e a avaliação verifica a eficácia, isto é, se o treinamento alcançou os resultados pretendidos (III-S). Resta ao diagnóstico de necessidades a orientação para a eficiência, ao direcionar o investimento só às lacunas reais (I-P).",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "B",
+        "independentlyDerivedAnswer": "B",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "Gabarito preliminar A; alterado para B na resposta oficial aos recursos (recursos.pdf). Derivação: só B contém II-R e III-S, as associações mais seguras."
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q43",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 43,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "diag-org",
+      "subtopic": "4.2 Processo de Recrutamento e Seleção",
+      "stem": "Um dos desafios que o psicólogo pode enfrentar em uma organização diz respeito à busca de candidatos às vagas disponíveis.<br>Nesse contexto, o recrutamento",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "feito através de anúncios de jornal é uma das formas mais eficazes de recrutamento externo.",
+          "explanation": "Anúncio em jornal é técnica de recrutamento externo, mas de alcance amplo e pouco seletivo; não se apresenta como das mais eficazes."
+        },
+        {
+          "key": "B",
+          "text": "feito através de sítios especializados na internet é uma forma crescente e promissora de recrutamento interno.",
+          "explanation": "Sites especializados na internet são fonte de recrutamento externo, não interno."
+        },
+        {
+          "key": "C",
+          "text": "feito através de transferências dentro da empresa é uma das formas mais comuns de recrutamento interno."
+        },
+        {
+          "key": "D",
+          "text": "externo garante funcionários com melhor desempenho e maior tempo médio de permanência no cargo que o recrutamento interno.",
+          "explanation": "Nenhuma modalidade garante melhor desempenho; o recrutamento interno costuma ser associado a maior permanência e motivação."
+        },
+        {
+          "key": "E",
+          "text": "em universidades é uma das formas mais eficazes de recrutamento interno.",
+          "explanation": "Contatos com universidades (escolas, centros de integração) são recrutamento externo."
+        }
+      ],
+      "correctKey": "C",
+      "explanationSummary": "Recrutamento interno é o preenchimento da vaga por remanejamento de empregados: transferências, promoções, transferências com promoção, programas de desenvolvimento e planos de carreira (Chiavenato). Jornal, internet e universidades são fontes de recrutamento externo.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "C",
+        "independentlyDerivedAnswer": "C",
+        "agree": true,
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q45",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 45,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "resolucoes",
+      "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+      "stem": "O Conselho Federal de Psicologia, pela Resolução CFP nº 007/2003, orienta o profissional psicólogo na confecção de documentos decorrentes das avaliações psicológicas e fornece os subsídios éticos e técnicos necessários para a elaboração qualificada da comunicação escrita.<br>Que documento tem por finalidade “apresentar resposta esclarecedora, no campo do conhecimento psicológico, através de uma avaliação especializada, de uma ‘questão-problema’, visando a dirimir dúvidas que estão interferindo na decisão, sendo, portanto, uma resposta a uma consulta que exige de quem responde competência no assunto”?",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "Declaração",
+          "explanation": "A declaração informa fatos ou situações objetivas relacionados ao atendimento (comparecimento, acompanhamento), sem registrar sintomas ou estados psicológicos."
+        },
+        {
+          "key": "B",
+          "text": "Atestado Psicológico",
+          "explanation": "O atestado certifica uma situação ou estado psicológico de quem o solicita (por exemplo, aptidão ou necessidade de afastamento)."
+        },
+        {
+          "key": "C",
+          "text": "Parecer"
+        },
+        {
+          "key": "D",
+          "text": "Relatório Psicológico",
+          "explanation": "O relatório/laudo apresenta descritivamente o processo de avaliação psicológica e suas conclusões, não responde a uma consulta pontual sobre uma questão-problema."
+        },
+        {
+          "key": "E",
+          "text": "Prontuário",
+          "explanation": "O prontuário é o registro documental do atendimento, para continuidade da assistência; não é resposta a consulta."
+        }
+      ],
+      "correctKey": "C",
+      "explanationSummary": "Pela Res. CFP 07/2003, o parecer é a resposta esclarecedora, por avaliação especializada, a uma 'questão-problema' formulada em consulta, exigindo competência no assunto de quem responde. A Res. CFP 06/2019, que revogou a 07/2003, mantém o parecer psicológico como documento que responde a consulta sobre questão do campo psicológico, sem conclusão sobre a pessoa atendida.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "C",
+        "independentlyDerivedAnswer": "C",
+        "agree": true,
+        "confidence": "high",
+        "notes": "Gabarito preliminar B; alterado para C na resposta oficial aos recursos. A Res. CFP 07/2003 foi revogada pela Res. CFP 06/2019, que mantém o parecer com a mesma finalidade (art. 13) e distingue declaração, atestado, relatório, laudo e parecer."
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q47",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 47,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "resolucoes",
+      "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+      "stem": "É atribuição de um psicólogo produzir documentos, tais como um prontuário. Este é um documento",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "que visa a informar a ocorrência de fatos ou situações objetivas relacionados ao atendimento psicológico com objetivo de declarar comparecimentos ao atendimento, tipo de acompanhamento realizado e informações sobre o atendimento, excluindo registro de sintomas ou estados psicológicos.",
+          "explanation": "Esta é a definição de declaração."
+        },
+        {
+          "key": "B",
+          "text": "que visa a fazer uma apresentação descritiva acerca de situações e/ou condições psicológicas e suas determinações históricas, sociais, políticas e culturais, pesquisadas no processo de avaliação psicológica, subsidiado em dados colhidos e analisados, à luz de um instrumental técnico (entrevistas, dinâmicas, testes psicológicos, observação, exame psíquico, intervenção verbal).",
+          "explanation": "Esta é a definição de relatório ou laudo psicológico na Res. CFP 07/2003."
+        },
+        {
+          "key": "C",
+          "text": "que pretende apresentar a conclusão acerca de um problema específico colocado pela clínica, com o compromisso de ser conclusivo ou de fornecer uma indicação objetiva acerca de tratamento, diagnóstico ou prognóstico.",
+          "explanation": "Descreve um documento conclusivo sobre questão específica, próximo do parecer; o prontuário não tem compromisso de conclusão."
+        },
+        {
+          "key": "D",
+          "text": "único, constituído de um conjunto de informações e sinais registrados, gerados com base em fatos, acontecimentos e situações sobre a saúde do paciente e a assistência a ele prestada, de caráter legal, sigiloso e científico, que possibilita a comunicação entre membros da equipe multiprofissional e a continuidade da assistência prestada ao indivíduo."
+        },
+        {
+          "key": "E",
+          "text": "expedido pelo psicólogo que certifica uma determinada situação ou estado psicológico, tendo como finalidade afirmar sobre as condições psicológicas de quem, por requerimento, o solicita.",
+          "explanation": "Esta é a definição de atestado psicológico."
+        }
+      ],
+      "correctKey": "D",
+      "explanationSummary": "O prontuário é o documento único que reúne os registros sobre a saúde do usuário e a assistência prestada, com caráter legal, sigiloso e científico, e que permite a comunicação na equipe multiprofissional e a continuidade do cuidado. As demais alternativas trazem as definições de declaração (A), relatório/laudo (B) e atestado (E) da Res. CFP 07/2003.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "D",
+        "independentlyDerivedAnswer": "D",
+        "agree": true,
+        "confidence": "high",
+        "notes": "Questão baseada na Res. CFP 07/2003 (revogada pela Res. CFP 06/2019). O registro documental e o prontuário são regidos pela Res. CFP 01/2009; a Res. 06/2019 manteve declaração, atestado, relatório e laudo com definições próximas."
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q55",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 55,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "saude-trab",
+      "subtopic": "6.1 Processo saúde-doença",
+      "stem": "A Lei Orgânica da Saúde determina responsabilidades do SUS em relação à Saúde do Trabalhador.<br>Para fins de responsabilização, dentre outras pessoas, o SUS <strong>NÃO</strong> considera que sejam trabalhadores",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "homens e mulheres que exercem atividades não remuneradas, participando de atividades econômicas na unidade domiciliar.",
+          "explanation": "São considerados trabalhadores pela política de saúde do trabalhador do SUS os que exercem atividade não remunerada na unidade domiciliar (trabalho familiar)."
+        },
+        {
+          "key": "B",
+          "text": "aprendizes ou estagiários.",
+          "explanation": "Aprendizes e estagiários estão expressamente incluídos entre os trabalhadores."
+        },
+        {
+          "key": "C",
+          "text": "pessoas afastadas do mercado de trabalho por desemprego.",
+          "explanation": "Os temporária ou definitivamente afastados do mercado de trabalho por desemprego estão incluídos."
+        },
+        {
+          "key": "D",
+          "text": "pessoas afastadas do mercado de trabalho por aposentadoria.",
+          "explanation": "Os afastados por aposentadoria também estão incluídos."
+        },
+        {
+          "key": "E",
+          "text": "pessoas cuja subsistência advém de rendimentos patrimoniais."
+        }
+      ],
+      "correctKey": "E",
+      "explanationSummary": "Para o SUS (Lei 8.080/1990, art. 6º, §3º, e a Política Nacional de Saúde do Trabalhador), são trabalhadores todos os homens e mulheres que exercem atividades para sustento próprio e/ou de dependentes, qualquer que seja a forma de inserção: formal ou informal, autônomos, domésticos, aprendizes, estagiários, trabalho familiar não remunerado e os afastados por doença, aposentadoria ou desemprego. Quem vive de rendimentos patrimoniais não exerce trabalho e fica fora do conceito.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "E",
+        "independentlyDerivedAnswer": "E",
+        "agree": true,
+        "confidence": "medium",
+        "notes": "Conceito ampliado de trabalhador da Política Nacional de Saúde do Trabalhador e da Trabalhadora (hoje Portaria de Consolidação GM/MS 2/2017, Anexo XV)."
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q56",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 56,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "saude-trab",
+      "subtopic": "6.1 Processo saúde-doença",
+      "stem": "Dentre as diretrizes da Política Nacional de Saúde do Trabalhador, encontra-se a precedência das ações de prevenção sobre as de reparação.<br>Está de acordo com essa diretriz a estratégia de",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "estabelecer uma política de monetização dos riscos.",
+          "explanation": "Monetizar riscos (pagar adicionais de insalubridade/periculosidade) é lógica de reparação/compensação, oposta à prevenção."
+        },
+        {
+          "key": "B",
+          "text": "desvincular a política tributária dos índices de doenças e acidentes do trabalho.",
+          "explanation": "A diretriz pede o contrário: vincular a tributação aos índices de agravos, como incentivo à prevenção."
+        },
+        {
+          "key": "C",
+          "text": "excluir os requisitos de Saúde e Segurança do Trabalho dos processos de licitações dos órgãos da administração pública.",
+          "explanation": "A diretriz propõe incluir requisitos de SST nas licitações, não excluí-los."
+        },
+        {
+          "key": "D",
+          "text": "instituir a obrigatoriedade de balanço de Saúde e Segurança do Trabalho para as empresas, como o que já ocorre com dados contábeis."
+        },
+        {
+          "key": "E",
+          "text": "criar linhas de financiamento subsidiado para indenizações por acidentes do trabalho, especialmente para as pequenas e médias empresas.",
+          "explanation": "Financiar indenizações privilegia a reparação do dano, e não sua prevenção."
+        }
+      ],
+      "correctKey": "D",
+      "explanationSummary": "A Política Nacional de Segurança e Saúde do Trabalhador, ao detalhar a precedência da prevenção sobre a reparação, propõe medidas como desestimular a monetização do risco, vincular a política tributária aos índices de agravos, incluir requisitos de SST nas licitações públicas e tornar obrigatório um balanço de SST nas empresas. Só a alternativa D vai nesse sentido.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "D",
+        "independentlyDerivedAnswer": "D",
+        "agree": true,
+        "confidence": "medium",
+        "notes": ""
+      }
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q57",
+      "source": {
+        "file": "seplag-salvador-2011-psicologo/prova.pdf",
+        "year": 2011,
+        "originalNumber": 57,
+        "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+        "org": "Cesgranrio"
+      },
+      "area": "saude-trab",
+      "subtopic": "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+      "stem": "Dentre as normas para preservação da saúde do trabalhador, encontra-se a obrigatoriedade, para empresas e outras formas de organização de trabalho, de uma Comissão Interna de Prevenção de Acidentes de Trabalho (Cipa).<br>Uma das atribuições da Cipa é",
+      "images": null,
+      "alternatives": [
+        {
+          "key": "A",
+          "text": "fazer avaliações quantitativas para identificação dos riscos para elaborar um mapa de riscos objetivo.",
+          "explanation": "A CIPA identifica os riscos com a participação dos trabalhadores (avaliação qualitativa/percepção); avaliações quantitativas são tarefa técnica do SESMT ou de especialistas."
+        },
+        {
+          "key": "B",
+          "text": "elaborar um plano de trabalho que possibilite a ação preventiva na solução de problemas de segurança e saúde no trabalho."
+        },
+        {
+          "key": "C",
+          "text": "garantir que as informações sobre a segurança do trabalho sejam encaminhadas sigilosamente ao responsável pelas mudanças cabíveis para a promoção da segurança e saúde do trabalhador.",
+          "explanation": "A CIPA deve divulgar informações de SST aos trabalhadores, não encaminhá-las de forma sigilosa."
+        },
+        {
+          "key": "D",
+          "text": "interromper o funcionamento de máquina ou setor que considere oferecer risco grave e iminente à segurança e saúde dos trabalhadores.",
+          "explanation": "A CIPA pode apenas requerer ao SESMT ou ao empregador a paralisação; a decisão de interromper não é dela."
+        },
+        {
+          "key": "E",
+          "text": "afastar o trabalhador que não cumprir as Normas Regulamentadoras, bem como as cláusulas de acordos e convenções coletivas de trabalho, relativas à segurança e à saúde no trabalho.",
+          "explanation": "A CIPA não tem poder disciplinar; cabe-lhe divulgar e promover o cumprimento das NRs."
+        }
+      ],
+      "correctKey": "B",
+      "explanationSummary": "A NR-5 atribui à CIPA, entre outras funções, elaborar plano de trabalho que possibilite a ação preventiva em SST, participar da identificação de riscos e do mapa de riscos, divulgar informações aos trabalhadores e requerer a paralisação de máquina ou setor em risco grave e iminente. Ela não interrompe atividades por conta própria nem aplica punições.",
+      "status": "confirmed",
+      "annulled": false,
+      "verification": {
+        "gabaritoAnswer": "B",
+        "independentlyDerivedAnswer": "B",
+        "agree": true,
+        "confidence": "high",
+        "notes": "A NR-5 foi reescrita (Portaria SEPRT 422/2021); a atribuição de elaborar plano de trabalho preventivo e a de requerer (não decidir) a paralisação permanecem."
+      }
+    }
+  ],
+  "queue": [
+    {
+      "id": "seplag-salvador-2011-psicologo-q58",
+      "motivo": "Derivação independente incerta: o enunciado diz que a 'atual forma de pensar' se 'restringe' e o gabarito (C) é a alternativa mais ampla; a alternativa B reproduz os condicionantes sociais, econômicos, tecnológicos e organizacionais citados na política. Fonte normativa exata (Plano Nacional de SST) não conferida.",
+      "gabaritoOficial": "C",
+      "derivada": "B ou C (incerta)",
+      "questao": {
+        "id": "seplag-salvador-2011-psicologo-q58",
+        "source": {
+          "file": "seplag-salvador-2011-psicologo/prova.pdf",
+          "year": 2011,
+          "originalNumber": 58,
+          "exam": "Prefeitura de Salvador (SEPLAG) 2011 – Profissional de Atendimento Integrado: Psicólogo",
+          "org": "Cesgranrio"
+        },
+        "area": "saude-trab",
+        "subtopic": "6.1 Processo saúde-doença",
+        "stem": "Um dos principais efeitos da instituição de um Plano Nacional de Segurança e Saúde do Trabalhador, pactuado entre os diversos órgãos de Governo e da sociedade civil, diz respeito à modificação na forma de pensar a Saúde do Trabalhador.<br>De acordo com isso, a atual forma de pensar ameaças à saúde dos trabalhadores se restringe",
+        "images": null,
+        "alternatives": [
+          {
+            "key": "A",
+            "text": "a fatores condicionados pelos fatores de risco de natureza física, química, biológica, mecânica e ergonômica, presentes nos processos de trabalhos particulares."
+          },
+          {
+            "key": "B",
+            "text": "a fatores sociais, econômicos, tecnológicos e organizacionais, relacionados ao perfil de produção e consumo."
+          },
+          {
+            "key": "C",
+            "text": "aos fatores ergonômicos, ambientais, sociais e psicológicos que ameacem o bem-estar físico e mental do trabalhador, no ambiente do trabalho e em suas relações com a atividade laboral."
+          },
+          {
+            "key": "D",
+            "text": "aos agravos que têm relação com condições de trabalho específicas, como os acidentes do trabalho típicos e as “doenças profissionais”."
+          },
+          {
+            "key": "E",
+            "text": "às doenças que têm sua frequência, surgimento ou gravidade modificados pelo trabalho, denominadas “doenças relacionadas ao trabalho”."
+          }
+        ],
+        "correctKey": "C"
+      }
+    }
+  ],
+  "fora": [
+    {
+      "id": "seplag-salvador-2011-psicologo-q7",
+      "tema": "Português: redação oficial (estrutura do ofício), fora do programa de Língua Portuguesa"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q9",
+      "tema": "Conhecimentos de Informática"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q10",
+      "tema": "Conhecimentos de Informática"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q11",
+      "tema": "Conhecimentos de Informática"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q12",
+      "tema": "Conhecimentos de Informática"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q13",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q14",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q15",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q16",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q17",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q18",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q19",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q20",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q21",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q22",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q23",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q24",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q25",
+      "tema": "Legislação do SUS / Código Municipal de Saúde de Salvador"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q26",
+      "tema": "SUS: Política Nacional de Atenção Básica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q27",
+      "tema": "Saúde mental: Lei 10.216/2001 (reforma psiquiátrica)"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q28",
+      "tema": "Teorias da personalidade (Jung), avaliação clínica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q29",
+      "tema": "Psicodiagnóstico e técnicas projetivas (clínica)"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q30",
+      "tema": "Abordagens psicoterápicas (clínica)"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q31",
+      "tema": "Projeto terapêutico singular (saúde pública)"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q33",
+      "tema": "Projeto terapêutico singular (saúde pública)"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q32",
+      "tema": "Nise da Silveira, arte e saúde mental"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q34",
+      "tema": "Saúde coletiva: território, promoção da saúde, equipes de referência, educação permanente no SUS"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q36",
+      "tema": "Saúde coletiva: território, promoção da saúde, equipes de referência, educação permanente no SUS"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q37",
+      "tema": "Saúde coletiva: território, promoção da saúde, equipes de referência, educação permanente no SUS"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q46",
+      "tema": "Saúde coletiva: território, promoção da saúde, equipes de referência, educação permanente no SUS"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q35",
+      "tema": "Psicopatologia clínica orientada pela psicanálise"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q38",
+      "tema": "NASF, apoio matricial e saúde mental na atenção básica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q39",
+      "tema": "NASF, apoio matricial e saúde mental na atenção básica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q44",
+      "tema": "NASF, apoio matricial e saúde mental na atenção básica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q48",
+      "tema": "NASF, apoio matricial e saúde mental na atenção básica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q49",
+      "tema": "NASF, apoio matricial e saúde mental na atenção básica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q50",
+      "tema": "NASF, apoio matricial e saúde mental na atenção básica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q51",
+      "tema": "NASF, apoio matricial e saúde mental na atenção básica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q52",
+      "tema": "NASF, apoio matricial e saúde mental na atenção básica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q53",
+      "tema": "NASF, apoio matricial e saúde mental na atenção básica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q54",
+      "tema": "CAPS e reforma psiquiátrica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q59",
+      "tema": "CAPS e reforma psiquiátrica"
+    },
+    {
+      "id": "seplag-salvador-2011-psicologo-q60",
+      "tema": "CAPS e reforma psiquiátrica"
+    }
+  ],
+  "log": "Prova 54 (Psicólogo). Gabarito oficial p. 7 coluna '54 – PSICÓLOGO' lida na imagem; Português (1-8) do gabarito do nível superior (p. 4). Pós-recurso aplicado: q42 A→B, q45 B→C. Texto do caderno conferido nas imagens das p. 5, 6 e 14. Maioria das específicas é de saúde pública/SUS/saúde mental: fora."
+}

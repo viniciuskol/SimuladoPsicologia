@@ -1,0 +1,993 @@
+{
+ "concurso": "unemat-2024-psicologo",
+ "questions": [
+  {
+   "id": "unemat-2024-psicologo-q1",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 1,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>A dona da casa plantou a jabuticabeira</p>",
+   "passage": "<p><strong>Sombra e água</strong></p>\n<p><strong>1</strong> Finalmente, a jabuticabeira começa um estirão, deixa aquele estágio arbustivo e fica maior do que a dona da casa. Passa do metro e setenta, uns galhos centrais mais eretos e dirigidos ao céu, enquanto outros, mais periféricos, pendem um pouco para todos os lados, formando uma possível copa, embora ainda baixa demais para caber uma pessoa adulta sob sua folhagem verde-escura.</p>\n<p><strong>2</strong> A muda da jabuticabeira não foi adquirida por conta de sua fruta. Todos ao redor advertiam sobre a demora da florada e das jabuticabas, que precisam de água abundante, e aqui... neste terreno seco, pobre, nada haveria de frutificar. A muda foi comprada primeiro porque a dona da casa queria, no futuro, uma sombra. A sombra na varanda era uma espécie de sonho inalcançável, e disseram que, com uma jabuticabeira, neste solo infértil, seria como esperar pela aposentadoria. Demoraria a vida inteira e talvez nem chegasse a tempo de existirem, nesta casa, uma mulher e uma rede, na qual ela se sentaria ou se deitaria para ler um livro ou uma revista ou com um gato cego para acarinhar.</p>\n<p><strong>3</strong> Mas não parece que é o que vai acontecer. Pelo visto, a sombra chegará bem antes da aposentadoria dessa mulher que trabalha diariamente, por três turnos, interrompidos apenas por um pedaço de novela das seis e um café para acordar. A jabuticabeira cresceu mais depois das chuvas abundantes, o que ajudou a confirmar as ambiguidades e os contrassensos do mundo. Enquanto aqui a água alimentou a terra e as raízes de uma sombra frutífera futura, nos bairros ao redor ela levou encostas, fez transbordar o rio, afogou casas e animais de estimação e pessoas, incluindo velhos e crianças em pleno sono. No quintal em que está, a jabuticabeira deu resposta positiva à água que caiu do céu, crescendo mais do que o esperado pela vizinhança inteira, enchendo de alegria a dona da casa, essa mulher que cuida sozinha do filho e que pretende, um dia, habitar mais a própria casa.</p>\n<p><strong>4</strong> Também para desafiar os palpites da vizinhança e dos familiares de pouca fé, a jabuticabeira, ainda bem pequena, começou a dar jabuticabas, mesmo antes de ter um metro e meio, e eram frutas que amadureciam, cresciam, ficavam suculentas e podiam ser consumidas, se alguém as colhesse daquele caule onde nascem grudadas como insetos, depois da floração branca. [...]</p>\n<p><strong>5</strong> Contra todos os palpites da vizinhança e dos poucos familiares com quem ainda conversa pelas redes sociais, a mulher cultiva a jabuticabeira com forte esperança de que seja possível cochilar sob sua sombra um dia; então, não raro, enquanto faz o almoço, a dona da casa dá olhadelas carinhosas para a árvore, já com mais de um metro e setenta de altura e galhos para todos os lados, além do tronco que a eleva e sustenta, e vê florezinhas, depois jabuticabas que, como ninguém colhe, são comidas pelos passarinhos e até por insetos, que descobriram este quintal, esta casa e esta mulher que espera pela jabuticabeira com muito mais esperança e animação do que pela aposentadoria.</p>\n<p><strong>6</strong> A mulher não pode criar seu filho com a dedicação que gostaria, não pode alimentar o gato duas vezes por dia, não consegue regar as mudas com frequência, não está em casa quando o carteiro toca a campainha para entregar correspondências que exigem sua assinatura. Ela acorda muito cedo, faz as entregas do filho, das senhas, das chaves, os acordos com as outras vizinhas, e sai a trabalhar descontente, como provavelmente todas as pessoas do mundo, em especial as que não trabalham para si e para os seus. Ela retorna para o almoço, à tarde muda de endereço profissional, retorna para um café e muda novamente de direção. Nesse exercício de vaivém, quase como uma engrenagem, ela consegue dar olhadelas furtivas para a árvore que se forma no quintal, prometendo algo difícil de comprar, seu maior investimento: sombra e descanso.</p>\n<p><strong>7</strong> Fruem a presença da jabuticabeira borboletas, formigas, passarinhos e mesmo o gato, que cabe embaixo dela e não se importa com a terra molhada ou as folhas em decomposição. Observam a árvore algumas pessoas da vizinhança, numa espécie de aposta controversa, em alguns casos desejando que os galhos sequem, a planta morra, a confirmar as previsões de tão inteligentes pessoas. Outras, no entanto, conseguem ter bons sentimentos e, em pensamento, ficar felizes porque a dona da casa, em alguns tantos anos, haverá de conseguir sua sombra, depois sua rede, onde se deitar com o gato cego e, em paz, morrer.</p>\n<p><small>RIBEIRO, A. E. Sombra e água. Estado de Minas. Belo Horizonte. Disponível em: https://www.em.com.br/cultura/. Acesso em: 6 nov. 2023. Adaptado.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "como uma forma de investimento."
+    },
+    {
+     "key": "B",
+     "text": "para desafiar a opinião dos vizinhos.",
+     "explanation": "O texto diz que a árvore cresceu e frutificou 'para desafiar os palpites', mas isso não foi o motivo do plantio."
+    },
+    {
+     "key": "C",
+     "text": "a fim de consumir os frutos suculentos.",
+     "explanation": "O texto afirma que a muda 'não foi adquirida por conta de sua fruta'."
+    },
+    {
+     "key": "D",
+     "text": "porque gostava da folhagem verde-escura.",
+     "explanation": "A folhagem é apenas descrita; não é apontada como motivo."
+    },
+    {
+     "key": "E",
+     "text": "pois o solo era bom para o cultivo da espécie.",
+     "explanation": "O solo é descrito como seco, pobre e infértil."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "A muda foi comprada porque a mulher queria, no futuro, uma sombra. O parágrafo 6 chama a árvore de 'seu maior investimento: sombra e descanso'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q2",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 2,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>O fragmento “que pretende, um dia, habitar mais a própria casa.” (parágrafo 3) está relacionado ao fato de</p>",
+   "passage": "<p><strong>Sombra e água</strong></p>\n<p><strong>1</strong> Finalmente, a jabuticabeira começa um estirão, deixa aquele estágio arbustivo e fica maior do que a dona da casa. Passa do metro e setenta, uns galhos centrais mais eretos e dirigidos ao céu, enquanto outros, mais periféricos, pendem um pouco para todos os lados, formando uma possível copa, embora ainda baixa demais para caber uma pessoa adulta sob sua folhagem verde-escura.</p>\n<p><strong>2</strong> A muda da jabuticabeira não foi adquirida por conta de sua fruta. Todos ao redor advertiam sobre a demora da florada e das jabuticabas, que precisam de água abundante, e aqui... neste terreno seco, pobre, nada haveria de frutificar. A muda foi comprada primeiro porque a dona da casa queria, no futuro, uma sombra. A sombra na varanda era uma espécie de sonho inalcançável, e disseram que, com uma jabuticabeira, neste solo infértil, seria como esperar pela aposentadoria. Demoraria a vida inteira e talvez nem chegasse a tempo de existirem, nesta casa, uma mulher e uma rede, na qual ela se sentaria ou se deitaria para ler um livro ou uma revista ou com um gato cego para acarinhar.</p>\n<p><strong>3</strong> Mas não parece que é o que vai acontecer. Pelo visto, a sombra chegará bem antes da aposentadoria dessa mulher que trabalha diariamente, por três turnos, interrompidos apenas por um pedaço de novela das seis e um café para acordar. A jabuticabeira cresceu mais depois das chuvas abundantes, o que ajudou a confirmar as ambiguidades e os contrassensos do mundo. Enquanto aqui a água alimentou a terra e as raízes de uma sombra frutífera futura, nos bairros ao redor ela levou encostas, fez transbordar o rio, afogou casas e animais de estimação e pessoas, incluindo velhos e crianças em pleno sono. No quintal em que está, a jabuticabeira deu resposta positiva à água que caiu do céu, crescendo mais do que o esperado pela vizinhança inteira, enchendo de alegria a dona da casa, essa mulher que cuida sozinha do filho e que pretende, um dia, habitar mais a própria casa.</p>\n<p><strong>4</strong> Também para desafiar os palpites da vizinhança e dos familiares de pouca fé, a jabuticabeira, ainda bem pequena, começou a dar jabuticabas, mesmo antes de ter um metro e meio, e eram frutas que amadureciam, cresciam, ficavam suculentas e podiam ser consumidas, se alguém as colhesse daquele caule onde nascem grudadas como insetos, depois da floração branca. [...]</p>\n<p><strong>5</strong> Contra todos os palpites da vizinhança e dos poucos familiares com quem ainda conversa pelas redes sociais, a mulher cultiva a jabuticabeira com forte esperança de que seja possível cochilar sob sua sombra um dia; então, não raro, enquanto faz o almoço, a dona da casa dá olhadelas carinhosas para a árvore, já com mais de um metro e setenta de altura e galhos para todos os lados, além do tronco que a eleva e sustenta, e vê florezinhas, depois jabuticabas que, como ninguém colhe, são comidas pelos passarinhos e até por insetos, que descobriram este quintal, esta casa e esta mulher que espera pela jabuticabeira com muito mais esperança e animação do que pela aposentadoria.</p>\n<p><strong>6</strong> A mulher não pode criar seu filho com a dedicação que gostaria, não pode alimentar o gato duas vezes por dia, não consegue regar as mudas com frequência, não está em casa quando o carteiro toca a campainha para entregar correspondências que exigem sua assinatura. Ela acorda muito cedo, faz as entregas do filho, das senhas, das chaves, os acordos com as outras vizinhas, e sai a trabalhar descontente, como provavelmente todas as pessoas do mundo, em especial as que não trabalham para si e para os seus. Ela retorna para o almoço, à tarde muda de endereço profissional, retorna para um café e muda novamente de direção. Nesse exercício de vaivém, quase como uma engrenagem, ela consegue dar olhadelas furtivas para a árvore que se forma no quintal, prometendo algo difícil de comprar, seu maior investimento: sombra e descanso.</p>\n<p><strong>7</strong> Fruem a presença da jabuticabeira borboletas, formigas, passarinhos e mesmo o gato, que cabe embaixo dela e não se importa com a terra molhada ou as folhas em decomposição. Observam a árvore algumas pessoas da vizinhança, numa espécie de aposta controversa, em alguns casos desejando que os galhos sequem, a planta morra, a confirmar as previsões de tão inteligentes pessoas. Outras, no entanto, conseguem ter bons sentimentos e, em pensamento, ficar felizes porque a dona da casa, em alguns tantos anos, haverá de conseguir sua sombra, depois sua rede, onde se deitar com o gato cego e, em paz, morrer.</p>\n<p><small>RIBEIRO, A. E. Sombra e água. Estado de Minas. Belo Horizonte. Disponível em: https://www.em.com.br/cultura/. Acesso em: 6 nov. 2023. Adaptado.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a casa ser hoje inabitável.",
+     "explanation": "Nada indica que a casa seja inabitável; ela apenas passa pouco tempo nela."
+    },
+    {
+     "key": "B",
+     "text": "a mulher ser muito atarefada."
+    },
+    {
+     "key": "C",
+     "text": "a jabuticabeira estar bem pequena.",
+     "explanation": "O tamanho da árvore não explica o desejo de ficar mais em casa."
+    },
+    {
+     "key": "D",
+     "text": "o filho requerer ainda muitos cuidados.",
+     "explanation": "O filho é mencionado, mas a causa é o trabalho em três turnos."
+    },
+    {
+     "key": "E",
+     "text": "os vizinhos serem extremamente desagradáveis.",
+     "explanation": "Os vizinhos não são a razão de ela ficar pouco em casa."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "A mulher 'trabalha diariamente, por três turnos' e vive em 'vaivém' entre endereços profissionais (parágrafos 3 e 6). Por isso deseja um dia habitar mais a própria casa.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q3",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 3,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>No quarto parágrafo, o fragmento “dos familiares de pouca fé” faz referência ao fato de esses familiares</p>",
+   "passage": "<p><strong>Sombra e água</strong></p>\n<p><strong>1</strong> Finalmente, a jabuticabeira começa um estirão, deixa aquele estágio arbustivo e fica maior do que a dona da casa. Passa do metro e setenta, uns galhos centrais mais eretos e dirigidos ao céu, enquanto outros, mais periféricos, pendem um pouco para todos os lados, formando uma possível copa, embora ainda baixa demais para caber uma pessoa adulta sob sua folhagem verde-escura.</p>\n<p><strong>2</strong> A muda da jabuticabeira não foi adquirida por conta de sua fruta. Todos ao redor advertiam sobre a demora da florada e das jabuticabas, que precisam de água abundante, e aqui... neste terreno seco, pobre, nada haveria de frutificar. A muda foi comprada primeiro porque a dona da casa queria, no futuro, uma sombra. A sombra na varanda era uma espécie de sonho inalcançável, e disseram que, com uma jabuticabeira, neste solo infértil, seria como esperar pela aposentadoria. Demoraria a vida inteira e talvez nem chegasse a tempo de existirem, nesta casa, uma mulher e uma rede, na qual ela se sentaria ou se deitaria para ler um livro ou uma revista ou com um gato cego para acarinhar.</p>\n<p><strong>3</strong> Mas não parece que é o que vai acontecer. Pelo visto, a sombra chegará bem antes da aposentadoria dessa mulher que trabalha diariamente, por três turnos, interrompidos apenas por um pedaço de novela das seis e um café para acordar. A jabuticabeira cresceu mais depois das chuvas abundantes, o que ajudou a confirmar as ambiguidades e os contrassensos do mundo. Enquanto aqui a água alimentou a terra e as raízes de uma sombra frutífera futura, nos bairros ao redor ela levou encostas, fez transbordar o rio, afogou casas e animais de estimação e pessoas, incluindo velhos e crianças em pleno sono. No quintal em que está, a jabuticabeira deu resposta positiva à água que caiu do céu, crescendo mais do que o esperado pela vizinhança inteira, enchendo de alegria a dona da casa, essa mulher que cuida sozinha do filho e que pretende, um dia, habitar mais a própria casa.</p>\n<p><strong>4</strong> Também para desafiar os palpites da vizinhança e dos familiares de pouca fé, a jabuticabeira, ainda bem pequena, começou a dar jabuticabas, mesmo antes de ter um metro e meio, e eram frutas que amadureciam, cresciam, ficavam suculentas e podiam ser consumidas, se alguém as colhesse daquele caule onde nascem grudadas como insetos, depois da floração branca. [...]</p>\n<p><strong>5</strong> Contra todos os palpites da vizinhança e dos poucos familiares com quem ainda conversa pelas redes sociais, a mulher cultiva a jabuticabeira com forte esperança de que seja possível cochilar sob sua sombra um dia; então, não raro, enquanto faz o almoço, a dona da casa dá olhadelas carinhosas para a árvore, já com mais de um metro e setenta de altura e galhos para todos os lados, além do tronco que a eleva e sustenta, e vê florezinhas, depois jabuticabas que, como ninguém colhe, são comidas pelos passarinhos e até por insetos, que descobriram este quintal, esta casa e esta mulher que espera pela jabuticabeira com muito mais esperança e animação do que pela aposentadoria.</p>\n<p><strong>6</strong> A mulher não pode criar seu filho com a dedicação que gostaria, não pode alimentar o gato duas vezes por dia, não consegue regar as mudas com frequência, não está em casa quando o carteiro toca a campainha para entregar correspondências que exigem sua assinatura. Ela acorda muito cedo, faz as entregas do filho, das senhas, das chaves, os acordos com as outras vizinhas, e sai a trabalhar descontente, como provavelmente todas as pessoas do mundo, em especial as que não trabalham para si e para os seus. Ela retorna para o almoço, à tarde muda de endereço profissional, retorna para um café e muda novamente de direção. Nesse exercício de vaivém, quase como uma engrenagem, ela consegue dar olhadelas furtivas para a árvore que se forma no quintal, prometendo algo difícil de comprar, seu maior investimento: sombra e descanso.</p>\n<p><strong>7</strong> Fruem a presença da jabuticabeira borboletas, formigas, passarinhos e mesmo o gato, que cabe embaixo dela e não se importa com a terra molhada ou as folhas em decomposição. Observam a árvore algumas pessoas da vizinhança, numa espécie de aposta controversa, em alguns casos desejando que os galhos sequem, a planta morra, a confirmar as previsões de tão inteligentes pessoas. Outras, no entanto, conseguem ter bons sentimentos e, em pensamento, ficar felizes porque a dona da casa, em alguns tantos anos, haverá de conseguir sua sombra, depois sua rede, onde se deitar com o gato cego e, em paz, morrer.</p>\n<p><small>RIBEIRO, A. E. Sombra e água. Estado de Minas. Belo Horizonte. Disponível em: https://www.em.com.br/cultura/. Acesso em: 6 nov. 2023. Adaptado.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "temerem as chuvas abundantes.",
+     "explanation": "Não há relação entre a 'pouca fé' e as chuvas."
+    },
+    {
+     "key": "B",
+     "text": "menosprezarem a devoção cristã da mulher.",
+     "explanation": "'Fé' aqui não tem sentido religioso."
+    },
+    {
+     "key": "C",
+     "text": "estarem afastados de qualquer religião.",
+     "explanation": "Leitura literal indevida de 'pouca fé'."
+    },
+    {
+     "key": "D",
+     "text": "desacreditarem do crescimento da árvore."
+    },
+    {
+     "key": "E",
+     "text": "desconfiarem dos acordos com as vizinhas.",
+     "explanation": "Os acordos com vizinhas não têm relação com o trecho."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "'De pouca fé' significa que não acreditavam que a jabuticabeira cresceria e daria frutos naquele solo; a árvore os desafia.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q4",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 4,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>Para a mulher, a jabuticabeira sobreviver e crescer frondosa em seu quintal representa</p>",
+   "passage": "<p><strong>Sombra e água</strong></p>\n<p><strong>1</strong> Finalmente, a jabuticabeira começa um estirão, deixa aquele estágio arbustivo e fica maior do que a dona da casa. Passa do metro e setenta, uns galhos centrais mais eretos e dirigidos ao céu, enquanto outros, mais periféricos, pendem um pouco para todos os lados, formando uma possível copa, embora ainda baixa demais para caber uma pessoa adulta sob sua folhagem verde-escura.</p>\n<p><strong>2</strong> A muda da jabuticabeira não foi adquirida por conta de sua fruta. Todos ao redor advertiam sobre a demora da florada e das jabuticabas, que precisam de água abundante, e aqui... neste terreno seco, pobre, nada haveria de frutificar. A muda foi comprada primeiro porque a dona da casa queria, no futuro, uma sombra. A sombra na varanda era uma espécie de sonho inalcançável, e disseram que, com uma jabuticabeira, neste solo infértil, seria como esperar pela aposentadoria. Demoraria a vida inteira e talvez nem chegasse a tempo de existirem, nesta casa, uma mulher e uma rede, na qual ela se sentaria ou se deitaria para ler um livro ou uma revista ou com um gato cego para acarinhar.</p>\n<p><strong>3</strong> Mas não parece que é o que vai acontecer. Pelo visto, a sombra chegará bem antes da aposentadoria dessa mulher que trabalha diariamente, por três turnos, interrompidos apenas por um pedaço de novela das seis e um café para acordar. A jabuticabeira cresceu mais depois das chuvas abundantes, o que ajudou a confirmar as ambiguidades e os contrassensos do mundo. Enquanto aqui a água alimentou a terra e as raízes de uma sombra frutífera futura, nos bairros ao redor ela levou encostas, fez transbordar o rio, afogou casas e animais de estimação e pessoas, incluindo velhos e crianças em pleno sono. No quintal em que está, a jabuticabeira deu resposta positiva à água que caiu do céu, crescendo mais do que o esperado pela vizinhança inteira, enchendo de alegria a dona da casa, essa mulher que cuida sozinha do filho e que pretende, um dia, habitar mais a própria casa.</p>\n<p><strong>4</strong> Também para desafiar os palpites da vizinhança e dos familiares de pouca fé, a jabuticabeira, ainda bem pequena, começou a dar jabuticabas, mesmo antes de ter um metro e meio, e eram frutas que amadureciam, cresciam, ficavam suculentas e podiam ser consumidas, se alguém as colhesse daquele caule onde nascem grudadas como insetos, depois da floração branca. [...]</p>\n<p><strong>5</strong> Contra todos os palpites da vizinhança e dos poucos familiares com quem ainda conversa pelas redes sociais, a mulher cultiva a jabuticabeira com forte esperança de que seja possível cochilar sob sua sombra um dia; então, não raro, enquanto faz o almoço, a dona da casa dá olhadelas carinhosas para a árvore, já com mais de um metro e setenta de altura e galhos para todos os lados, além do tronco que a eleva e sustenta, e vê florezinhas, depois jabuticabas que, como ninguém colhe, são comidas pelos passarinhos e até por insetos, que descobriram este quintal, esta casa e esta mulher que espera pela jabuticabeira com muito mais esperança e animação do que pela aposentadoria.</p>\n<p><strong>6</strong> A mulher não pode criar seu filho com a dedicação que gostaria, não pode alimentar o gato duas vezes por dia, não consegue regar as mudas com frequência, não está em casa quando o carteiro toca a campainha para entregar correspondências que exigem sua assinatura. Ela acorda muito cedo, faz as entregas do filho, das senhas, das chaves, os acordos com as outras vizinhas, e sai a trabalhar descontente, como provavelmente todas as pessoas do mundo, em especial as que não trabalham para si e para os seus. Ela retorna para o almoço, à tarde muda de endereço profissional, retorna para um café e muda novamente de direção. Nesse exercício de vaivém, quase como uma engrenagem, ela consegue dar olhadelas furtivas para a árvore que se forma no quintal, prometendo algo difícil de comprar, seu maior investimento: sombra e descanso.</p>\n<p><strong>7</strong> Fruem a presença da jabuticabeira borboletas, formigas, passarinhos e mesmo o gato, que cabe embaixo dela e não se importa com a terra molhada ou as folhas em decomposição. Observam a árvore algumas pessoas da vizinhança, numa espécie de aposta controversa, em alguns casos desejando que os galhos sequem, a planta morra, a confirmar as previsões de tão inteligentes pessoas. Outras, no entanto, conseguem ter bons sentimentos e, em pensamento, ficar felizes porque a dona da casa, em alguns tantos anos, haverá de conseguir sua sombra, depois sua rede, onde se deitar com o gato cego e, em paz, morrer.</p>\n<p><small>RIBEIRO, A. E. Sombra e água. Estado de Minas. Belo Horizonte. Disponível em: https://www.em.com.br/cultura/. Acesso em: 6 nov. 2023. Adaptado.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "morte",
+     "explanation": "A morte aparece só no fim, como desfecho em paz de uma vida de descanso; não é o que a árvore representa."
+    },
+    {
+     "key": "B",
+     "text": "sustento",
+     "explanation": "A árvore não foi plantada para sustento; nem os frutos são colhidos."
+    },
+    {
+     "key": "C",
+     "text": "descanso"
+    },
+    {
+     "key": "D",
+     "text": "abundância",
+     "explanation": "A abundância de água é circunstancial; a árvore representa sombra e repouso."
+    },
+    {
+     "key": "E",
+     "text": "contrassenso",
+     "explanation": "Os contrassensos são do mundo (chuva que ajuda aqui e destrói ali), não o que a árvore representa para ela."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O texto diz que a árvore promete 'sombra e descanso' e que a mulher sonha com uma rede sob ela, para ler ou cochilar.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q5",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 5,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>No trecho “<strong>Pelo visto</strong>, a sombra chegará bem antes da aposentadoria dessa mulher” (parágrafo 3), a expressão em destaque pode ser substituída, sem alteração de sentido, por</p>",
+   "passage": "<p><strong>Sombra e água</strong></p>\n<p><strong>1</strong> Finalmente, a jabuticabeira começa um estirão, deixa aquele estágio arbustivo e fica maior do que a dona da casa. Passa do metro e setenta, uns galhos centrais mais eretos e dirigidos ao céu, enquanto outros, mais periféricos, pendem um pouco para todos os lados, formando uma possível copa, embora ainda baixa demais para caber uma pessoa adulta sob sua folhagem verde-escura.</p>\n<p><strong>2</strong> A muda da jabuticabeira não foi adquirida por conta de sua fruta. Todos ao redor advertiam sobre a demora da florada e das jabuticabas, que precisam de água abundante, e aqui... neste terreno seco, pobre, nada haveria de frutificar. A muda foi comprada primeiro porque a dona da casa queria, no futuro, uma sombra. A sombra na varanda era uma espécie de sonho inalcançável, e disseram que, com uma jabuticabeira, neste solo infértil, seria como esperar pela aposentadoria. Demoraria a vida inteira e talvez nem chegasse a tempo de existirem, nesta casa, uma mulher e uma rede, na qual ela se sentaria ou se deitaria para ler um livro ou uma revista ou com um gato cego para acarinhar.</p>\n<p><strong>3</strong> Mas não parece que é o que vai acontecer. Pelo visto, a sombra chegará bem antes da aposentadoria dessa mulher que trabalha diariamente, por três turnos, interrompidos apenas por um pedaço de novela das seis e um café para acordar. A jabuticabeira cresceu mais depois das chuvas abundantes, o que ajudou a confirmar as ambiguidades e os contrassensos do mundo. Enquanto aqui a água alimentou a terra e as raízes de uma sombra frutífera futura, nos bairros ao redor ela levou encostas, fez transbordar o rio, afogou casas e animais de estimação e pessoas, incluindo velhos e crianças em pleno sono. No quintal em que está, a jabuticabeira deu resposta positiva à água que caiu do céu, crescendo mais do que o esperado pela vizinhança inteira, enchendo de alegria a dona da casa, essa mulher que cuida sozinha do filho e que pretende, um dia, habitar mais a própria casa.</p>\n<p><strong>4</strong> Também para desafiar os palpites da vizinhança e dos familiares de pouca fé, a jabuticabeira, ainda bem pequena, começou a dar jabuticabas, mesmo antes de ter um metro e meio, e eram frutas que amadureciam, cresciam, ficavam suculentas e podiam ser consumidas, se alguém as colhesse daquele caule onde nascem grudadas como insetos, depois da floração branca. [...]</p>\n<p><strong>5</strong> Contra todos os palpites da vizinhança e dos poucos familiares com quem ainda conversa pelas redes sociais, a mulher cultiva a jabuticabeira com forte esperança de que seja possível cochilar sob sua sombra um dia; então, não raro, enquanto faz o almoço, a dona da casa dá olhadelas carinhosas para a árvore, já com mais de um metro e setenta de altura e galhos para todos os lados, além do tronco que a eleva e sustenta, e vê florezinhas, depois jabuticabas que, como ninguém colhe, são comidas pelos passarinhos e até por insetos, que descobriram este quintal, esta casa e esta mulher que espera pela jabuticabeira com muito mais esperança e animação do que pela aposentadoria.</p>\n<p><strong>6</strong> A mulher não pode criar seu filho com a dedicação que gostaria, não pode alimentar o gato duas vezes por dia, não consegue regar as mudas com frequência, não está em casa quando o carteiro toca a campainha para entregar correspondências que exigem sua assinatura. Ela acorda muito cedo, faz as entregas do filho, das senhas, das chaves, os acordos com as outras vizinhas, e sai a trabalhar descontente, como provavelmente todas as pessoas do mundo, em especial as que não trabalham para si e para os seus. Ela retorna para o almoço, à tarde muda de endereço profissional, retorna para um café e muda novamente de direção. Nesse exercício de vaivém, quase como uma engrenagem, ela consegue dar olhadelas furtivas para a árvore que se forma no quintal, prometendo algo difícil de comprar, seu maior investimento: sombra e descanso.</p>\n<p><strong>7</strong> Fruem a presença da jabuticabeira borboletas, formigas, passarinhos e mesmo o gato, que cabe embaixo dela e não se importa com a terra molhada ou as folhas em decomposição. Observam a árvore algumas pessoas da vizinhança, numa espécie de aposta controversa, em alguns casos desejando que os galhos sequem, a planta morra, a confirmar as previsões de tão inteligentes pessoas. Outras, no entanto, conseguem ter bons sentimentos e, em pensamento, ficar felizes porque a dona da casa, em alguns tantos anos, haverá de conseguir sua sombra, depois sua rede, onde se deitar com o gato cego e, em paz, morrer.</p>\n<p><small>RIBEIRO, A. E. Sombra e água. Estado de Minas. Belo Horizonte. Disponível em: https://www.em.com.br/cultura/. Acesso em: 6 nov. 2023. Adaptado.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "felizmente",
+     "explanation": "Expressaria avaliação positiva, não inferência."
+    },
+    {
+     "key": "B",
+     "text": "certamente",
+     "explanation": "Expressaria certeza, mais forte que a suposição de 'pelo visto'."
+    },
+    {
+     "key": "C",
+     "text": "indubitavelmente",
+     "explanation": "Expressaria certeza absoluta."
+    },
+    {
+     "key": "D",
+     "text": "presumivelmente"
+    },
+    {
+     "key": "E",
+     "text": "consequentemente",
+     "explanation": "Expressaria consequência lógica, não suposição baseada no que se observa."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "'Pelo visto' indica uma conclusão provável a partir do que se observa, isto é, presumivelmente.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q6",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 6,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "portugues",
+   "subtopic": "P.7 Coordenação e subordinação",
+   "stem": "<p>Considere o emprego da palavra em destaque no período abaixo.</p><blockquote><strong>Como</strong> ninguém colhe as jabuticabas, elas são comidas pelos passarinhos e até por insetos.</blockquote><p>Nesse período, a palavra destacada constrói, entre as duas orações, uma relação semântica de</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "causa"
+    },
+    {
+     "key": "B",
+     "text": "tempo",
+     "explanation": "Não indica quando, mas por que as frutas são comidas pelos animais."
+    },
+    {
+     "key": "C",
+     "text": "comparação",
+     "explanation": "'Como' comparativo exigiria termos comparados ('como os pássaros...'); não é o caso."
+    },
+    {
+     "key": "D",
+     "text": "concessão",
+     "explanation": "Concessão exigiria ideia de contraste ('embora')."
+    },
+    {
+     "key": "E",
+     "text": "proporcionalidade",
+     "explanation": "Proporção seria 'à medida que'."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "'Como' anteposto à oração principal tem valor causal (= já que): porque ninguém colhe as jabuticabas, os pássaros e insetos as comem.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q7",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 7,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>A ambiguidade é considerada um problema grave na redação oficial, que tem como traço necessário a clareza.</p><p>A frase que suscita duas leituras possíveis é:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Os palpites dos familiares jamais a desanimaram.",
+     "explanation": "O pronome 'a' tem referente claro no contexto (a mulher); não há duplo sentido estrutural."
+    },
+    {
+     "key": "B",
+     "text": "Um sonho que ela acalentava era uma sombra na varanda.",
+     "explanation": "Frase de sentido único."
+    },
+    {
+     "key": "C",
+     "text": "A jabuticabeira é uma árvore frutífera nativa da Mata Atlântica.",
+     "explanation": "Frase de sentido único."
+    },
+    {
+     "key": "D",
+     "text": "Poucas pessoas conseguem ficar contentes com a vitória do outro.",
+     "explanation": "Frase de sentido único."
+    },
+    {
+     "key": "E",
+     "text": "O vizinho falou com a mulher que acorda muito cedo todos os dias."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Em E, 'todos os dias' pode se ligar a 'falou' (o vizinho fala com ela diariamente) ou a 'acorda' (a mulher acorda cedo diariamente). A frase é ambígua.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q8",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 8,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "portugues",
+   "subtopic": "P.5 Emprego de tempos e modos verbais",
+   "stem": "<p>No fragmento “a dona da casa, em alguns tantos anos, haverá de conseguir sua sombra” (parágrafo 7), o emprego da locução verbal “haverá de conseguir” revela</p>",
+   "passage": "<p><strong>Sombra e água</strong></p>\n<p><strong>1</strong> Finalmente, a jabuticabeira começa um estirão, deixa aquele estágio arbustivo e fica maior do que a dona da casa. Passa do metro e setenta, uns galhos centrais mais eretos e dirigidos ao céu, enquanto outros, mais periféricos, pendem um pouco para todos os lados, formando uma possível copa, embora ainda baixa demais para caber uma pessoa adulta sob sua folhagem verde-escura.</p>\n<p><strong>2</strong> A muda da jabuticabeira não foi adquirida por conta de sua fruta. Todos ao redor advertiam sobre a demora da florada e das jabuticabas, que precisam de água abundante, e aqui... neste terreno seco, pobre, nada haveria de frutificar. A muda foi comprada primeiro porque a dona da casa queria, no futuro, uma sombra. A sombra na varanda era uma espécie de sonho inalcançável, e disseram que, com uma jabuticabeira, neste solo infértil, seria como esperar pela aposentadoria. Demoraria a vida inteira e talvez nem chegasse a tempo de existirem, nesta casa, uma mulher e uma rede, na qual ela se sentaria ou se deitaria para ler um livro ou uma revista ou com um gato cego para acarinhar.</p>\n<p><strong>3</strong> Mas não parece que é o que vai acontecer. Pelo visto, a sombra chegará bem antes da aposentadoria dessa mulher que trabalha diariamente, por três turnos, interrompidos apenas por um pedaço de novela das seis e um café para acordar. A jabuticabeira cresceu mais depois das chuvas abundantes, o que ajudou a confirmar as ambiguidades e os contrassensos do mundo. Enquanto aqui a água alimentou a terra e as raízes de uma sombra frutífera futura, nos bairros ao redor ela levou encostas, fez transbordar o rio, afogou casas e animais de estimação e pessoas, incluindo velhos e crianças em pleno sono. No quintal em que está, a jabuticabeira deu resposta positiva à água que caiu do céu, crescendo mais do que o esperado pela vizinhança inteira, enchendo de alegria a dona da casa, essa mulher que cuida sozinha do filho e que pretende, um dia, habitar mais a própria casa.</p>\n<p><strong>4</strong> Também para desafiar os palpites da vizinhança e dos familiares de pouca fé, a jabuticabeira, ainda bem pequena, começou a dar jabuticabas, mesmo antes de ter um metro e meio, e eram frutas que amadureciam, cresciam, ficavam suculentas e podiam ser consumidas, se alguém as colhesse daquele caule onde nascem grudadas como insetos, depois da floração branca. [...]</p>\n<p><strong>5</strong> Contra todos os palpites da vizinhança e dos poucos familiares com quem ainda conversa pelas redes sociais, a mulher cultiva a jabuticabeira com forte esperança de que seja possível cochilar sob sua sombra um dia; então, não raro, enquanto faz o almoço, a dona da casa dá olhadelas carinhosas para a árvore, já com mais de um metro e setenta de altura e galhos para todos os lados, além do tronco que a eleva e sustenta, e vê florezinhas, depois jabuticabas que, como ninguém colhe, são comidas pelos passarinhos e até por insetos, que descobriram este quintal, esta casa e esta mulher que espera pela jabuticabeira com muito mais esperança e animação do que pela aposentadoria.</p>\n<p><strong>6</strong> A mulher não pode criar seu filho com a dedicação que gostaria, não pode alimentar o gato duas vezes por dia, não consegue regar as mudas com frequência, não está em casa quando o carteiro toca a campainha para entregar correspondências que exigem sua assinatura. Ela acorda muito cedo, faz as entregas do filho, das senhas, das chaves, os acordos com as outras vizinhas, e sai a trabalhar descontente, como provavelmente todas as pessoas do mundo, em especial as que não trabalham para si e para os seus. Ela retorna para o almoço, à tarde muda de endereço profissional, retorna para um café e muda novamente de direção. Nesse exercício de vaivém, quase como uma engrenagem, ela consegue dar olhadelas furtivas para a árvore que se forma no quintal, prometendo algo difícil de comprar, seu maior investimento: sombra e descanso.</p>\n<p><strong>7</strong> Fruem a presença da jabuticabeira borboletas, formigas, passarinhos e mesmo o gato, que cabe embaixo dela e não se importa com a terra molhada ou as folhas em decomposição. Observam a árvore algumas pessoas da vizinhança, numa espécie de aposta controversa, em alguns casos desejando que os galhos sequem, a planta morra, a confirmar as previsões de tão inteligentes pessoas. Outras, no entanto, conseguem ter bons sentimentos e, em pensamento, ficar felizes porque a dona da casa, em alguns tantos anos, haverá de conseguir sua sombra, depois sua rede, onde se deitar com o gato cego e, em paz, morrer.</p>\n<p><small>RIBEIRO, A. E. Sombra e água. Estado de Minas. Belo Horizonte. Disponível em: https://www.em.com.br/cultura/. Acesso em: 6 nov. 2023. Adaptado.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "condição",
+     "explanation": "Não há hipótese condicionante."
+    },
+    {
+     "key": "B",
+     "text": "esperança"
+    },
+    {
+     "key": "C",
+     "text": "solicitação",
+     "explanation": "Não há pedido."
+    },
+    {
+     "key": "D",
+     "text": "capacidade",
+     "explanation": "Capacidade seria expressa por 'poder'."
+    },
+    {
+     "key": "E",
+     "text": "oferecimento",
+     "explanation": "Não há oferta."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "'Haver de' + infinitivo expressa intenção ou expectativa firme quanto ao futuro. No contexto, as pessoas de bons sentimentos torcem para que ela consiga sua sombra: é esperança.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q9",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 9,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "<p>Em “além do tronco que <strong>a</strong> eleva e sustenta” (parágrafo 5), o pronome oblíquo em destaque retoma, no contexto do quinto parágrafo, o referente</p>",
+   "passage": "<p><strong>Sombra e água</strong></p>\n<p><strong>1</strong> Finalmente, a jabuticabeira começa um estirão, deixa aquele estágio arbustivo e fica maior do que a dona da casa. Passa do metro e setenta, uns galhos centrais mais eretos e dirigidos ao céu, enquanto outros, mais periféricos, pendem um pouco para todos os lados, formando uma possível copa, embora ainda baixa demais para caber uma pessoa adulta sob sua folhagem verde-escura.</p>\n<p><strong>2</strong> A muda da jabuticabeira não foi adquirida por conta de sua fruta. Todos ao redor advertiam sobre a demora da florada e das jabuticabas, que precisam de água abundante, e aqui... neste terreno seco, pobre, nada haveria de frutificar. A muda foi comprada primeiro porque a dona da casa queria, no futuro, uma sombra. A sombra na varanda era uma espécie de sonho inalcançável, e disseram que, com uma jabuticabeira, neste solo infértil, seria como esperar pela aposentadoria. Demoraria a vida inteira e talvez nem chegasse a tempo de existirem, nesta casa, uma mulher e uma rede, na qual ela se sentaria ou se deitaria para ler um livro ou uma revista ou com um gato cego para acarinhar.</p>\n<p><strong>3</strong> Mas não parece que é o que vai acontecer. Pelo visto, a sombra chegará bem antes da aposentadoria dessa mulher que trabalha diariamente, por três turnos, interrompidos apenas por um pedaço de novela das seis e um café para acordar. A jabuticabeira cresceu mais depois das chuvas abundantes, o que ajudou a confirmar as ambiguidades e os contrassensos do mundo. Enquanto aqui a água alimentou a terra e as raízes de uma sombra frutífera futura, nos bairros ao redor ela levou encostas, fez transbordar o rio, afogou casas e animais de estimação e pessoas, incluindo velhos e crianças em pleno sono. No quintal em que está, a jabuticabeira deu resposta positiva à água que caiu do céu, crescendo mais do que o esperado pela vizinhança inteira, enchendo de alegria a dona da casa, essa mulher que cuida sozinha do filho e que pretende, um dia, habitar mais a própria casa.</p>\n<p><strong>4</strong> Também para desafiar os palpites da vizinhança e dos familiares de pouca fé, a jabuticabeira, ainda bem pequena, começou a dar jabuticabas, mesmo antes de ter um metro e meio, e eram frutas que amadureciam, cresciam, ficavam suculentas e podiam ser consumidas, se alguém as colhesse daquele caule onde nascem grudadas como insetos, depois da floração branca. [...]</p>\n<p><strong>5</strong> Contra todos os palpites da vizinhança e dos poucos familiares com quem ainda conversa pelas redes sociais, a mulher cultiva a jabuticabeira com forte esperança de que seja possível cochilar sob sua sombra um dia; então, não raro, enquanto faz o almoço, a dona da casa dá olhadelas carinhosas para a árvore, já com mais de um metro e setenta de altura e galhos para todos os lados, além do tronco que a eleva e sustenta, e vê florezinhas, depois jabuticabas que, como ninguém colhe, são comidas pelos passarinhos e até por insetos, que descobriram este quintal, esta casa e esta mulher que espera pela jabuticabeira com muito mais esperança e animação do que pela aposentadoria.</p>\n<p><strong>6</strong> A mulher não pode criar seu filho com a dedicação que gostaria, não pode alimentar o gato duas vezes por dia, não consegue regar as mudas com frequência, não está em casa quando o carteiro toca a campainha para entregar correspondências que exigem sua assinatura. Ela acorda muito cedo, faz as entregas do filho, das senhas, das chaves, os acordos com as outras vizinhas, e sai a trabalhar descontente, como provavelmente todas as pessoas do mundo, em especial as que não trabalham para si e para os seus. Ela retorna para o almoço, à tarde muda de endereço profissional, retorna para um café e muda novamente de direção. Nesse exercício de vaivém, quase como uma engrenagem, ela consegue dar olhadelas furtivas para a árvore que se forma no quintal, prometendo algo difícil de comprar, seu maior investimento: sombra e descanso.</p>\n<p><strong>7</strong> Fruem a presença da jabuticabeira borboletas, formigas, passarinhos e mesmo o gato, que cabe embaixo dela e não se importa com a terra molhada ou as folhas em decomposição. Observam a árvore algumas pessoas da vizinhança, numa espécie de aposta controversa, em alguns casos desejando que os galhos sequem, a planta morra, a confirmar as previsões de tão inteligentes pessoas. Outras, no entanto, conseguem ter bons sentimentos e, em pensamento, ficar felizes porque a dona da casa, em alguns tantos anos, haverá de conseguir sua sombra, depois sua rede, onde se deitar com o gato cego e, em paz, morrer.</p>\n<p><small>RIBEIRO, A. E. Sombra e água. Estado de Minas. Belo Horizonte. Disponível em: https://www.em.com.br/cultura/. Acesso em: 6 nov. 2023. Adaptado.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a árvore"
+    },
+    {
+     "key": "B",
+     "text": "esperança",
+     "explanation": "O tronco não eleva a esperança."
+    },
+    {
+     "key": "C",
+     "text": "sua sombra",
+     "explanation": "O tronco eleva a árvore, não a sombra."
+    },
+    {
+     "key": "D",
+     "text": "a vizinhança",
+     "explanation": "Não faz sentido o tronco elevar a vizinhança."
+    },
+    {
+     "key": "E",
+     "text": "a dona da casa",
+     "explanation": "O tronco é da árvore e sustenta a árvore."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "No trecho 'olhadelas carinhosas para a árvore, já com mais de um metro e setenta... além do tronco que a eleva e sustenta', o pronome 'a' retoma 'a árvore'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q10",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 10,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>O trecho que, no texto, apresenta sentido conotativo é:</p>",
+   "passage": "<p><strong>Sombra e água</strong></p>\n<p><strong>1</strong> Finalmente, a jabuticabeira começa um estirão, deixa aquele estágio arbustivo e fica maior do que a dona da casa. Passa do metro e setenta, uns galhos centrais mais eretos e dirigidos ao céu, enquanto outros, mais periféricos, pendem um pouco para todos os lados, formando uma possível copa, embora ainda baixa demais para caber uma pessoa adulta sob sua folhagem verde-escura.</p>\n<p><strong>2</strong> A muda da jabuticabeira não foi adquirida por conta de sua fruta. Todos ao redor advertiam sobre a demora da florada e das jabuticabas, que precisam de água abundante, e aqui... neste terreno seco, pobre, nada haveria de frutificar. A muda foi comprada primeiro porque a dona da casa queria, no futuro, uma sombra. A sombra na varanda era uma espécie de sonho inalcançável, e disseram que, com uma jabuticabeira, neste solo infértil, seria como esperar pela aposentadoria. Demoraria a vida inteira e talvez nem chegasse a tempo de existirem, nesta casa, uma mulher e uma rede, na qual ela se sentaria ou se deitaria para ler um livro ou uma revista ou com um gato cego para acarinhar.</p>\n<p><strong>3</strong> Mas não parece que é o que vai acontecer. Pelo visto, a sombra chegará bem antes da aposentadoria dessa mulher que trabalha diariamente, por três turnos, interrompidos apenas por um pedaço de novela das seis e um café para acordar. A jabuticabeira cresceu mais depois das chuvas abundantes, o que ajudou a confirmar as ambiguidades e os contrassensos do mundo. Enquanto aqui a água alimentou a terra e as raízes de uma sombra frutífera futura, nos bairros ao redor ela levou encostas, fez transbordar o rio, afogou casas e animais de estimação e pessoas, incluindo velhos e crianças em pleno sono. No quintal em que está, a jabuticabeira deu resposta positiva à água que caiu do céu, crescendo mais do que o esperado pela vizinhança inteira, enchendo de alegria a dona da casa, essa mulher que cuida sozinha do filho e que pretende, um dia, habitar mais a própria casa.</p>\n<p><strong>4</strong> Também para desafiar os palpites da vizinhança e dos familiares de pouca fé, a jabuticabeira, ainda bem pequena, começou a dar jabuticabas, mesmo antes de ter um metro e meio, e eram frutas que amadureciam, cresciam, ficavam suculentas e podiam ser consumidas, se alguém as colhesse daquele caule onde nascem grudadas como insetos, depois da floração branca. [...]</p>\n<p><strong>5</strong> Contra todos os palpites da vizinhança e dos poucos familiares com quem ainda conversa pelas redes sociais, a mulher cultiva a jabuticabeira com forte esperança de que seja possível cochilar sob sua sombra um dia; então, não raro, enquanto faz o almoço, a dona da casa dá olhadelas carinhosas para a árvore, já com mais de um metro e setenta de altura e galhos para todos os lados, além do tronco que a eleva e sustenta, e vê florezinhas, depois jabuticabas que, como ninguém colhe, são comidas pelos passarinhos e até por insetos, que descobriram este quintal, esta casa e esta mulher que espera pela jabuticabeira com muito mais esperança e animação do que pela aposentadoria.</p>\n<p><strong>6</strong> A mulher não pode criar seu filho com a dedicação que gostaria, não pode alimentar o gato duas vezes por dia, não consegue regar as mudas com frequência, não está em casa quando o carteiro toca a campainha para entregar correspondências que exigem sua assinatura. Ela acorda muito cedo, faz as entregas do filho, das senhas, das chaves, os acordos com as outras vizinhas, e sai a trabalhar descontente, como provavelmente todas as pessoas do mundo, em especial as que não trabalham para si e para os seus. Ela retorna para o almoço, à tarde muda de endereço profissional, retorna para um café e muda novamente de direção. Nesse exercício de vaivém, quase como uma engrenagem, ela consegue dar olhadelas furtivas para a árvore que se forma no quintal, prometendo algo difícil de comprar, seu maior investimento: sombra e descanso.</p>\n<p><strong>7</strong> Fruem a presença da jabuticabeira borboletas, formigas, passarinhos e mesmo o gato, que cabe embaixo dela e não se importa com a terra molhada ou as folhas em decomposição. Observam a árvore algumas pessoas da vizinhança, numa espécie de aposta controversa, em alguns casos desejando que os galhos sequem, a planta morra, a confirmar as previsões de tão inteligentes pessoas. Outras, no entanto, conseguem ter bons sentimentos e, em pensamento, ficar felizes porque a dona da casa, em alguns tantos anos, haverá de conseguir sua sombra, depois sua rede, onde se deitar com o gato cego e, em paz, morrer.</p>\n<p><small>RIBEIRO, A. E. Sombra e água. Estado de Minas. Belo Horizonte. Disponível em: https://www.em.com.br/cultura/. Acesso em: 6 nov. 2023. Adaptado.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“para caber uma pessoa adulta sob sua folhagem” (parágrafo 1).",
+     "explanation": "Sentido literal (denotativo)."
+    },
+    {
+     "key": "B",
+     "text": "“Todos ao redor advertiam sobre a demora da florada e das jabuticabas” (parágrafo 2).",
+     "explanation": "Sentido literal."
+    },
+    {
+     "key": "C",
+     "text": "“afogou casas” (parágrafo 3)."
+    },
+    {
+     "key": "D",
+     "text": "“A jabuticabeira cresceu mais depois das chuvas abundantes” (parágrafo 3).",
+     "explanation": "Sentido literal."
+    },
+    {
+     "key": "E",
+     "text": "“Ela acorda muito cedo” (parágrafo 6).",
+     "explanation": "Sentido literal."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Casas não se afogam literalmente; 'afogou casas' é uso figurado (conotativo) para inundou, submergiu.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q46",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 46,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "<p>O teste utilizado para avaliação da personalidade, baseado no Modelo dos Cinco Grandes Fatores, é o</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Teste de Rorschach",
+     "explanation": "Técnica projetiva de manchas de tinta, sem base no modelo dos Cinco Fatores."
+    },
+    {
+     "key": "B",
+     "text": "Teste Palográfico",
+     "explanation": "Técnica expressiva gráfica de personalidade, não baseada no Big Five."
+    },
+    {
+     "key": "C",
+     "text": "Teste de Bender",
+     "explanation": "Teste gestáltico visomotor, usado para maturação perceptomotora e indícios neurológicos."
+    },
+    {
+     "key": "D",
+     "text": "Inventário de Personalidade NEO-PI-R"
+    },
+    {
+     "key": "E",
+     "text": "Inventário Multifásico da Personalidade (MMPI)",
+     "explanation": "Inventário de base clínica/psicopatológica, construído por critério empírico, não pelo modelo dos Cinco Fatores."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O NEO-PI-R (Costa e McCrae) avalia neuroticismo, extroversão, abertura, amabilidade e conscienciosidade, os cinco grandes fatores, com 30 facetas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "O uso profissional de testes exige parecer favorável no SATEPSI (Res. CFP 31/2022); a situação de cada teste deve ser conferida no sistema."
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q56",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 56,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "<p>A partir da Psicologia Social crítica, do final do século XX, os processos grupais passam a ser compreendidos como projetos, um eterno “vir a ser”, constituídos em uma tensão entre serialidade e totalidade (Lapassade, 1982). Há uma ameaça constante de dissolução do grupo e de volta à serialidade, em que cada integrante assume e afirma sua individualidade, sendo mais um na presença dos demais. Ao mesmo tempo, há uma busca pela totalidade, em que cada um dos integrantes participa com os demais, introjeta-os e dá sentido à relação estabelecida, afirmando-se e assumindo a totalidade do grupo. Nesse sentido, a metodologia dos grupos operativos de Enrique Pichon-Rivière contribuiu para o trabalho de grupos, explicitando seus modos de funcionamento e permitindo que todos elaborem sobre a experiência coletivamente.</p><p>O conceito que fundamenta o funcionamento dos grupos operativos é o de Esquemas Conceituais Referenciais Operativos (ECROS), que é definido como</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "relações de aproximação e afastamento entre as redes de preferência e de rejeição, nos grupos e na comunidade.",
+     "explanation": "Descreve a sociometria de Moreno (atrações e rejeições)."
+    },
+    {
+     "key": "B",
+     "text": "valores, crenças, medos e fantasias de cada um dos que estão em contato quando se está agindo em grupo."
+    },
+    {
+     "key": "C",
+     "text": "situação de forças no espaço vital, entendendo este como totalidade dos fatos que determinam o comportamento de um indivíduo em um determinado momento.",
+     "explanation": "Descreve a teoria de campo de Kurt Lewin (espaço vital)."
+    },
+    {
+     "key": "D",
+     "text": "a alteração da mente individual, um predomínio da emoção sobre a razão e um papel central do inconsciente coletivo nas ações dos indivíduos que são totalmente direcionados por meio da sugestão do líder e do contágio rápido.",
+     "explanation": "Descreve a psicologia das multidões de Le Bon."
+    },
+    {
+     "key": "E",
+     "text": "a existência de um propósito comum, o reconhecimento comum dos limites de cada membro, a distinção entre os subgrupos internos e a valorização dos membros individualmente por suas contribuições ao grupo.",
+     "explanation": "Descreve características de grupos maduros/equipes, não o ECRO."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Para Pichon-Rivière, o ECRO é o conjunto de experiências, conhecimentos, afetos, valores, crenças, medos e fantasias com que cada um pensa e age. No grupo operativo, os ECROs individuais se confrontam e constroem um esquema referencial comum para a tarefa.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q57",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 57,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "<p>Diversas características e condições específicas de trabalho já foram identificadas como potenciais provocadoras de estresse decorrente do trabalho.</p><p>São exemplos de condições ambientais e de condições relacionadas à organização do trabalho, respectivamente,</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "poluição, ruído e ventilação inadequados; incentivo à autonomia, delegação de responsabilidades e avaliação de desempenho 360º",
+     "explanation": "A primeira parte está certa, mas autonomia e delegação são, em geral, fatores protetores, não estressores."
+    },
+    {
+     "key": "B",
+     "text": "atividades monótonas, repetitivas e fragmentadas; incentivo à competitividade e metas individuais de desempenho",
+     "explanation": "Atividades monótonas e fragmentadas são da organização do trabalho, não condições ambientais."
+    },
+    {
+     "key": "C",
+     "text": "ruído, temperatura e vibração inadequados; atividades monótonas, repetitivas e fragmentadas e ambiguidade de papéis"
+    },
+    {
+     "key": "D",
+     "text": "trabalho remoto e metas de desempenho por equipe; incentivo à autonomia e delegação de responsabilidades",
+     "explanation": "Nenhum dos itens é condição ambiental física, e autonomia não é estressor típico."
+    },
+    {
+     "key": "E",
+     "text": "trabalho em contraturno e ponto eletrônico; poluição, ruído e ventilação inadequados",
+     "explanation": "A ordem está invertida: turnos são da organização do trabalho, e poluição e ruído são ambientais."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Estressores ambientais são agentes físicos do local, como ruído, temperatura, vibração, iluminação e poluição. Estressores da organização do trabalho incluem tarefas monótonas, repetitivas e fragmentadas, ambiguidade e conflito de papéis, ritmo e jornada.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q58",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 58,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>Dentre as fontes de adoecimento psíquico no trabalho elencadas por Christophe Dejours, estão a</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "pressão para realizar trabalhos mal feitos e a rigidez dos modos operatórios definidos pela organização de trabalho."
+    },
+    {
+     "key": "B",
+     "text": "inexistência de programas de qualidade de vida e de remuneração por desempenho.",
+     "explanation": "Programas de QVT e remuneração variável não são as fontes de sofrimento analisadas por Dejours."
+    },
+    {
+     "key": "C",
+     "text": "ausência de hierarquia de controle estrita e de metas de desempenho explícitas.",
+     "explanation": "Dejours aponta o oposto: o controle rígido e a avaliação individualizada adoecem."
+    },
+    {
+     "key": "D",
+     "text": "falta de reconhecimento e a inexistência de planos de benefícios para os empregados.",
+     "explanation": "A falta de reconhecimento é fonte de sofrimento para Dejours, mas a inexistência de benefícios não."
+    },
+    {
+     "key": "E",
+     "text": "pressão para o cumprimento de metas e a inexistência de plano de saúde para os empregados.",
+     "explanation": "Ausência de plano de saúde não é categoria de análise da psicodinâmica."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Para Dejours, o sofrimento patogênico surge quando a organização do trabalho rígida impede o trabalhador de ajustar os modos operatórios. Também surge quando ele é pressionado a fazer um trabalho mal feito, contrário às regras do ofício (sofrimento ético).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q59",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 59,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "<p>Em um processo seletivo, é possível que o psicólogo faça certas inferências sobre os candidatos, que podem impactar significativamente o resultado da seleção.</p><p>Nesse contexto, o efeito halo consiste na(o)</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "busca de convergência com a percepção de outros recrutadores que estejam participando do processo seletivo.",
+     "explanation": "Descreve conformidade ao grupo de avaliadores."
+    },
+    {
+     "key": "B",
+     "text": "tendência a práticas discriminatórias explícitas, com escolha preferencial de candidatos do gênero masculino.",
+     "explanation": "Descreve discriminação de gênero, não o halo."
+    },
+    {
+     "key": "C",
+     "text": "tendência de o psicólogo avaliar melhor os candidatos que se parecem com ele, em relação a questões como gênero, raça, idade, histórias de vida, entre outros.",
+     "explanation": "Descreve o viés de semelhança ('similar a mim')."
+    },
+    {
+     "key": "D",
+     "text": "avaliação do candidato como um todo, a partir de uma característica obtida inicialmente."
+    },
+    {
+     "key": "E",
+     "text": "julgamento do candidato, a partir do seu desempenho na última etapa do processo seletivo.",
+     "explanation": "Descreve o efeito de recência."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "No efeito halo, uma característica percebida no candidato, positiva ou negativa, contamina a avaliação de todas as outras.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unemat-2024-psicologo-q60",
+   "source": {
+    "file": "unemat-2024-psicologo/prova.pdf",
+    "year": 2024,
+    "originalNumber": 60,
+    "exam": "UNEMAT 2024 – Técnico Universitário / Psicólogo",
+    "org": "UNEMAT"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "<p>Nas últimas décadas, ocorreram muitas mudanças no âmbito da capacitação organizacional.</p><p>São características da capacitação no paradigma industrial e no paradigma da informação e do conhecimento, respectivamente, o(a)</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "preparo para a imprevisibilidade, a flexibilidade e a adaptabilidade; o preparo para a estabilidade e a manutenção do status quo",
+     "explanation": "Ordem invertida: estabilidade é do paradigma industrial; flexibilidade, do paradigma do conhecimento."
+    },
+    {
+     "key": "B",
+     "text": "desenvolvimento de competências para o trabalho em equipe; o desenvolvimento de competências para o trabalho autônomo",
+     "explanation": "O trabalho em equipe é ênfase do paradigma do conhecimento, e não do industrial."
+    },
+    {
+     "key": "C",
+     "text": "foco no desenvolvimento contínuo em habilidades sociais; o foco no treinamento para as tarefas do cargo",
+     "explanation": "Ordem invertida: tarefas do cargo é do paradigma industrial."
+    },
+    {
+     "key": "D",
+     "text": "formação para a multifuncionalidade; a formação especializada",
+     "explanation": "Ordem invertida: especialização é industrial; multifuncionalidade, do conhecimento."
+    },
+    {
+     "key": "E",
+     "text": "ênfase em conhecimentos técnicos e na aprendizagem formal; a ênfase em competências pessoais e na aprendizagem <em>on the job</em>"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "No paradigma industrial, a capacitação enfatiza conhecimentos técnicos do cargo, transmitidos em treinamentos formais. No paradigma da informação e do conhecimento, enfatiza competências pessoais, flexibilidade e aprendizagem contínua no próprio trabalho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  }
+ ],
+ "queue": [],
+ "fora": [
+  {
+   "id": "unemat-2024-psicologo-q11",
+   "tema": "Legislação Básica (LDB, CF/88 educação, leis complementares de MT)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q12",
+   "tema": "Legislação Básica (LDB, CF/88 educação, leis complementares de MT)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q13",
+   "tema": "Legislação Básica (LDB, CF/88 educação, leis complementares de MT)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q14",
+   "tema": "Legislação Básica (LDB, CF/88 educação, leis complementares de MT)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q15",
+   "tema": "Legislação Básica (LDB, CF/88 educação, leis complementares de MT)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q16",
+   "tema": "História Política e Econômica e Geografia de Mato Grosso"
+  },
+  {
+   "id": "unemat-2024-psicologo-q17",
+   "tema": "História Política e Econômica e Geografia de Mato Grosso"
+  },
+  {
+   "id": "unemat-2024-psicologo-q18",
+   "tema": "História Política e Econômica e Geografia de Mato Grosso"
+  },
+  {
+   "id": "unemat-2024-psicologo-q19",
+   "tema": "História Política e Econômica e Geografia de Mato Grosso"
+  },
+  {
+   "id": "unemat-2024-psicologo-q20",
+   "tema": "História Política e Econômica e Geografia de Mato Grosso"
+  },
+  {
+   "id": "unemat-2024-psicologo-q21",
+   "tema": "História Política e Econômica e Geografia de Mato Grosso"
+  },
+  {
+   "id": "unemat-2024-psicologo-q22",
+   "tema": "História Política e Econômica e Geografia de Mato Grosso"
+  },
+  {
+   "id": "unemat-2024-psicologo-q23",
+   "tema": "História Política e Econômica e Geografia de Mato Grosso"
+  },
+  {
+   "id": "unemat-2024-psicologo-q24",
+   "tema": "História Política e Econômica e Geografia de Mato Grosso"
+  },
+  {
+   "id": "unemat-2024-psicologo-q25",
+   "tema": "História Política e Econômica e Geografia de Mato Grosso"
+  },
+  {
+   "id": "unemat-2024-psicologo-q26",
+   "tema": "Ética, Filosofia e Atualidades"
+  },
+  {
+   "id": "unemat-2024-psicologo-q27",
+   "tema": "Ética, Filosofia e Atualidades"
+  },
+  {
+   "id": "unemat-2024-psicologo-q28",
+   "tema": "Ética, Filosofia e Atualidades"
+  },
+  {
+   "id": "unemat-2024-psicologo-q29",
+   "tema": "Ética, Filosofia e Atualidades"
+  },
+  {
+   "id": "unemat-2024-psicologo-q30",
+   "tema": "Ética, Filosofia e Atualidades"
+  },
+  {
+   "id": "unemat-2024-psicologo-q31",
+   "tema": "Informática (e-mail, buscadores, Excel, TCP/IP, Windows)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q32",
+   "tema": "Informática (e-mail, buscadores, Excel, TCP/IP, Windows)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q33",
+   "tema": "Informática (e-mail, buscadores, Excel, TCP/IP, Windows)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q34",
+   "tema": "Informática (e-mail, buscadores, Excel, TCP/IP, Windows)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q35",
+   "tema": "Informática (e-mail, buscadores, Excel, TCP/IP, Windows)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q36",
+   "tema": "Psicologia da Saúde no SUS"
+  },
+  {
+   "id": "unemat-2024-psicologo-q37",
+   "tema": "Psicofarmacologia (anticonvulsivantes como estabilizadores do humor)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q38",
+   "tema": "Psicopatologia clínica (DSM-5: distimia)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q39",
+   "tema": "Psicopatologia clínica (DSM-5: ansiedade social)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q40",
+   "tema": "Psicanálise lacaniana"
+  },
+  {
+   "id": "unemat-2024-psicologo-q41",
+   "tema": "Abordagem centrada na pessoa (Rogers)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q42",
+   "tema": "Terapia comportamental (inundação)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q43",
+   "tema": "Psicofarmacologia (ISRS)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q44",
+   "tema": "Classificações diagnósticas CID-10 x DSM-5"
+  },
+  {
+   "id": "unemat-2024-psicologo-q45",
+   "tema": "Terapia comportamental dialética (Linehan)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q47",
+   "tema": "Psicofarmacologia (antidepressivos)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q48",
+   "tema": "Psicologia hospitalar e cuidados paliativos"
+  },
+  {
+   "id": "unemat-2024-psicologo-q49",
+   "tema": "Psicologia social crítica e colonialismo (Fanon)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q50",
+   "tema": "Assistência social (SUAS, NOB-SUAS)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q51",
+   "tema": "Psicologia do desenvolvimento (Vygotsky, ZDP)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q52",
+   "tema": "Saúde pública (apoio matricial)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q53",
+   "tema": "Teorias da aprendizagem (construtivismo)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q54",
+   "tema": "Psicologia escolar (queixa escolar, medicalização)"
+  },
+  {
+   "id": "unemat-2024-psicologo-q55",
+   "tema": "Foucault e poder disciplinar na escola"
+  }
+ ],
+ "log": "Gabarito final oficial ('ALTERADO 20/03/2024'), conferido visualmente: pág. 1 (básicos, provas 1 a 9) e pág. 3 (Prova 7 – Psicólogo). Fora: 11-15 Legislação (LDB, legislação estadual de MT), 16-25 História/Geografia de MT, 26-30 Ética/Filosofia/Atualidades, 31-35 Informática, e a maior parte dos específicos, voltada a clínica, psicofarmacologia, psicanálise, saúde pública/SUS, assistência social e psicologia escolar."
+}

@@ -1,0 +1,370 @@
+{
+  "areaId": "ingles",
+  "resumo": "<p><strong>Onde a prova mora.</strong> São 60 questões de Língua Inglesa no banco — 10 em cada uma das seis provas (2008, 2011, 2012, duas de 2018 e 2023), sempre as questões 11 a 20 do caderno. Em 2026 o bloco de Conhecimentos Gerais traz 10 questões de Inglês. O formato é <strong>exclusivamente compreensão de texto</strong>: 38 questões classificadas como compreensão e 22 como \"itens gramaticais relevantes para a compreensão\" — e mesmo essas 22 são semânticas, não normativas. Enunciado e alternativas estão sempre em inglês; não há tradução, não há produção escrita, não há pergunta sobre nome de regra. Gramática só entra quando muda o sentido.</p><p><strong>O tema é sempre o mesmo.</strong> Os quatro textos-base vieram de jornalismo econômico e de comunicação institucional do setor de energia: pré-sal e águas profundas, <em>Dutch disease</em> e <em>oil curse</em> (2011); World Energy Outlook da IEA, renováveis, CCUS, LNG, veículos elétricos (2018); o mercado de energia de 2018, Arábia Saudita e Irã, <em>shale</em>, carvão na China, queda de custo da energia solar (2018); tecnologia espacial aplicada a transporte, satcom, dados de observação da Terra, latência e emissões (2023). Isso torna o vocabulário previsível — e vocabulário é a metade da nota.</p><p><strong>Cinco formatos cobrem quase tudo.</strong> A tabela abaixo é a estrutura real das seis provas:</p><table><tr><th>Formato</th><th>Quantas</th><th>Como aparece</th></tr><tr><td>Ideia central / propósito do autor</td><td>7 (uma por texto — mas não sempre na questão 11: em 2012 a global é a q18, do Texto II, e em 2008 é a q20, que pede a caracterização do texto inteiro)</td><td>\"The main purpose / main idea / communicative intention of the text is to...\"</td></tr><tr><td>Detalhe localizado em parágrafo indicado</td><td>a maioria das 38</td><td>\"According to paragraphs 5 and 6...\", \"From the fifth paragraph...\"</td></tr><tr><td>Vocabulário e expressão em contexto</td><td>11</td><td>sinônimo, antônimo, ou dois itens \"mean, respectively\"</td></tr><tr><td>Conectivo e palavra de referência</td><td>6 + 4</td><td>\"can be replaced, without changing the meaning, by...\"; \"the word <em>which</em> refers to...\"</td></tr><tr><td>Referência numérica</td><td>1</td><td>\"In terms of numerical reference, one concludes that…\" — cada alternativa amarra um percentual a um referente</td></tr></table><p><strong>Conectivo cai em toda prova.</strong> Uma questão por prova, sem exceção — agora confirmado nas seis: <code>because</code> = <em>due to the fact that</em> (prova6-q17), <code>Still</code> = <em>Nevertheless</em> (psjpn2018-q17), <code>given that</code> = <em>taking into account that</em> (transp15-q13), <code>However</code> = ideia de oposição (transp23e6-q12), <em>as well as</em> = ideia de adição (petrobras-2012-psicologo-junior-q15) e <code>Additionally</code> = <em>furthermore</em> (petrobras-2008-psicologo-junior-q17). Note o padrão dos distratores: eles oferecem conectivos de outra família lógica — adição (<em>furthermore, moreover</em>), conclusão (<em>therefore, thus</em>), concessão (<em>even though, despite the fact that</em>), tempo (<em>meanwhile</em>). Saber o rótulo lógico de cada conectivo resolve as seis.</p><p><strong>A pista mais rentável do banco: linguagem absoluta.</strong> Recontado por script nas alternativas das 60 questões: <strong>24 ocorrências dessas palavras em alternativas erradas, espalhadas por 14 questões, com <em>certainly, definitely, surely, absolutely, only, all, whole, inevitable</em> ou <em>undeniable</em> — e nenhuma alternativa correta contém qualquer uma delas</strong>. A proporção se manteve com o banco 50% maior, o que reforça a pista. Duas ressalvas honestas: 7 dessas 24 ocorrências são só o andaime das questões comparativas (\"<em>only</em> Text I\", \"<em>only</em> Text II\", \"list <em>all</em> the IEA countries\") e 2 são a expressão neutra \"the <em>whole</em> world\" — o núcleo real do padrão são as 15 alternativas que endurecem o texto (\"will certainly reach\", \"is surely leading\", \"can only victimize\", \"definitely facing\", \"inevitable conflict\", \"undeniable world leader\", e as três de petrobras-2012-psicologo-junior-q11 que generalizam para \"<em>all</em> the interviewees\" / \"<em>all</em> the women\" o que o texto só disse de uma entrevistada). <strong>Exceção obrigatória: em questão \"Comparing Texts I and II\" o <em>only</em> faz parte das cinco estruturas fixas e \"only Text I/II\" pode ser o gabarito — nunca elimine por causa dele.</strong> Fora daí, alternativa que endurece um texto hedged (<em>may, might, is likely to, is projected to</em>) quase sempre está errada; use como desempate, não como atalho. Contagem por termo: only 5, certainly 2, definitely 2, all 2, whole 2, surely 1, absolutely 1, inevitable 1, undeniable 1. <em>Never</em> e <em>always</em> <strong>já apareceram</strong>, e confirmam a regra: as três ocorrências do banco estão todas em alternativas ERRADAS (\"will <em>never</em> be ranked with countries such as Russia, India and China\" e \"will <em>never</em> be a country of the future\", as duas em petrobras-2008-psicologo-junior-q11; \"Woman 3 <em>always</em> works off hours\", em petrobras-2012-psicologo-junior-q13). <em>Must</em> segue sem aparecer. Ou seja: nenhuma resposta correta do banco usa linguagem absoluta, seja de reforço (<em>certainly</em>) ou de negação total (<em>never</em>).</p><p><strong>Palavras de referência.</strong> Quatro questões pediram o antecedente exato: <code>it</code> em cinco fragmentos diferentes (prova6-q15), a expressão resumitiva <code>that shift</code> (transp15-q15) e <code>which</code> em \"14% of the UK's greenhouse gas emissions, of which 91% is from road vehicles\" (transp23e6-q16) e <code>those</code> retomando <em>fields</em> (petrobras-2008-psicologo-junior-q16). O procedimento é mecânico: volte no texto, teste o candidato mais próximo que caiba em número e em sentido, e releia a frase com ele no lugar. Em transp15-q15 o antecedente não é uma palavra, é um trecho inteiro (\"moving away from heavy industry fuelled by coal to a more service-based one\") — expressões como <em>that shift, this trend, such a turnaround</em> resumem orações, não substantivos isolados.</p><p><strong>Gramática no nível da leitura.</strong> O que já foi cobrado: referência de tempo em texto de previsão (psjpn2018-q16, em que <code>are changing</code> descreve o presente em curso e todas as outras opções apontam para o futuro, mesmo escritas no presente); correlação comparativa <em>the more... the lower</em> (transp23e6-q14); pronome relativo (transp23e6-q16); valor de conectivo (4 questões); sentido de expressões verbais como <code>take hold</code>, <code>forging ahead</code>, <code>accounting for</code>, <code>picked up</code>, <code>driven by</code>. O que <strong>não</strong> foi objeto de questão, mas aparece nos textos e precisa ser lido sem esforço: voz passiva (<em>is being reshaped, are met, is projected to become</em>), formas nominais (<em>-ing</em> como sujeito ou como redução) e modais de probabilidade. Estude esses três para <em>ler</em>, não para nomear.</p><p><strong>Duas notas de estrutura.</strong> Em 2011, em 2012 e em uma das provas de 2018 havia dois textos, e a última questão do bloco comparava os dois com o andaime <em>only Text I / only Text II / neither / both</em> (prova6-q18, psjpn2018-q20, petrobras-2012-psicologo-junior-q20); nas outras três provas havia um texto só. Metade das provas do banco, portanto, traz dois textos. E em 2023 as questões percorreram o texto <strong>em ordem de parágrafo</strong>, da q12 (primeiro parágrafo) à q20 (oitavo) — o mesmo vale para a prova de 2008, que vai do parágrafo 1 (petrobras-2008-psicologo-junior-q11) ao texto inteiro (petrobras-2008-psicologo-junior-q20) sem voltar atrás. Duas das seis provas usaram essa ordem, então vale entrar na prova preparado para responder lendo o texto uma única vez, de cima para baixo.</p>",
+  "cheatsheet": [
+    {
+      "heading": "Os comandos que a Cesgranrio usa e o que cada um exige",
+      "items": [
+        "'The main purpose / main idea / communicative intention of the text is to...' — pede a função global. A resposta descreve o que o texto FAZ (describe, present an overview, speculate, argue, discuss), não o assunto. Cuidado com alternativas que pegam só um parágrafo.",
+        "'According to paragraph(s) N...' / 'From the fifth paragraph of the text...' — pede detalhe localizado. Vá ao parágrafo indicado e não use nada de fora dele.",
+        "'It can be concluded / one can infer that...' — pede um passo além do literal, mas ainda ancorado. Se você precisa de duas suposições, é distrator.",
+        "'X can be replaced, without changing the meaning, by...' — equivalência de conectivo ou de item lexical. Encaixe o candidato na frase e teste a lógica.",
+        "'The word X refers to...' — antecedente. 'X and Y mean, respectively...' — dois itens, e a ordem importa: confira um a um, porque a banca troca a ordem nos distratores.",
+        "'...EXCEPT...' e 'All ... EXCEPT in' — quatro verdadeiras e uma falsa. Marque V/F ao lado de cada alternativa antes de responder (prova6-q20, psjpn2018-q16).",
+        "'Comparing Texts I and II...' — aparece quando há dois textos, com o andaime only Text I / only Text II / neither / both. 'Neither' e 'both' exigem checar OS DOIS textos; 'only' exige provar a ausência no outro."
+      ]
+    },
+    {
+      "heading": "Linking words por relação lógica (com as que já caíram)",
+      "items": [
+        "CONTRASTE/CONCESSÃO: however (caiu em transp23e6-q12), nevertheless, nonetheless, still (com valor concessivo, psjpn2018-q17), yet, although, even though, despite / in spite of (+ substantivo ou -ing), whereas, while, on the other hand.",
+        "CAUSA: because (prova6-q17), since, as, due to / owing to (+ substantivo), because of, given that (transp15-q13 — é premissa considerada, NÃO concessão), on account of, for.",
+        "CONSEQUÊNCIA: therefore, thus, hence, so, consequently, as a result, accordingly.",
+        "ADIÇÃO: moreover, furthermore, in addition, besides, also, what is more.",
+        "CONDIÇÃO: if, unless (= if not), provided that, as long as, otherwise, in case.",
+        "TEMPO/SEQUÊNCIA: meanwhile, then, afterwards, so far (= até agora), by then, eventually (= no final, NÃO 'eventualmente').",
+        "EXEMPLIFICAÇÃO/REFORMULAÇÃO: such as, for instance, namely, in other words, that is. CONCLUSÃO/RESUMO: ultimately (= em última análise), on the whole, overall, in short."
+      ]
+    },
+    {
+      "heading": "Reference words — como achar o antecedente",
+      "items": [
+        "Pronomes pessoais e possessivos (it, they, its, their) apontam para trás, para o candidato mais próximo que combine em número e em sentido. 'It' também pode ser sujeito impessoal ('it is likely that') — nesse caso não retoma nada.",
+        "Demonstrativos + substantivo genérico (this shift, that trend, such a turnaround, these measures, this phenomenon) resumem uma ORAÇÃO ou um trecho inteiro, não uma palavra (transp15-q15).",
+        "Relativos: 'which' retoma coisa; 'who' retoma pessoa; 'that' retoma qualquer um em oração restritiva; 'whose' indica posse; 'where' indica lugar. Em 'of which 91% is...', o 'which' retoma o substantivo imediatamente anterior (transp23e6-q16).",
+        "Oração relativa com vírgula (non-defining) comenta e vale para todo o antecedente; sem vírgula (defining) restringe. Em non-defining não se usa 'that'.",
+        "Substituição verbal: 'do so', 'does', 'did' retomam um predicado inteiro. Elipse: em 'renewables and natural gas [are] cheaper', o verbo omitido é o da oração anterior.",
+        "Método: releia a frase substituindo fisicamente a palavra de referência pelo candidato. Se aparecer redundância ('the danger... the danger fails to manage') ou incoerência, o candidato caiu."
+      ]
+    },
+    {
+      "heading": "Modais e grau de certeza — a escala que decide alternativas",
+      "items": [
+        "CERTEZA ALTA: will, is going to, must (dedução: 'must be' = certamente é), cannot (impossibilidade).",
+        "PROBABILIDADE MÉDIA: should, is likely to, is expected to, is projected to, is set to.",
+        "POSSIBILIDADE: may, might, could, can (capacidade ou possibilidade geral). 'May not' = talvez não; 'might' é o mais fraco da escala.",
+        "OBRIGAÇÃO/RECOMENDAÇÃO: must, have to (externa), should, ought to, need to. 'Needn't' = não é necessário; 'mustn't' = é proibido — não são sinônimos.",
+        "HEDGING típico dos textos da prova: tends to, appears to, suggests that, in some cases, arguably, so far. Reconhecer hedging é reconhecer que o texto NÃO afirmou de forma absoluta.",
+        "Consequência prática: alternativa com 'certainly', 'definitely', 'surely', 'absolutely', 'inevitable' ou 'undeniable' é candidata a erro por excesso — no banco, 24 ocorrências em alternativas erradas usam esse tipo de termo (em 14 das 60 questões) e nenhuma correta usa. RESSALVA: 7 dessas 24 são só o andaime das comparativas ('only Text I', 'only Text II', 'list all the IEA countries') e 2 são 'the whole world', neutro; em questão 'Comparing Texts I and II' o gabarito PODE ser 'only Text I/II', então nunca elimine por causa do 'only'. 'Never' e 'always' JÁ apareceram — três vezes, todas em alternativas erradas (petrobras-2008-psicologo-junior-q11 B e C, petrobras-2012-psicologo-junior-q13 C); 'must' segue sem aparecer. A regra vale para os dois extremos: absoluto de reforço e negação total erram igual."
+      ]
+    },
+    {
+      "heading": "Tempos e formas verbais no nível necessário para ler",
+      "items": [
+        "Present simple em texto de previsão e de relatório vale como futuro: 'wind BECOMES the leading source soon after 2030' é projeção, não presente (psjpn2018-q16).",
+        "Present continuous ('are changing', 'is being reshaped') descreve processo em curso agora — foi exatamente o critério que separou o gabarito de psjpn2018-q16 das outras quatro.",
+        "Present perfect ('costs have fallen by 70 per cent since 2010') liga passado a presente e é a forma padrão para tendência acumulada. 'Since' + ponto no tempo pede present perfect ('have fallen since 2010'); 'for' + duração aceita perfect (período que continua) e past simple (período encerrado: 'prices fell for three years').",
+        "Past simple para fato datado e encerrado; past perfect ('had fallen') para anterioridade dentro do passado.",
+        "Formas nominais: gerúndio-substantivo como sujeito ('Investing in R&D may open new markets'); particípio reduzindo oração relativa ('the technologies deployed so far' = que foram implantadas até agora); infinitivo de finalidade ('to help manage a consistent flow').",
+        "Condicionais: type 1 (if + present, will) = possível; type 2 (if + past, would) = hipotético; type 3 (if + past perfect, would have) = irreal no passado. 'Unless' = 'if not'."
+      ]
+    },
+    {
+      "heading": "Voz passiva — quem faz e quem sofre",
+      "items": [
+        "Estrutura: be + particípio (+ by + agente). 'The global energy system IS BEING RESHAPED by four major forces' → o agente vem depois de 'by'; sem 'by', o agente foi omitido de propósito.",
+        "A passiva é a marca de registro institucional e científico, e domina os textos da prova: 'energy needs are met', 'the US is projected to become', 'CCUS is required'.",
+        "Passiva com dois objetos: 'the company was given a licence' (o objeto indireto virou sujeito). Passiva com verbo + preposição mantém a preposição: 'the issue was dealt WITH'.",
+        "Get-passive ('got hit', 'got delayed') é informal e mais frequente em fala e em jornalismo leve.",
+        "Erro de leitura típico: inverter agente e paciente. Ao ver 'be + particípio', pergunte sempre 'quem sofreu isso?' antes de escolher a alternativa — várias erradas do banco invertem exatamente esse papel.",
+        "Cuidado com particípio adjetivo x passiva: 'the market is booming' (ativo) x 'the market is regulated' (passivo). '-ing' ativo, '-ed' passivo."
+      ]
+    },
+    {
+      "heading": "Prefixos e sufixos para inferir sentido sem dicionário",
+      "items": [
+        "NEGAÇÃO/REVERSÃO: un- (undisputed, unlock), in-/im-/ir-/il- (irrefutable, impossible), dis- (disturbed, disagree), non- (non-renewable), mis- (misleading), de- (deregulate, decentralise), -less (endless, harmless).",
+        "INTENSIDADE E POSIÇÃO: over- (overestimate, overstate), under- (undermine, underway), out- (output, outstanding), up- (upheaval, upstream), down- (downstream, downturn), re- (resurgence, reshape), inter- (interconnection), pre-/post-.",
+        "SUBSTANTIVOS: -tion/-sion (production, transmission), -ment (investment, government), -ity (capacity, reliability), -ness (awareness), -ance/-ence (maintenance, dependence), -ship (leadership), -al (renewal), -er/-or (supplier, operator).",
+        "ADJETIVOS: -able/-ible (renewable, feasible, sustainable), -ive (competitive), -ous (hazardous), -ful (powerful), -al (environmental), -ing/-ed (booming x embedded).",
+        "VERBOS: -ise/-ize (digitalise), -en (strengthen, deepen), -ify (electrify), -ate (regulate).",
+        "ADVÉRBIOS: -ly (steadily, largely, arguably). Atenção: 'largely' = em grande parte, não 'largamente' no sentido de amplo; 'hardly' = quase não, não 'duramente'."
+      ]
+    },
+    {
+      "heading": "Vocabulário recorrente — energia, óleo e gás, TI",
+      "items": [
+        "EXPLORAÇÃO: crude oil (petróleo bruto), offshore x onshore, deepwater / ultra-deepwater, pre-salt layer, drilling (perfuração), rig (plataforma/sonda), idled rigs (sondas paradas), barrel (barril), output (produção), reserves, prospecting, shale rock, tar sands, moratorium (suspensão), quota, spill (derramamento).",
+        "MERCADO: supply and demand, oil prices, production cuts, offset (compensar), windfall (ganho inesperado), oil curse, Dutch disease, cash cow, subsidies, currency (moeda — não 'corrente'), commodities, net oil exporter, LNG (gás natural liquefeito), local content policy.",
+        "TRANSIÇÃO ENERGÉTICA: renewables, solar photovoltaic, wind power, hydropower, biofuels, EVs (electric vehicles), grid (rede elétrica), electrification, greenhouse gas emissions, carbon capture (CCUS), energy mix, energy efficiency, clean energy technologies, intermittent x consistent flow.",
+        "TI E DADOS: latency (atraso — 'low latency' = atraso mínimo), near real-time data, connectivity, satellite communications (satcom), Earth Observation data, monitoring, forecasting models, automated driving, deployment, state-of-the-art / cutting-edge (de ponta), embedded (incorporado).",
+        "VERBOS E EXPRESSÕES DE TENDÊNCIA: rise, surge (aumento súbito), soar, pick up (melhorar/aumentar), forge ahead (avançar firme), thrive (prosperar), boom, double; fall, decline, drop, plummet, falter (vacilar), wither (murchar), curb (conter), halt (interromper), remain flat (ficar estável), slow down.",
+        "OUTROS ITENS AFERIDOS NO BANCO: take hold (firmar-se, tornar-se difícil de parar), account for (responder por/corresponder a), be driven by (ser motivado por), pivotal (essencial), undisputed (incontestável), incumbent (o estabelecido; 'it is incumbent on' = cabe a), upheaval (convulsão/transformação abrupta), rife (generalizado), claimed (alegado), deployed (implantado), unlock (destravar), stretch (esticar/estender)."
+      ]
+    }
+  ],
+  "mentalModels": [
+    {
+      "title": "A resposta certa é a paráfrase mais pobre",
+      "body": "O gabarito raramente repete as palavras do texto e quase nunca soa impressionante: ele diz o mesmo com vocabulário mais fraco e mais cauteloso. 'The quest for oil in difficult places is just getting underway' vira 'deepwater prospecting has not been halted in other regions' (prova6-q19). Se uma alternativa parece mais forte e mais interessante que o texto, desconfie: interesse é sinal de invenção."
+    },
+    {
+      "title": "Absoluto que endurece o texto = provável erro",
+      "body": "Nas 60 questões, 24 ocorrências em alternativas erradas usam certainly, definitely, surely, absolutely, only, all, whole, inevitable ou undeniable — e nenhuma correta usa. Mas separe o trigo: 5 dessas ocorrências são só o andaime das comparativas (\"only Text I\", \"only Text II\", \"list all the IEA countries\") e 2 são \"the whole world\", expressão neutra; o padrão real são as 9 alternativas que endurecem um texto hedged (may, might, is likely to, is projected to). Em questão \"Comparing Texts I and II\", \"only Text I/II\" pode ser o gabarito — ali o \"only\" é estrutura, não excesso. Fora disso, ao empatar entre duas alternativas, escolha a mais modesta. Never e always já apareceram, e sempre em alternativa errada (petrobras-2008-psicologo-junior-q11, petrobras-2012-psicologo-junior-q13); must ainda não apareceu."
+    },
+    {
+      "title": "Não traduza: localize",
+      "body": "Você não tem tempo para traduzir 90 linhas. Faça skimming primeiro (título, primeira e última frase de cada parágrafo) para montar o mapa do texto; depois, para cada questão, faça scanning das palavras-chave do enunciado — números, nomes próprios, termos técnicos — que são idênticas no texto e no enunciado. Leia com atenção só as duas ou três linhas que cercam o achado."
+    },
+    {
+      "title": "O conectivo é uma seta — desenhe a seta",
+      "body": "Antes de olhar as alternativas de uma questão de conectivo, escreva na margem o que a relação faz: 'contra', 'porque', 'logo', 'e também', 'se'. Depois pergunte qual alternativa tem a mesma seta. Foi o que separou 'given that' (= considerando que, seta de premissa) de 'even though' e 'despite the fact that' (seta de contraste) em transp15-q13."
+    },
+    {
+      "title": "Palavra desconhecida se resolve por moldura, não por dicionário",
+      "body": "Você quase nunca precisa saber a palavra: precisa saber o sinal dela. Olhe (1) o prefixo/sufixo, (2) o conectivo antes dela, (3) se o parágrafo está elogiando ou alertando. 'Pivotal' num parágrafo que diz que satcom sustentará a rede só pode ser positivo e forte — logo 'essential', não 'tricky' nem 'erratic' (transp23e6-q18)."
+    }
+  ],
+  "patterns": [
+    {
+      "title": "Há uma questão global por texto — mas ela não está sempre na questão 11",
+      "howToSpot": "Em quatro das seis provas a primeira questão de inglês pede o propósito, a intenção comunicativa ou a ideia central do texto, e a resposta começa por um verbo de função: describe, present an overview, speculate on, argue that, discuss. As provas antigas mostram que a POSIÇÃO não é garantida, só a existência da questão: em 2012 a q11 é de detalhe (o que cada entrevistada respondeu) e a global é a q18, sobre o propósito do Texto II ('list relevant hints for those interested in entering the job market'); em 2008 a q11 também é de detalhe (parágrafo 1) e a global é a última, petrobras-2008-psicologo-junior-q20, que pede a caracterização do texto como um todo ('argumentative and watchful') — variante em que a resposta é um PAR de adjetivos, e não um verbo de função. Nas provas com dois textos há uma global por texto: em psjpn2018 a q11 é a do Texto I e a q18 ('The main intention of Text II is to discuss the Brazilian...') é a do Texto II — sete globais nas seis provas, uma por texto — conte os textos, não as questões. Os distratores erram de duas formas previsíveis: (1) pegam um parágrafo verdadeiro e o promovem a tese do texto (em transp15-q11, 'explain the reasons for the sudden increase in the price of oil'); (2) trocam o verbo de função, transformando especulação em certeza ('provide precise answers', 'forecast changes'). Decida o verbo antes de olhar o objeto: se o texto levanta perguntas incertas, nenhuma alternativa com 'explain' ou 'precise' serve.",
+      "evidence": [
+        "prova6-q11",
+        "psjpn2018-q11",
+        "psjpn2018-q18",
+        "transp15-q11",
+        "transp23e6-q11",
+        "petrobras-2012-psicologo-junior-q18",
+        "petrobras-2008-psicologo-junior-q20"
+      ]
+    },
+    {
+      "title": "Uma questão de conectivo por prova — por substituição ou pelo nome da relação",
+      "howToSpot": "Formato fixo: um fragmento com o conectivo em negrito e o comando 'can be replaced, without changing the meaning, by' ou 'can be associated with the idea of'. Já caíram because, Still, given that, However, as well as e Additionally — seis provas, seis questões, sem uma única exceção. Nas duas questões antigas o comando muda de roupa mas não de conteúdo: petrobras-2012-psicologo-junior-q15 pede a expressão que introduz ideia de ADIÇÃO (as well as) em vez de pedir a substituição, e petrobras-2008-psicologo-junior-q17 pede o único item em que a palavra em negrito pode ser trocada por <em>furthermore</em> (Additionally). Saber o rótulo lógico serve nos dois sentidos: do conectivo para a relação e da relação para o conectivo. Os distratores vêm de outra família lógica, e é isso que os denuncia: contra 'given that' (premissa) ofereceram even so, even though e despite the fact that (concessão) e because of the fact that (causa direta); contra 'Still' (concessão) ofereceram Therefore, Furthermore, In other words e Because of that. Classifique o conectivo do texto — causa, contraste, adição, conclusão, condição, premissa — e elimine tudo que não seja dessa família.",
+      "evidence": [
+        "prova6-q17",
+        "psjpn2018-q17",
+        "transp15-q13",
+        "transp23e6-q12",
+        "petrobras-2012-psicologo-junior-q15",
+        "petrobras-2008-psicologo-junior-q17"
+      ]
+    },
+    {
+      "title": "Distrator por endurecimento: a alternativa afirma mais do que o texto",
+      "howToSpot": "24 ocorrências em alternativas erradas do banco, espalhadas por 14 questões, carregam certainly, definitely, surely, absolutely, only, all, whole, inevitable ou undeniable; nenhuma alternativa correta carrega qualquer uma delas. (Contagem refeita por script sobre as 60 questões, não herdada do banco antigo.) Contagem por termo nas alternativas erradas (soma 24): only 8, all 6, whole 2, certainly 2, definitely 2, surely 1, absolutely 1, inevitable 1, undeniable 1. Fora dessa lista, <em>never</em> aparece 2 vezes e <em>always</em> 1 — também sempre em alternativa errada (petrobras-2008-psicologo-junior-q11 B e C, petrobras-2012-psicologo-junior-q13 C) —, e <em>must</em> segue sem nenhuma aparição. Antes de usar a pista, descarte o ruído: 7 das 24 ocorrências são apenas o andaime estrutural das questões comparativas (prova6-q18 A e B, psjpn2018-q20 A, B e D, petrobras-2012-psicologo-junior-q20 D e E: 'only Text I...', 'only Text II...', 'list all the IEA association countries') e 2 são a expressão neutra 'the whole world' (prova6-q11 B, prova6-q19 C). EXCEÇÃO OBRIGATÓRIA: em questão 'Comparing Texts I and II' o 'only' é uma das cinco estruturas fixas e 'only Text I/II' pode perfeitamente ser o gabarito — eliminar por causa dele custa a questão. O núcleo real do padrão são as 15 alternativas que endurecem o texto: 'all the economic risks Brazil will certainly run' (prova6-q11 A), 'can only victimize already affluent nations' (prova6-q12 C), 'is surely leading Brazilian engineers' (prova6-q13 C), 'be absolutely harmless' (prova6-q16 D), 'an undeniable world leader' (psjpn2018-q13 D), 'will certainly reach higher levels' (transp15-q14 B), 'definitely a long-lasting phenomenon' e 'definitely facing a moment of stability' e 'inevitable conflict in the Middle East' (transp15-q20 B, D, E); e, nas provas antigas, três alternativas de petrobras-2012-psicologo-junior-q11 que generalizam para 'all the interviewees', 'all the women', 'all the interviewees mentioned' aquilo que o texto atribui a uma só entrevistada — o gabarito é justamente 'just one of the women commented' —, 'accept jobs with severe routines only' (petrobras-2012-psicologo-junior-q19 C), 'not appropriate for the extraction of all the oil discovered' (petrobras-2008-psicologo-junior-q18 C) e as duas negações totais de petrobras-2008-psicologo-junior-q11 ('will never be ranked with...', 'will never be a country of the future'). Repare que a pista vale para os dois extremos: endurecer para cima (certainly, undeniable) e para baixo (never) erram do mesmo jeito, porque o texto jornalístico hedged não autoriza nem um nem outro. Use como critério de desempate depois de ler, nunca como atalho.",
+      "evidence": [
+        "prova6-q11",
+        "prova6-q12",
+        "prova6-q13",
+        "prova6-q16",
+        "psjpn2018-q13",
+        "transp15-q14",
+        "transp15-q20",
+        "prova6-q18",
+        "psjpn2018-q20",
+        "petrobras-2012-psicologo-junior-q11",
+        "petrobras-2012-psicologo-junior-q19",
+        "petrobras-2008-psicologo-junior-q11",
+        "petrobras-2008-psicologo-junior-q18"
+      ]
+    },
+    {
+      "title": "Vocabulário em contexto — e a variante 'mean, respectively'",
+      "howToSpot": "Onze questões testam item lexical: um par sinônimo (undisputed/irrefutable, psjpn2018-q14), um par antônimo (curb/foster, prova6-q14), uma substituição direta (pivotal = essential, transp23e6-q18), uma expressão idiomática ('take hold' = firmar-se, prova6-q16), afirmações sobre pares de palavras (transp15-q18) e duas questões com DOIS itens 'respectively' (psjpn2018-q15 com forging ahead + accounting for; transp15-q16 com picked up + driven by). Na variante 'respectively', o distrator clássico acerta um item e erra o outro — em psjpn2018-q15, 'rising steeply – being blamed for' acerta a direção de forging ahead e falha em accounting for. Confira os dois itens separadamente e só aceite a alternativa em que ambos passem. As quatro antigas repetem os mesmos moldes: substituição direta com sinônimo ('headquarters' = main office, petrobras-2012-psicologo-junior-q14; 'turn down' = refuse, petrobras-2012-psicologo-junior-q16; 'tackle' = deal with, petrobras-2008-psicologo-junior-q14) e a variante negativa, em que se pede a explicação INCORRETA de uma expressão (petrobras-2008-psicologo-junior-q15, sobre 'traditionally inward-looking family-owned affairs'). Nas de substituição, teste a alternativa <em>dentro da frase original</em>: se a frase continuar dizendo a mesma coisa, é a resposta; 'turn down' só significa recusar nesse contexto (com salário como objeto), e é por isso que traduções soltas atrapalham.",
+      "evidence": [
+        "prova6-q14",
+        "prova6-q16",
+        "psjpn2018-q14",
+        "psjpn2018-q15",
+        "transp15-q16",
+        "transp15-q18",
+        "transp23e6-q18",
+        "petrobras-2012-psicologo-junior-q14",
+        "petrobras-2012-psicologo-junior-q16",
+        "petrobras-2008-psicologo-junior-q14",
+        "petrobras-2008-psicologo-junior-q15"
+      ]
+    },
+    {
+      "title": "Palavra de referência: o antecedente pode ser um trecho, não uma palavra",
+      "howToSpot": "Quatro questões pedem o referente: 'it' testado em cinco fragmentos simultâneos (prova6-q15), 'that shift' (transp15-q15) 'which' dentro de 'of which 91% is from road vehicles' (transp23e6-q16) e 'those' retomando 'fields' em petrobras-2008-psicologo-junior-q16 — nesta a questão é de múltipla afirmação sobre referência, e o que decide é a concordância de número entre o pronome plural e o único candidato plural próximo. Os distratores são substantivos que estão ali perto — 'beaker', 'danger', 'coast', 'stream' em prova6-q15; 'road vehicles', 'transport sector', 'United Kingdom' em transp23e6-q16. Dois cuidados: com demonstrativo + substantivo genérico (that shift, this trend), o antecedente costuma ser uma oração inteira; e o candidato tem de caber em número e em contável/incontável, o que já elimina metade das opções.",
+      "evidence": [
+        "prova6-q15",
+        "transp15-q15",
+        "transp23e6-q16",
+        "petrobras-2008-psicologo-junior-q16"
+      ]
+    },
+    {
+      "title": "Prova com dois textos termina em questão comparativa com andaime de quantificador",
+      "howToSpot": "Três das seis provas tinham Text I e Text II, e nas três a última questão do bloco compara os dois usando sempre as mesmas cinco estruturas: 'only Text I...', 'only Text II...', 'neither Text I nor Text II...', 'both Text I and Text II...' e uma mista. O trabalho é de verificação dupla: 'only' exige provar a presença em um e a AUSÊNCIA no outro — o erro mais comum é aceitar 'only Text I' quando o Texto II também menciona o assunto. As corretas foram justamente as de 'both' (prova6-q18, psjpn2018-q20), o que combina com a lógica de a banca escolher dois textos sobre o mesmo tema. Em petrobras-2012-psicologo-junior-q20 o gabarito é justamente o 'both' ('both texts present ways of starting successful careers in the O&G industry'), com dois 'only Text' entre os distratores — mais uma confirmação de que, neste formato, o quantificador não serve de pista: o que decide é checar a afirmação em cada um dos dois textos, separadamente.",
+      "evidence": [
+        "prova6-q18",
+        "psjpn2018-q20",
+        "petrobras-2012-psicologo-junior-q20"
+      ]
+    },
+    {
+      "title": "Questões com EXCEPT invertem a lógica de marcação",
+      "howToSpot": "Três questões usam EXCEPT em maiúsculas: 'Herbert illustrates the possibility of idled rigs heading to other shores EXCEPT when he mentions' (prova6-q20), 'All the boldfaced verb phrases express a future action, EXCEPT in' (psjpn2018-q16) e 'can result from all the following situations, EXCEPT' (petrobras-2012-psicologo-junior-q12). Nos dois casos a alternativa correta é a única que NÃO pertence ao conjunto — em prova6-q20, a suspensão da moratória é a CAUSA hipotética e não um exemplo de prospecção em curso; em psjpn2018-q16, 'are changing' é presente em curso enquanto as outras quatro se ancoram em marcadores de futuro. Marque V/F ao lado de cada alternativa segundo o critério positivo e só depois inverta. A terceira é petrobras-2012-psicologo-junior-q12 ('getting a job in the O&G industry can result from all the following situations, EXCEPT'), e a prova de 2008 traz a variante com outro rótulo: petrobras-2008-psicologo-junior-q15 pede a opção em que a expressão está INCORRECTLY explained. Nas duas, quatro alternativas são apoiadas pelo texto e uma não — e o risco é o mesmo de sempre: marcar a primeira que se confirma no texto.",
+      "evidence": [
+        "prova6-q20",
+        "psjpn2018-q16",
+        "petrobras-2012-psicologo-junior-q12",
+        "petrobras-2008-psicologo-junior-q15"
+      ]
+    },
+    {
+      "title": "Duas provas percorreram o texto na ordem dos parágrafos (2008 e 2023)",
+      "howToSpot": "Na prova de 2023, todas as nove questões que vêm depois da global citam explicitamente um parágrafo, e em ordem crescente: q12 no primeiro parágrafo, q13 e q14 no segundo, q15 no terceiro, q16 no quarto, q17 no quinto, q18 no sexto, q19 no sétimo e q20 no oitavo. Se o padrão se repetir, a estratégia muda: leia o texto uma única vez, de cima para baixo, respondendo as questões conforme os parágrafos passam, em vez de reler o texto para cada item. Nas provas anteriores a ancoragem também existia ('According to paragraphs 5 and 6', 'in paragraph 4'), mas sem essa ordem estrita. A prova de 2008 faz o mesmo caminho: petrobras-2008-psicologo-junior-q11 no parágrafo 1, q12 na frase de transição (linhas 11-13), q13 no parágrafo 2, q14 na linha 28, q15 nas linhas 31-32, q16 na linha 46, q18 no parágrafo 6 (linhas 48-54), q19 nas linhas 56-58 e q20 no texto inteiro — nenhuma questão volta atrás. Com duas das seis provas nesse desenho, vale entrar na prova assumindo a ordem e checando: se as três primeiras questões citarem parágrafos crescentes, siga lendo de cima para baixo; se a segunda já apontar para o fim do texto, abandone a hipótese e volte à leitura completa antes de responder.",
+      "evidence": [
+        "transp23e6-q12",
+        "transp23e6-q15",
+        "transp23e6-q17",
+        "transp23e6-q19",
+        "transp23e6-q20",
+        "petrobras-2008-psicologo-junior-q11",
+        "petrobras-2008-psicologo-junior-q13",
+        "petrobras-2008-psicologo-junior-q18",
+        "petrobras-2008-psicologo-junior-q20"
+      ]
+    }
+  ],
+  "tactics": [
+    {
+      "title": "Skimming de 3 minutos antes de qualquer questão",
+      "body": "Leia título, subtítulo, fonte, primeira e última frase de cada parágrafo, e anote uma palavra por parágrafo na margem. Isso entrega de graça a questão 11 (ideia central, que cai sempre) e cria o índice que você vai usar no scanning das outras nove. Ler o texto linha por linha antes de saber o que procurar é o jeito mais rápido de perder o bloco de inglês."
+    },
+    {
+      "title": "Scanning pelas palavras que não mudam",
+      "body": "Números, percentuais, nomes próprios, siglas e termos técnicos aparecem iguais no enunciado e no texto — 'Saudi Arabia and Iran', '70 per cent', 'SODOR', 'CCUS', 'Dutch disease'. Localize a palavra-chave, leia as duas linhas antes e as duas depois, e responda. Em transp15-q17, que pergunta a que se refere cada percentual, a questão inteira se resolve por localização."
+    },
+    {
+      "title": "Responda com o dedo no texto",
+      "body": "Toda alternativa que você marcar precisa de um trecho identificável que a sustente. Se você está escolhendo porque 'faz sentido' ou porque 'é verdade sobre energia', está escolhendo distrator: as erradas do banco são frequentemente verdadeiras no mundo (a China cresce, o petróleo polui) e ausentes do texto. Sem trecho, não marque."
+    },
+    {
+      "title": "Nas questões de dois itens, confira um por um",
+      "body": "Quando o comando disser 'mean, respectively' ou listar duas expressões, escreva sua própria glosa para cada uma ANTES de ler as alternativas, e depois valide as duas metades separadamente. A banca monta distratores que acertam a primeira e erram a segunda (psjpn2018-q15, transp15-q16). Nunca aceite uma alternativa pela primeira metade."
+    },
+    {
+      "title": "Trate hedging e absolutos como dado, não como estilo",
+      "body": "Sublinhe no texto os may, might, could, is likely to, is projected to, suggests — e, nas alternativas, os certainly, definitely, surely, absolutely, inevitable, undeniable. Essa comparação é o desempate mais confiável do bloco: no banco, o texto hedged nunca sustentou uma alternativa absoluta, e nenhuma resposta correta usou linguagem absoluta. Uma exceção que você precisa saber de cor: nas questões 'Comparing Texts I and II', 'only Text I' e 'only Text II' são estrutura fixa da questão e podem ser o gabarito — ali o 'only' não conta como excesso. Mesma ressalva para 'the whole world', que é expressão neutra."
+    },
+    {
+      "title": "Estude vocabulário por campo semântico do setor, com o texto em volta",
+      "body": "Os quatro textos são de energia, óleo e gás e tecnologia aplicada. Monte suas listas por campo (exploração, mercado, transição energética, dados/TI, verbos de tendência) e sempre em frase, nunca palavra solta — porque o que a prova cobra é reconhecimento em contexto ('low latency' significando transmissão com atraso mínimo, 'take hold' significando firmar-se) e não tradução isolada."
+    }
+  ],
+  "trapWords": [
+    {
+      "term": "realise / realize",
+      "confusedWith": "realizar (fazer, executar)",
+      "distinction": "Em inglês significa 'perceber, dar-se conta' — foi por isso que 'realise – understand' apareceu como par de sinônimos, e não de antônimos, em prova6-q14. Para 'realizar' no sentido de executar, o inglês usa carry out, perform, achieve."
+    },
+    {
+      "term": "ultimately",
+      "confusedWith": "ultimamente (lately, recently)",
+      "distinction": "'Ultimately' = em última análise, no fim das contas; marca conclusão, não tempo recente. Apareceu em prova6-q17 justamente para não ser confundido com 'Furthermore' (adição). 'Ultimamente' é 'lately' ou 'recently'."
+    },
+    {
+      "term": "claimed",
+      "confusedWith": "hidden / comprovado",
+      "distinction": "'Claimed' = alegado, afirmado sem prova (ou reivindicado). Em transp15-q18 a alternativa que trocava 'claimed' por 'hidden' era falsa. Note também 'claim' como substantivo: alegação, reivindicação — não 'reclamação' (complaint)."
+    },
+    {
+      "term": "given that",
+      "confusedWith": "even though / despite the fact that",
+      "distinction": "'Given that' introduz uma premissa considerada ('taking into account that'), com valor de causa/consideração — não de concessão. Foi exatamente essa a decisão de transp15-q13, cujos distratores eram todos concessivos."
+    },
+    {
+      "term": "still (concessivo)",
+      "confusedWith": "still (temporal) / therefore",
+      "distinction": "Iniciando frase e seguido de contraste, 'Still' = ainda assim, no entanto (= nevertheless), como em psjpn2018-q17. Dentro da frase junto ao verbo, 'still' = ainda (tempo): 'projects are still in the planning stages'. A posição decide o valor."
+    },
+    {
+      "term": "flat",
+      "confusedWith": "plano / apartamento",
+      "distinction": "Em texto econômico, 'flat' significa estável, sem crescimento — 'growth remained flat'. Em transp15-q18 a alternativa que dizia que 'flat' e 'high' expressam ideias semelhantes era falsa. 'Flat' como substantivo (apartamento) é britânico e não aparece nesse gênero."
+    },
+    {
+      "term": "rife",
+      "confusedWith": "scarce / rare",
+      "distinction": "'Rife' = disseminado, abundante, generalizado (geralmente de algo ruim: 'speculation is rife'). É praticamente o oposto de 'scarce' — e o distrator A de transp15-q18 apostava justamente nessa confusão."
+    },
+    {
+      "term": "surge",
+      "confusedWith": "surgir / to emerge",
+      "distinction": "'A surge' é um aumento súbito e forte; 'to surge' é disparar. Não é 'surgir' (to arise, to emerge). Em transp15-q18, 'surge' e 'increase' foram apresentados como antônimos — falso, são próximos."
+    },
+    {
+      "term": "take hold",
+      "confusedWith": "segurar, tomar posse",
+      "distinction": "'Take hold' significa firmar-se, instalar-se e ficar difícil de reverter — o sentido cobrado em prova6-q16 sobre a Dutch disease e o oil curse. Nada a ver com pegar ou segurar algo fisicamente."
+    },
+    {
+      "term": "account for",
+      "confusedWith": "contabilizar / explicar-se",
+      "distinction": "'To account for X' = responder por X, corresponder a X (uma parcela), ou explicar X: 'India accounting for almost one-third of global growth'. Em psjpn2018-q15 o equivalente aceito foi 'being the reason for'; 'being blamed for' (ser culpado por) foi distrator."
+    },
+    {
+      "term": "pick up",
+      "confusedWith": "pegar, buscar",
+      "distinction": "Com economia, produção ou atividade como sujeito, 'pick up' = melhorar, ganhar ritmo: 'as economic growth has picked up' (transp15-q16). Os distratores ofereciam declined, deteriorated e stabilized — sinal contrário."
+    },
+    {
+      "term": "be driven by",
+      "confusedWith": "ser dirigido / ser atrasado",
+      "distinction": "'Driven by' = impulsionado, motivado, causado por: 'driven not least by the levels of air pollution' (transp15-q16). Não é 'guiado por' no sentido de condução, nem 'hindered by' (impedido por) ou 'delayed by' (atrasado por), que foram distratores."
+    },
+    {
+      "term": "output",
+      "confusedWith": "saída (de dispositivo)",
+      "distinction": "Em texto de energia, 'output' é produção, volume produzido: 'output from America's producing areas'. O oposto é 'input' (insumo). Em TI 'output' é saída de dados — o contexto do parágrafo decide, e nessas provas o contexto é sempre produção."
+    },
+    {
+      "term": "low latency",
+      "confusedWith": "baixo volume de dados",
+      "distinction": "Latência é o atraso na transmissão, não a quantidade transmitida: 'low latency' = alto volume de dados com atraso mínimo, e foi essa a alternativa correta de transp23e6-q15. Três distratores trocavam latência por 'low volume of data', que é outra grandeza."
+    },
+    {
+      "term": "pivotal",
+      "confusedWith": "tricky / erratic",
+      "distinction": "'Pivotal' = central, crucial, essencial (o pivô de algo). É avaliação positiva e forte, o que sozinho elimina tricky, erratic, haphazard e problematic em transp23e6-q18. Pareia com 'crucial', 'key', 'critical'."
+    }
+  ],
+  "resources": [
+    {
+      "title": "English Grammar Today",
+      "publisher": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/",
+      "kind": "guia",
+      "free": true,
+      "why": "Gramática de referência para o I.2 (tempos verbais, modais, conectores) com exemplos autênticos; naturalmente em inglês."
+    },
+    {
+      "title": "Cambridge English Dictionary",
+      "publisher": "Cambridge University Press",
+      "url": "https://dictionary.cambridge.org/dictionary/english/",
+      "kind": "guia",
+      "free": true,
+      "why": "Definição, colocação e phrasal verbs para resolver vocabulário do I.1 sem apelar para tradução literal."
+    },
+    {
+      "title": "Oxford Learner's Dictionaries",
+      "publisher": "Oxford University Press",
+      "url": "https://www.oxfordlearnersdictionaries.com/us/",
+      "kind": "guia",
+      "free": true,
+      "why": "Verbetes com padrões gramaticais e uso — apoio a I.1 e I.2, útil para distinguir sinônimos em questão de inferência."
+    },
+    {
+      "title": "BBC Learning English — Course: lower intermediate",
+      "publisher": "BBC",
+      "url": "https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate",
+      "kind": "curso",
+      "free": true,
+      "why": "Curso gratuito com textos e áudio para treinar leitura e itens gramaticais do I.1 e I.2 em volume."
+    },
+    {
+      "title": "Purdue OWL — Grammar",
+      "publisher": "Purdue University",
+      "url": "https://owl.purdue.edu/owl/general_writing/grammar/index.html",
+      "kind": "guia",
+      "free": true,
+      "why": "Explicações curtas e sistemáticas de pontos gramaticais (I.2) na fonte institucional mais usada em inglês acadêmico."
+    }
+  ]
+}

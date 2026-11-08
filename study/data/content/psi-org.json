@@ -1,0 +1,135 @@
+{
+  "areaId": "psi-org",
+  "resumo": "<p><strong>O que a banca cobra.</strong> 37 questões oficiais no banco, de 5 provas: BNDES 2013 (13), BNDES 2024 (9), Petrobras 2012 (7), MPE-RO 2005 (6) e AL-TO 2005 (2). Por subitem do edital: gestão de desempenho 8, gestão estratégica de pessoas 7, gestão por competências 6, análise e desenvolvimento organizacional 6, gestão de conflitos 4, transformações no mundo do trabalho 3, gestão de mudanças 3. Nenhuma autoral: tudo aqui é cobrança real. As provas de 2005 citam o autor no enunciado (\"Segundo Pontes (2002)\", \"Para Fleury & Fleury\"); as de 2012 a 2024 trocam a citação por um caso curto e pedem o conceito que o explica. São 22% das questões específicas oficiais do banco, um indicador histórico e não uma previsão.</p>\n<p><strong>Fundamentos que sustentam as questões.</strong></p>\n<ul>\n<li><strong>Mudança</strong>: Lewin (descongelar, mudar, recongelar; campo de forças: forças propulsoras x restritivas), Kotter (8 passos, começando pelo senso de urgência), resistência à mudança como dado a diagnosticar e trabalhar, não a eliminar. A banca aceita como certo o roteiro completo: detectar resistências, fortalecer apoios, planejar, implementar e estabilizar (bndes-2013-profissional-basico-psicologia-q52). Modelos mentais: o ambiente é em parte construção cognitiva da organização (petrobras-2012-psicologo-junior-q37, petrobras-2012-psicologo-junior-q39).</li>\n<li><strong>Ciclo de vida</strong>: Greiner, cada fase de crescimento termina numa crise que abre a seguinte: criatividade e crise de liderança; direção e crise de autonomia; delegação e crise de controle; coordenação e crise de burocracia; colaboração (petrobras-2012-psicologo-junior-q63).</li>\n<li><strong>Desenvolvimento organizacional (DO)</strong>: mudança planejada, de longo prazo, com valores de respeito, confiança, confrontação e participação; técnicas como retroação de levantamento (survey feedback), consultoria de processos (Schein), formação de equipes, desenvolvimento intergrupal e investigação apreciativa (bndes-2013-profissional-basico-psicologia-q68).</li>\n<li><strong>Organizações que aprendem</strong>: Senge (5 disciplinas: domínio pessoal, modelos mentais, visão compartilhada, aprendizagem em equipe, pensamento sistêmico) e Argyris (aprendizagem de circuito simples corrige o erro; de circuito duplo questiona a norma que gerou o erro). Certo: visão compartilhada e aprendizagem generativa (bndes-2013-profissional-basico-psicologia-q44), mecanismos eficazes de distribuir e interpretar informação (mpe-ro-2005-analista-psicologia-q23).</li>\n<li><strong>Estrutura</strong>: Mintzberg (5 partes: cúpula estratégica, linha intermediária, núcleo operacional, tecnoestrutura, assessoria de apoio; 5 configurações: estrutura simples, burocracia mecanizada, burocracia profissional, forma divisionalizada, adhocracia). Em rede, o desenvolvimento passa a ser responsabilidade do próprio empregado (petrobras-2012-psicologo-junior-q58). Não há questão de Mintzberg no banco: vale como base.</li>\n<li><strong>Competências</strong>: Fleury e Fleury, \"saber agir responsável e reconhecido\" que agrega valor econômico à organização e social ao indivíduo (mpe-ro-2005-analista-psicologia-q46); CHA (conhecimentos, habilidades, atitudes); Prahalad e Hamel (competências essenciais da organização); Dutra (complexidade e entrega). A gestão por competências existe para fechar o <strong>gap</strong> (bndes-2013-profissional-basico-psicologia-q40, bndes-2013-profissional-basico-psicologia-q64).</li>\n<li><strong>Desempenho</strong>: avaliação verifica o comportamento face aos resultados esperados (Pontes; al-to-2005-consultor-legislativo-psicologia-q21, mpe-ro-2005-analista-psicologia-q48); 360 graus confronta autopercepção com várias fontes (al-to-2005-consultor-legislativo-psicologia-q22, bndes-2013-profissional-basico-psicologia-q43); erros do avaliador (halo, leniência ou complacência, tendência central, recência, contraste); balanced scorecard com 4 perspectivas (bndes-2013-profissional-basico-psicologia-q63); gestão do desempenho olha também estrutura, tecnologia e intangíveis (bndes-2013-profissional-basico-psicologia-q33).</li>\n<li><strong>Conflito</strong>: Thomas-Kilmann (assertividade x cooperação: competição, colaboração, compromisso, acomodação, evitação; bndes-2024-analista-psicologia-organizacional-q42); Schein sobre conflito intergrupal (cada grupo fica mais coeso e aceita liderança autocrática; bndes-2013-profissional-basico-psicologia-q34); Bowditch e Buono (abordagens estruturais x de processo, como a desativação; bndes-2024-analista-psicologia-organizacional-q68).</li>\n<li><strong>Gestão estratégica de pessoas</strong>: pessoas como parceiras, não como recursos (bndes-2024-analista-psicologia-organizacional-q49); Ulrich (parceiro estratégico, especialista administrativo, defensor dos funcionários, agente de mudança); papel do psicólogo entre produtividade e bem-estar, buscando relação equânime (petrobras-2012-psicologo-junior-q66).</li>\n</ul>",
+  "cheatsheet": [
+    {
+      "heading": "Mudança organizacional",
+      "items": [
+        "Lewin: <strong>descongelamento</strong> (criar a necessidade), <strong>mudança</strong> ou movimento (novos comportamentos), <strong>recongelamento</strong> (institucionalizar). Campo de forças: aumentar propulsoras ou reduzir restritivas.",
+        "Kotter, 8 passos: senso de urgência; coalizão administrativa; visão e estratégia; comunicar a visão; dar poder (empowerment) para ação; vitórias de curto prazo; consolidar ganhos; ancorar na cultura.",
+        "Resistência: individual (hábito, segurança, fatores econômicos, medo do desconhecido, processamento seletivo) e organizacional (inércia estrutural, foco limitado, inércia do grupo, ameaça à especialização, ao poder e aos recursos).",
+        "Greiner: criatividade → crise de liderança; direção → crise de autonomia; delegação → crise de controle; coordenação → crise de burocracia; colaboração."
+      ]
+    },
+    {
+      "heading": "Desenvolvimento e aprendizagem organizacional",
+      "items": [
+        "DO: mudança planejada, sistêmica e de longo prazo; valores: respeito pelas pessoas, confiança e apoio, igualdade de poder, confrontação, participação.",
+        "Técnicas de DO: retroação de dados (survey feedback), consultoria de processos (Schein), formação de equipes (team building), desenvolvimento intergrupal, investigação apreciativa (descoberta, sonho, projeto, destino), grid gerencial.",
+        "Senge, 5 disciplinas: domínio pessoal, modelos mentais, visão compartilhada, aprendizagem em equipe, <strong>pensamento sistêmico</strong> (a quinta, que integra).",
+        "Argyris: circuito simples (corrige o erro sem mudar a regra) x <strong>circuito duplo</strong> (revê as normas e premissas). Aprendizagem exige mudar o modo de ver, não só acumular informação.",
+        "Benchmarking: estudar práticas excelentes de outras empresas para achar falhas e planejar mudanças nos próprios processos ({P12}53)."
+      ]
+    },
+    {
+      "heading": "Competências e desempenho",
+      "items": [
+        "Competência (Fleury e Fleury): saber agir responsável e reconhecido; mobiliza, integra e transfere conhecimentos, recursos e habilidades; agrega valor econômico à organização e social ao indivíduo.",
+        "Fórmula do gap usada pela banca: N = I × (4 − D), importância vezes a distância do domínio máximo. Maior N, maior necessidade de desenvolver ({B13}64).",
+        "Avaliação 360 graus: feedback de várias fontes (chefe, pares, subordinados, clientes, autoavaliação); mérito: confrontar a autopercepção com a percepção dos outros.",
+        "Erros de avaliação: <strong>halo</strong> (uma impressão contamina todos os fatores), leniência e severidade, tendência central, recência, contraste, semelhança.",
+        "Balanced scorecard (Kaplan e Norton): perspectivas financeira, clientes, processos internos, aprendizado e crescimento. Navegador Skandia: focos financeiro, cliente, processo, renovação e desenvolvimento, humano.",
+        "Princípio de Peter: promoção pelo desempenho passado leva a pessoa ao nível de incompetência; resposta da banca: treinamento e desenvolvimento ({B13}69)."
+      ]
+    },
+    {
+      "heading": "Conflitos",
+      "items": [
+        "Thomas-Kilmann: <strong>competição</strong> (assertivo, não cooperativo); <strong>colaboração</strong> (assertivo e cooperativo, ganha-ganha); <strong>compromisso</strong> (meio-termo); <strong>acomodação</strong> (cooperativo, não assertivo); <strong>evitação</strong> (nem um nem outro).",
+        "Visão interacionista (Robbins): conflito funcional melhora o desempenho; disfuncional prejudica. Nível ótimo não é zero.",
+        "Conflito intergrupal (Schein): dentro de cada grupo aumentam coesão, foco na tarefa, estruturação e aceitação de liderança autocrática; entre grupos, percepções distorcidas e hostilidade.",
+        "Bowditch e Buono: abordagens <strong>estruturais</strong> (mudar estrutura, regras, recursos) x de <strong>processo</strong> (desativação, reuniões de confrontação, colaboração)."
+      ]
+    },
+    {
+      "heading": "Gestão estratégica de pessoas e mundo do trabalho",
+      "items": [
+        "Pessoas como parceiras (fornecem conhecimento, habilidades, inteligência) x como recursos produtivos, passivos e padronizados.",
+        "Ulrich: parceiro estratégico, especialista administrativo, defensor dos funcionários, agente de mudança.",
+        "Empowerment: dar autonomia e responsabilidade para desenvolver o autogerenciamento das equipes ({M05}27).",
+        "Carreira: promoção vertical (nível imediatamente superior no segmento), reclassificação com mudança de classe, reclassificação sem mudança de classe (outro segmento) ({B24}46).",
+        "Transformações: reestruturação produtiva, flexibilização, terceirização, precarização, carreiras sem fronteira; comprometimento com uma única organização perdeu poder explicativo ({B24}38)."
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "title": "Autor citado no enunciado: a resposta é a frase do livro",
+      "body": "As provas de 2005 trazem o autor e o ano ('Segundo Pontes (2002)', 'Fleury & Fleury (2001)', 'Chiavenato (1999)') e cobram a definição como está no livro. A mesma pergunta de Pontes caiu em duas provas no mesmo ano, com resposta idêntica: a avaliação de desempenho verifica o comportamento face aos resultados desejados (al-to-2005-consultor-legislativo-psicologia-q21, mpe-ro-2005-analista-psicologia-q48). Em competência, a resposta é a definição longa de Fleury e Fleury com 'valor econômico à organização e valor social ao indivíduo' (mpe-ro-2005-analista-psicologia-q46). Não tente raciocinar além do autor: reconheça a definição canônica.",
+      "evidence": [
+        "al-to-2005-consultor-legislativo-psicologia-q21",
+        "mpe-ro-2005-analista-psicologia-q48",
+        "mpe-ro-2005-analista-psicologia-q46",
+        "al-to-2005-consultor-legislativo-psicologia-q22"
+      ]
+    },
+    {
+      "title": "Caso curto, conceito de manual: o modelo de conflito por trás da conduta",
+      "body": "Desde 2013 a banca descreve uma cena e pede o rótulo. Líder que tira um membro da equipe e adverte outro sem negociar é competição, assertivo e não cooperativo (bndes-2024-analista-psicologia-organizacional-q42). Dois grupos disputando a mesma verba com recompensa competitiva aumentam a coesão interna e a aceitação de liderança autocrática (bndes-2013-profissional-basico-psicologia-q34). Mediação por processo começa pela desativação do conflito (bndes-2024-analista-psicologia-organizacional-q68). Treine nomeando o eixo (assertividade, cooperação, estrutura, processo) antes de ler as alternativas.",
+      "evidence": [
+        "bndes-2024-analista-psicologia-organizacional-q42",
+        "bndes-2013-profissional-basico-psicologia-q34",
+        "bndes-2024-analista-psicologia-organizacional-q68"
+      ]
+    },
+    {
+      "title": "A alternativa certa é a mais abrangente e sistêmica",
+      "body": "Em desempenho e mudança, a correta amplia o foco: gestão estratégica do desempenho considera também estrutura, tecnologia e intangíveis como cultura e liderança (bndes-2013-profissional-basico-psicologia-q33); mudar exige detectar resistências, fortalecer apoios, planejar, implementar e estabilizar no longo prazo (bndes-2013-profissional-basico-psicologia-q52); o BSC equilibra dimensões financeiras e não financeiras (bndes-2013-profissional-basico-psicologia-q63). Distratores estreitam ('apenas o desempenho individual', 'eliminar a resistência', 'indicadores financeiros').",
+      "evidence": [
+        "bndes-2013-profissional-basico-psicologia-q33",
+        "bndes-2013-profissional-basico-psicologia-q52",
+        "bndes-2013-profissional-basico-psicologia-q63"
+      ]
+    },
+    {
+      "title": "Competências: fechar o gap, e com quem participa do mapeamento",
+      "body": "Toda questão de gestão por competências volta ao gap: o objetivo é eliminar ou minimizar a distância entre o necessário e o disponível (bndes-2013-profissional-basico-psicologia-q40); a fórmula N = I × (4 − D) ordena o que desenvolver primeiro (bndes-2013-profissional-basico-psicologia-q64); o mapeamento organizacional parte dos próprios trabalhadores, somado ao que a diretoria considera essencial (petrobras-2012-psicologo-junior-q68). Na matriz de Dutra, quem já supera os requisitos de acesso ao cargo é analisado por relacionamento com a chefia, motivação e comportamento (bndes-2024-analista-psicologia-organizacional-q40).",
+      "evidence": [
+        "bndes-2013-profissional-basico-psicologia-q40",
+        "bndes-2013-profissional-basico-psicologia-q64",
+        "petrobras-2012-psicologo-junior-q68",
+        "bndes-2024-analista-psicologia-organizacional-q40"
+      ]
+    },
+    {
+      "title": "Organização que aprende: informação não basta",
+      "body": "A banca insiste que aprendizagem organizacional é mudança na forma de ver e de agir. Certo: visão compartilhada e aprendizagem generativa (bndes-2013-profissional-basico-psicologia-q44); mecanismos eficazes de distribuição e interpretação da informação (mpe-ro-2005-analista-psicologia-q23). A ideia de que mais informação gera aprendizagem é o distrator. Em diag-org, a mesma tese aparece em petrobras-2012-psicologo-junior-q69 e petrobras-2012-psicologo-junior-q64.",
+      "evidence": [
+        "bndes-2013-profissional-basico-psicologia-q44",
+        "mpe-ro-2005-analista-psicologia-q23"
+      ]
+    }
+  ],
+  "trapWords": [
+    {
+      "term": "circuito duplo",
+      "confusedWith": "circuito simples",
+      "distinction": "Duplo revê as premissas e normas que produziram o erro; simples só corrige o erro dentro das regras atuais."
+    },
+    {
+      "term": "competição (Thomas-Kilmann)",
+      "confusedWith": "colaboração",
+      "distinction": "As duas são assertivas; só a colaboração é também cooperativa. Imposição unilateral pelo poder é competição."
+    },
+    {
+      "term": "efeito halo",
+      "confusedWith": "tendência central",
+      "distinction": "Halo: uma impressão geral (positiva ou negativa) contamina todos os fatores. Tendência central: o avaliador evita os extremos e dá notas médias."
+    },
+    {
+      "term": "desenvolvimento organizacional",
+      "confusedWith": "reengenharia",
+      "distinction": "DO é mudança planejada, gradual e participativa, centrada em pessoas e cultura; reengenharia é redesenho radical de processos, que costuma começar pelo benchmarking."
+    },
+    {
+      "term": "pessoas como parceiras",
+      "confusedWith": "pessoas como recursos",
+      "distinction": "Na gestão de pessoas, os empregados fornecem conhecimento e inteligência; o rótulo 'recursos produtivos' é o paradigma tradicional de RH."
+    },
+    {
+      "term": "competência (Fleury)",
+      "confusedWith": "qualificação",
+      "distinction": "Qualificação é o estoque de conhecimentos do cargo; competência é saber agir reconhecido, que entrega valor em situação."
+    }
+  ]
+}

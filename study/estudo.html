@@ -1,0 +1,752 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Estudo — Transpetro 2026</title>
+<link rel="stylesheet" href="shared/styles.css">
+<style>
+  /* Ids deste banco são longos (bndes-2024-analista-psicologia-organizacional-q37):
+     sem quebra, um só deles passa da largura de um celular. */
+  .q-link { white-space: normal; overflow-wrap: anywhere; }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a href="simulado.html">Psicologia · Transpetro 2026</a>
+  <nav>
+    <a href="simulado.html">Simulado</a>
+    <a href="estudo.html" class="active">Estudo</a>
+  </nav>
+</div>
+<div class="app" id="app">
+  <div class="empty-state">Carregando...</div>
+</div>
+<script type="module">
+import { loadJSON, showFetchHelp } from "./shared/data-loader.js";
+import { dueCards, rateCard, statsByArea, srsSummary, wrongByArea, loadAttempts, loadSRS, localDate,
+         planItemKey, loadPlanChecks, setPlanCheck, planProgress,
+         exportProgress, parseBackup, restoreProgress } from "./shared/storage.js";
+import { subtopicPriority, cardsForQuestion, cardsForQuestions, pendingErrorIds,
+         dailyCards, fullExamDays, fullExamAdvice, answeredOn, contentNotices } from "./shared/planner.js";
+import { figureHtml } from "./shared/figures.js";
+
+const app = document.getElementById("app");
+let AREAS = [], CARDS = [], QCOUNT = {}, AUTHCOUNT = {}, CONTENT = {}, PLAN = null, QBYID = {};
+
+// Escapa também " e ' porque o mesmo esc() é usado em valor de ATRIBUTO, onde
+// escapar só &<> deixa quebrar o atributo. Em texto, &quot;/&#39; renderizam como "/'.
+const safeUrl = u => {
+  try { const p = new URL(String(u), location.href); return (p.protocol === "https:" || p.protocol === "http:") ? p.href : null; }
+  catch { return null; }
+};
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
+  ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+// Texto de questão: as tags de formatação do banco valem; qualquer outro "<" é
+// texto (<<interface>>, i<=raiz). Entidades já escritas nos dados são mantidas.
+const richText = s => String(s ?? "")
+  .replace(/&(?!(?:amp|lt|gt|quot|#\d+);)/g, "&amp;")
+  .replace(/</g, "&lt;").replace(/>/g, "&gt;")
+  .replace(/&lt;(\/?)(p|strong|em|br|b|i|small|sup|sub|blockquote|table|thead|tbody|tr|th|td)&gt;/g, "<$1$2>");
+
+const questionUrl = id => `simulado.html?q=${encodeURIComponent(id)}`;
+
+const isAuthored = q => !!q?.source?.authored;
+// Selo igual ao do simulado: questão escrita para o estudo, não veio de prova oficial.
+const authoredBadge = (q, text = "Questão autoral") =>
+  isAuthored(q) ? ` <span class="badge-authored">${text}</span>` : "";
+
+// Em texto já seguro para HTML, sem atributos: troca cada id de questão do banco por um
+// link que abre a questão num treino, em outra aba para não perder o lugar na leitura.
+// Ids oficiais terminam em -qN (bndes-2024-...-q37); autorais começam por "autoral-".
+const QUESTION_ID = /\b(?:[a-z0-9]+(?:-[a-z0-9]+)*-q\d+|autoral-[a-z0-9]+(?:-[a-z0-9]+)*)\b/g;
+const linkIds = html => String(html ?? "").replace(QUESTION_ID, id =>
+  QBYID[id]
+    ? `<a class="q-link" href="${questionUrl(id)}" target="_blank" rel="noopener">${id}</a>${authoredBadge(QBYID[id], "autoral")}`
+    : id);
+
+async function init() {
+  try {
+    AREAS = (await loadJSON("data/areas.json")).areas;
+    CARDS = (await loadJSON("data/flashcards.json")).cards || [];
+  } catch (e) {
+    showFetchHelp(app);
+    return;
+  }
+  try { PLAN = await loadJSON("data/plan.json"); } catch { /* plano é opcional */ }
+  try {
+    const qs = (await loadJSON("data/questions.json")).questions || [];
+    // Mesmo carregamento serve à contagem por área e à tela de erros (índice por id).
+    for (const q of qs) {
+      QCOUNT[q.area] = (QCOUNT[q.area] || 0) + 1;
+      if (isAuthored(q)) AUTHCOUNT[q.area] = (AUTHCOUNT[q.area] || 0) + 1;
+      QBYID[q.id] = q;
+    }
+  } catch { /* contagem é opcional */ }
+  renderHome();
+}
+
+async function loadAreaContent(areaId) {
+  if (areaId in CONTENT) return CONTENT[areaId];
+  try { CONTENT[areaId] = await loadJSON(`data/content/${areaId}.json`); }
+  catch { CONTENT[areaId] = null; }
+  return CONTENT[areaId];
+}
+
+function cardsOf(areaId) { return CARDS.filter(c => c.area === areaId); }
+
+// "57 questões" ou "42 questões, 39 autorais": a contagem nunca esconde o que não é de prova.
+function questionCount(areaId) {
+  const n = QCOUNT[areaId] || 0, a = AUTHCOUNT[areaId] || 0;
+  return `${n} questão(ões)${a ? `, ${a} autoral(is)` : ""}`;
+}
+
+function areaLabelOf(id) { return (AREAS.find(a => a.id === id) || {}).label || id; }
+
+/* Visão de erros: o agregado do storage, cruzado com as questões carregadas.
+   Erro cujo questionId não existe mais em questions.json é ignorado em silêncio
+   (a prova pode ter sido reindexada) — e grupo que fica vazio desaparece. */
+function errorView() {
+  const raw = wrongByArea();
+  // A área confiável é a da questão em questions.json, não a que ficou gravada na
+  // tentativa: o histórico pode ser antigo, de outra taxonomia, ou editado à mão.
+  const items = raw.groups
+    .flatMap(g => g.items)
+    .filter(it => QBYID[it.questionId])
+    .map(it => ({ ...it, area: QBYID[it.questionId].area }));
+  const byArea = new Map();
+  for (const it of items) {
+    if (!byArea.has(it.area)) byArea.set(it.area, []);
+    byArea.get(it.area).push(it);
+  }
+  const groups = [...byArea.entries()]
+    .map(([area, list]) => ({ area, items: list.sort((x, y) => y.lastWrong - x.lastWrong) }))
+    .sort((x, y) => y.items.length - x.items.length || areaLabelOf(x.area).localeCompare(areaLabelOf(y.area)));
+  return {
+    groups,
+    attempts: raw.attempts,
+    attemptsShown: items.reduce((t, it) => t + it.wrong, 0),
+    wrongTotal: items.length,
+    recovered: items.filter(it => it.recovered).length
+  };
+}
+
+/* ---------- Home ---------- */
+
+function renderHome() {
+  const due = dueCards(CARDS);
+  const stats = Object.fromEntries(statsByArea(AREAS).map(s => [s.id, s]));
+  const srs = srsSummary(CARDS);
+  const err = errorView();
+  const cur = currentBlock();
+  const curProg = cur ? planProgress(cur) : { done: 0, total: 0 };
+
+  const areaRow = (a, i) => {
+    const nc = cardsOf(a.id).length;
+    const st = stats[a.id];
+    const acc = st && st.total ? `${st.pct}% no simulado` : "sem tentativas";
+    return `<button class="btn area-row" data-i="${i}">
+      <span class="alt-key">${a.num ?? "•"}</span>
+      <span class="alt-text">
+        <strong>${esc(a.label)}</strong>
+        <span class="muted block">${questionCount(a.id)} · ${nc} cards · ${acc}</span>
+      </span>
+    </button>`;
+  };
+
+  app.innerHTML = `
+    <h1>Área de estudo</h1>
+    ${agendaHtml()}
+    <div class="card">
+      <h2>Revisão espaçada</h2>
+      <p class="muted">${due.length} card(s) disponível(is), entre vencidos e ainda não vistos · ${CARDS.length} no total · ${srs.seen} já vistos.</p>
+      ${due.length
+        ? `<button class="btn" id="review-all">Revisar todos os disponíveis (misturando áreas)</button>
+           <p class="muted">Intercalação: misturar áreas na mesma sessão fixa mais do que estudar em bloco.</p>`
+        : `<p class="muted">Nada devido agora. ${CARDS.length ? "Volte amanhã — ou entre numa área e revise à força." : ""}</p>`}
+    </div>
+    <div class="card">
+      <h2>Revisar meus erros</h2>
+      ${err.attempts
+        ? `<p class="muted">${err.wrongTotal} questão(ões) distinta(s) errada(s) em ${err.groups.length} área(s), de ${err.attempts} tentativa(s) no histórico total.</p>
+           <p class="muted">${err.recovered} dela(s) você já acertou numa tentativa posterior — acertar depois de errar é o sinal que interessa.</p>
+           ${err.wrongTotal
+             ? `<button class="btn primary" id="open-errors">Abrir revisão dos erros</button>`
+             : `<p class="muted">Nenhum erro pendente no histórico. Faça mais um simulado para ter material de revisão.</p>`}`
+        : `<p class="muted">Sem tentativas registradas ainda: faça um <a href="simulado.html">simulado</a> primeiro e os erros aparecem aqui, agrupados por área.</p>`}
+    </div>
+    ${PLAN ? `<div class="card accent">
+      <h2>Plano até a prova</h2>
+      <p class="muted">${daysToExam()} dias para ${examDateLabel()}.${cur ? ` Bloco atual: <strong>${esc(cur.label)}</strong> (${esc(cur.weeks)}).` : ""}</p>
+      ${cur ? `<p class="muted">Checklist do bloco atual: <strong>${curProg.done} de ${curProg.total}</strong> concluído(s).</p>
+               <div class="progressbar"><div style="width:${curProg.total ? Math.round((curProg.done / curProg.total) * 100) : 0}%"></div></div>` : ""}
+      <button class="btn primary" id="open-plan">Abrir o plano</button>
+    </div>` : ""}
+    <div class="card">
+      <h2>Onde estudar primeiro</h2>
+      <p class="muted">Prioridade = quantas questões o assunto deve valer × a chance estimada de você errar. A chance olha suas 10 tentativas mais recentes no assunto e parte de 50% quando há poucas.</p>
+      <div id="priority"></div>
+      <p class="muted">O edital fixa 50 questões de Conhecimentos Específicos nas 6 áreas do programa e 10 de Português + 10 de Inglês, mas não publica quantas caem por assunto. O valor aqui é a fatia de cada assunto no banco, com as questões oficiais de 2018 em diante pesando em dobro e as autorais pesando metade: proxy, não garantia. Assuntos do edital sem nenhuma questão no banco não aparecem.</p>
+    </div>
+    <div class="card">
+      <h2>Conteúdo por área</h2>
+      <div class="alt-list">${AREAS.map(areaRow).join("")}</div>
+    </div>
+    <div class="card">
+      <h2>Como usar</h2>
+      <ul class="tight">
+        <li><strong>Leia o resumo</strong> da área uma vez, sem tentar memorizar.</li>
+        <li><strong>Vá para os flashcards</strong> e tente responder <em>antes</em> de revelar — o esforço de lembrar é o que fixa.</li>
+        <li><strong>Erre no simulado</strong> e volte para a área do erro: é o ciclo mais rápido de aprendizado.</li>
+        <li><strong>Padrões da banca</strong> e <strong>palavras-armadilha</strong> de cada área valem mais que releitura do resumo.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h2>Backup do progresso</h2>
+      <p class="muted">Respostas, revisões e plano ficam só neste navegador. Exporte um arquivo para não perdê-los ou para continuar em outro aparelho.</p>
+      <button class="btn" id="export-progress">Exportar progresso</button>
+      <button class="btn" id="import-progress-btn">Importar progresso</button>
+      <input type="file" id="import-progress" accept="application/json,.json" hidden>
+      <p class="muted" id="backup-msg" role="status"></p>
+    </div>
+  `;
+  wireBackup();
+  renderPriority();
+  wireAgenda();
+  const pb = document.getElementById("open-plan");
+  if (pb) pb.addEventListener("click", renderPlan);
+  const rb = document.getElementById("review-all");
+  if (rb) rb.addEventListener("click", () => startReview(shuffle(due), "Revisão geral"));
+  const eb = document.getElementById("open-errors");
+  if (eb) eb.addEventListener("click", renderErrors);
+  // O id da área vai pelo closure, não por atributo: nada de dado no HTML.
+  app.querySelectorAll("[data-i]").forEach(b =>
+    b.addEventListener("click", () => renderArea(AREAS[Number(b.dataset.i)].id)));
+}
+
+/* ---------- Agenda do dia ---------- */
+
+const trainUrl = (area, subtopic, n = 10) =>
+  `simulado.html?area=${encodeURIComponent(area)}&sub=${encodeURIComponent(subtopic)}&n=${n}`;
+
+function priorityRows() {
+  return subtopicPriority(Object.values(QBYID), loadAttempts());
+}
+
+// Itens de blocos já encerrados que seguem desmarcados. O plano só atrasa: nenhum bloco muda de data.
+function overdueItems() {
+  const cur = currentBlock();
+  if (!cur) return 0;
+  const checks = loadPlanChecks();
+  return PLAN.blocks
+    .filter(b => b.n < cur.n)
+    .reduce((total, b) => { const p = planProgress(b, checks); return total + p.total - p.done; }, 0);
+}
+
+let todayCards = [];
+
+function agendaHtml() {
+  if (!PLAN) return "";
+  const left = daysToExam();
+  if (left <= 0) return `<div class="card accent"><h2>Hoje</h2><p>Hoje é o dia da prova. Boa prova!</p></div>`;
+
+  const today = localDate();
+  const attempts = loadAttempts();
+  const rows = priorityRows();
+  const cards = dailyCards({ cards: CARDS, srs: loadSRS(), today, daysLeft: left, rows, byId: QBYID });
+  todayCards = [...cards.reviews, ...cards.newCards];
+  const pending = pendingErrorIds(wrongByArea(), QBYID);
+  const focus = rows[0];
+  const advice = fullExamAdvice(fullExamDays(attempts), today, left);
+  const overdue = overdueItems();
+
+  const parts = [];
+  if (cards.reviews.length) parts.push(`${cards.reviews.length} revisão(ões)`);
+  if (cards.newCards.length) parts.push(`${cards.newCards.length} novo(s)`);
+  const cardItem = todayCards.length
+    ? `<button class="btn primary" id="today-cards">Fazer os cards de hoje: ${parts.join(" + ")}</button>`
+    : `<p class="muted">✓ Cards de hoje concluídos.${left <= 7 && cards.unseen ? ` Faltam ${cards.unseen} sem ver, mas o plano não traz conteúdo novo na última semana.` : ""}</p>`;
+
+  const REDO_LIMIT = 10;
+  const firstBlock = advice.status === "soon" ? blockInDays(advice.inDays) : null;
+  const examLine = {
+    soon: `Primeira prova completa em ${advice.inDays} dia(s)${firstBlock ? `, como pede o bloco ${firstBlock.n} do plano` : ""}.`,
+    gap: `Próxima prova completa em ${advice.inDays} dia(s): o plano pede pelo menos 4 dias entre elas.`,
+    done: `✓ ${advice.count} provas completas feitas, a meta do plano.`,
+    late: ""
+  }[advice.status];
+
+  return `<div class="card accent">
+    <h2>Hoje</h2>
+    <p class="muted">${left} dia(s) para a prova · ${answeredOn(attempts, today)} questão(ões) respondida(s) hoje</p>
+    <div class="alt-list">
+      ${cardItem}
+      ${advice.status === "now" ? `<a class="btn primary center" href="simulado.html">Fazer a ${advice.count + 1}ª prova completa</a>` : ""}
+      ${pending.length ? `<a class="btn center" href="simulado.html?refazer=1&n=${REDO_LIMIT}">Refazer ${Math.min(pending.length, REDO_LIMIT)} de ${pending.length} erro(s) pendente(s)</a>` : ""}
+      ${focus ? `<a class="btn center" href="${esc(trainUrl(focus.area, focus.subtopic))}">Treinar o assunto mais prioritário: ${esc(focus.subtopic)}</a>` : ""}
+    </div>
+    ${examLine ? `<p class="muted">${examLine}</p>` : ""}
+    ${overdue ? `<p class="muted">${overdue} item(ns) de blocos anteriores do plano ainda sem marcar.</p>` : ""}
+  </div>`;
+}
+
+function wireAgenda() {
+  const b = document.getElementById("today-cards");
+  if (b) b.addEventListener("click", () => startReview(shuffle(todayCards), "Cards de hoje"));
+}
+
+function wireBackup() {
+  const msg = document.getElementById("backup-msg");
+  document.getElementById("export-progress").addEventListener("click", () => {
+    const blob = new Blob([JSON.stringify(exportProgress(), null, 2)], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `progresso-transpetro-${new Date().toLocaleDateString("sv-SE")}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+    msg.textContent = "Arquivo de progresso gerado.";
+  });
+  const input = document.getElementById("import-progress");
+  document.getElementById("import-progress-btn").addEventListener("click", () => input.click());
+  input.addEventListener("change", async () => {
+    const file = input.files[0];
+    input.value = "";
+    if (!file) return;
+    const backup = parseBackup(await file.text());
+    if (!backup) { msg.textContent = "Este arquivo não é um backup válido deste app. Nada foi alterado."; return; }
+    const { attempts, srs, plan } = backup.counts;
+    if (!confirm(`Substituir o progresso deste navegador por este backup?\n\n${attempts} resposta(s), ${srs} card(s) revisado(s) e ${plan} item(ns) do plano.`)) return;
+    if (restoreProgress(backup)) renderHome();
+    else msg.textContent = "Não foi possível gravar o backup neste navegador. O progresso atual foi mantido.";
+  });
+}
+
+function examDateLabel() {
+  return new Date(PLAN.examDate + "T00:00:00").toLocaleDateString("pt-BR");
+}
+
+function daysToExam() {
+  const ms = new Date(PLAN.examDate + "T00:00:00") - new Date();
+  return Math.max(0, Math.ceil(ms / 86400000));
+}
+
+// Intervalo "dd/mm a dd/mm" impresso em `weeks`, no ano da prova. Sem match, null.
+function blockRange(b) {
+  const m = /(\d{2})\/(\d{2})\s*a\s*(\d{2})\/(\d{2})/.exec(b.weeks || "");
+  if (!m) return null;
+  const y = new Date(PLAN.examDate + "T00:00:00").getFullYear();
+  return { ini: new Date(y, +m[2] - 1, +m[1]), fim: new Date(y, +m[4] - 1, +m[3], 23, 59, 59) };
+}
+
+// Bloco do plano que contém o dia daqui a `inDays` dias. Serve para dizer em que bloco
+// cai a primeira prova completa que fullExamAdvice (planner.js) agenda. Sem bloco, null.
+function blockInDays(inDays) {
+  if (!PLAN) return null;
+  const day = new Date();
+  day.setHours(12, 0, 0, 0);
+  day.setDate(day.getDate() + inDays);
+  return PLAN.blocks.find(b => { const r = blockRange(b); return r && day >= r.ini && day <= r.fim; }) || null;
+}
+
+// O bloco corrente sai do intervalo "dd/mm a dd/mm" impresso em `weeks`.
+// Sem match, nenhum bloco é destacado — melhor não destacar que destacar errado.
+function currentBlock() {
+  if (!PLAN) return null;
+  const y = new Date(PLAN.examDate).getFullYear();
+  const now = new Date();
+  for (const b of PLAN.blocks) {
+    const m = /(\d{2})\/(\d{2})\s*a\s*(\d{2})\/(\d{2})/.exec(b.weeks || "");
+    if (!m) continue;
+    const ini = new Date(y, +m[2] - 1, +m[1]);
+    const fim = new Date(y, +m[4] - 1, +m[3], 23, 59, 59);
+    if (now >= ini && now <= fim) return b;
+  }
+  return null;
+}
+
+/* O checklist é marcável e persistente. Nada de dado em atributo por string de
+   template (foi assim que nasceu o XSS de um ciclo anterior): o HTML sai só com
+   classes fixas e todo texto por esc(); a chave de cada item é colada depois via
+   dataset, na mesma ordem em que os <li> foram gerados, e o clique vem de
+   addEventListener. */
+function renderPlan() {
+  const cur = currentBlock();
+  const areaLabel = id => (AREAS.find(a => a.id === id) || {}).label || id;
+  let checks = loadPlanChecks();
+
+  const blockCard = b => {
+    const items = (b.checklist || []).map(text => {
+      const done = !!checks[planItemKey(b.n, text)];
+      return `<li class="plan-item${done ? " done" : ""}">
+        <label><input type="checkbox" class="plan-chk"${done ? " checked" : ""}><span>${linkIds(esc(text))}</span></label>
+      </li>`;
+    }).join("");
+    const prog = planProgress(b, checks);
+    return `<div class="card plan-block ${cur && cur.n === b.n ? "accent" : ""}">
+        <h2>${esc(b.label)}</h2>
+        <p class="muted">${esc(b.weeks)}${cur && cur.n === b.n ? " · agora" : ""} · ${(b.focus || []).map(f => esc(areaLabel(f))).join(", ")}</p>
+        <p>${esc(b.goal || "")}</p>
+        <p class="muted plan-prog">${prog.done} de ${prog.total}</p>
+        <ul class="plan-list">${items}</ul>
+      </div>`;
+  };
+
+  app.innerHTML = `
+    <button class="btn" id="back">← Voltar</button>
+    <h1>Plano até ${examDateLabel()}</h1>
+    <div class="card"><p class="muted">${esc(PLAN.sourceNote || "")}</p></div>
+    <div class="card"><p class="muted">Marque cada item ao concluir: as marcações ficam salvas neste navegador e sobrevivem a recarregar a página.</p></div>
+    ${PLAN.blocks.map(blockCard).join("")}
+    <div class="card">
+      <h2>🎯 O que a banca repete entre áreas</h2>
+      ${(PLAN.crossPatterns || []).map(p => `<div class="sub">
+        <strong>${esc(p.title)}</strong><p>${linkIds(esc(p.body))}</p>
+        ${(p.evidence || []).length ? `<p class="muted">Visto em: ${p.evidence.map(e => linkIds(esc(e))).join(", ")}</p>` : ""}
+      </div>`).join("")}
+    </div>
+    <div class="card">
+      <h2>⏱ No dia da prova</h2>
+      ${(PLAN.examDay || []).map(e => `<div class="sub"><strong>${esc(e.title)}</strong><p>${esc(e.body)}</p></div>`).join("")}
+    </div>`;
+  document.getElementById("back").addEventListener("click", renderHome);
+
+  /* Cada bloco é lido dentro do SEU card (.plan-block): o número de progresso e as
+     caixas vêm do mesmo nó, sem casar bloco com elemento por posição global. */
+  const wired = [...app.querySelectorAll(".card.plan-block")].map((el, bi) => {
+    const b = PLAN.blocks[bi];
+    const boxes = [...el.querySelectorAll(".plan-chk")];
+    boxes.forEach((box, i) => { box.dataset.key = planItemKey(b.n, (b.checklist || [])[i]); });
+    return { b, boxes, prog: el.querySelector(".plan-prog") };
+  });
+
+  // Re-sincroniza tudo a partir do estado: itens de texto idêntico compartilham
+  // chave, então marcar um tem de marcar o outro e o progresso conta uma vez só.
+  const sync = () => {
+    for (const w of wired) {
+      const p = planProgress(w.b, checks);
+      if (w.prog) w.prog.textContent = `${p.done} de ${p.total}`;
+      for (const box of w.boxes) {
+        const on = !!checks[box.dataset.key];
+        box.checked = on;
+        box.closest(".plan-item").classList.toggle("done", on);
+      }
+    }
+  };
+
+  for (const w of wired) for (const box of w.boxes)
+    box.addEventListener("change", () => {
+      checks = setPlanCheck(box.dataset.key, box.checked);
+      sync();
+    });
+}
+
+const PRIORITY_SHOWN = 8;
+
+function renderPriority() {
+  const box = document.getElementById("priority");
+  if (!box) return;
+  const rows = priorityRows().slice(0, PRIORITY_SHOWN);
+  const fmtExpected = n => n.toLocaleString("pt-BR", { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+  const measure = r => {
+    if (!r.attempts) return "sem tentativas";
+    return `${r.errorPct}% de erro em ${r.attempts} tentativa(s)${r.smallSample ? ", pouca amostra" : ""}`;
+  };
+  box.innerHTML = rows.map((r, i) => `
+    <div class="sub">
+      <strong>${esc(r.subtopic)}</strong>
+      <span class="muted block">${esc(areaLabelOf(r.area))} · cerca de ${fmtExpected(r.expected)} questão(ões) · ${measure(r)}</span>
+      <div class="row-actions">
+        <button class="btn" data-prio="${i}">Estudar a área</button>
+        <a class="btn" href="${esc(trainUrl(r.area, r.subtopic))}">Treinar</a>
+      </div>
+    </div>`).join("");
+  box.querySelectorAll("[data-prio]").forEach(b =>
+    b.addEventListener("click", () => renderArea(rows[Number(b.dataset.prio)].area)));
+}
+
+function shuffle(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+  return a;
+}
+
+/* ---------- Revisar meus erros ---------- */
+
+// O `stem` vem de arquivo local, mas aqui ele é cortado: truncar HTML no meio
+// geraria markup quebrado, então tiro as tags e escapo o texto — assim nenhum
+// `<script>` sobrevive nem por acidente.
+function trunc(s, n = 140) {
+  const t = String(s ?? "").replace(/\[\[fig:\d+\]\]/g, " ").replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+  return esc(t.length > n ? t.slice(0, n).replace(/\s+\S*$/, "") + "…" : t);
+}
+
+function fmtDate(ts) {
+  if (!ts) return "";
+  const d = new Date(ts);
+  return isNaN(d) ? "" : d.toLocaleDateString("pt-BR");
+}
+
+/* Revisão completa de uma questão errada: texto-base, enunciado, alternativas com o
+   gabarito marcado, resumo da explicação e o porquê de cada alternativa errada.
+   Texto de questão passa por richText(), o mesmo critério do simulado. Nada de dado
+   em atributo: estes blocos são estáticos, sem listener e sem `data-*` com conteúdo. */
+function altRow(alt, correctKey) {
+  const isCorrect = alt.key === correctKey;
+  return `<div class="btn${isCorrect ? " correct" : ""}">
+      <span class="alt-key">${esc(alt.key)}</span>
+      <span class="alt-text">${richText(alt.text)}${isCorrect ? ` <strong class="tag-ok">✓ gabarito</strong>` : ""}</span>
+    </div>`;
+}
+
+// [[fig:N]] marca no enunciado onde entra a figura N, na ordem da prova original.
+const stemHtml = q => richText(q.stem).replace(/\s*\[\[fig:(\d+)\]\]\s*/g, (_, n) =>
+  q.images?.[n - 1] ? figureHtml(q.images[n - 1]) : "");
+
+function questionReview(q) {
+  const alts = Array.isArray(q.alternatives) ? q.alternatives : [];
+  const wrongWhy = alts
+    .filter(a => a.key !== q.correctKey && a.explanation)
+    .map(a => `<li><strong>${esc(a.key)})</strong> ${richText(a.explanation)}</li>`).join("");
+  const src = q.source || {};
+  // Autoral não tem prova de origem: mostra a norma em que se baseia.
+  const origem = (isAuthored(q)
+    ? [q.subtopic, src.basis ? `base: ${src.basis}` : null]
+    : [
+        q.subtopic,
+        src.year,
+        // Prova de origem legível: o nome da pasta, sem "/prova.pdf" e com espaços no lugar de "_".
+        src.exam || (src.file ? String(src.file).replace(/\/prova\.pdf$/i, "").replace(/\.(html?|pdf)$/i, "").replace(/_/g, " ") : null),
+        src.originalNumber ? `questão ${src.originalNumber} no original` : null
+      ]).filter(Boolean).map(v => esc(v)).join(" · ");
+  return `
+    ${q.passage ? `<div class="passage-card">${richText(q.passage)}</div>` : ""}
+    <div class="q-stem">${stemHtml(q)}</div>
+    ${alts.length
+      ? `<div class="alt-list review">${alts.map(a => altRow(a, q.correctKey)).join("")}</div>`
+      : `<p class="muted">Alternativas não registradas para esta questão.</p>`}
+    <p class="review-h">Por que o gabarito é ${esc(q.correctKey || "?")}</p>
+    ${q.explanationSummary
+      ? `<p>${richText(q.explanationSummary)}</p>`
+      : `<p class="muted">Sem explicação registrada.</p>`}
+    ${contentNotices(q).map(text => `<p class="muted">⚠ ${esc(text)}</p>`).join("")}
+    <p class="review-h">Por que as outras estão erradas</p>
+    ${wrongWhy
+      ? `<ul>${wrongWhy}</ul>`
+      : `<p class="muted">Sem explicação registrada por alternativa.</p>`}
+    ${origem || isAuthored(q) ? `<p class="muted q-src">${authoredBadge(q).trim()}${isAuthored(q) ? " Não é de prova oficial. " : ""}${origem}</p>` : ""}`;
+}
+
+function renderErrors() {
+  const err = errorView();
+  const max = Math.max(...err.groups.map(g => g.items.length), 1);
+
+  const group = (g, i) => {
+    const rec = g.items.filter(it => it.recovered).length;
+    const pending = g.items.filter(it => !it.recovered);
+    const linked = linkedCards(g);
+    return `<div class="card">
+      <h2>${esc(areaLabelOf(g.area))}</h2>
+      <p class="muted">${g.items.length} questão(ões) errada(s)${rec ? ` · ${rec} já recuperada(s) depois` : ""}</p>
+      <div class="area-bar">
+        <span class="track"><div style="width:${Math.round((g.items.length / max) * 100)}%"></div></span>
+        <span class="pct">${g.items.length}</span>
+      </div>
+      <div class="alt-list">
+        ${pending.length ? `<a class="btn primary center" href="simulado.html?refazer=1&area=${encodeURIComponent(g.area)}">Refazer os ${pending.length} erro(s) pendente(s), sem ver o gabarito</a>` : ""}
+        <button class="btn" data-sum="${i}">📘 Ver o resumo da área</button>
+        ${linked.length ? `<button class="btn" data-fc="${i}">🃏 Revisar os ${linked.length} flashcards ${linked.fromErrors ? "ligados a estes erros" : "desta área"}</button>`
+             : `<p class="muted">Sem flashcards nesta área ainda.</p>`}
+      </div>
+      <p class="muted">Abrir uma questão abaixo mostra o gabarito e a explicação. Para testar de verdade, refaça antes.</p>
+      ${g.items.map(it => {
+        const q = QBYID[it.questionId];
+        const qCards = cardsForQuestion(q, CARDS, QBYID);
+        const meta = `${it.wrong > 1 ? ` · errada ${it.wrong}×` : ""}${it.lastWrong ? ` · último erro ${esc(fmtDate(it.lastWrong))}` : ""}${it.recovered ? " · acertada depois ✓" : ""}`;
+        return `<details class="explain q-review">
+          <summary>${esc(it.questionId)}${authoredBadge(q)}${meta}<span class="muted block">${trunc(q.stem, 110)}</span></summary>
+          ${questionReview(q)}
+          <div class="row-actions">
+            <a class="btn" href="${questionUrl(q.id)}">Refazer esta questão</a>
+            ${qCards.length ? `<button class="btn" data-qcards="${esc(q.id)}">Flashcards do assunto (${qCards.length})</button>` : ""}
+          </div>
+        </details>`;
+      }).join("")}
+    </div>`;
+  };
+
+  app.innerHTML = `
+    <button class="btn" id="back">← Voltar</button>
+    <h1>Revisar meus erros</h1>
+    <div class="card">
+      <p class="muted">${err.wrongTotal} questão(ões) distinta(s) errada(s) · ${err.attemptsShown} erro(s) somando as repetições · ${err.recovered} já acertada(s) numa tentativa posterior</p>
+      <p class="muted">Áreas em ordem: quem mais te derruba primeiro. Dentro de cada área, o erro mais recente vem primeiro.</p>
+    </div>
+    ${err.groups.length
+      ? err.groups.map(group).join("")
+      : `<div class="card"><p class="muted">Nenhum erro registrado. Faça um <a href="simulado.html">simulado</a> e volte aqui.</p></div>`}
+  `;
+  document.getElementById("back").addEventListener("click", renderHome);
+  // Só o índice do grupo trafega por atributo; o id da área vem do closure.
+  app.querySelectorAll("[data-sum]").forEach(b => {
+    const area = err.groups[Number(b.dataset.sum)].area;
+    b.addEventListener("click", () => renderArea(area, renderErrors));
+  });
+  // Sessão forçada: revisa mesmo os cards que não venceram, sem mexer no agendamento deles.
+  app.querySelectorAll("[data-fc]").forEach(b => {
+    const g = err.groups[Number(b.dataset.fc)];
+    b.addEventListener("click", () => startReview(
+      shuffle(linkedCards(g)), `${areaLabelOf(g.area)} — erros`, renderErrors));
+  });
+  app.querySelectorAll("[data-qcards]").forEach(b => {
+    const q = QBYID[b.dataset.qcards];
+    b.addEventListener("click", () => startReview(
+      cardsForQuestion(q, CARDS, QBYID), `Assunto de ${q.id}`, renderErrors));
+  });
+}
+
+// Cards dos erros ainda pendentes da área; sem nenhum ligado, a área inteira.
+function linkedCards(g) {
+  const pending = g.items.filter(it => !it.recovered).map(it => QBYID[it.questionId]);
+  const cards = cardsForQuestions(pending, CARDS, QBYID);
+  const list = cards.length ? cards : cardsOf(g.area);
+  list.fromErrors = cards.length > 0;
+  return list;
+}
+
+/* ---------- Área ---------- */
+
+async function renderArea(areaId, onBack = renderHome) {
+  // Id de área desconhecido (histórico antigo) não pode congelar a tela.
+  const area = AREAS.find(a => a.id === areaId) || { id: areaId, label: areaId, topics: [] };
+  const content = await loadAreaContent(areaId);
+  const cards = cardsOf(areaId);
+  const due = dueCards(cards);
+
+  const sections = [];
+  if (content) {
+    if (content.resumo) sections.push(sec("Resumo", linkIds(content.resumo)));
+    for (const c of content.cheatsheet || [])
+      sections.push(sec(`📌 ${esc(c.heading)}`, `<ul class="tight">${(c.items || []).map(i => `<li>${linkIds(i)}</li>`).join("")}</ul>`));
+    for (const m of content.mentalModels || [])
+      sections.push(sec(`🧠 ${esc(m.title)}`, `<p>${linkIds(m.body)}</p>`, "accent"));
+    if ((content.patterns || []).length)
+      sections.push(sec("🎯 Padrões da banca nesta área",
+        (content.patterns).map(p => `<div class="sub">
+            <strong>${esc(p.title)}</strong>
+            <p>${linkIds(p.body ?? p.howToSpot)}</p>
+            ${(p.evidence || []).length ? `<p class="muted">Visto em: ${p.evidence.map(e => linkIds(esc(e))).join(", ")}</p>` : ""}
+          </div>`).join("")));
+    if ((content.tactics || []).length)
+      sections.push(sec("⏱ Táticas de prova",
+        (content.tactics).map(t => `<div class="sub"><strong>${esc(t.title)}</strong><p>${linkIds(t.body)}</p></div>`).join("")));
+    if ((content.resources || []).length)
+      sections.push(sec("📚 Material de apoio",
+        `<p class="muted">Links verificados um por um (HTTP 200 e conferência do conteúdo). Fonte oficial primeiro; o que é pago está marcado.</p>
+         <div class="alt-list">${content.resources.map(r => { const u = safeUrl(r.url); return `
+          <${u ? `a class="btn res" href="${esc(u)}" target="_blank" rel="noopener noreferrer"` : `div class="btn res"`}>
+            <span class="alt-text">
+              <strong>${esc(r.title)}</strong>
+              <span class="muted block">${esc(r.publisher)} · ${esc(r.kind)}${r.free ? "" : " · pago"}</span>
+              <span class="muted block">${esc(r.why)}${u ? "" : " — link fora do padrão http(s), não exibido"}</span>
+            </span>
+          </${u ? "a" : "div"}>`; }).join("")}</div>`));
+    if ((content.trapWords || []).length)
+      sections.push(sec("⚠ Palavras-armadilha",
+        `<div class="trap-list">${content.trapWords.map(t => `<div class="sub">
+            <strong>${esc(t.term)}</strong> <span class="muted">× ${esc(t.confusedWith)}</span>
+            <p>${linkIds(t.distinction)}</p></div>`).join("")}</div>`));
+  }
+
+  app.innerHTML = `
+    <button class="btn" id="back">← Voltar</button>
+    <h1>${esc(area.label)}</h1>
+    <div class="card">
+      <p class="muted">${questionCount(areaId)} no banco · ${cards.length} flashcards (${due.length} devidos)</p>
+      ${cards.length ? `<button class="btn primary" id="rev-area">Flashcards desta área</button>` : ""}
+      <details class="explain"><summary>Subtópicos do edital (Anexo IV)</summary>
+        <ul class="tight">${(area.topics || []).map(t => `<li>${esc(t)}</li>`).join("")}</ul>
+      </details>
+    </div>
+    ${content ? sections.join("") : `<div class="empty-state">Conteúdo de estudo desta área ainda não foi escrito.</div>`}
+  `;
+  document.getElementById("back").addEventListener("click", onBack);
+  const rb = document.getElementById("rev-area");
+  if (rb) rb.addEventListener("click", () =>
+    startReview(shuffle(due.length ? due : cards), area.label, () => renderArea(areaId, onBack)));
+}
+
+function sec(title, html, cls = "") {
+  return `<div class="card ${cls}"><h2>${title}</h2>${html}</div>`;
+}
+
+/* ---------- Flashcards ---------- */
+
+function startReview(queue, label, onDone) {
+  const done = onDone || renderHome;
+  if (!queue.length) { done(); return; }
+  queue = queue.slice();   // "Errei" recoloca o card no fim da fila desta sessão
+  const distinct = new Set(queue.map(c => c.id)).size;
+  let idx = 0;
+  let saveFailed = false;
+  const areaLabel = id => (AREAS.find(a => a.id === id) || {}).label || id;
+
+  const showCard = () => {
+    if (idx >= queue.length) {
+      app.innerHTML = `<div class="card"><h2>Sessão concluída</h2>
+        <p class="muted">${distinct} card(s) revisado(s) — ${esc(label)}.</p>
+        ${saveFailed ? `<p class="muted">⚠ O navegador recusou a gravação: as revisões desta sessão valem só até fechar a página.</p>` : ""}
+        <button class="btn primary" id="home">Voltar</button></div>`;
+      document.getElementById("home").addEventListener("click", done);
+      return;
+    }
+    const c = queue[idx];
+    app.innerHTML = `
+      <button class="btn" id="quit">← Sair da sessão</button>
+      <div class="progressbar"><div style="width:${(idx / queue.length) * 100}%"></div></div>
+      <div class="card">
+        <p class="muted">Card ${idx + 1} de ${queue.length} · ${esc(areaLabel(c.area))}</p>
+        <h2>${esc(c.front)}</h2>
+      </div>
+      <button class="btn primary" id="reveal">Mostrar resposta</button>
+      <p class="muted">Tente formular a resposta em voz alta antes de revelar.</p>`;
+    document.getElementById("reveal").addEventListener("click", reveal);
+    document.getElementById("quit").addEventListener("click", done);
+  };
+
+  const reveal = () => {
+    const c = queue[idx];
+    app.innerHTML = `
+      <button class="btn" id="quit">← Sair da sessão</button>
+      <div class="progressbar"><div style="width:${(idx / queue.length) * 100}%"></div></div>
+      <div class="card">
+        <p class="muted">${esc(areaLabel(c.area))}</p>
+        <h2>${esc(c.front)}</h2>
+        <div class="answer">${esc(c.back)}</div>
+        ${c.sourceQuestionId ? `<p class="muted">Origem: questão ${linkIds(esc(c.sourceQuestionId))}</p>` : ""}
+      </div>
+      <div class="alt-list rate-row">
+        <button class="btn" data-r="1">Errei</button>
+        <button class="btn" data-r="2">Difícil</button>
+        <button class="btn" data-r="3">Bom</button>
+        <button class="btn" data-r="4">Fácil</button>
+      </div>`;
+    document.getElementById("quit").addEventListener("click", done);
+    app.querySelectorAll("[data-r]").forEach(b => b.addEventListener("click", () => {
+      const rating = Number(b.dataset.r);
+      if (!rateCard(c.id, rating, PLAN && PLAN.examDate)) saveFailed = true;
+      if (rating === 1) queue.push(c);
+      idx += 1;
+      showCard();
+    }));
+  };
+
+  showCard();
+}
+
+init();
+</script>
+</body>
+</html>

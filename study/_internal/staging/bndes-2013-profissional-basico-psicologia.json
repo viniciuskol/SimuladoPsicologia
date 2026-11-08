@@ -1,0 +1,2134 @@
+{
+ "concurso": "bndes-2013-profissional-basico-psicologia",
+ "questions": [
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q31",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 31,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "etica",
+   "subtopic": "1 Código de Ética profissional do psicólogo",
+   "stem": "<p>Um psicólogo está envolvido na seleção de projetos a serem financiados por uma organização. Sua participação se justificou, a princípio, pela presença de projetos na área de atenção à saúde, tópico sobre o qual ele é recorrentemente consultado pelos outros participantes da seleção. Dentre os dois projetos finalistas, inclusive, um é de autoria de um grupo de psicólogos.</p><p>Nessa situação, em termos éticos, o que deve orientar a posição do psicólogo diante do grupo que conduz a seleção?</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "A avaliação da viabilidade financeira dos projetos concorrentes e a projeção que podem alcançar no entorno social, uma vez que o psicólogo tem, antes de tudo, responsabilidade em relação à organização para que trabalha.",
+     "explanation": "O Código não põe a responsabilidade com a organização acima dos princípios; viabilidade financeira não é critério ético da Psicologia."
+    },
+    {
+     "key": "B",
+     "text": "A opinião da maioria do grupo, uma vez que o psicólogo deve assumir um posicionamento democrático e conciliatório, zelando pela resolução dos conflitos nos grupos em que trabalha.",
+     "explanation": "Seguir a maioria abdica da contribuição técnica e ética que justificou sua presença."
+    },
+    {
+     "key": "C",
+     "text": "A defesa do campo da psicologia, beneficiando, portanto, o projeto que promova a prática da psicologia, independente de suas outras características ou das características do projeto com que concorre.",
+     "explanation": "Favorecer colegas por corporativismo fere a impessoalidade; o Código veda usar a posição para obter vantagens para a categoria em detrimento da análise técnica."
+    },
+    {
+     "key": "D",
+     "text": "Os temas relativos ao campo da psicologia, como a promoção da dignidade do ser humano, o contexto político e social, a promoção de saúde das coletividades e a eliminação da violência."
+    },
+    {
+     "key": "E",
+     "text": "Os critérios circunscritos pelos saberes produzidos pela psicologia, pois o art. 6º do Código de Ética do Psicólogo recomenda que, ao lidar com profissionais não psicólogos, o psicólogo encaminhe a outros as demandas que extrapolem seu campo de atuação.",
+     "explanation": "O art. 6º trata do compartilhamento de informações com não psicólogos, não de encaminhar demandas; a alternativa distorce o artigo."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Os Princípios Fundamentais do Código de Ética (Res. CFP 10/2005) orientam a atuação: dignidade e direitos humanos (I), promoção da saúde e qualidade de vida das pessoas e coletividades, contribuindo para eliminar violência e opressão (II), e análise crítica da realidade política, econômica, social e cultural (III). São esses os critérios para o psicólogo se posicionar.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q32",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 32,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "<p>Um trabalhador possui uma determinada meta de produção semanal, que lhe garante um bônus financeiro ao fim do mês. Ele se esforça em cumprir a meta da forma mais rápida possível, com a intenção de pedir a seu gerente que o libere mais cedo em um determinado dia da semana, uma vez que sua meta já tenha sido cumprida. Percebe, no entanto, que um colega seu teve pedido semelhante negado, malgrado ter alcançado a meta que lhe cabia.</p><p>Nesse caso, respeitando a valência neutra do bônus financeiro e a valência positiva da flexibilização do horário, que medida o gerente deve adotar para aumentar a instrumentalidade da velocidade do trabalho?</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Aumentar o valor do bônus financeiro para quem atinge as metas em menor tempo.",
+     "explanation": "O bônus tem valência neutra para esse trabalhador; aumentá-lo não altera a motivação."
+    },
+    {
+     "key": "B",
+     "text": "Estabelecer condições em que a velocidade na produção redunda na flexibilização do horário."
+    },
+    {
+     "key": "C",
+     "text": "Diminuir a meta de seus funcionários para que eles possam percebê-la como viável.",
+     "explanation": "Atua sobre a expectativa (esforço → desempenho), não sobre a instrumentalidade."
+    },
+    {
+     "key": "D",
+     "text": "Dividir a meta semanal por seus equivalentes diários, garantindo que as horas trabalhadas sejam aproveitadas ao máximo.",
+     "explanation": "Não cria vínculo entre desempenho e a recompensa valorizada."
+    },
+    {
+     "key": "E",
+     "text": "Conduzir o foco do trabalhador, por via de capacitação e treinamento, à qualidade do trabalho em detrimento da velocidade.",
+     "explanation": "Muda o desempenho desejado em vez de reforçar a ligação velocidade → recompensa."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na teoria da expectância de Vroom, instrumentalidade é a crença de que o desempenho levará a uma recompensa. Como a recompensa valorizada (valência positiva) é a folga, o gerente deve garantir que produzir rápido resulte de fato em flexibilização do horário.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q33",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 33,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "<p>Uma crítica aos modelos tradicionais utilizados para considerar o desempenho humano nas organizações indica a necessidade de se migrar de um modelo de mera avaliação de desempenho para um modelo de gestão estratégica de desempenho.</p><p>Uma característica central dessa mudança é</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "utilizar fatores de avaliação previamente definidos e graduados, que operam como referência de padrão de desempenho médio, em relação ao qual o desempenho pessoal será comparado.",
+     "explanation": "Descreve o método tradicional de escalas gráficas."
+    },
+    {
+     "key": "B",
+     "text": "avaliar o desempenho através da classificação do comportamento pela seleção, dentre as frases descritivas e as afirmações padrão previamente estabelecidas, daquelas que o avaliador considera representar melhor o comportamento do avaliado dentro e fora do ambiente de trabalho.",
+     "explanation": "Descreve o método tradicional de escolha forçada/frases descritivas."
+    },
+    {
+     "key": "C",
+     "text": "avaliar o desempenho através do registro sistemático das observações do avaliador sobre o avaliado, em relação aos pontos negativos e positivos que parecem afetar seu desempenho, tanto no ambiente de trabalho propriamente dito quanto em simulações do trabalho propostas para avaliação.",
+     "explanation": "Descreve o método tradicional de incidentes críticos."
+    },
+    {
+     "key": "D",
+     "text": "basear-se no julgamento, feito pelas lideranças, das qualidades pessoais e da contribuição dos liderados, considerados individualmente e em grupo, ao alcance dos resultados ou metas previamente estabelecidas.",
+     "explanation": "Mantém o foco no julgamento das pessoas pela chefia, típico da mera avaliação."
+    },
+    {
+     "key": "E",
+     "text": "considerar não apenas o desempenho pessoal, mas também os elementos estruturais e tecnológicos que dão sustentação à realização do trabalho e que compreendem intangíveis, tais como, dentre outros, cultura, liderança e valores."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A gestão estratégica do desempenho deixa de julgar só o indivíduo e passa a considerar os determinantes do desempenho: estrutura, tecnologia, condições e intangíveis como cultura, liderança e valores, alinhados à estratégia. As alternativas A a D descrevem métodos tradicionais.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q34",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 34,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.3 Gestão de conflitos",
+   "stem": "<p>Dois grupos de trabalho são contemplados por um mesmo item do orçamento da organização de trabalho. Um dos grupos tem por objetivo apresentar projetos que aumentem a velocidade e diminuam os custos de produção da empresa, ao passo que o outro grupo objetiva aumentar a qualidade dos produtos. Os grupos possuem o mesmo <em>status</em>, e seus membros ocupam o mesmo degrau na hierarquia da empresa. O sistema de recompensas da empresa favorecerá o grupo com maior número de sugestões implementadas.</p><p>Essa situação tende a gerar, em relação a cada um dos grupos, um(a)</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "maior foco na garantia das satisfações de seus membros, uma vez que a interdependência recíproca funciona como ameaça a cada membro.",
+     "explanation": "Na competição intergrupal o grupo se volta para a tarefa e o desempenho, e menos para a satisfação dos membros."
+    },
+    {
+     "key": "B",
+     "text": "ambiente de colaboração intergrupal, uma vez que a divergência das metas só poderá ser resolvida pelo trabalho conjunto.",
+     "explanation": "Recursos escassos, metas divergentes e recompensa competitiva geram conflito, não colaboração."
+    },
+    {
+     "key": "C",
+     "text": "maior submissão a uma liderança autocrática, se ela for empregada na tentativa de solucionar o conflito."
+    },
+    {
+     "key": "D",
+     "text": "diminuição da coesão do grupo, devido ao estresse da situação de conflito que as condições propiciam.",
+     "explanation": "A ameaça externa aumenta a coesão interna de cada grupo."
+    },
+    {
+     "key": "E",
+     "text": "necessidade de flexibilizar as regras, gerando uma estrutura pouco rígida, que favorece a criatividade e, internamente, os conflitos funcionais.",
+     "explanation": "Sob competição, o grupo fica mais estruturado e exige conformidade e regras mais rígidas."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Recursos escassos e um sistema de recompensa competitivo geram conflito intergrupal. Segundo Schein, dentro de cada grupo aumentam a coesão, o foco na tarefa, a estruturação e a aceitação de liderança autocrática.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q35",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 35,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<blockquote>Flexibilidade e desregulamentação dos contratos de trabalho constituem princípios centrais e profundamente interligados no tipo de dinâmica precarizadora que prevaleceu ao longo da reestruturação produtiva. É sob a ação conjunta desses dois princípios que se desenvolvem a intensificação do trabalho e de seu controle, assim como a degradação de ordem ética e moral.</blockquote><p><small>SELIGMANN-SILVA, E. Trabalho e Desgaste Mental. São Paulo: Cortez, 2011. p. 473.</small></p><p>Nesse contexto, qual é a relação entre a precarização da saúde mental e a diretriz da flexibilidade?</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "A flexibilidade implica mudança permanente e continuada, desconsiderando o tempo necessário ao trabalho mental, cognitivo e afetivo, e obriga à polivalência, abalando o reconhecimento do trabalhador no trabalho realizado."
+    },
+    {
+     "key": "B",
+     "text": "A flexibilidade protege o trabalhador da precarização da saúde mental, uma vez que, quanto maior sua flexibilidade, maior sua adaptação às novas condições de trabalho e, portanto, menor será a degradação de sua saúde mental.",
+     "explanation": "Para Seligmann-Silva, a flexibilidade é fator de desgaste, não de proteção."
+    },
+    {
+     "key": "C",
+     "text": "A flexibilidade das relações de trabalho gera danos à saúde mental do trabalhador à medida que facilita seu desligamento, sendo inócua nos casos em que não há perspectiva de desemprego nem mudanças contratuais.",
+     "explanation": "A flexibilidade também desgasta pela mudança contínua, pela polivalência e pela intensificação, mesmo sem ameaça de desemprego."
+    },
+    {
+     "key": "D",
+     "text": "A gestão relacionada à diretriz da flexibilidade é marcada pela ideologia da excelência, que garante ao trabalhador a possibilidade do aprimoramento pessoal contínuo, combatendo a precarização da saúde mental do trabalhador.",
+     "explanation": "A ideologia da excelência é apontada como fonte de pressão e sofrimento, não como proteção."
+    },
+    {
+     "key": "E",
+     "text": "As políticas públicas sustentadas pela diretriz da flexibilidade promovem a saúde mental à medida que aumentam a probabilidade de reinserção no mercado, em caso de demissão, daqueles que se encontram empregados.",
+     "explanation": "Inverte a tese do texto, que associa flexibilização à precarização."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Seligmann-Silva mostra que a flexibilidade impõe mudança permanente, sem respeitar o tempo de aprendizagem e elaboração mental e afetiva. Exige polivalência e fragiliza o reconhecimento e a identidade no trabalho, o que contribui para o desgaste mental.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q36",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 36,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "<blockquote><p>Entre a organização do trabalho e o aparelho mental desapareceu o amortecedor que constituía até aí a responsabilidade de conceber e realizar a tarefa em função do know-how, isto é, a atividade intelectual engajada pelo operário-artesão no seu trabalho.</p><p>Com efeito, para o operário-artesão pré-taylorano, tudo se passava como se o trabalho físico, isto é, a atividade motora fosse regulada, modulada, repartida e equilibrada em função das aptidões e do cansaço do trabalhador, por intermédio da programação intelectual espontânea do trabalho.</p></blockquote><p><small>DEJOURS, C. A Loucura do Trabalho. São Paulo: Cortez. 2012, p. 43.</small></p><p>É possível modificar a situação acima descrita pelo desenho de cargos, promovendo a(o)</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "autonomia e o significado das tarefas",
+     "explanation": "O significado da tarefa refere-se ao impacto do trabalho sobre outras pessoas, que não é o que o texto descreve como perdido."
+    },
+    {
+     "key": "B",
+     "text": "retroação extrínseca e a variedade das habilidades",
+     "explanation": "Retroação extrínseca (feedback de terceiros) não devolve ao trabalhador a concepção da tarefa."
+    },
+    {
+     "key": "C",
+     "text": "variedade das habilidades e a identidade com as tarefas",
+     "explanation": "Variedade de habilidades não restitui o controle sobre o modo de executar."
+    },
+    {
+     "key": "D",
+     "text": "identidade com as tarefas e a autonomia"
+    },
+    {
+     "key": "E",
+     "text": "significado das tarefas e a retroação extrínseca",
+     "explanation": "Nenhuma das duas dimensões devolve a concepção e a autorregulação do trabalho."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O texto descreve a perda, com o taylorismo, da concepção da tarefa inteira e da autorregulação do próprio ritmo. No modelo de características do cargo (Hackman e Oldham), isso corresponde à identidade da tarefa (realizar um trabalho completo) e à autonomia (decidir como e em que ritmo fazê-lo).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q37",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 37,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>Para a Psicodinâmica do Trabalho, uma das condições sociais para que a sublimação na atividade do trabalho possa ocorrer é o “julgamento de beleza”.</p><p>Que tipo de dispositivo um psicólogo pode propor para favorecer o julgamento de beleza no interior de uma organização de trabalho?</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "A introdução, nos mecanismos de avaliação de desempenho, de critérios estéticos, a partir dos quais o trabalhador poderá receber o feedback de seus avaliadores sobre esse quesito em sua prática.",
+     "explanation": "O julgamento de beleza é feito pelos pares, que conhecem o ofício, e não pela avaliação formal de desempenho."
+    },
+    {
+     "key": "B",
+     "text": "A constituição de grupos representativos dos trabalhadores, de sua gerência e de pessoas externas ao trabalho, para que se especifiquem os critérios técnicos mais adequados à consecução de um trabalho esteticamente impecável.",
+     "explanation": "Inclui hierarquia e pessoas externas e busca fixar critérios técnicos prescritos, o que não é o julgamento entre pares."
+    },
+    {
+     "key": "C",
+     "text": "Um espaço comum, no seio do trabalho, em que os trabalhadores possam apresentar sua maneira própria de realizar uma determinada tarefa, expor as formas como cada um transgride as regras do ofício e legitimá-las pelo consenso."
+    },
+    {
+     "key": "D",
+     "text": "Um espaço público, dentro do campo de trabalho, em que sua prática, em conjunto com a prática de seus colegas, possa ser avaliada por seus superiores, em que seja possível algum treinamento informal que busque aprimorar a estética do trabalho.",
+     "explanation": "Avaliação pelos superiores corresponde ao julgamento de utilidade (vertical), não ao de beleza."
+    },
+    {
+     "key": "E",
+     "text": "Um espaço intermediário, entre o campo do trabalho e o campo externo a ele, em que o trabalho possa ser apresentado a pessoas que não o desempenham, para que elas possam fornecer um feedback sobre a forma como ele é realizado.",
+     "explanation": "Pessoas que não praticam o ofício não podem fazer o julgamento de beleza, que exige conhecimento das regras do ofício."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Para Dejours, o reconhecimento passa por dois julgamentos: o de utilidade, feito pela hierarquia e pelos clientes, e o de beleza, feito pelos pares, que conhecem as regras do ofício. Um espaço de discussão entre pares, onde se expõem os modos próprios de fazer e se constroem regras pelo consenso, favorece o julgamento de beleza.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q38",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 38,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.8 Violência, discriminação e assédio no ambiente de trabalho",
+   "stem": "<p>O Ministério da Saúde adota a seguinte definição de Marie-France Hirigoyen:</p><blockquote>Assédio moral é toda e qualquer conduta abusiva (gesto, palavra, comportamento, atitude) que atente, por sua repetição ou sistematização, contra a dignidade ou a integridade psíquica ou física de uma pessoa, ameaçando seu emprego ou degradando o clima de trabalho.</blockquote><p>De acordo com o Ministério da Saúde <strong>NÃO</strong> se classifica como assédio moral:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "gestão por injúria, ou seja, submeter os trabalhadores a uma pressão terrível ou tratá-los com violência, injuriando-os pública e francamente com total falta de respeito."
+    },
+    {
+     "key": "B",
+     "text": "comportamento do subordinado em relação a seu chefe, sendo a hierarquia um ingrediente necessário ao reconhecimento do assédio moral.",
+     "explanation": "Existe assédio ascendente (de subordinados contra a chefia) e horizontal; a hierarquia não é requisito."
+    },
+    {
+     "key": "C",
+     "text": "atitudes não intencionais, sendo necessário que o comportamento do assediador seja voluntário e dirigido, para ser classificado como assédio.",
+     "explanation": "A definição se baseia no caráter abusivo, repetido e nos efeitos sobre a vítima; a alternativa cria uma exigência que a definição adotada não traz."
+    },
+    {
+     "key": "D",
+     "text": "atribuição proposital e sistemática de tarefas que ultrapassam a competência do trabalhador.",
+     "explanation": "Atribuir sistematicamente tarefas acima da competência é exemplo clássico de assédio moral."
+    },
+    {
+     "key": "E",
+     "text": "propagação de rumores em relação ao trabalhador.",
+     "explanation": "Espalhar boatos é forma típica de assédio (atentado à dignidade)."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Hirigoyen, seguida pela cartilha do Ministério da Saúde, separa o assédio moral de situações vizinhas, como estresse, conflito, más condições de trabalho e gestão por injúria. A gestão por injúria é a violência generalizada e explícita contra todos, sem alvo singularizado. Já boatos e tarefas acima da competência, repetidos, são assédio, que também pode ser ascendente.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q39",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 39,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>Há diferentes formas de abordar a questão da relação entre saúde mental e trabalho. A cada abordagem teórica corresponde uma série de técnicas e metodologias de pesquisa.</p><p>Comparando-se as 3 abordagens abaixo discriminadas quanto à metodologia, tem-se que a</p><p>(Cada alternativa indica, nesta ordem: o que utiliza a abordagem do estresse; o que utiliza a psicodinâmica do trabalho; o que utiliza a abordagem epidemiológica.)</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "estudos quantitativos e escalas psicométricas | palavra como matéria-prima | metodologia da medicina social sul-americana",
+     "explanation": "A medicina social latino-americana é referência teórica, não a metodologia que caracteriza os estudos epidemiológicos, que usam levantamentos estatísticos e instrumentos padronizados."
+    },
+    {
+     "key": "B",
+     "text": "estudos quantitativos, predominantemente | estudos qualitativos | estudos semiclínicos, estatísticos e instrumentos de avaliação baseados em escalas psicométricas"
+    },
+    {
+     "key": "C",
+     "text": "levantamentos e análise estatística de dados | entrevistas e dinâmicas de grupo | variáveis demográficas, exames clínicos e entrevistas",
+     "explanation": "A psicodinâmica trabalha com escuta coletiva em grupos de trabalhadores, não com 'dinâmicas de grupo'; a descrição da epidemiológica também é incompleta."
+    },
+    {
+     "key": "D",
+     "text": "estudos quantitativos, na maioria dos casos | metodologias clínicas, oriundas da psicanálise | metodologias clínicas, oriundas da medicina",
+     "explanation": "A abordagem epidemiológica não usa metodologia clínica da medicina, e sim estudos populacionais e estatísticos."
+    },
+    {
+     "key": "E",
+     "text": "métodos considerados científicos | métodos considerados científicos | métodos não considerados científicos, por serem oriundos das ciências sociais",
+     "explanation": "Distinção sem fundamento: as três produzem conhecimento científico com métodos distintos."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na síntese de Jacques (2003), as teorias do estresse usam predominantemente estudos quantitativos e escalas. A psicodinâmica do trabalho usa abordagem qualitativa, com a palavra dos trabalhadores em espaço coletivo. Os estudos epidemiológicos/diagnósticos combinam procedimentos semiclínicos, estatísticos e instrumentos psicométricos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q40",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 40,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.1 Gestão por competências",
+   "stem": "<p>Uma empresa de <em>telemarketing</em> tem o objetivo de aumentar a satisfação de seus clientes em relação ao atendimento pessoal. A partir de uma estratégia relativa à gestão de competências, é necessário mapear as lacunas de competências apresentadas na organização para se chegar a esse objetivo.</p><p>Para realização da análise requerida, é necessário ater-se de antemão ao fato de que</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a gestão de competências visa a eliminar ou minimizar o <em>gap</em> de competências."
+    },
+    {
+     "key": "B",
+     "text": "a descrição de competências apresenta uma abstração relativa ao desejado e exigido pela organização ao trabalhador.",
+     "explanation": "A descrição de competências deve ser objetiva e observável (comportamentos), não uma abstração."
+    },
+    {
+     "key": "C",
+     "text": "as competências são o conjunto de conhecimento e atitudes do trabalhador para exercer uma atividade.",
+     "explanation": "Omite as habilidades: competência é o conjunto de conhecimentos, habilidades e atitudes (CHA)."
+    },
+    {
+     "key": "D",
+     "text": "as atitudes são as capacidades de as pessoas usarem o conhecimento para atingir os objetivos prescritos.",
+     "explanation": "Essa é a definição de habilidade; atitude é a predisposição (querer fazer)."
+    },
+    {
+     "key": "E",
+     "text": "as atitudes correspondem diretamente à integração das informações recebidas pelas pessoas em ambiente de trabalho.",
+     "explanation": "Integração de informações é o conhecimento, não a atitude."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O mapeamento identifica a lacuna (gap) entre as competências necessárias à estratégia e as disponíveis. A gestão por competências (Brandão e Guimarães) visa a eliminar ou minimizar esse gap, por meio de captação e desenvolvimento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q41",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 41,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2 Gestão estratégica de pessoas",
+   "stem": "<p>O modelo de gestão do capital intelectual (CI) denominado navegador da Skandia sugere alguns indicadores de CI. Eles são delimitados por cinco categorias: foco financeiro, foco no cliente, foco no processo, foco em inovação e desenvolvimento e foco nas pessoas.</p><p>São indicadores de CI relacionados ao foco nas pessoas:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "índice de <em>empowerment</em> e rotatividade dos funcionários"
+    },
+    {
+     "key": "B",
+     "text": "receita por funcionário e <em>laptops</em> por funcionários",
+     "explanation": "Receita por funcionário é indicador financeiro; laptops por funcionário é de processo."
+    },
+    {
+     "key": "C",
+     "text": "porcentagem de horas/treinamento e equipamentos de informática adquiridos",
+     "explanation": "Equipamentos de informática adquiridos é indicador de processo."
+    },
+    {
+     "key": "D",
+     "text": "valor de mercado e número de clientes",
+     "explanation": "Valor de mercado é financeiro; número de clientes é foco no cliente."
+    },
+    {
+     "key": "E",
+     "text": "número de clientes perdidos e índice de ociosidade",
+     "explanation": "Clientes perdidos é foco no cliente; ociosidade, foco no processo."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "No Navegador da Skandia (Edvinsson e Malone), o foco humano inclui índice de empowerment, rotatividade, nível de liderança, motivação e tempo de treinamento. Receita, valor de mercado e clientes pertencem aos focos financeiro e de cliente; equipamentos, ao foco em processos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q42",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 42,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "<p>Devido às exigências relativas à aprendizagem na atualidade, a educação a distância tem sido bastante explorada. Sua implementação aponta inúmeras vantagens e empecilhos.</p><p>Dentre os problemas abaixo mencionados, quais representam a resposta da educação a distância às exigências da contemporaneidade?</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Absenteísmo escolar e competitividade",
+     "explanation": "Absenteísmo não é exigência da contemporaneidade que a EaD responda."
+    },
+    {
+     "key": "B",
+     "text": "Fragmentação do saber e falta de disponibilidade",
+     "explanation": "Fragmentação do saber não é exigência a que a EaD responda."
+    },
+    {
+     "key": "C",
+     "text": "Exclusão digital e necessidade de conhecimento especializado",
+     "explanation": "Exclusão digital é empecilho da EaD, não exigência que ela atende."
+    },
+    {
+     "key": "D",
+     "text": "Exclusão digital e absenteísmo escolar",
+     "explanation": "Ambos são problemas, não exigências a que a EaD responda."
+    },
+    {
+     "key": "E",
+     "text": "Exigência de formação constante e otimização do tempo disponível para estudo"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A EaD responde à exigência de aprendizagem contínua ao longo da vida e à falta de tempo, ao permitir estudar com flexibilidade de horário e local. Exclusão digital é um empecilho à sua implementação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q43",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 43,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "<p>A gestão de competências gerencia as competências humanas para que elas possam sustentar as competências organizacionais em busca de alcançar os objetivos traçados pela organização.</p><p>Para esse tipo de gestão, existem alguns métodos e técnicas para a análise das competências. Uma das ferramentas de avaliação usadas na gestão das competências é a avaliação de 360º, que se caracteriza por ser um(a)</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "análise de grupo em que o entrevistador coordena as discussões sobre um tema específico.",
+     "explanation": "Descreve o grupo focal."
+    },
+    {
+     "key": "B",
+     "text": "avaliação feita por uma rede de pessoas em que os participantes emitem <em>feedback</em> e recebem <em>feedback</em> de diferentes fontes de avaliação."
+    },
+    {
+     "key": "C",
+     "text": "avaliação feita pelo próprio funcionário, atendo-se ao seu domínio relativo à competência e à importância da mesma para o seu trabalho.",
+     "explanation": "Descreve a autoavaliação, que é apenas uma das fontes do 360º."
+    },
+    {
+     "key": "D",
+     "text": "modelo gerencial que mede o desempenho dos funcionários e da organização através de perspectivas financeiras e não financeiras.",
+     "explanation": "Descreve o Balanced Scorecard."
+    },
+    {
+     "key": "E",
+     "text": "processo de avaliação em que os participantes são avaliados através de participação em atividades e situações semelhantes às vividas no ambiente de trabalho.",
+     "explanation": "Descreve o assessment center (simulações)."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na avaliação 360º, a pessoa recebe feedback de várias fontes do seu entorno (chefia, pares, subordinados, clientes, autoavaliação) e também avalia, formando uma rede de avaliação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q44",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 44,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.4 Análise e desenvolvimento organizacional",
+   "stem": "<p>A exigência atual de uma busca permanente de conhecimento intrínseca à nossa sociedade impulsionou o questionamento sobre as formas tradicionais de estratégias organizacionais.</p><p>Em resposta a isso, se formalizou a ideia de organizações que aprendem, caracterizadas por</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "competição predatória e processos autocráticos de gestão",
+     "explanation": "Organizações que aprendem valorizam cooperação e participação."
+    },
+    {
+     "key": "B",
+     "text": "construção de visão organizacional padronizada e pensamento linear",
+     "explanation": "Senge defende visão compartilhada e pensamento sistêmico, não linear."
+    },
+    {
+     "key": "C",
+     "text": "comprometimento com a visão organizacional padronizada e competição predatória",
+     "explanation": "Visão imposta/padronizada e competição predatória são opostas às disciplinas de Senge."
+    },
+    {
+     "key": "D",
+     "text": "construção de visões compartilhadas e aprendizagem generativa"
+    },
+    {
+     "key": "E",
+     "text": "processos autocráticos de gestão e comprometimento com o pensamento sistêmico",
+     "explanation": "O pensamento sistêmico é disciplina de Senge, mas a gestão autocrática não é."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Senge (A quinta disciplina) caracteriza as organizações que aprendem por cinco disciplinas: domínio pessoal, modelos mentais, visão compartilhada, aprendizagem em equipe e pensamento sistêmico. Elas buscam a aprendizagem generativa, que amplia a capacidade de criar, e não apenas a adaptativa.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q45",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 45,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "<p>Os membros da diretoria da empresa X estão discutindo no momento se devem implementar um programa de educação corporativa na modalidade virtual. A discussão aponta inúmeras questões a serem analisadas, como as dificuldades de adoção, vantagens e desvantagens da educação corporativa.</p><p>Nesse caso, uma das dificuldades encontradas pela diretoria da empresa em adotar a educação corporativa é:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "as metas da empresa X apostam no retorno financeiro de longo prazo.",
+     "explanation": "Metas de longo prazo combinam com educação corporativa e não são obstáculo."
+    },
+    {
+     "key": "B",
+     "text": "a resistência na adoção de um programa <em>e-learning</em> baseado no modelo tradicional de treinamento.",
+     "explanation": "A educação corporativa virtual não se baseia no modelo tradicional de treinamento; a formulação é incoerente."
+    },
+    {
+     "key": "C",
+     "text": "a definição de que o trabalho deve ser inovador e criativo.",
+     "explanation": "Inovação e criatividade são objetivos que favorecem a educação corporativa."
+    },
+    {
+     "key": "D",
+     "text": "a resistência à mudança da educação presencial para a virtual."
+    },
+    {
+     "key": "E",
+     "text": "a redução, sentida pela diretoria, da validação do conhecimento técnico.",
+     "explanation": "Não é dificuldade apontada pela literatura para adotar a educação corporativa."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Entre as dificuldades de implantar a educação corporativa virtual, destaca-se a resistência cultural de gestores e empregados a trocar o modelo presencial, conhecido, pelo virtual.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q46",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 46,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "<p>Em análises relativas à cultura organizacional, são integrados comumente os estudos das relações de poder nas organizações.</p><p>Considerando a integração entre esses dois elementos, analise as afirmações a seguir.</p><p>I – O poder tem um papel mantenedor e homologador da cultura organizacional.<br>II – O poder tem como principal característica a produção de desequilíbrio nas relações entre os trabalhadores e a cultura organizacional.<br>III – Um dos aspectos relevantes do poder é a sua característica transformadora das culturas organizacionais.</p><p>É correto <strong>APENAS</strong> o que se afirma em</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I",
+     "explanation": "Omite a afirmação III, também correta: o poder pode transformar a cultura."
+    },
+    {
+     "key": "B",
+     "text": "III",
+     "explanation": "Omite a afirmação I: o poder também mantém e legitima a cultura."
+    },
+    {
+     "key": "C",
+     "text": "I e II",
+     "explanation": "A II é falsa: a produção de desequilíbrio não é a característica principal do poder em relação à cultura."
+    },
+    {
+     "key": "D",
+     "text": "I e III"
+    },
+    {
+     "key": "E",
+     "text": "II e III",
+     "explanation": "Inclui a II, falsa, e omite a I, verdadeira."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Na perspectiva de Fleury, a cultura é também expressão de relações de poder: o poder pode manter e legitimar (homologar) os valores vigentes e também transformá-los. Não se caracteriza principalmente por gerar desequilíbrio.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q47",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 47,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "<p>No ano de 2012, os professores de um grande número de universidades federais entraram em greve com o objetivo de reivindicar junto ao governo melhores condições salariais.</p><p>A respeito desse movimento, o portal de notícias da Globo, em 17/05/2012, publicou:</p><blockquote>[...] Professores da Universidade Federal do Amazonas (Ufam) anunciaram na terça-feira (15) que entrariam em greve por tempo indeterminado a partir desta quinta. O presidente da Associação dos Docentes da Ufam (Adua), Antônio Neto, disse que as atividades no Campus serão mantidas e que docentes vão aproveitar a parte da manhã para passar nas salas e departamentos, com intuito de dialogar sobre a programação e ganhar apoio da comunidade acadêmica do movimento. [...]</blockquote><p><small>Disponível em: g1.globo.com. Acesso em: 07 jun.12. Adaptado.</small></p><p>O diálogo proposto pelos professores à comunidade reflete qual das táticas de influência das pessoas para transformar suas bases de poder?</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Insinuação",
+     "explanation": "Insinuação é usar elogios e simpatia para obter boa vontade antes de pedir algo."
+    },
+    {
+     "key": "B",
+     "text": "Pressão",
+     "explanation": "Pressão envolve exigências, ameaças e cobranças."
+    },
+    {
+     "key": "C",
+     "text": "Coalizão"
+    },
+    {
+     "key": "D",
+     "text": "Legitimidade",
+     "explanation": "Legitimidade é apoiar o pedido em regras, cargo ou autoridade formal."
+    },
+    {
+     "key": "E",
+     "text": "Troca",
+     "explanation": "Troca é oferecer benefícios ou favores em retribuição."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Entre as táticas de influência (Robbins), a coalizão consiste em buscar o apoio de outras pessoas para fortalecer a própria posição. É o que fazem os professores ao procurar a comunidade acadêmica para ganhar adesão ao movimento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q49",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 49,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "<p>O teste LIFO (<em>Life Orientations</em>) foi construído com o objetivo de descrever estilos pessoais de atuação. Esses estilos são quatro (AP/CS – Apoio/Concessão; LD/DM – Liderança/Dominação; CV/AG – Conservação/Apego; e AD/NG – Adaptação/Negociação) que variam seu comportamento dependendo se a situação é favorável ou desfavorável.</p><p>Nesse contexto, considere as situações a seguir.</p><p>Situação A: Maria é secretária do vice-presidente de uma empresa multinacional. No momento, seu comportamento é prestativo, receptivo e cooperador. Seu chefe e seus colegas tecem inúmeros elogios em relação ao seu comportamento para com os outros.</p><p>Situação B: Rodrigo é advogado da União. Quando entra em sua repartição, não fala com as pessoas que encontra. Somente troca frases precisas e secas com sua secretária, antes de começar o trabalho. No momento, só se reporta às pessoas com o objetivo estrito de direcionar a realização do trabalho. É muito duro e impaciente com as pessoas. Ele é visto pelos colegas como uma pessoa arrogante.</p><p>Situação C: Marcelo é consultor de uma empresa de TI. Ele é visto pelos colegas como um homem apaixonado pelo que faz. Sua flexibilidade comportamental abre inúmeras possibilidades de encontros com outras pessoas. No momento, ele é o encarregado da construção de um <em>site</em> de consultas médicas <em>on-line</em> que possibilita aos médicos do interior do país tirarem dúvidas com médicos da capital. Seu charme pessoal e a coesão de seu grupo de colaboradores o ajudaram na realização desse projeto.</p><p>Analisando as situações A, B e C, quanto à definição do estilo e situação que delimitam o comportamento, conclui-se que</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Maria enfrenta alguns conflitos e insucessos, e seu estilo LIFO é o de LD/DM.",
+     "explanation": "Maria é prestativa e cooperadora (AP/CS) e está sendo elogiada, logo em situação favorável."
+    },
+    {
+     "key": "B",
+     "text": "Rodrigo está em um momento muito produtivo em sua vida, e seu estilo LIFO é o de AD/NG.",
+     "explanation": "Rodrigo mostra o estilo LD/DM em excesso (duro, impaciente, arrogante), típico de situação desfavorável."
+    },
+    {
+     "key": "C",
+     "text": "Marcelo enfrenta alguns conflitos e insucessos, e seu estilo LIFO é o de AP/CS.",
+     "explanation": "Marcelo, flexível e carismático, é AD/NG e está em fase de sucesso."
+    },
+    {
+     "key": "D",
+     "text": "Maria está em um momento muito produtivo em sua vida, e seu estilo LIFO é o de CV/AG.",
+     "explanation": "O momento é favorável, mas o estilo de Maria (prestativa, cooperadora) é AP/CS, não Conservação/Apego."
+    },
+    {
+     "key": "E",
+     "text": "Marcelo está em um momento muito produtivo em sua vida, e seu estilo LIFO é o de AD/NG."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "No LIFO (Atkins e Katcher), Adaptação/Negociação reúne flexibilidade, charme e habilidade de relacionamento, descrição de Marcelo, que está em situação favorável (projeto bem-sucedido). Maria corresponde a Apoio/Concessão em situação favorável; Rodrigo, a Liderança/Dominação em excesso, típico de situação desfavorável.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q51",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 51,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "<p>Há quem sustente que a cultura de uma organização pode ser gerenciada e modificada. Esse argumento é sustentado, dentre outras explicações, porque</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a cultura organizacional é complexa e multifacetada, por isso é difícil de compreender, o que gera pouca adesão dos membros da organização.",
+     "explanation": "Complexidade e dificuldade de compreensão são argumentos contra a gerenciabilidade da cultura."
+    },
+    {
+     "key": "B",
+     "text": "a cultura organizacional não é uniforme, admitindo e abrigando diversas subculturas, o que favorece sua flexibilização.",
+     "explanation": "A existência de subculturas dificulta o gerenciamento e não é o argumento clássico a favor dele."
+    },
+    {
+     "key": "C",
+     "text": "a cultura organizacional, uma vez que sustenta o sentimento gregário dos funcionários, requer direção e liderança, o que favorece sua gerência.",
+     "explanation": "O sentimento gregário não implica que a cultura 'requeira direção'; o raciocínio não se sustenta."
+    },
+    {
+     "key": "D",
+     "text": "as culturas são espontâneas e ocultas, decorrentes da história dos fundadores e da interação com a cultura nacional e outros fatores ambientais.",
+     "explanation": "Argumento de quem sustenta que a cultura não pode ser gerenciada."
+    },
+    {
+     "key": "E",
+     "text": "os gerentes podem modelar elementos superficiais da cultura, como símbolos, histórias e cerimônias, e esses elementos transmitem acordos culturais."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "No debate sobre gerenciar a cultura (Bowditch e Buono), quem defende que é possível argumenta que gestores podem moldar artefatos e manifestações superficiais, como símbolos, histórias, ritos e cerimônias, que transmitem e reforçam os pressupostos culturais. Espontaneidade, ocultação e complexidade são argumentos contrários.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q52",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 52,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.1.1 Gestão de mudanças",
+   "stem": "<p>Uma empresa muito reconhecida pelos computadores de mesa que fabrica se vê ameaçada pela emergência do mercado de computadores portáteis. Para garantir sua sobrevivência, ela precisa modificar ou substituir seu produto.</p><p>Para que isso seja possível, em termos de análise e desenvolvimento organizacional, é necessário</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "detectar e superar os pontos de resistência à mudança, incentivar e fortalecer as fontes de apoio, planejar, implementar e estabilizar a mudança organizacional no longo prazo."
+    },
+    {
+     "key": "B",
+     "text": "evitar perda de tempo com informações desnecessárias, barganhas ou oferta de suporte pessoal, uma vez que o desenvolvimento organizacional transforma a estrutura organizacional e não a estrutura psicológica individual.",
+     "explanation": "Comunicação, negociação e apoio são táticas recomendadas para reduzir resistências; o DO atua também sobre pessoas e grupos."
+    },
+    {
+     "key": "C",
+     "text": "restringir aos estratos mais altos da hierarquia corporativa a participação nas decisões sobre as mudanças para garantir a anuência dos funcionários às mudanças propostas.",
+     "explanation": "A participação dos afetados é uma das principais formas de obter adesão; excluí-los aumenta a resistência."
+    },
+    {
+     "key": "D",
+     "text": "focar as metas imediatas e palpáveis, pois, em situações de crise, o desenvolvimento organizacional precisa visar ao curto prazo e aos resultados imediatos.",
+     "explanation": "O DO é processo planejado de longo prazo."
+    },
+    {
+     "key": "E",
+     "text": "fortalecer a cultura da organização, pois uma cultura forte favorece a organização em momentos de crise e mudança.",
+     "explanation": "Uma cultura forte tende a resistir à mudança; a mudança de produto exige rever a cultura, não reforçá-la."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "A mudança planejada envolve diagnosticar e superar as resistências, fortalecer as forças favoráveis (análise de campo de forças de Lewin), planejar, implementar e estabilizar (recongelar) a mudança no longo prazo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q53",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 53,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "diag-org",
+   "subtopic": "4.9 Diversidade e políticas afirmativas nas organizações",
+   "stem": "<p>Uma organização sofre uma série de processos de pedidos de indenização por discriminação racial praticada por seus funcionários. A gerência avalia e, internamente, reconhece a incidência de uma atitude discriminatória e preconceituosa por parte de seus funcionários e está determinada a mudar tal atitude.</p><p>Qual a forma mais eficiente para a mudança de tais atitudes, considerando a necessidade imediata de evitar novos incidentes?</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Modificando os valores subjacentes às atitudes a partir de programas de treinamento e intervenções na cultura organizacional.",
+     "explanation": "Mudar valores e cultura é processo lento, que não atende à necessidade imediata."
+    },
+    {
+     "key": "B",
+     "text": "Utilizando técnicas de modificação cognitiva, como o questionamento socrático das crenças dos envolvidos nos incidentes em questão.",
+     "explanation": "Técnicas cognitivas individuais são lentas e não se aplicam em escala organizacional para efeito imediato."
+    },
+    {
+     "key": "C",
+     "text": "Estabelecendo punições severas, públicas e retroativas para os envolvidos nos incidentes que geraram as indenizações.",
+     "explanation": "Punições públicas e retroativas são eticamente problemáticas e geram ressentimento, sem mudar a atitude."
+    },
+    {
+     "key": "D",
+     "text": "Controlando o comportamento correspondente à atitude em questão, de preferência utilizando motivadores intrínsecos."
+    },
+    {
+     "key": "E",
+     "text": "Gerando dissonância cognitiva nos envolvidos, a partir da confrontação de seus comportamentos com suas atitudes.",
+     "explanation": "Confrontar diretamente tende a gerar defesa; a dissonância que muda atitudes surge quando o comportamento já mudou."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Quando é preciso evitar novos incidentes de imediato, a via mais eficiente é agir sobre o comportamento correspondente à atitude. Mudanças de comportamento, sobretudo sustentadas por motivação intrínseca, tendem a produzir mudança de atitude por redução de dissonância. Mudar valores e cultura é necessário, mas lento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q54",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 54,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.1 Transformações no mundo do trabalho e mudanças nas organizações",
+   "stem": "<p>Há autores que defendem que a era da informação gera postos de trabalho na mesma proporção que extingue postos tornados obsoletos pelo avanço tecnológico. A vantagem, segundo eles, é que os novos postos de trabalho, ainda que não sigam o modelo do emprego formal — carteira assinada, contrato, salário, benefícios — são trabalhos mais satisfatórios e mais bem pagos. Assim, o sofrimento transitório dos menos de 10% de desempregados seria justificado pelo benefício permanente dos 90% de empregados.</p><p>De acordo com essa lógica, entre os fatores abaixo, quais podem ser apontados como grandes entraves ao recrutamento da força de trabalho?</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "O momento de oferta do mercado de recursos humanos e a globalização",
+     "explanation": "Para essa lógica, a globalização é motor de novos postos, não entrave."
+    },
+    {
+     "key": "B",
+     "text": "O momento de oferta do mercado de trabalho e o aumento da terceirização",
+     "explanation": "Terceirização é forma flexível de contratação que essa lógica defende."
+    },
+    {
+     "key": "C",
+     "text": "A exclusão tecnológica e a flexibilização dos contratos de trabalho",
+     "explanation": "A flexibilização é justamente o que essa lógica defende."
+    },
+    {
+     "key": "D",
+     "text": "A rigidez da legislação trabalhista e a desqualificação dos trabalhadores"
+    },
+    {
+     "key": "E",
+     "text": "As vantagens do trabalho no mercado informal e a assistência do governo",
+     "explanation": "Essa lógica valoriza o trabalho fora do emprego formal; não o vê como entrave."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O discurso descrito valoriza vínculos flexíveis e atribui o desemprego a fatores do lado do trabalhador e das regras. Por essa lógica, os entraves ao recrutamento seriam a rigidez da legislação trabalhista, que encarece e trava a contratação, e a desqualificação dos trabalhadores para os novos postos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q55",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 55,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>Se um psicólogo pretende levar adiante uma análise do trabalho, utilizando o método da confrontação cruzada proposto por Yves Clot, ele deve</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "formular, isoladamente ou com a ajuda da gestão, diretrizes técnicas para o trabalho a ser analisado, registrar o que é realizado na prática pelo trabalhador e, por fim, confrontar o registro do que ele faz com as diretrizes do trabalho.",
+     "explanation": "Confrontar o real com diretrizes prescritas é análise de conformidade, não autoconfrontação; o método não parte de prescrições formuladas pelo psicólogo ou pela gestão."
+    },
+    {
+     "key": "B",
+     "text": "formular os objetivos do trabalho com o coletivo dos trabalhadores, escolher, em grupo, aqueles cujos colegas consideram os mais habilidosos no trabalho e registrar sua prática, confrontar o registro dessa prática com os objetivos do trabalho formulados no início.",
+     "explanation": "Não há escolha dos 'mais habilidosos' nem confronto com objetivos formulados de antemão."
+    },
+    {
+     "key": "C",
+     "text": "registrar a forma como o trabalhador e um colega escolhido por ele realizam seu trabalho, apresentar o registro a ambos, pedindo-lhes que produzam o sentido do que veem, extrair, desse encontro, o sentido comum daquele ofício.",
+     "explanation": "Omite a autoconfrontação simples e a devolução ao coletivo, e o objetivo não é 'extrair um sentido comum', mas fazer o diálogo sobre o ofício se desenvolver."
+    },
+    {
+     "key": "D",
+     "text": "registrar as situações de trabalho consideradas críticas pela gestão, formular, com os trabalhadores, as melhores práticas para lidar com as tais situações críticas e, enfim, confrontar o trabalhador com o registro de sua prática.",
+     "explanation": "Não se trata de definir boas práticas a partir de situações escolhidas pela gestão."
+    },
+    {
+     "key": "E",
+     "text": "registrar o exercício do trabalho nas situações a serem analisadas, confrontar o trabalhador com esse registro diante do psicólogo e diante de um colega especialista e, por último, expor o material ao coletivo dos trabalhadores."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A autoconfrontação cruzada (Clot, clínica da atividade) tem três fases: filmagem da atividade; autoconfrontação simples (o trabalhador comenta o vídeo diante do pesquisador) e cruzada (diante de um colega do mesmo ofício); e retorno do material ao coletivo de trabalho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q56",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 56,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>Na abordagem da Psicodinâmica do Trabalho, o trabalho é conceituado como</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "essencial ao homem na medida em que é o meio através do qual se relaciona com a natureza, transformando-a em bens de onde advirá o valor e se transformando, ao mesmo tempo.",
+     "explanation": "Conceito marxista de trabalho como mediação com a natureza."
+    },
+    {
+     "key": "B",
+     "text": "mercadoria que possui um valor de uso e um valor de troca, de cuja diferença advém a produção dos valores que alimentam a economia de mercado.",
+     "explanation": "Conceito da economia política (trabalho como mercadoria)."
+    },
+    {
+     "key": "C",
+     "text": "responsável pela cultura e história do homem, ao desenvolver a atividade coletiva, as relações sociais e a utilização de instrumentos, que transformam a natureza, voltando ao início do ciclo ao recriar a cultura e a história.",
+     "explanation": "Visão histórico-cultural (Vigotski/Leontiev), não a definição de Dejours."
+    },
+    {
+     "key": "D",
+     "text": "meio pelo qual o homem pode atingir a saúde, uma vez que serve para garantir suas possibilidades de satisfação, e o alcance do prazer é o que sustenta a saúde psíquica.",
+     "explanation": "O trabalho pode ser fonte de prazer ou de sofrimento; não é definido como meio garantido de saúde."
+    },
+    {
+     "key": "E",
+     "text": "aquilo que o sujeito acrescenta às prescrições para alcançar os objetivos que lhe são designados, uma vez que trabalhar é preencher a lacuna irredutível entre o prescrito e o real."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Para Dejours, trabalhar é preencher a lacuna entre o prescrito e o real: o trabalho é aquilo que o sujeito acrescenta às prescrições (engenhosidade, inteligência prática) para atingir os objetivos. A lacuna nunca se elimina, pois o real sempre resiste.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q57",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 57,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.8 Violência, discriminação e assédio no ambiente de trabalho",
+   "stem": "<p>A violência moral no trabalho é um fenômeno internacional de acordo com levantamento da Organização Internacional do Trabalho (OIT). Tanto a OIT quanto a Organização Mundial da Saúde consideram tenebrosas as perspectivas para as duas próximas décadas, que serão as décadas do “mal-estar na globalização” em que predominam danos psíquicos relacionados às novas políticas de gestão na organização de trabalho, vinculadas às políticas neoliberais.</p><p>De acordo com as análises críticas da clínica do trabalho, o neoliberalismo favorece o assédio moral, dentre outras causas, porque</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "denuncia a improdutividade, a ausência de investimento pessoal no trabalho e a falta de engajamento moral de alguns trabalhadores, favorecendo atitudes violentas em relação a eles.",
+     "explanation": "Reproduz o discurso que culpa a vítima, em vez de explicar o mecanismo estrutural."
+    },
+    {
+     "key": "B",
+     "text": "promove o individualismo, a hipercompetitividade e o consequente isolamento do trabalhador, que perdura solitário diante do assediador, cuja atitude ainda é justificada pela exigência de excelência e qualidade."
+    },
+    {
+     "key": "C",
+     "text": "favorece o surgimento de organizações coletivas de trabalhadores que acabam por reconhecer e questionar a impotência inevitável do trabalhador diante do trabalho, o que gera as respostas agressivas das gerências.",
+     "explanation": "O neoliberalismo enfraquece as organizações coletivas, não as favorece."
+    },
+    {
+     "key": "D",
+     "text": "favorece a judicialização do comportamento moral, que tem por efeito colateral legitimar todo comportamento que não esteja interditado pela lei jurídica, dificultando que comportamentos imorais sejam percebidos como inaceitáveis.",
+     "explanation": "Não é a explicação dada pela clínica do trabalho para o assédio."
+    },
+    {
+     "key": "E",
+     "text": "favorece que se reconheça um quadro que até o momento não havia sido tematizado ou questionado, pois o discurso da qualidade total perpassa tanto as condições materiais quanto psicológicas e sociais.",
+     "explanation": "Confunde dar visibilidade ao assédio com causá-lo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Autores como Barreto, Heloani e Dejours relacionam o assédio às formas de gestão neoliberais: individualismo, competição exacerbada e avaliação individual destroem os coletivos e a solidariedade. A vítima fica isolada, e o assediador se justifica pelo discurso da excelência.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q58",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 58,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>O psicólogo que se ocupa das relações entre o trabalho e a saúde mental busca</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "detectar e modificar as situações que geram doenças ocupacionais, atuar na prevenção de acidentes e melhoria das condições ambientais.",
+     "explanation": "Descreve atribuições de higiene e segurança do trabalho (SESMT), não o foco específico da saúde mental."
+    },
+    {
+     "key": "B",
+     "text": "detectar os fatores estressantes no trabalho e propor estruturas de trabalho que permitam a homeostase, o equilíbrio completo entre homem e ambiente.",
+     "explanation": "Equilíbrio completo é inatingível; a saúde é vista como processo dinâmico."
+    },
+    {
+     "key": "C",
+     "text": "viabilizar condições de trabalho propícias à construção da identidade, da subjetividade e da realização dos desejos do trabalhador."
+    },
+    {
+     "key": "D",
+     "text": "negociar, com as organizações de trabalho, as recompensas que garantam a satisfação das necessidades materiais e sociais do trabalhador.",
+     "explanation": "Negociar recompensas não define a atuação em saúde mental e trabalho."
+    },
+    {
+     "key": "E",
+     "text": "eliminar a geração de angústia na e pela atividade de trabalho à medida que a angústia degrada a saúde mental.",
+     "explanation": "O sofrimento não pode ser eliminado; pode ser transformado em prazer ou criatividade."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Na perspectiva da saúde mental e trabalho (psicodinâmica), o trabalho é central na construção da identidade e da subjetividade. O psicólogo busca condições que permitam transformar o sofrimento em prazer e realizar desejos, e não eliminar todo sofrimento nem atingir um equilíbrio perfeito.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q59",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 59,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>A clínica do trabalho considera o adoecimento e o sofrimento no trabalho em relação ao seu contexto social.</p><p>Segundo a leitura proposta pela psicodinâmica do trabalho, que lugar a ideologia neoliberal dá ao sofrimento no trabalho?</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Adversidade — não de injustiça — deriva de uma opção pessoal de não se esforçar o suficiente para alcançar as riquezas que o neoliberalismo propicia."
+    },
+    {
+     "key": "B",
+     "text": "Consequência de fatores políticos e econômicos — é uma produção necessária de um sistema que não pode produzir o suficiente para todos.",
+     "explanation": "Ver o sofrimento como produto político e econômico é a leitura crítica, não a que a ideologia neoliberal promove."
+    },
+    {
+     "key": "C",
+     "text": "Injustiça — pode ser corrigida pela reformulação do significado dado pela sociedade ao trabalho e à sua função.",
+     "explanation": "Dejours mostra que o neoliberalismo dissocia sofrimento e injustiça; vê-lo como injustiça é o que mobilizaria a ação coletiva."
+    },
+    {
+     "key": "D",
+     "text": "Consequência da impossibilidade pessoal de estabelecer as defesas psicológicas contra o real do trabalho — entendido como a distância entre o trabalho prescrito e o trabalho real.",
+     "explanation": "Mistura conceitos da psicodinâmica (real, defesas) e não descreve o discurso neoliberal."
+    },
+    {
+     "key": "E",
+     "text": "Consequência das condições de trabalho inadequadas — é possível e mesmo necessário controlar tais condições para evitar o sofrimento.",
+     "explanation": "Leitura de saúde ocupacional, oposta à naturalização neoliberal do sofrimento."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Em 'A banalização da injustiça social', Dejours mostra que a ideologia neoliberal apresenta o sofrimento como adversidade ou fatalidade econômica, e não como injustiça. A culpa recai sobre o indivíduo, o que neutraliza a indignação e a mobilização coletiva.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q60",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 60,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.10 Qualidade de Vida e Bem-Estar no Trabalho",
+   "stem": "<p>É considerado característico de um programa de promoção de qualidade de vida em uma organização o(a)</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "estabelecimento de um sistema de indicadores de acidentes do trabalho",
+     "explanation": "Indicadores de acidentes pertencem à gestão de segurança do trabalho."
+    },
+    {
+     "key": "B",
+     "text": "treino nas normas de segurança e o uso de equipamentos de proteção",
+     "explanation": "Treino em normas e EPI é ação de segurança do trabalho exigida pelas NRs."
+    },
+    {
+     "key": "C",
+     "text": "obrigatoriedade de exames médicos periódicos",
+     "explanation": "Exames periódicos são obrigação legal do PCMSO (NR-7), não característica de programa de QVT."
+    },
+    {
+     "key": "D",
+     "text": "adequação da iluminação, ventilação, temperatura e do nível de ruídos no ambiente de trabalho",
+     "explanation": "Condições ambientais são higiene ocupacional e ergonomia (NR-17), exigências mínimas."
+    },
+    {
+     "key": "E",
+     "text": "melhoria da saúde física e psicológica por meio de novas formas de organizar o trabalho"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Programas de QVT vão além das obrigações legais de higiene e segurança: buscam promover a saúde física e psicológica por mudanças na organização do trabalho (autonomia, conteúdo, ritmo, participação), conforme a abordagem de Walton e de Limongi-França.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q61",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 61,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "<p>A educação corporativa é fruto da sociedade do conhecimento e, por conseguinte, das exigências do mundo contemporâneo. Atualmente, percebe-se a coexistência da educação corporativa e do modelo de treinamento tradicional de organizações.</p><p>Nesse contexto, tem-se que a(o)</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aprendizagem, veiculada pelo treinamento em seu modelo tradicional, se apresenta como presencial, contínua e pessoal.",
+     "explanation": "O treinamento tradicional é pontual (eventos), não contínuo."
+    },
+    {
+     "key": "B",
+     "text": "educação corporativa, em contraposição ao treinamento tradicional, utiliza o <em>e-learning</em> com o objetivo de ensinar tarefas específicas e pontuais a um grande número de empregados.",
+     "explanation": "Ensinar tarefas específicas e pontuais é característica do treinamento tradicional."
+    },
+    {
+     "key": "C",
+     "text": "educação corporativa é uma aliada da empresa por conceber a aprendizagem em sua descontinuidade constitutiva.",
+     "explanation": "A educação corporativa concebe a aprendizagem como contínua."
+    },
+    {
+     "key": "D",
+     "text": "conhecimento, veiculado pelo treinamento em seu modelo tradicional, está sempre disponível quando dele se precisa.",
+     "explanation": "No modelo tradicional, o conhecimento só está disponível nos eventos de treinamento."
+    },
+    {
+     "key": "E",
+     "text": "<em>e-learning</em> usado pela educação corporativa tem como objetivo permitir que os empregados consultem informações para tirar dúvidas para a realização do trabalho."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A educação corporativa (Meister; Eboli) propõe aprendizagem contínua e disponível quando necessária. O e-learning permite ao empregado consultar informações para resolver dúvidas do trabalho (just in time). O treinamento tradicional é presencial, pontual e voltado a tarefas específicas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q62",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 62,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "<p>As organizações que aprendem, devido à sua forma, pressupõem um estilo específico de liderança.</p><p>Os líderes das organizações que aprendem</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "constroem uma missão oficial da organização para que seus liderados a sigam.",
+     "explanation": "Senge defende visão compartilhada, construída com as pessoas, não missão imposta."
+    },
+    {
+     "key": "B",
+     "text": "apostam na correção de erros mediante rotinas preestabelecidas pela organização e pelo reforço positivo.",
+     "explanation": "Corrigir erros por rotinas é aprendizagem de circuito simples, não generativa."
+    },
+    {
+     "key": "C",
+     "text": "apostam no aprendizado de círculo simples e na ideia de que os liderados devam realizar as tarefas prescritas pela organização.",
+     "explanation": "As organizações que aprendem valorizam a aprendizagem de circuito duplo (Argyris)."
+    },
+    {
+     "key": "D",
+     "text": "incentivam o questionamento de padrões mentais vigentes."
+    },
+    {
+     "key": "E",
+     "text": "são carismáticos e trabalham no nível dos eventos e da reatividade.",
+     "explanation": "Senge critica a liderança heroica e reativa, centrada em eventos; o líder deve trabalhar no nível das estruturas sistêmicas."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Para Senge, o líder da organização que aprende é projetista, professor e regente: ajuda as pessoas a explicitar e questionar seus modelos mentais e a enxergar estruturas sistêmicas, favorecendo a aprendizagem de circuito duplo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q63",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 63,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "<p>Em sua entrada na sociedade do conhecimento, as empresas passaram a se preocupar com os ativos intangíveis, representados principalmente pelo capital humano da organização. A partir desse problema, alguns modelos de mensuração dos ativos intangíveis foram criados.</p><p>Um desses modelos é a <em>balanced scorecard</em> (BSC) que consiste no(a)</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "balanceamento entre três indicadores de ativos intangíveis: crescimento e renovação, eficiência e eficácia e estabilidade, analisados a partir da demanda organizacional.",
+     "explanation": "Descreve indicadores do Monitor de Ativos Intangíveis de Sveiby (crescimento/renovação, eficiência, estabilidade)."
+    },
+    {
+     "key": "B",
+     "text": "conjunto balanceado de análises relativas a dimensões financeiras e não financeiras (clientes, processos internos e crescimento), derivadas das estratégias organizacionais."
+    },
+    {
+     "key": "C",
+     "text": "mensuração balanceada entre uma medida geral e um conjunto de indicadores, fundados nos seguintes capitais: humano, clientes e estrutural.",
+     "explanation": "Aproxima-se de modelos de capital intelectual (Stewart, Skandia), não do BSC."
+    },
+    {
+     "key": "D",
+     "text": "harmonização e análise de quatro dimensões, sendo uma relacionada ao capital financeiro, e três ao capital intelectual, denominadas humano, estrutural e clientes.",
+     "explanation": "Mistura as categorias de capital intelectual com o BSC; as perspectivas do BSC são finanças, clientes, processos internos e aprendizado/crescimento."
+    },
+    {
+     "key": "E",
+     "text": "análise de três dimensões de ativos intangíveis: competência do funcionário, estrutura interna e estrutura externa.",
+     "explanation": "É o Monitor de Ativos Intangíveis de Sveiby."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O Balanced Scorecard (Kaplan e Norton) traduz a estratégia em indicadores equilibrados de quatro perspectivas: financeira, clientes, processos internos e aprendizado e crescimento. Combina, portanto, medidas financeiras e não financeiras.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q64",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 64,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.1 Gestão por competências",
+   "stem": "<p>Um dos instrumentos usados na gestão de competências é a autoavaliação que proporciona uma ajuda no mapeamento do <em>gap</em>. A equação abaixo é utilizada para a identificação do <em>gap</em> de competências:</p><p>N = I (4 – D)</p><p>Com base nessa equação, obteve-se o seguinte resultado da autoavaliação feita por X:</p><table><thead><tr><th>Competências</th><th>I</th><th>D</th><th>N</th></tr></thead><tbody><tr><td>1. Colaborar com colegas visando à harmonia do trabalho em equipe</td><td>4</td><td>1</td><td>12</td></tr><tr><td>2. Comunicar-se de forma oral com clareza e tranquilidade</td><td>2</td><td>0</td><td>8</td></tr></tbody></table><p>Analisando-se esses resultados, conclui-se que X</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "necessita desenvolver, comparativamente, mais a competência 1 do que a 2."
+    },
+    {
+     "key": "B",
+     "text": "necessita, entre as duas competências avaliadas, um maior desenvolvimento da competência 2.",
+     "explanation": "N da competência 2 (8) é menor que o da 1 (12); a necessidade maior é a da 1."
+    },
+    {
+     "key": "C",
+     "text": "domina muito a competência 2.",
+     "explanation": "D = 0 indica que X não domina a competência 2."
+    },
+    {
+     "key": "D",
+     "text": "domina totalmente a competência 1.",
+     "explanation": "D = 1 indica domínio baixo da competência 1."
+    },
+    {
+     "key": "E",
+     "text": "percebe a competência 2 como de extrema importância para o seu trabalho.",
+     "explanation": "I = 2 indica importância moderada, não extrema (a competência 1 tem I = 4)."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Na fórmula de Brandão (N = I × (4 – D)), I é a importância e D o domínio. Quanto maior N, maior a necessidade de desenvolvimento. A competência 1 tem N = 12, maior que o N = 8 da competência 2, então é a prioritária.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q65",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 65,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.2 Comunicação",
+   "stem": "<p>O conceito de <em>feedback</em> migrou da eletrônica e ganhou sua importância nos estudos das relações interpessoais. Ele se coloca como uma ferramenta no desenvolvimento das competências interpessoais, ajudando nas mudanças comportamentais. Para o <em>feedback</em> ser uma ferramenta útil, deve ser usado de forma específica.</p><p>A partir dessa ideia, considere as situações de <em>feedback</em> relatadas abaixo.</p><p>Situação A: No meio de uma tarefa realizada em grupo, José diz a André: “Você é um péssimo chefe, pois é egocêntrico e grosseiro”.</p><p>Situação B: Josefina afirmou à sua colega de trabalho: “Novamente, você impôs sua opinião sem aceitar as críticas dos outros membros do grupo”.</p><p>Analisando essas situações, conclui-se pela possibilidade de ser útil o <em>feedback</em> da(s)</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "situações A e B, pois descreveram o comportamento dos sujeitos avaliados.",
+     "explanation": "A situação A não descreve comportamento: rotula e avalia a pessoa ('péssimo chefe, egocêntrico e grosseiro')."
+    },
+    {
+     "key": "B",
+     "text": "situações A e B, pois foram compatíveis com as necessidades de todos os envolvidos.",
+     "explanation": "O feedback de A atende à descarga de quem o dá, não às necessidades do receptor."
+    },
+    {
+     "key": "C",
+     "text": "situações A e B, pois foram descritivas, gerais e dirigidas.",
+     "explanation": "Feedback útil deve ser específico, não geral; e A não é descritiva."
+    },
+    {
+     "key": "D",
+     "text": "situação A, pois foi muito específica.",
+     "explanation": "A é genérica e avaliativa, não específica."
+    },
+    {
+     "key": "E",
+     "text": "situação B, pois foi dirigida e específica."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Segundo Moscovici, o feedback útil é descritivo (não avaliativo), específico (não geral), dirigido a comportamentos que a pessoa pode modificar e oportuno. B aponta um comportamento concreto; A rotula a pessoa de forma geral e julgadora.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q66",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 66,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "<p>O líder tem um papel importante no desenvolvimento de equipes de trabalho. Existem cinco fases observáveis no desenvolvimento de equipes de trabalho: 1) Formação; 2) Confusão/Conflito; 3) Normatização; 4) Desempenho; 5) Desintegração. As tarefas dos líderes são distintas em cada uma destas fases.</p><p>Uma equipe de engenheiros de sistema da Empresa X foi formada para cumprir a tarefa de criar um <em>software</em> para a empresa. No final desse processo de trabalho, a equipe chega à fase de desintegração.</p><p>Nessa fase, o líder dessa equipe tem como uma de suas tarefas:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "resolver questões suscitadas pela dinâmica do poder e da autoridade.",
+     "explanation": "Questões de poder e autoridade são típicas da fase de confusão/conflito."
+    },
+    {
+     "key": "B",
+     "text": "estabelecer um processo de transição, tratando a fase em que a equipe se encontra como um processo natural."
+    },
+    {
+     "key": "C",
+     "text": "estimular os membros da equipe a trabalharem de forma cooperativa.",
+     "explanation": "Estimular a cooperação é tarefa da normatização."
+    },
+    {
+     "key": "D",
+     "text": "adaptar o papel da liderança com o objetivo de dar mais independência à equipe na realização do trabalho.",
+     "explanation": "Dar mais independência corresponde à fase de desempenho."
+    },
+    {
+     "key": "E",
+     "text": "monitorar o progresso do trabalho, atualizando os métodos e procedimentos de trabalho coletivo.",
+     "explanation": "Monitorar o progresso é tarefa do desempenho, quando a equipe ainda produz."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "No modelo de Tuckman ampliado, a última fase (desintegração ou encerramento) exige do líder conduzir a transição: reconhecer o término como natural, celebrar resultados e ajudar os membros a se desligar e seguir para novos projetos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q67",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 67,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "diag-org",
+   "subtopic": "4.1 Pesquisa e intervenções nas organizações",
+   "stem": "<p>A pesquisa-ação é um importante instrumento nos estudos da dinâmica de grupo, além de ser uma técnica de intervenção nas organizações.</p><p>Na pesquisa-ação, o pesquisador ou agente de mudança</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "compreende a dinâmica de grupo a partir das partes constitutivas do comportamento grupal.",
+     "explanation": "Lewin, de base gestáltica, rejeita a análise das partes isoladas; o grupo é um todo dinâmico."
+    },
+    {
+     "key": "B",
+     "text": "compreende a dinâmica do grupo a partir das inter-relações dinâmicas que suas partes constitutivas mantêm entre si."
+    },
+    {
+     "key": "C",
+     "text": "promove a mudança a partir de três etapas (diagnóstico, análise e <em>feedback</em>).",
+     "explanation": "A pesquisa-ação é um ciclo contínuo de planejamento, ação e avaliação (espiral), não uma sequência fechada de três etapas."
+    },
+    {
+     "key": "D",
+     "text": "promove a mudança a partir de um processo linear e que visa ao desenvolvimento da sensibilidade entre as pessoas da organização analisada.",
+     "explanation": "O processo é cíclico, não linear; desenvolver sensibilidade é objetivo do T-group."
+    },
+    {
+     "key": "E",
+     "text": "promove a mudança a partir de uma solução preestabelecida pelo programa.",
+     "explanation": "A solução é construída com os participantes, não definida de antemão."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na pesquisa-ação de Kurt Lewin, de base gestáltica e na teoria de campo, o grupo é entendido como um todo dinâmico, definido pelas interdependências entre suas partes. A intervenção segue ciclos participativos de diagnóstico, ação e avaliação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q68",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 68,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.4 Análise e desenvolvimento organizacional",
+   "stem": "<p>O Desenvolvimento Organizacional (DO) se caracteriza por uma série de intervenções na organização com o objetivo de aumentar a eficácia da organização e o bem-estar dos funcionários. Respeito pelas pessoas, confiança e apoio, confrontação e participação são os valores que alicerçam esse modo de intervenção. Existem técnicas diferentes de DO que servem para a produção de mudança numa instituição.</p><p>Com base nessas informações, analise as situações a seguir.</p><p>Situação A: Durante o momento de crise econômica, a empresa Y promoveu encontros com seus funcionários, incentivando-os a falar de seu orgulho em trabalhar na organização, apontando os pontos fortes da empresa, e a pensar em uma visão de como a empresa poderia agir para superar a crise e se fortalecer no futuro.</p><p>Situação B: Uma universidade particular, que representa um ensino superior de ponta no país, promoveu uma série de sessões de treinamento entre os professores de sistema de informação, ciências sociais e psicologia. Essas sessões focaram nas diferenças entre as profissões e os departamentos para tratar dos estereótipos criados por cada um dos participantes sobre a sua e as demais profissões, com o intuito de possibilitar um maior diálogo entre os profissionais.</p><p>Essas duas situações exemplificam as seguintes técnicas de DO:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "construção de equipes e desenvolvimento intergrupos",
+     "explanation": "A situação A não é construção de equipes (foco em metas e relações de uma equipe), mas investigação apreciativa."
+    },
+    {
+     "key": "B",
+     "text": "consultoria de processo e levantamento de <em>feedback</em>",
+     "explanation": "Não há consultor ajudando a perceber processos nem aplicação de questionários com devolução."
+    },
+    {
+     "key": "C",
+     "text": "investigação apreciativa e desenvolvimento intergrupos"
+    },
+    {
+     "key": "D",
+     "text": "treinamento de sensibilidade e investigação apreciativa",
+     "explanation": "A ordem está trocada, e B não é treinamento de sensibilidade (T-group), mas trabalho sobre estereótipos entre grupos."
+    },
+    {
+     "key": "E",
+     "text": "levantamento de <em>feedback</em> e treinamento de sensibilidade",
+     "explanation": "Nenhuma das situações descreve essas técnicas."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Em Robbins, a investigação apreciativa parte dos pontos fortes e sucessos da organização para construir uma visão de futuro (A). O desenvolvimento intergrupos trabalha as percepções e estereótipos que os grupos têm uns dos outros para melhorar a relação (B).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q69",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 69,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "<p>Um funcionário é promovido de acordo com seu desempenho passado e seu tempo de serviço. Em um determinado ponto, ao assumir um novo cargo dentro de sua equipe original, que requer um exercício mais sofisticado de sua função original, sem mudanças em seu contexto físico nem em sua carga de trabalho, o desempenho passa a ser abaixo da média.</p><p>Que diagnóstico é possível fazer, apenas com os dados apresentados, e qual é o encaminhamento a ser dado, mantendo-se o foco no plano de carreira desse funcionário?</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Ausência das competências necessárias para execução das tarefas – Demoção.",
+     "explanation": "Rebaixar contraria o foco no plano de carreira; o caminho é desenvolver as competências."
+    },
+    {
+     "key": "B",
+     "text": "A promoção levou o funcionário ao seu nível de incompetência – Treinamento e desenvolvimento."
+    },
+    {
+     "key": "C",
+     "text": "A escolha da carreira ou da direção dada à carreira foi equivocada – Encaminhamento para um programa de mentoria.",
+     "explanation": "Os dados não indicam erro de escolha de carreira; o problema surgiu ao assumir função mais complexa."
+    },
+    {
+     "key": "D",
+     "text": "O funcionário atingiu um platô de carreira – Programa de enriquecimento de carreira.",
+     "explanation": "Platô é estagnação sem perspectiva de ascensão, não queda de desempenho após promoção."
+    },
+    {
+     "key": "E",
+     "text": "O funcionário apresenta um quadro clássico de neurose obsessiva e aversão ao sucesso – Psicoterapia.",
+     "explanation": "Diagnóstico clínico sem qualquer base nos dados apresentados."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O caso ilustra o Princípio de Peter: promovido pelo desempenho passado, o funcionário chega a um cargo cujas exigências superam suas competências atuais. Mantendo o foco na carreira, o encaminhamento é treinar e desenvolver para a nova função.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q70",
+   "source": {
+    "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+    "year": 2013,
+    "originalNumber": 70,
+    "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+    "org": "BNDES"
+   },
+   "area": "psi-org",
+   "subtopic": "3.4 Análise e desenvolvimento organizacional",
+   "stem": "<p>A noção de difusão é importante nas análises da dinâmica de poder nas organizações.</p><p>A esse respeito, considere afirmações abaixo.</p><p>I – O conceito de migração de poder entre classes é inadequado na explicação da dinâmica de poder nas organizações.<br>II – O <em>Take over</em>, fenômeno em que o acionista, seja físico ou jurídico, assume o controle da organização, é uma das consequências da profissionalização administrativa.<br>III – Os mecanismos facilitadores de financiamento disponibilizados pelo Estado proporcionaram ao empresário brasileiro o exercício do poder em sua organização, dispensando assim a construção de uma coalizão interna.</p><p>É correto <strong>APENAS</strong> o que se afirma em</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I"
+    },
+    {
+     "key": "B",
+     "text": "III",
+     "explanation": "A III é falsa: o financiamento estatal não dispensa a coalizão interna de poder na organização."
+    },
+    {
+     "key": "C",
+     "text": "I e II",
+     "explanation": "A II é falsa: o take over (o acionista retoma o controle) não decorre da profissionalização; ela separa propriedade e controle, transferindo poder aos administradores."
+    },
+    {
+     "key": "D",
+     "text": "I e III",
+     "explanation": "A III é falsa."
+    },
+    {
+     "key": "E",
+     "text": "II e III",
+     "explanation": "As duas são falsas."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Na difusão do poder, o controle passa dos proprietários a administradores profissionais e a coalizões internas. A profissionalização separa propriedade e gestão; o take over é o movimento inverso, de retomada pelos acionistas. Por eliminação, só a afirmação I se sustenta.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos. Resposta derivada por eliminação de II e III; a afirmação I segue a tese do autor-base (não identificado)."
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q48",
+   "motivo": "Derivação independente diverge: pelos estudos de Bavelas/Leavitt/Shaw, em tarefas complexas é a posição central da rede radial (roda) que satura, logo a saturação seria maior na radial, o que contraria a alternativa C do gabarito. Depende da tabela de um autor específico (não identificado). Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos.",
+   "gabaritoOficial": "C",
+   "derivada": "?",
+   "questao": {
+    "id": "bndes-2013-profissional-basico-psicologia-q48",
+    "source": {
+     "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+     "year": 2013,
+     "originalNumber": 48,
+     "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+     "org": "BNDES"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1.2 Comunicação",
+    "stem": "<p>A comunicação é de extrema importância no trabalho em grupo, sendo primordial para a produtividade. Valendo-se dessa premissa, estudiosos das relações entre comunicação e produtividade apontaram cinco estruturas de comunicação observáveis na dinâmica dos grupos: a radial, a em Y, a encadeada, a circular e a da conexão total. Elas podem ser distinguidas pela velocidade de transmissão de informação, pela precisão da transmissão, pelo grau de saturação e pela satisfação dos membros com os processos de comunicação.</p><p>Comparando a dinâmica dos grupos em relação às cinco estruturas de comunicação, tem-se que:</p>",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "A sobrecarga de informações é maior em uma rede de comunicação circular do que em uma radial em se tratando de atividades complexas."
+     },
+     {
+      "key": "B",
+      "text": "A satisfação de membros de grupos em uma rede radial é maior do que em uma rede de conexão total em se tratando de atividades complexas."
+     },
+     {
+      "key": "C",
+      "text": "A saturação da rede em uma rede de conexão total é maior do que em uma rede radial, em se tratando de atividades complexas."
+     },
+     {
+      "key": "D",
+      "text": "A precisão na transmissão da informação em uma rede circular é maior do que em uma rede em Y, em se tratando de atividades simples."
+     },
+     {
+      "key": "E",
+      "text": "A produtividade em uma rede de conexão total é maior do que em uma rede em Y, em se tratando de atividades simples."
+     }
+    ],
+    "correctKey": "C",
+    "explanationSummary": "",
+    "status": "review",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "C",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+    }
+   }
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q50",
+   "motivo": "Não consegui derivar independentemente: a sequência inicial/transição/experiente/madura vem de um autor específico não identificado, e D e E descrevem plausivelmente etapas intermediárias (pela progressão da autonomia, eu atribuiria D à transição). Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos.",
+   "gabaritoOficial": "E",
+   "derivada": "D?",
+   "questao": {
+    "id": "bndes-2013-profissional-basico-psicologia-q50",
+    "source": {
+     "file": "bndes-2013-profissional-basico-psicologia/prova.pdf",
+     "year": 2013,
+     "originalNumber": 50,
+     "exam": "BNDES 2013 – Profissional Básico (Formação de Psicologia)",
+     "org": "BNDES"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1.3 Equipes de Trabalho",
+    "stem": "<p>Em relação à formação de equipes interfuncionais nas organizações de alto desempenho, observam-se quatro etapas de transição de uma equipe: equipe inicial, equipe de transição, equipe experiente e equipe madura. Cada uma dessas etapas corresponde a uma relação específica da liderança com a sua equipe.</p><p>Na equipe de transição, o</p>",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "líder não tem mais controle sobre o trabalho do grupo, cabendo a ele a coordenação e a coleta de dados sobre a produtividade para proporcionar o feedback de desempenho."
+     },
+     {
+      "key": "B",
+      "text": "papel da liderança é ativo, pois o líder deve supervisionar o trabalho da equipe todos os dias do processo a ser realizado."
+     },
+     {
+      "key": "C",
+      "text": "papel da liderança desaparece, fazendo com que a equipe assuma todas as responsabilidades do trabalho a ser feito."
+     },
+     {
+      "key": "D",
+      "text": "papel da liderança é delegado a alguns membros da equipe, sendo que o líder ainda está disponível para ensinar técnicas de resolução de problemas e para ajudar a equipe a moldar propósitos, metas e abordagens comuns."
+     },
+     {
+      "key": "E",
+      "text": "papel da liderança se modifica, pois o líder deixa de supervisionar a equipe para gerenciá-la, coordenando habilidades e atividades individuais e passando a assumir cada vez mais a tarefa de captação de recursos para a equipe e a administração de relacionamentos com grupos externos."
+     }
+    ],
+    "correctKey": "E",
+    "explanationSummary": "",
+    "status": "review",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "E",
+     "independentlyDerivedAnswer": "D?",
+     "agree": false,
+     "confidence": "high",
+     "notes": "Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos."
+    }
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q1",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q2",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q3",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q4",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q5",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q6",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q7",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q8",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q9",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q10",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q11",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q12",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q13",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q14",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q15",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q16",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q17",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q18",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q19",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q20",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q21",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q22",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q23",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q24",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q25",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q26",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q27",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q28",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q29",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  },
+  {
+   "id": "bndes-2013-profissional-basico-psicologia-q30",
+   "tema": "Conhecimentos Básicos (Português/Língua Estrangeira) ausentes do PDF disponível (caderno traz só 31-70)"
+  }
+ ],
+ "log": "Gabarito: pág. 3, Prova 12 (Formação de Psicologia), 31-70, conferido visualmente. Gabarito em formato oficial (cópia Qconcursos); fontes.md registra que não se sabe se é a versão pós-recursos. O PDF do caderno traz apenas as páginas 11-21 (questões 31-70): as questões 1-30 (Português e Língua Estrangeira) não estão disponíveis e foram contadas em 'fora'."
+}

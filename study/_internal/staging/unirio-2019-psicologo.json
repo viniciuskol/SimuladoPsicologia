@@ -1,0 +1,1732 @@
+{
+ "concurso": "unirio-2019-psicologo",
+ "questions": [
+  {
+   "id": "unirio-2019-psicologo-q1",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 1,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.7 Coordenação e subordinação",
+   "stem": "<p>Considere a oração em destaque no seguinte trecho do Texto I: “Obsolescência programada é exercida quando um produto tem vida útil menor do que a tecnologia permitiria, <strong>motivando a compra de um novo modelo</strong>” (l. 1-3).</p><p>A reescrita que mantém o mesmo valor semântico dessa oração é:</p>",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>Obsolescência programada: inimiga ou parceira do consumidor?</strong></p>\n<p>(1) Obsolescência programada é exercida quando um produto tem vida útil menor do que a tecnologia permitiria, motivando a compra de um novo modelo — eletrônicos, eletrodomésticos e automóveis são (5) exemplos evidentes dessa prática. Uma câmera com uma resolução melhor pode motivar a compra de um novo celular, ainda que o modelo anterior funcione perfeitamente bem. Essa estratégia da indústria pode ser vista como inimiga do consumidor, uma vez que (10) o incentiva a adquirir mais produtos sem realmente necessitar deles. No entanto, traz benefícios, como o acesso às novidades.</p>\n<p>Planejar inovação é extremamente importante para melhoria e aumento da capacidade técnica de (15) um produto num mercado altamente competitivo. Já imaginou se um carro de hoje fosse igual a um carro dos anos 1970? O desafio é buscar um equilíbrio entre a inovação e a durabilidade. Do ponto de vista técnico, quando as empresas planejam um produto, (20) já tem equipes trabalhando na sucessão dele, pois se trata de uma necessidade de sobrevivência no mercado.</p>\n<p>Sintomas de obsolescência são facilmente percebidos quando um novo produto oferece caracterís(25)ticas que os anteriores não tinham, como o uso de reconhecimento facial; ou a queda de desempenho do produto com relação ao atual padrão de mercado, como um smartphone que não roda bem os aplicativos atualizados. Outro sinal é detectado quando (30) não é possível repor acessórios, como carregadores compatíveis, ou mesmo novos padrões, como tipo de bateria, conector de carregamento ou tipos de cartão de um celular, por exemplo.</p>\n<p>Isso não significa que o consumidor está refém de (35) trocas constantes de equipamento: é possível adiar a substituição de um produto, por meio de upgrades de hardware, como inclusão de mais memória, baterias e acessórios de expansão, pelo menos até o momento em que essa troca não compense financeiramente.</p>\n<p>(40) Quanto à legalidade, o que se deve garantir é que os produtos mais modernos mantenham a compatibilidade com os anteriores, a fim de que o antigo usuário não seja forçado constantemente à compra de um produto mais novo se não quiser. É importante (45) diferenciá-la da obsolescência perceptiva, que ocorre quando atualizações cosméticas, como um novo design, fazem o produto parecer sem condições de uso, quando não está.</p>\n<p>É preciso lembrar também que a obsolescência (50) programada se dá de forma diferente em cada tipo de equipamento. Um controle eletrônico de portão tem uma única função e pode ser usado por anos e anos sem alterações ou troca. Já um celular tem maior taxa de obsolescência e pode ter de ser substituído (55) em um ano ou dois, dependendo das necessidades do usuário, que pode desejar fotos de maior resolução ou tela mais brilhante.</p>\n<p>Essa estratégia traz desafios, como geração do lixo eletrônico. Ao mesmo tempo, a obsolescência (60) deve ser combatida na restrição que possa causar ao usuário, como, por exemplo, uma empresa não mais disponibilizar determinada função que era disponível pelo simples upgrade do sistema operacional, forçando a compra de um aparelho novo. O saldo geral é (65) que as atualizações trazidas pela obsolescência programada trazem benefícios à sociedade, como itens de segurança mais eficientes em carros e conectabilidade imediata e de alta qualidade entre pessoas. É por conta disso que membros de uma mesma família (70) que moram em países diferentes podem conversar diariamente, com um custo relativamente baixo, por voz ou vídeo. Além disso, funcionários podem trabalhar remotamente, com mais qualidade de vida, com ajuda de dispositivos móveis.</p>\n<p><small>RAMALHO, N. Obsolescência programada: inimiga ou parceira do consumidor? Gazeta do Povo. Acesso em: 23 jul. 2019. Adaptado. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "à medida que motive a compra de um novo modelo.",
+     "explanation": "'À medida que' indica proporção, valor ausente na oração reduzida."
+    },
+    {
+     "key": "B",
+     "text": "a menos que motive a compra de um novo modelo.",
+     "explanation": "'A menos que' indica condição negativa (exceção)."
+    },
+    {
+     "key": "C",
+     "text": "ainda que motive a compra de um novo modelo.",
+     "explanation": "'Ainda que' indica concessão."
+    },
+    {
+     "key": "D",
+     "text": "para que motive a compra de um novo modelo."
+    },
+    {
+     "key": "E",
+     "text": "embora motive a compra de um novo modelo.",
+     "explanation": "'Embora' indica concessão."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A oração reduzida de gerúndio exprime o objetivo e o efeito da vida útil reduzida: estimular a compra. Entre as opções, só a finalidade ('para que motive') preserva esse valor; as demais introduzem proporção, condição ou concessão.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q2",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 2,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "<p>No Texto I, no período “Essa estratégia da indústria pode ser vista como inimiga do consumidor, <strong>uma vez que</strong> o incentiva a adquirir mais produtos sem realmente necessitar deles.” (l. 8-11), o conector <strong>uma vez que</strong> poderia ser substituído, sem alteração do sentido, por</p>",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>Obsolescência programada: inimiga ou parceira do consumidor?</strong></p>\n<p>(1) Obsolescência programada é exercida quando um produto tem vida útil menor do que a tecnologia permitiria, motivando a compra de um novo modelo — eletrônicos, eletrodomésticos e automóveis são (5) exemplos evidentes dessa prática. Uma câmera com uma resolução melhor pode motivar a compra de um novo celular, ainda que o modelo anterior funcione perfeitamente bem. Essa estratégia da indústria pode ser vista como inimiga do consumidor, uma vez que (10) o incentiva a adquirir mais produtos sem realmente necessitar deles. No entanto, traz benefícios, como o acesso às novidades.</p>\n<p>Planejar inovação é extremamente importante para melhoria e aumento da capacidade técnica de (15) um produto num mercado altamente competitivo. Já imaginou se um carro de hoje fosse igual a um carro dos anos 1970? O desafio é buscar um equilíbrio entre a inovação e a durabilidade. Do ponto de vista técnico, quando as empresas planejam um produto, (20) já tem equipes trabalhando na sucessão dele, pois se trata de uma necessidade de sobrevivência no mercado.</p>\n<p>Sintomas de obsolescência são facilmente percebidos quando um novo produto oferece caracterís(25)ticas que os anteriores não tinham, como o uso de reconhecimento facial; ou a queda de desempenho do produto com relação ao atual padrão de mercado, como um smartphone que não roda bem os aplicativos atualizados. Outro sinal é detectado quando (30) não é possível repor acessórios, como carregadores compatíveis, ou mesmo novos padrões, como tipo de bateria, conector de carregamento ou tipos de cartão de um celular, por exemplo.</p>\n<p>Isso não significa que o consumidor está refém de (35) trocas constantes de equipamento: é possível adiar a substituição de um produto, por meio de upgrades de hardware, como inclusão de mais memória, baterias e acessórios de expansão, pelo menos até o momento em que essa troca não compense financeiramente.</p>\n<p>(40) Quanto à legalidade, o que se deve garantir é que os produtos mais modernos mantenham a compatibilidade com os anteriores, a fim de que o antigo usuário não seja forçado constantemente à compra de um produto mais novo se não quiser. É importante (45) diferenciá-la da obsolescência perceptiva, que ocorre quando atualizações cosméticas, como um novo design, fazem o produto parecer sem condições de uso, quando não está.</p>\n<p>É preciso lembrar também que a obsolescência (50) programada se dá de forma diferente em cada tipo de equipamento. Um controle eletrônico de portão tem uma única função e pode ser usado por anos e anos sem alterações ou troca. Já um celular tem maior taxa de obsolescência e pode ter de ser substituído (55) em um ano ou dois, dependendo das necessidades do usuário, que pode desejar fotos de maior resolução ou tela mais brilhante.</p>\n<p>Essa estratégia traz desafios, como geração do lixo eletrônico. Ao mesmo tempo, a obsolescência (60) deve ser combatida na restrição que possa causar ao usuário, como, por exemplo, uma empresa não mais disponibilizar determinada função que era disponível pelo simples upgrade do sistema operacional, forçando a compra de um aparelho novo. O saldo geral é (65) que as atualizações trazidas pela obsolescência programada trazem benefícios à sociedade, como itens de segurança mais eficientes em carros e conectabilidade imediata e de alta qualidade entre pessoas. É por conta disso que membros de uma mesma família (70) que moram em países diferentes podem conversar diariamente, com um custo relativamente baixo, por voz ou vídeo. Além disso, funcionários podem trabalhar remotamente, com mais qualidade de vida, com ajuda de dispositivos móveis.</p>\n<p><small>RAMALHO, N. Obsolescência programada: inimiga ou parceira do consumidor? Gazeta do Povo. Acesso em: 23 jul. 2019. Adaptado. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "conforme",
+     "explanation": "'Conforme' indica conformidade ou proporção."
+    },
+    {
+     "key": "B",
+     "text": "quando",
+     "explanation": "'Quando' indica tempo."
+    },
+    {
+     "key": "C",
+     "text": "como",
+     "explanation": "'Como' causal só funciona com a oração anteposta à principal; posposto, sugere comparação ou conformidade."
+    },
+    {
+     "key": "D",
+     "text": "pois"
+    },
+    {
+     "key": "E",
+     "text": "se",
+     "explanation": "'Se' indica condição."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "'Uma vez que' introduz a causa/justificativa de a estratégia ser vista como inimiga do consumidor. Equivale a 'pois'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q3",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 3,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.8 Emprego dos sinais de pontuação",
+   "stem": "<p>A frase em que a vírgula está empregada adequadamente é:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "A tela do computador, é a janela que descortina o mundo.",
+     "explanation": "A vírgula separa o sujeito ('A tela do computador') do verbo."
+    },
+    {
+     "key": "B",
+     "text": "O investimento deve ser feito na área que, pode salvar vidas.",
+     "explanation": "A vírgula separa o pronome relativo sujeito do seu verbo."
+    },
+    {
+     "key": "C",
+     "text": "A vaga é para programador, que tem salário acima da média."
+    },
+    {
+     "key": "D",
+     "text": "Concluíram, que não há mais como parar o avanço tecnológico.",
+     "explanation": "A vírgula separa o verbo de seu objeto direto oracional."
+    },
+    {
+     "key": "E",
+     "text": "É muito importante, que os investimentos na área tecnológica continuem.",
+     "explanation": "A vírgula separa a oração principal da subjetiva."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Em C, a vírgula introduz oração adjetiva explicativa, uso correto. Nas demais, a vírgula separa termos que formam uma unidade sintática: sujeito e verbo, verbo e complemento, principal e subjetiva.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q4",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 4,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>O Texto I, que aborda a obsolescência programada, busca</p>",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>Obsolescência programada: inimiga ou parceira do consumidor?</strong></p>\n<p>(1) Obsolescência programada é exercida quando um produto tem vida útil menor do que a tecnologia permitiria, motivando a compra de um novo modelo — eletrônicos, eletrodomésticos e automóveis são (5) exemplos evidentes dessa prática. Uma câmera com uma resolução melhor pode motivar a compra de um novo celular, ainda que o modelo anterior funcione perfeitamente bem. Essa estratégia da indústria pode ser vista como inimiga do consumidor, uma vez que (10) o incentiva a adquirir mais produtos sem realmente necessitar deles. No entanto, traz benefícios, como o acesso às novidades.</p>\n<p>Planejar inovação é extremamente importante para melhoria e aumento da capacidade técnica de (15) um produto num mercado altamente competitivo. Já imaginou se um carro de hoje fosse igual a um carro dos anos 1970? O desafio é buscar um equilíbrio entre a inovação e a durabilidade. Do ponto de vista técnico, quando as empresas planejam um produto, (20) já tem equipes trabalhando na sucessão dele, pois se trata de uma necessidade de sobrevivência no mercado.</p>\n<p>Sintomas de obsolescência são facilmente percebidos quando um novo produto oferece caracterís(25)ticas que os anteriores não tinham, como o uso de reconhecimento facial; ou a queda de desempenho do produto com relação ao atual padrão de mercado, como um smartphone que não roda bem os aplicativos atualizados. Outro sinal é detectado quando (30) não é possível repor acessórios, como carregadores compatíveis, ou mesmo novos padrões, como tipo de bateria, conector de carregamento ou tipos de cartão de um celular, por exemplo.</p>\n<p>Isso não significa que o consumidor está refém de (35) trocas constantes de equipamento: é possível adiar a substituição de um produto, por meio de upgrades de hardware, como inclusão de mais memória, baterias e acessórios de expansão, pelo menos até o momento em que essa troca não compense financeiramente.</p>\n<p>(40) Quanto à legalidade, o que se deve garantir é que os produtos mais modernos mantenham a compatibilidade com os anteriores, a fim de que o antigo usuário não seja forçado constantemente à compra de um produto mais novo se não quiser. É importante (45) diferenciá-la da obsolescência perceptiva, que ocorre quando atualizações cosméticas, como um novo design, fazem o produto parecer sem condições de uso, quando não está.</p>\n<p>É preciso lembrar também que a obsolescência (50) programada se dá de forma diferente em cada tipo de equipamento. Um controle eletrônico de portão tem uma única função e pode ser usado por anos e anos sem alterações ou troca. Já um celular tem maior taxa de obsolescência e pode ter de ser substituído (55) em um ano ou dois, dependendo das necessidades do usuário, que pode desejar fotos de maior resolução ou tela mais brilhante.</p>\n<p>Essa estratégia traz desafios, como geração do lixo eletrônico. Ao mesmo tempo, a obsolescência (60) deve ser combatida na restrição que possa causar ao usuário, como, por exemplo, uma empresa não mais disponibilizar determinada função que era disponível pelo simples upgrade do sistema operacional, forçando a compra de um aparelho novo. O saldo geral é (65) que as atualizações trazidas pela obsolescência programada trazem benefícios à sociedade, como itens de segurança mais eficientes em carros e conectabilidade imediata e de alta qualidade entre pessoas. É por conta disso que membros de uma mesma família (70) que moram em países diferentes podem conversar diariamente, com um custo relativamente baixo, por voz ou vídeo. Além disso, funcionários podem trabalhar remotamente, com mais qualidade de vida, com ajuda de dispositivos móveis.</p>\n<p><small>RAMALHO, N. Obsolescência programada: inimiga ou parceira do consumidor? Gazeta do Povo. Acesso em: 23 jul. 2019. Adaptado. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "condenar a produção excessiva de lixo eletrônico.",
+     "explanation": "O lixo eletrônico é citado como desafio, mas o texto não tem o propósito de condenar."
+    },
+    {
+     "key": "B",
+     "text": "denunciar o preço exorbitante das mercadorias modernas.",
+     "explanation": "O texto não trata de preços exorbitantes."
+    },
+    {
+     "key": "C",
+     "text": "alertar sobre o consumo desenfreado de novas tecnologias.",
+     "explanation": "O texto pondera prós e contras e conclui pelos benefícios; não é um alerta contra o consumo."
+    },
+    {
+     "key": "D",
+     "text": "destacar a queda vertiginosa na qualidade dos itens à venda.",
+     "explanation": "Não há afirmação de queda de qualidade."
+    },
+    {
+     "key": "E",
+     "text": "analisar a suplantação dos produtos disponibilizados ao consumidor."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O texto analisa como os produtos são superados por modelos novos (obsolescência), com sintomas, formas de adiar a troca, aspectos legais e saldo geral. Pondera vantagens e desvantagens, em vez de só condenar ou alertar.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q5",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 5,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>No Texto I, a tese defendida pelo autor pode ser resumida no seguinte trecho:</p>",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>Obsolescência programada: inimiga ou parceira do consumidor?</strong></p>\n<p>(1) Obsolescência programada é exercida quando um produto tem vida útil menor do que a tecnologia permitiria, motivando a compra de um novo modelo — eletrônicos, eletrodomésticos e automóveis são (5) exemplos evidentes dessa prática. Uma câmera com uma resolução melhor pode motivar a compra de um novo celular, ainda que o modelo anterior funcione perfeitamente bem. Essa estratégia da indústria pode ser vista como inimiga do consumidor, uma vez que (10) o incentiva a adquirir mais produtos sem realmente necessitar deles. No entanto, traz benefícios, como o acesso às novidades.</p>\n<p>Planejar inovação é extremamente importante para melhoria e aumento da capacidade técnica de (15) um produto num mercado altamente competitivo. Já imaginou se um carro de hoje fosse igual a um carro dos anos 1970? O desafio é buscar um equilíbrio entre a inovação e a durabilidade. Do ponto de vista técnico, quando as empresas planejam um produto, (20) já tem equipes trabalhando na sucessão dele, pois se trata de uma necessidade de sobrevivência no mercado.</p>\n<p>Sintomas de obsolescência são facilmente percebidos quando um novo produto oferece caracterís(25)ticas que os anteriores não tinham, como o uso de reconhecimento facial; ou a queda de desempenho do produto com relação ao atual padrão de mercado, como um smartphone que não roda bem os aplicativos atualizados. Outro sinal é detectado quando (30) não é possível repor acessórios, como carregadores compatíveis, ou mesmo novos padrões, como tipo de bateria, conector de carregamento ou tipos de cartão de um celular, por exemplo.</p>\n<p>Isso não significa que o consumidor está refém de (35) trocas constantes de equipamento: é possível adiar a substituição de um produto, por meio de upgrades de hardware, como inclusão de mais memória, baterias e acessórios de expansão, pelo menos até o momento em que essa troca não compense financeiramente.</p>\n<p>(40) Quanto à legalidade, o que se deve garantir é que os produtos mais modernos mantenham a compatibilidade com os anteriores, a fim de que o antigo usuário não seja forçado constantemente à compra de um produto mais novo se não quiser. É importante (45) diferenciá-la da obsolescência perceptiva, que ocorre quando atualizações cosméticas, como um novo design, fazem o produto parecer sem condições de uso, quando não está.</p>\n<p>É preciso lembrar também que a obsolescência (50) programada se dá de forma diferente em cada tipo de equipamento. Um controle eletrônico de portão tem uma única função e pode ser usado por anos e anos sem alterações ou troca. Já um celular tem maior taxa de obsolescência e pode ter de ser substituído (55) em um ano ou dois, dependendo das necessidades do usuário, que pode desejar fotos de maior resolução ou tela mais brilhante.</p>\n<p>Essa estratégia traz desafios, como geração do lixo eletrônico. Ao mesmo tempo, a obsolescência (60) deve ser combatida na restrição que possa causar ao usuário, como, por exemplo, uma empresa não mais disponibilizar determinada função que era disponível pelo simples upgrade do sistema operacional, forçando a compra de um aparelho novo. O saldo geral é (65) que as atualizações trazidas pela obsolescência programada trazem benefícios à sociedade, como itens de segurança mais eficientes em carros e conectabilidade imediata e de alta qualidade entre pessoas. É por conta disso que membros de uma mesma família (70) que moram em países diferentes podem conversar diariamente, com um custo relativamente baixo, por voz ou vídeo. Além disso, funcionários podem trabalhar remotamente, com mais qualidade de vida, com ajuda de dispositivos móveis.</p>\n<p><small>RAMALHO, N. Obsolescência programada: inimiga ou parceira do consumidor? Gazeta do Povo. Acesso em: 23 jul. 2019. Adaptado. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“Obsolescência programada: inimiga ou parceira do consumidor?” (título).",
+     "explanation": "O título é uma pergunta que apresenta o tema, não a tese."
+    },
+    {
+     "key": "B",
+     "text": "“Essa estratégia da indústria pode ser vista como inimiga do consumidor” (l. 8-9).",
+     "explanation": "É uma visão que o autor relativiza logo em seguida ('No entanto, traz benefícios')."
+    },
+    {
+     "key": "C",
+     "text": "“Planejar inovação é extremamente importante para melhoria e aumento da capacidade técnica de um produto” (l. 13-15).",
+     "explanation": "É argumento parcial, não a conclusão geral."
+    },
+    {
+     "key": "D",
+     "text": "“Isso não significa que o consumidor está refém de trocas constantes de equipamento” (l. 34-35).",
+     "explanation": "É argumento secundário sobre como adiar a troca."
+    },
+    {
+     "key": "E",
+     "text": "“O saldo geral é que as atualizações trazidas pela obsolescência programada trazem benefícios à sociedade” (l. 64-66)."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Depois de pesar prós e contras, o autor conclui com 'O saldo geral é que...': para ele, a obsolescência programada traz benefícios à sociedade. É a tese do texto.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q6",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 6,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>O fragmento do Texto I que comprova a estratégia argumentativa usada pelo autor para aproximar-se do leitor, buscando persuadi-lo, é:</p>",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>Obsolescência programada: inimiga ou parceira do consumidor?</strong></p>\n<p>(1) Obsolescência programada é exercida quando um produto tem vida útil menor do que a tecnologia permitiria, motivando a compra de um novo modelo — eletrônicos, eletrodomésticos e automóveis são (5) exemplos evidentes dessa prática. Uma câmera com uma resolução melhor pode motivar a compra de um novo celular, ainda que o modelo anterior funcione perfeitamente bem. Essa estratégia da indústria pode ser vista como inimiga do consumidor, uma vez que (10) o incentiva a adquirir mais produtos sem realmente necessitar deles. No entanto, traz benefícios, como o acesso às novidades.</p>\n<p>Planejar inovação é extremamente importante para melhoria e aumento da capacidade técnica de (15) um produto num mercado altamente competitivo. Já imaginou se um carro de hoje fosse igual a um carro dos anos 1970? O desafio é buscar um equilíbrio entre a inovação e a durabilidade. Do ponto de vista técnico, quando as empresas planejam um produto, (20) já tem equipes trabalhando na sucessão dele, pois se trata de uma necessidade de sobrevivência no mercado.</p>\n<p>Sintomas de obsolescência são facilmente percebidos quando um novo produto oferece caracterís(25)ticas que os anteriores não tinham, como o uso de reconhecimento facial; ou a queda de desempenho do produto com relação ao atual padrão de mercado, como um smartphone que não roda bem os aplicativos atualizados. Outro sinal é detectado quando (30) não é possível repor acessórios, como carregadores compatíveis, ou mesmo novos padrões, como tipo de bateria, conector de carregamento ou tipos de cartão de um celular, por exemplo.</p>\n<p>Isso não significa que o consumidor está refém de (35) trocas constantes de equipamento: é possível adiar a substituição de um produto, por meio de upgrades de hardware, como inclusão de mais memória, baterias e acessórios de expansão, pelo menos até o momento em que essa troca não compense financeiramente.</p>\n<p>(40) Quanto à legalidade, o que se deve garantir é que os produtos mais modernos mantenham a compatibilidade com os anteriores, a fim de que o antigo usuário não seja forçado constantemente à compra de um produto mais novo se não quiser. É importante (45) diferenciá-la da obsolescência perceptiva, que ocorre quando atualizações cosméticas, como um novo design, fazem o produto parecer sem condições de uso, quando não está.</p>\n<p>É preciso lembrar também que a obsolescência (50) programada se dá de forma diferente em cada tipo de equipamento. Um controle eletrônico de portão tem uma única função e pode ser usado por anos e anos sem alterações ou troca. Já um celular tem maior taxa de obsolescência e pode ter de ser substituído (55) em um ano ou dois, dependendo das necessidades do usuário, que pode desejar fotos de maior resolução ou tela mais brilhante.</p>\n<p>Essa estratégia traz desafios, como geração do lixo eletrônico. Ao mesmo tempo, a obsolescência (60) deve ser combatida na restrição que possa causar ao usuário, como, por exemplo, uma empresa não mais disponibilizar determinada função que era disponível pelo simples upgrade do sistema operacional, forçando a compra de um aparelho novo. O saldo geral é (65) que as atualizações trazidas pela obsolescência programada trazem benefícios à sociedade, como itens de segurança mais eficientes em carros e conectabilidade imediata e de alta qualidade entre pessoas. É por conta disso que membros de uma mesma família (70) que moram em países diferentes podem conversar diariamente, com um custo relativamente baixo, por voz ou vídeo. Além disso, funcionários podem trabalhar remotamente, com mais qualidade de vida, com ajuda de dispositivos móveis.</p>\n<p><small>RAMALHO, N. Obsolescência programada: inimiga ou parceira do consumidor? Gazeta do Povo. Acesso em: 23 jul. 2019. Adaptado. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“Uma câmera com uma resolução melhor pode motivar a compra de um novo celular” (l. 5-7)",
+     "explanation": "É exemplificação, sem interpelação do leitor."
+    },
+    {
+     "key": "B",
+     "text": "“Já imaginou se um carro de hoje fosse igual a um carro dos anos 1970?” (l. 15-17)"
+    },
+    {
+     "key": "C",
+     "text": "“Outro sinal é detectado quando não é possível repor acessórios como carregadores compatíveis” (l. 29-31)",
+     "explanation": "É descrição de sintoma, sem apelo ao leitor."
+    },
+    {
+     "key": "D",
+     "text": "“É preciso lembrar também que a obsolescência programada se dá de forma diferente em cada tipo de equipamento.” (l. 49-51)",
+     "explanation": "É ressalva informativa impessoal."
+    },
+    {
+     "key": "E",
+     "text": "“É por conta disso que membros de uma mesma família que moram em países diferentes podem conversar diariamente” (l. 68-71)",
+     "explanation": "É exemplo de benefício, sem dirigir-se ao leitor."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "A pergunta retórica 'Já imaginou...?' dirige-se diretamente ao leitor (segunda pessoa implícita) e o convida a concordar, aproximando autor e leitor para persuadi-lo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q7",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 7,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>Nos seguintes trechos do Texto I, o adjetivo destacado apresenta valor discursivo de avaliação subjetiva, em relação ao substantivo a que se liga, em:</p>",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>Obsolescência programada: inimiga ou parceira do consumidor?</strong></p>\n<p>(1) Obsolescência programada é exercida quando um produto tem vida útil menor do que a tecnologia permitiria, motivando a compra de um novo modelo — eletrônicos, eletrodomésticos e automóveis são (5) exemplos evidentes dessa prática. Uma câmera com uma resolução melhor pode motivar a compra de um novo celular, ainda que o modelo anterior funcione perfeitamente bem. Essa estratégia da indústria pode ser vista como inimiga do consumidor, uma vez que (10) o incentiva a adquirir mais produtos sem realmente necessitar deles. No entanto, traz benefícios, como o acesso às novidades.</p>\n<p>Planejar inovação é extremamente importante para melhoria e aumento da capacidade técnica de (15) um produto num mercado altamente competitivo. Já imaginou se um carro de hoje fosse igual a um carro dos anos 1970? O desafio é buscar um equilíbrio entre a inovação e a durabilidade. Do ponto de vista técnico, quando as empresas planejam um produto, (20) já tem equipes trabalhando na sucessão dele, pois se trata de uma necessidade de sobrevivência no mercado.</p>\n<p>Sintomas de obsolescência são facilmente percebidos quando um novo produto oferece caracterís(25)ticas que os anteriores não tinham, como o uso de reconhecimento facial; ou a queda de desempenho do produto com relação ao atual padrão de mercado, como um smartphone que não roda bem os aplicativos atualizados. Outro sinal é detectado quando (30) não é possível repor acessórios, como carregadores compatíveis, ou mesmo novos padrões, como tipo de bateria, conector de carregamento ou tipos de cartão de um celular, por exemplo.</p>\n<p>Isso não significa que o consumidor está refém de (35) trocas constantes de equipamento: é possível adiar a substituição de um produto, por meio de upgrades de hardware, como inclusão de mais memória, baterias e acessórios de expansão, pelo menos até o momento em que essa troca não compense financeiramente.</p>\n<p>(40) Quanto à legalidade, o que se deve garantir é que os produtos mais modernos mantenham a compatibilidade com os anteriores, a fim de que o antigo usuário não seja forçado constantemente à compra de um produto mais novo se não quiser. É importante (45) diferenciá-la da obsolescência perceptiva, que ocorre quando atualizações cosméticas, como um novo design, fazem o produto parecer sem condições de uso, quando não está.</p>\n<p>É preciso lembrar também que a obsolescência (50) programada se dá de forma diferente em cada tipo de equipamento. Um controle eletrônico de portão tem uma única função e pode ser usado por anos e anos sem alterações ou troca. Já um celular tem maior taxa de obsolescência e pode ter de ser substituído (55) em um ano ou dois, dependendo das necessidades do usuário, que pode desejar fotos de maior resolução ou tela mais brilhante.</p>\n<p>Essa estratégia traz desafios, como geração do lixo eletrônico. Ao mesmo tempo, a obsolescência (60) deve ser combatida na restrição que possa causar ao usuário, como, por exemplo, uma empresa não mais disponibilizar determinada função que era disponível pelo simples upgrade do sistema operacional, forçando a compra de um aparelho novo. O saldo geral é (65) que as atualizações trazidas pela obsolescência programada trazem benefícios à sociedade, como itens de segurança mais eficientes em carros e conectabilidade imediata e de alta qualidade entre pessoas. É por conta disso que membros de uma mesma família (70) que moram em países diferentes podem conversar diariamente, com um custo relativamente baixo, por voz ou vídeo. Além disso, funcionários podem trabalhar remotamente, com mais qualidade de vida, com ajuda de dispositivos móveis.</p>\n<p><small>RAMALHO, N. Obsolescência programada: inimiga ou parceira do consumidor? Gazeta do Povo. Acesso em: 23 jul. 2019. Adaptado. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“um produto tem vida <strong>útil</strong>” (l. 2)",
+     "explanation": "'Útil' em 'vida útil' é classificador técnico, não avaliação."
+    },
+    {
+     "key": "B",
+     "text": "“exemplos <strong>evidentes</strong> dessa prática.” (l. 5)"
+    },
+    {
+     "key": "C",
+     "text": "“uso de reconhecimento <strong>facial</strong>” (l. 25-26)",
+     "explanation": "'Facial' é adjetivo de relação (classificador)."
+    },
+    {
+     "key": "D",
+     "text": "“geração do lixo <strong>eletrônico</strong>” (l. 58-59)",
+     "explanation": "'Eletrônico' classifica o tipo de lixo."
+    },
+    {
+     "key": "E",
+     "text": "“moram em países <strong>diferentes</strong>” (l. 70)",
+     "explanation": "'Diferentes' indica distinção objetiva entre países."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "'Evidentes' expressa um julgamento do autor sobre os exemplos (para ele são óbvios). É adjetivo avaliativo, subjetivo. Os demais são classificadores, objetivos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q8",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 8,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "<p>No Texto I, em “Isso não significa que o consumidor está refém de trocas constantes de equipamento: é possível adiar a substituição de um produto” (l. 34-36), a oração depois dos dois pontos acrescenta, ao trecho anterior, uma ideia de</p>",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>Obsolescência programada: inimiga ou parceira do consumidor?</strong></p>\n<p>(1) Obsolescência programada é exercida quando um produto tem vida útil menor do que a tecnologia permitiria, motivando a compra de um novo modelo — eletrônicos, eletrodomésticos e automóveis são (5) exemplos evidentes dessa prática. Uma câmera com uma resolução melhor pode motivar a compra de um novo celular, ainda que o modelo anterior funcione perfeitamente bem. Essa estratégia da indústria pode ser vista como inimiga do consumidor, uma vez que (10) o incentiva a adquirir mais produtos sem realmente necessitar deles. No entanto, traz benefícios, como o acesso às novidades.</p>\n<p>Planejar inovação é extremamente importante para melhoria e aumento da capacidade técnica de (15) um produto num mercado altamente competitivo. Já imaginou se um carro de hoje fosse igual a um carro dos anos 1970? O desafio é buscar um equilíbrio entre a inovação e a durabilidade. Do ponto de vista técnico, quando as empresas planejam um produto, (20) já tem equipes trabalhando na sucessão dele, pois se trata de uma necessidade de sobrevivência no mercado.</p>\n<p>Sintomas de obsolescência são facilmente percebidos quando um novo produto oferece caracterís(25)ticas que os anteriores não tinham, como o uso de reconhecimento facial; ou a queda de desempenho do produto com relação ao atual padrão de mercado, como um smartphone que não roda bem os aplicativos atualizados. Outro sinal é detectado quando (30) não é possível repor acessórios, como carregadores compatíveis, ou mesmo novos padrões, como tipo de bateria, conector de carregamento ou tipos de cartão de um celular, por exemplo.</p>\n<p>Isso não significa que o consumidor está refém de (35) trocas constantes de equipamento: é possível adiar a substituição de um produto, por meio de upgrades de hardware, como inclusão de mais memória, baterias e acessórios de expansão, pelo menos até o momento em que essa troca não compense financeiramente.</p>\n<p>(40) Quanto à legalidade, o que se deve garantir é que os produtos mais modernos mantenham a compatibilidade com os anteriores, a fim de que o antigo usuário não seja forçado constantemente à compra de um produto mais novo se não quiser. É importante (45) diferenciá-la da obsolescência perceptiva, que ocorre quando atualizações cosméticas, como um novo design, fazem o produto parecer sem condições de uso, quando não está.</p>\n<p>É preciso lembrar também que a obsolescência (50) programada se dá de forma diferente em cada tipo de equipamento. Um controle eletrônico de portão tem uma única função e pode ser usado por anos e anos sem alterações ou troca. Já um celular tem maior taxa de obsolescência e pode ter de ser substituído (55) em um ano ou dois, dependendo das necessidades do usuário, que pode desejar fotos de maior resolução ou tela mais brilhante.</p>\n<p>Essa estratégia traz desafios, como geração do lixo eletrônico. Ao mesmo tempo, a obsolescência (60) deve ser combatida na restrição que possa causar ao usuário, como, por exemplo, uma empresa não mais disponibilizar determinada função que era disponível pelo simples upgrade do sistema operacional, forçando a compra de um aparelho novo. O saldo geral é (65) que as atualizações trazidas pela obsolescência programada trazem benefícios à sociedade, como itens de segurança mais eficientes em carros e conectabilidade imediata e de alta qualidade entre pessoas. É por conta disso que membros de uma mesma família (70) que moram em países diferentes podem conversar diariamente, com um custo relativamente baixo, por voz ou vídeo. Além disso, funcionários podem trabalhar remotamente, com mais qualidade de vida, com ajuda de dispositivos móveis.</p>\n<p><small>RAMALHO, N. Obsolescência programada: inimiga ou parceira do consumidor? Gazeta do Povo. Acesso em: 23 jul. 2019. Adaptado. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "modo",
+     "explanation": "Não indica a maneira como algo é feito."
+    },
+    {
+     "key": "B",
+     "text": "concessão",
+     "explanation": "Não há ideia contrária admitida."
+    },
+    {
+     "key": "C",
+     "text": "explicação"
+    },
+    {
+     "key": "D",
+     "text": "comparação",
+     "explanation": "Não há termos comparados."
+    },
+    {
+     "key": "E",
+     "text": "consequência",
+     "explanation": "Não é efeito do que foi dito, mas a razão de o consumidor não estar refém."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Os dois-pontos introduzem a explicação de por que o consumidor não é refém das trocas: é possível adiar a substituição com upgrades.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q9",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 9,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "<p>No Texto I, em “<strong>Já</strong> um celular tem maior taxa de obsolescência e pode ter de ser substituído em um ano ou dois” (l. 53-55), a palavra <strong>Já</strong> apresenta o sentido de</p>",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>Obsolescência programada: inimiga ou parceira do consumidor?</strong></p>\n<p>(1) Obsolescência programada é exercida quando um produto tem vida útil menor do que a tecnologia permitiria, motivando a compra de um novo modelo — eletrônicos, eletrodomésticos e automóveis são (5) exemplos evidentes dessa prática. Uma câmera com uma resolução melhor pode motivar a compra de um novo celular, ainda que o modelo anterior funcione perfeitamente bem. Essa estratégia da indústria pode ser vista como inimiga do consumidor, uma vez que (10) o incentiva a adquirir mais produtos sem realmente necessitar deles. No entanto, traz benefícios, como o acesso às novidades.</p>\n<p>Planejar inovação é extremamente importante para melhoria e aumento da capacidade técnica de (15) um produto num mercado altamente competitivo. Já imaginou se um carro de hoje fosse igual a um carro dos anos 1970? O desafio é buscar um equilíbrio entre a inovação e a durabilidade. Do ponto de vista técnico, quando as empresas planejam um produto, (20) já tem equipes trabalhando na sucessão dele, pois se trata de uma necessidade de sobrevivência no mercado.</p>\n<p>Sintomas de obsolescência são facilmente percebidos quando um novo produto oferece caracterís(25)ticas que os anteriores não tinham, como o uso de reconhecimento facial; ou a queda de desempenho do produto com relação ao atual padrão de mercado, como um smartphone que não roda bem os aplicativos atualizados. Outro sinal é detectado quando (30) não é possível repor acessórios, como carregadores compatíveis, ou mesmo novos padrões, como tipo de bateria, conector de carregamento ou tipos de cartão de um celular, por exemplo.</p>\n<p>Isso não significa que o consumidor está refém de (35) trocas constantes de equipamento: é possível adiar a substituição de um produto, por meio de upgrades de hardware, como inclusão de mais memória, baterias e acessórios de expansão, pelo menos até o momento em que essa troca não compense financeiramente.</p>\n<p>(40) Quanto à legalidade, o que se deve garantir é que os produtos mais modernos mantenham a compatibilidade com os anteriores, a fim de que o antigo usuário não seja forçado constantemente à compra de um produto mais novo se não quiser. É importante (45) diferenciá-la da obsolescência perceptiva, que ocorre quando atualizações cosméticas, como um novo design, fazem o produto parecer sem condições de uso, quando não está.</p>\n<p>É preciso lembrar também que a obsolescência (50) programada se dá de forma diferente em cada tipo de equipamento. Um controle eletrônico de portão tem uma única função e pode ser usado por anos e anos sem alterações ou troca. Já um celular tem maior taxa de obsolescência e pode ter de ser substituído (55) em um ano ou dois, dependendo das necessidades do usuário, que pode desejar fotos de maior resolução ou tela mais brilhante.</p>\n<p>Essa estratégia traz desafios, como geração do lixo eletrônico. Ao mesmo tempo, a obsolescência (60) deve ser combatida na restrição que possa causar ao usuário, como, por exemplo, uma empresa não mais disponibilizar determinada função que era disponível pelo simples upgrade do sistema operacional, forçando a compra de um aparelho novo. O saldo geral é (65) que as atualizações trazidas pela obsolescência programada trazem benefícios à sociedade, como itens de segurança mais eficientes em carros e conectabilidade imediata e de alta qualidade entre pessoas. É por conta disso que membros de uma mesma família (70) que moram em países diferentes podem conversar diariamente, com um custo relativamente baixo, por voz ou vídeo. Além disso, funcionários podem trabalhar remotamente, com mais qualidade de vida, com ajuda de dispositivos móveis.</p>\n<p><small>RAMALHO, N. Obsolescência programada: inimiga ou parceira do consumidor? Gazeta do Povo. Acesso em: 23 jul. 2019. Adaptado. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tempo",
+     "explanation": "Aqui 'já' não significa 'neste momento' ou 'antes'."
+    },
+    {
+     "key": "B",
+     "text": "exclusão",
+     "explanation": "Não exclui nada."
+    },
+    {
+     "key": "C",
+     "text": "oposição"
+    },
+    {
+     "key": "D",
+     "text": "intensidade",
+     "explanation": "Não intensifica."
+    },
+    {
+     "key": "E",
+     "text": "conformidade",
+     "explanation": "Não indica acordo ou conformidade."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "'Já' estabelece contraste entre o controle de portão (usado por anos) e o celular (trocado em um ou dois anos): equivale a 'por outro lado', com valor de oposição.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q10",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 10,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "<p>Nas seguintes passagens do Texto I, a oração que apresenta estrutura de sujeito indeterminado é:</p>",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>Obsolescência programada: inimiga ou parceira do consumidor?</strong></p>\n<p>(1) Obsolescência programada é exercida quando um produto tem vida útil menor do que a tecnologia permitiria, motivando a compra de um novo modelo — eletrônicos, eletrodomésticos e automóveis são (5) exemplos evidentes dessa prática. Uma câmera com uma resolução melhor pode motivar a compra de um novo celular, ainda que o modelo anterior funcione perfeitamente bem. Essa estratégia da indústria pode ser vista como inimiga do consumidor, uma vez que (10) o incentiva a adquirir mais produtos sem realmente necessitar deles. No entanto, traz benefícios, como o acesso às novidades.</p>\n<p>Planejar inovação é extremamente importante para melhoria e aumento da capacidade técnica de (15) um produto num mercado altamente competitivo. Já imaginou se um carro de hoje fosse igual a um carro dos anos 1970? O desafio é buscar um equilíbrio entre a inovação e a durabilidade. Do ponto de vista técnico, quando as empresas planejam um produto, (20) já tem equipes trabalhando na sucessão dele, pois se trata de uma necessidade de sobrevivência no mercado.</p>\n<p>Sintomas de obsolescência são facilmente percebidos quando um novo produto oferece caracterís(25)ticas que os anteriores não tinham, como o uso de reconhecimento facial; ou a queda de desempenho do produto com relação ao atual padrão de mercado, como um smartphone que não roda bem os aplicativos atualizados. Outro sinal é detectado quando (30) não é possível repor acessórios, como carregadores compatíveis, ou mesmo novos padrões, como tipo de bateria, conector de carregamento ou tipos de cartão de um celular, por exemplo.</p>\n<p>Isso não significa que o consumidor está refém de (35) trocas constantes de equipamento: é possível adiar a substituição de um produto, por meio de upgrades de hardware, como inclusão de mais memória, baterias e acessórios de expansão, pelo menos até o momento em que essa troca não compense financeiramente.</p>\n<p>(40) Quanto à legalidade, o que se deve garantir é que os produtos mais modernos mantenham a compatibilidade com os anteriores, a fim de que o antigo usuário não seja forçado constantemente à compra de um produto mais novo se não quiser. É importante (45) diferenciá-la da obsolescência perceptiva, que ocorre quando atualizações cosméticas, como um novo design, fazem o produto parecer sem condições de uso, quando não está.</p>\n<p>É preciso lembrar também que a obsolescência (50) programada se dá de forma diferente em cada tipo de equipamento. Um controle eletrônico de portão tem uma única função e pode ser usado por anos e anos sem alterações ou troca. Já um celular tem maior taxa de obsolescência e pode ter de ser substituído (55) em um ano ou dois, dependendo das necessidades do usuário, que pode desejar fotos de maior resolução ou tela mais brilhante.</p>\n<p>Essa estratégia traz desafios, como geração do lixo eletrônico. Ao mesmo tempo, a obsolescência (60) deve ser combatida na restrição que possa causar ao usuário, como, por exemplo, uma empresa não mais disponibilizar determinada função que era disponível pelo simples upgrade do sistema operacional, forçando a compra de um aparelho novo. O saldo geral é (65) que as atualizações trazidas pela obsolescência programada trazem benefícios à sociedade, como itens de segurança mais eficientes em carros e conectabilidade imediata e de alta qualidade entre pessoas. É por conta disso que membros de uma mesma família (70) que moram em países diferentes podem conversar diariamente, com um custo relativamente baixo, por voz ou vídeo. Além disso, funcionários podem trabalhar remotamente, com mais qualidade de vida, com ajuda de dispositivos móveis.</p>\n<p><small>RAMALHO, N. Obsolescência programada: inimiga ou parceira do consumidor? Gazeta do Povo. Acesso em: 23 jul. 2019. Adaptado. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“No entanto, traz benefícios, como o acesso às novidades.” (l. 11-12)",
+     "explanation": "O sujeito é elíptico ('essa estratégia'), recuperável no contexto."
+    },
+    {
+     "key": "B",
+     "text": "“se trata de uma necessidade de sobrevivência no mercado.” (l. 21-22)"
+    },
+    {
+     "key": "C",
+     "text": "“se não quiser.” (l. 44)",
+     "explanation": "O sujeito é elíptico ('o antigo usuário'); 'se' é conjunção condicional."
+    },
+    {
+     "key": "D",
+     "text": "“a obsolescência programada se dá de forma diferente” (l. 49-50)",
+     "explanation": "O sujeito é 'a obsolescência programada'."
+    },
+    {
+     "key": "E",
+     "text": "“que pode desejar fotos de maior resolução ou tela mais brilhante.” (l. 56-57)",
+     "explanation": "O sujeito é o relativo 'que', que retoma 'usuário'."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "'Tratar-se de' é verbo transitivo indireto com o pronome 'se' como índice de indeterminação do sujeito: 'trata-se de uma necessidade'. O sujeito é indeterminado.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q11",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 11,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>De acordo com o Texto I, obsolescência perceptiva (l. 45) é aquela que é caracterizada pelo(a)</p>",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>Obsolescência programada: inimiga ou parceira do consumidor?</strong></p>\n<p>(1) Obsolescência programada é exercida quando um produto tem vida útil menor do que a tecnologia permitiria, motivando a compra de um novo modelo — eletrônicos, eletrodomésticos e automóveis são (5) exemplos evidentes dessa prática. Uma câmera com uma resolução melhor pode motivar a compra de um novo celular, ainda que o modelo anterior funcione perfeitamente bem. Essa estratégia da indústria pode ser vista como inimiga do consumidor, uma vez que (10) o incentiva a adquirir mais produtos sem realmente necessitar deles. No entanto, traz benefícios, como o acesso às novidades.</p>\n<p>Planejar inovação é extremamente importante para melhoria e aumento da capacidade técnica de (15) um produto num mercado altamente competitivo. Já imaginou se um carro de hoje fosse igual a um carro dos anos 1970? O desafio é buscar um equilíbrio entre a inovação e a durabilidade. Do ponto de vista técnico, quando as empresas planejam um produto, (20) já tem equipes trabalhando na sucessão dele, pois se trata de uma necessidade de sobrevivência no mercado.</p>\n<p>Sintomas de obsolescência são facilmente percebidos quando um novo produto oferece caracterís(25)ticas que os anteriores não tinham, como o uso de reconhecimento facial; ou a queda de desempenho do produto com relação ao atual padrão de mercado, como um smartphone que não roda bem os aplicativos atualizados. Outro sinal é detectado quando (30) não é possível repor acessórios, como carregadores compatíveis, ou mesmo novos padrões, como tipo de bateria, conector de carregamento ou tipos de cartão de um celular, por exemplo.</p>\n<p>Isso não significa que o consumidor está refém de (35) trocas constantes de equipamento: é possível adiar a substituição de um produto, por meio de upgrades de hardware, como inclusão de mais memória, baterias e acessórios de expansão, pelo menos até o momento em que essa troca não compense financeiramente.</p>\n<p>(40) Quanto à legalidade, o que se deve garantir é que os produtos mais modernos mantenham a compatibilidade com os anteriores, a fim de que o antigo usuário não seja forçado constantemente à compra de um produto mais novo se não quiser. É importante (45) diferenciá-la da obsolescência perceptiva, que ocorre quando atualizações cosméticas, como um novo design, fazem o produto parecer sem condições de uso, quando não está.</p>\n<p>É preciso lembrar também que a obsolescência (50) programada se dá de forma diferente em cada tipo de equipamento. Um controle eletrônico de portão tem uma única função e pode ser usado por anos e anos sem alterações ou troca. Já um celular tem maior taxa de obsolescência e pode ter de ser substituído (55) em um ano ou dois, dependendo das necessidades do usuário, que pode desejar fotos de maior resolução ou tela mais brilhante.</p>\n<p>Essa estratégia traz desafios, como geração do lixo eletrônico. Ao mesmo tempo, a obsolescência (60) deve ser combatida na restrição que possa causar ao usuário, como, por exemplo, uma empresa não mais disponibilizar determinada função que era disponível pelo simples upgrade do sistema operacional, forçando a compra de um aparelho novo. O saldo geral é (65) que as atualizações trazidas pela obsolescência programada trazem benefícios à sociedade, como itens de segurança mais eficientes em carros e conectabilidade imediata e de alta qualidade entre pessoas. É por conta disso que membros de uma mesma família (70) que moram em países diferentes podem conversar diariamente, com um custo relativamente baixo, por voz ou vídeo. Além disso, funcionários podem trabalhar remotamente, com mais qualidade de vida, com ajuda de dispositivos móveis.</p>\n<p><small>RAMALHO, N. Obsolescência programada: inimiga ou parceira do consumidor? Gazeta do Povo. Acesso em: 23 jul. 2019. Adaptado. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aumento da vida útil dos produtos eletrônicos",
+     "explanation": "O texto não associa a obsolescência perceptiva à vida útil maior."
+    },
+    {
+     "key": "B",
+     "text": "ampliação da capacidade técnica dos produtos",
+     "explanation": "A mudança é cosmética, não técnica."
+    },
+    {
+     "key": "C",
+     "text": "necessidade de compra de produto recém-lançado",
+     "explanation": "O produto antigo continua em condições de uso; não há necessidade real."
+    },
+    {
+     "key": "D",
+     "text": "renovação do modelo estético dos produtos"
+    },
+    {
+     "key": "E",
+     "text": "queda de desempenho do produto antigo",
+     "explanation": "A queda de desempenho é sintoma da obsolescência programada, não da perceptiva."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O texto define a obsolescência perceptiva como a que ocorre 'quando atualizações cosméticas, como um novo design, fazem o produto parecer sem condições de uso, quando não está'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q12",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 12,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>No Texto II, o sentido denotativo e o sentido conotativo convivem.</p><p>O trecho do texto em que há somente denotação é:</p>",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>Estojo escolar</strong></p>\n<p>(1) Noite dessas, ciscando num desses canais a cabo, vi uns caras oferecendo maravilhas eletrônicas, bastava telefonar e eu receberia um notebook capaz de me ajudar a fabricar um navio, uma estação (5) espacial.</p>\n<p>Minhas necessidades são mais modestas: tenho um PC mastodôntico, contemporâneo das cavernas da informática. E um laptop da mesma época que começa a me deixar na mão. Como pretendo viajar es(10)ses dias, habilitei-me a comprar aquilo que os caras anunciavam como o top do top em matéria de computador portátil.</p>\n<p>No sábado, recebi um embrulho complicado que necessitava de um manual de instruções para ser (15) aberto. Depois de mil operações sofisticadas para minhas limitações, retirei das entranhas de isopor o novo notebook e coloquei-o em cima da mesa. De repente, como vem acontecendo nos últimos tempos, houve um corte na memória e vi diante de mim o meu (20) primeiro estojo escolar. Tinha 5 anos e ia para o jardim de infância.</p>\n<p>Era uma caixinha comprida, envernizada, com uma tampa que corria nas bordas do corpo principal. Dentro, arrumados em divisões, havia lápis coloridos, (25) um apontador, uma lapiseira cromada, uma régua de 20 cm e uma borracha para apagar meus erros.</p>\n<p>Da caixinha vinha um cheiro gostoso, cheiro que nunca esqueci e que me tonteava de prazer. Fechei o estojo para proteger aquele cheiro, que ele ficasse ali (30) para sempre, prometi-me economizá-lo. Com avareza, só o cheirava em momentos especiais.</p>\n<p>Na tampa que protegia estojo e cheiro havia gravado um ramo de rosas muito vermelhas que se destacavam do fundo creme. Amei aquele ramalhete (35) – olhava aquelas rosas e achava que nada podia ser mais bonito.</p>\n<p>O notebook que agora abro é negro, não tem rosas na tampa e, em matéria de cheiro, é abominável. Cheira vilmente a telefone celular, a cabine de avião, (40) ao aparelho de ultrassonografia onde outro dia uma moça veio ver como sou por dentro. Acho que piorei de estojo e de vida.</p>\n<p><small>CONY, C. H. Crônicas para ler na escola. São Paulo: Objetiva, 2009. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“Noite dessas, ciscando num desses canais a cabo, vi uns caras oferecendo maravilhas eletrônicas” (l. 1-3)",
+     "explanation": "'Ciscando' (procurando ao acaso) e 'maravilhas' são usos figurados."
+    },
+    {
+     "key": "B",
+     "text": "“Minhas necessidades são mais modestas” (l. 6)"
+    },
+    {
+     "key": "C",
+     "text": "“contemporâneo das cavernas da informática”. (l. 7-8)",
+     "explanation": "'Cavernas da informática' é metáfora para tempos remotos."
+    },
+    {
+     "key": "D",
+     "text": "“retirei das entranhas de isopor o novo notebook e coloquei-o em cima da mesa.” (l. 16-17)",
+     "explanation": "'Entranhas de isopor' é metáfora (o interior da embalagem)."
+    },
+    {
+     "key": "E",
+     "text": "“houve um corte na memória e vi diante de mim o meu primeiro estojo escolar.” (l. 19-20)",
+     "explanation": "'Corte na memória' e 'vi diante de mim' são figurados (lembrança)."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Em B, as palavras têm seu sentido literal. Nas demais há metáforas ('ciscando', 'cavernas da informática', 'entranhas de isopor', 'corte na memória').",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q13",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 13,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>Com base na leitura de todo o Texto II, entende-se que ele tem como foco a contraposição entre</p>",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>Estojo escolar</strong></p>\n<p>(1) Noite dessas, ciscando num desses canais a cabo, vi uns caras oferecendo maravilhas eletrônicas, bastava telefonar e eu receberia um notebook capaz de me ajudar a fabricar um navio, uma estação (5) espacial.</p>\n<p>Minhas necessidades são mais modestas: tenho um PC mastodôntico, contemporâneo das cavernas da informática. E um laptop da mesma época que começa a me deixar na mão. Como pretendo viajar es(10)ses dias, habilitei-me a comprar aquilo que os caras anunciavam como o top do top em matéria de computador portátil.</p>\n<p>No sábado, recebi um embrulho complicado que necessitava de um manual de instruções para ser (15) aberto. Depois de mil operações sofisticadas para minhas limitações, retirei das entranhas de isopor o novo notebook e coloquei-o em cima da mesa. De repente, como vem acontecendo nos últimos tempos, houve um corte na memória e vi diante de mim o meu (20) primeiro estojo escolar. Tinha 5 anos e ia para o jardim de infância.</p>\n<p>Era uma caixinha comprida, envernizada, com uma tampa que corria nas bordas do corpo principal. Dentro, arrumados em divisões, havia lápis coloridos, (25) um apontador, uma lapiseira cromada, uma régua de 20 cm e uma borracha para apagar meus erros.</p>\n<p>Da caixinha vinha um cheiro gostoso, cheiro que nunca esqueci e que me tonteava de prazer. Fechei o estojo para proteger aquele cheiro, que ele ficasse ali (30) para sempre, prometi-me economizá-lo. Com avareza, só o cheirava em momentos especiais.</p>\n<p>Na tampa que protegia estojo e cheiro havia gravado um ramo de rosas muito vermelhas que se destacavam do fundo creme. Amei aquele ramalhete (35) – olhava aquelas rosas e achava que nada podia ser mais bonito.</p>\n<p>O notebook que agora abro é negro, não tem rosas na tampa e, em matéria de cheiro, é abominável. Cheira vilmente a telefone celular, a cabine de avião, (40) ao aparelho de ultrassonografia onde outro dia uma moça veio ver como sou por dentro. Acho que piorei de estojo e de vida.</p>\n<p><small>CONY, C. H. Crônicas para ler na escola. São Paulo: Objetiva, 2009. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "cheiro de notebook e cheiro de estojo",
+     "explanation": "É um dos elementos da comparação, não o foco geral."
+    },
+    {
+     "key": "B",
+     "text": "requinte e simplicidade",
+     "explanation": "O texto não opõe requinte e simplicidade."
+    },
+    {
+     "key": "C",
+     "text": "sociedade e indivíduo",
+     "explanation": "Não há essa oposição."
+    },
+    {
+     "key": "D",
+     "text": "presente e passado"
+    },
+    {
+     "key": "E",
+     "text": "trabalho e lazer",
+     "explanation": "Não há essa oposição."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A crônica opõe o notebook atual (negro, de cheiro 'abominável') ao estojo da infância (rosas, cheiro gostoso), isto é, o presente e o passado, e conclui 'piorei de estojo e de vida'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q14",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 14,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>A partir da frase que finaliza o Texto II – “Acho que piorei de estojo e de vida” (l. 41-42) –, constata-se que o autor</p>",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>Estojo escolar</strong></p>\n<p>(1) Noite dessas, ciscando num desses canais a cabo, vi uns caras oferecendo maravilhas eletrônicas, bastava telefonar e eu receberia um notebook capaz de me ajudar a fabricar um navio, uma estação (5) espacial.</p>\n<p>Minhas necessidades são mais modestas: tenho um PC mastodôntico, contemporâneo das cavernas da informática. E um laptop da mesma época que começa a me deixar na mão. Como pretendo viajar es(10)ses dias, habilitei-me a comprar aquilo que os caras anunciavam como o top do top em matéria de computador portátil.</p>\n<p>No sábado, recebi um embrulho complicado que necessitava de um manual de instruções para ser (15) aberto. Depois de mil operações sofisticadas para minhas limitações, retirei das entranhas de isopor o novo notebook e coloquei-o em cima da mesa. De repente, como vem acontecendo nos últimos tempos, houve um corte na memória e vi diante de mim o meu (20) primeiro estojo escolar. Tinha 5 anos e ia para o jardim de infância.</p>\n<p>Era uma caixinha comprida, envernizada, com uma tampa que corria nas bordas do corpo principal. Dentro, arrumados em divisões, havia lápis coloridos, (25) um apontador, uma lapiseira cromada, uma régua de 20 cm e uma borracha para apagar meus erros.</p>\n<p>Da caixinha vinha um cheiro gostoso, cheiro que nunca esqueci e que me tonteava de prazer. Fechei o estojo para proteger aquele cheiro, que ele ficasse ali (30) para sempre, prometi-me economizá-lo. Com avareza, só o cheirava em momentos especiais.</p>\n<p>Na tampa que protegia estojo e cheiro havia gravado um ramo de rosas muito vermelhas que se destacavam do fundo creme. Amei aquele ramalhete (35) – olhava aquelas rosas e achava que nada podia ser mais bonito.</p>\n<p>O notebook que agora abro é negro, não tem rosas na tampa e, em matéria de cheiro, é abominável. Cheira vilmente a telefone celular, a cabine de avião, (40) ao aparelho de ultrassonografia onde outro dia uma moça veio ver como sou por dentro. Acho que piorei de estojo e de vida.</p>\n<p><small>CONY, C. H. Crônicas para ler na escola. São Paulo: Objetiva, 2009. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "comportava-se de modo nostálgico."
+    },
+    {
+     "key": "B",
+     "text": "era fortemente apegado ao objeto.",
+     "explanation": "O apego ao estojo era da infância; a frase final expressa saudade de um tempo, não apego a um objeto."
+    },
+    {
+     "key": "C",
+     "text": "carregava consigo objetos inusitados.",
+     "explanation": "Nada no texto indica isso."
+    },
+    {
+     "key": "D",
+     "text": "tinha muito cuidado com seus pertences.",
+     "explanation": "Não é o que a frase final revela."
+    },
+    {
+     "key": "E",
+     "text": "apresentava um perfil marcado pelo egoísmo.",
+     "explanation": "Não há traço de egoísmo."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Ao comparar o presente desfavoravelmente com a infância ('piorei de estojo e de vida'), o cronista revela nostalgia.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q15",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 15,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>O termo <strong>mastodôntico</strong>, em “tenho um PC mastodôntico, contemporâneo das cavernas da informática” (l. 6-8), pode ser substituído, sem prejuízo do sentido do trecho, por</p>",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>Estojo escolar</strong></p>\n<p>(1) Noite dessas, ciscando num desses canais a cabo, vi uns caras oferecendo maravilhas eletrônicas, bastava telefonar e eu receberia um notebook capaz de me ajudar a fabricar um navio, uma estação (5) espacial.</p>\n<p>Minhas necessidades são mais modestas: tenho um PC mastodôntico, contemporâneo das cavernas da informática. E um laptop da mesma época que começa a me deixar na mão. Como pretendo viajar es(10)ses dias, habilitei-me a comprar aquilo que os caras anunciavam como o top do top em matéria de computador portátil.</p>\n<p>No sábado, recebi um embrulho complicado que necessitava de um manual de instruções para ser (15) aberto. Depois de mil operações sofisticadas para minhas limitações, retirei das entranhas de isopor o novo notebook e coloquei-o em cima da mesa. De repente, como vem acontecendo nos últimos tempos, houve um corte na memória e vi diante de mim o meu (20) primeiro estojo escolar. Tinha 5 anos e ia para o jardim de infância.</p>\n<p>Era uma caixinha comprida, envernizada, com uma tampa que corria nas bordas do corpo principal. Dentro, arrumados em divisões, havia lápis coloridos, (25) um apontador, uma lapiseira cromada, uma régua de 20 cm e uma borracha para apagar meus erros.</p>\n<p>Da caixinha vinha um cheiro gostoso, cheiro que nunca esqueci e que me tonteava de prazer. Fechei o estojo para proteger aquele cheiro, que ele ficasse ali (30) para sempre, prometi-me economizá-lo. Com avareza, só o cheirava em momentos especiais.</p>\n<p>Na tampa que protegia estojo e cheiro havia gravado um ramo de rosas muito vermelhas que se destacavam do fundo creme. Amei aquele ramalhete (35) – olhava aquelas rosas e achava que nada podia ser mais bonito.</p>\n<p>O notebook que agora abro é negro, não tem rosas na tampa e, em matéria de cheiro, é abominável. Cheira vilmente a telefone celular, a cabine de avião, (40) ao aparelho de ultrassonografia onde outro dia uma moça veio ver como sou por dentro. Acho que piorei de estojo e de vida.</p>\n<p><small>CONY, C. H. Crônicas para ler na escola. São Paulo: Objetiva, 2009. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "enorme"
+    },
+    {
+     "key": "B",
+     "text": "potente",
+     "explanation": "O texto sugere o contrário: um PC antigo e ultrapassado."
+    },
+    {
+     "key": "C",
+     "text": "grotesco",
+     "explanation": "Acrescenta juízo estético ausente."
+    },
+    {
+     "key": "D",
+     "text": "funcional",
+     "explanation": "Não se relaciona ao sentido de 'mastodôntico'."
+    },
+    {
+     "key": "E",
+     "text": "imponente",
+     "explanation": "Sugere grandiosidade admirável, sentido positivo não presente."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "'Mastodôntico' (de mastodonte, animal pré-histórico enorme) significa muito grande, volumoso, e combina com a ideia de máquina antiga.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q17",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 17,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.12 Colocação dos pronomes átonos",
+   "stem": "<p>A frase em que a colocação do pronome oblíquo obedece aos ditames da norma-padrão é:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Abri o estojo, cheirando-o por um longo tempo."
+    },
+    {
+     "key": "B",
+     "text": "Seria-lhe útil ter um notebook de última geração.",
+     "explanation": "Com verbo no futuro do pretérito, a ênclise é proibida: 'Ser-lhe-ia' (mesóclise) ou próclise com atrator."
+    },
+    {
+     "key": "C",
+     "text": "Me fascinou reviver o tempo de minha primeira infância.",
+     "explanation": "A norma-padrão não admite pronome átono no início do período."
+    },
+    {
+     "key": "D",
+     "text": "O que lembrou-lhe o estojo escolar foi o novo notebook.",
+     "explanation": "O pronome relativo/interrogativo 'que' atrai o pronome: 'O que lhe lembrou'."
+    },
+    {
+     "key": "E",
+     "text": "Conforme abria-o, sentia seu cheiro agradável cada vez mais forte.",
+     "explanation": "A conjunção subordinativa 'conforme' exige próclise: 'Conforme o abria'."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Com gerúndio sem palavra atrativa, a ênclise é a colocação adequada: 'cheirando-o'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q18",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 18,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.7 Coordenação e subordinação",
+   "stem": "<p>O trecho que tem seu sentido inviabilizado pela inversão na ordem de suas orações é</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Quando as velhas lembranças insistem em voltar, precisamos aceitar a realidade.",
+     "explanation": "A oração temporal pode ser posposta sem perda de sentido."
+    },
+    {
+     "key": "B",
+     "text": "À medida que envelhecemos, valorizamos mais as lembranças do passado.",
+     "explanation": "A oração proporcional pode ser posposta."
+    },
+    {
+     "key": "C",
+     "text": "Para que possamos viver bem o presente, temos de valorizar o passado.",
+     "explanation": "A oração final pode ser posposta."
+    },
+    {
+     "key": "D",
+     "text": "Como tudo aconteceu muito rapidamente, não notei sua ausência."
+    },
+    {
+     "key": "E",
+     "text": "Embora seja sempre uma aliada, a tecnologia afasta as pessoas.",
+     "explanation": "A oração concessiva pode ser posposta."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O 'como' causal só tem esse valor quando a oração vem antes da principal. Posposto ('Não notei sua ausência como tudo aconteceu...'), passaria a ser lido como conformativo ou comparativo, e o sentido se perde.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q19",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 19,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.9 Concordância verbal e nominal",
+   "stem": "<p>A frase em que a concordância nominal do elemento em destaque se dá de acordo com as regras da norma-padrão é:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "As lembranças e o saudosismo são <strong>dolorosas</strong>.",
+     "explanation": "Com substantivos de gêneros diferentes, o predicativo vai ao masculino plural: 'dolorosos'."
+    },
+    {
+     "key": "B",
+     "text": "As pessoas não deveriam ficar <strong>sós</strong> no final da vida."
+    },
+    {
+     "key": "C",
+     "text": "Caixas de notebook não têm nada de <strong>encantadora</strong>.",
+     "explanation": "Após 'nada de', o adjetivo fica no masculino singular: 'nada de encantador'."
+    },
+    {
+     "key": "D",
+     "text": "É <strong>desnecessário</strong> a tristeza causada por boas lembranças.",
+     "explanation": "Com o substantivo determinado por artigo, a concordância é obrigatória: 'É desnecessária a tristeza'."
+    },
+    {
+     "key": "E",
+     "text": "Temos de ficar em <strong>alertas</strong> para não sofrermos com o saudosismo.",
+     "explanation": "Na locução 'em alerta', a palavra é invariável."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "'Só' com sentido de 'sozinho' é adjetivo e concorda com o substantivo: 'as pessoas... sós'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q20",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 20,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.11 Emprego do sinal indicativo de crase",
+   "stem": "<p>O acento grave indicativo de crase é necessário e está empregado de acordo com a norma-padrão em:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "É bom manter-nos à distância de dez passos."
+    },
+    {
+     "key": "B",
+     "text": "O sol estava à pino e precisamos nos proteger do calor.",
+     "explanation": "'Pino' é masculino: 'a pino', sem crase."
+    },
+    {
+     "key": "C",
+     "text": "A volta à Portugal, seu país natal, fez meu pai muito feliz.",
+     "explanation": "'Portugal' não admite artigo: 'volta a Portugal'."
+    },
+    {
+     "key": "D",
+     "text": "Com muito esforço, os idosos acompanham às novas tecnologias.",
+     "explanation": "'Acompanhar' é transitivo direto: 'acompanham as novas tecnologias'."
+    },
+    {
+     "key": "E",
+     "text": "Sempre reconhecemos àqueles que são nossos verdadeiros amigos.",
+     "explanation": "'Reconhecer' é transitivo direto: 'reconhecemos aqueles'."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Diante de 'distância' determinada ('de dez passos'), ocorre crase: 'à distância de dez passos'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q37",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 37,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.9 Acidente de trabalho e implicações psicossociais",
+   "stem": "<p>Um bombeiro chega ao local de um acidente onde ele precisa recolher partes de corpos humanos. Na noite seguinte, ele acorda de um sonho angustiante em que vê seu corpo na condição do corpo de um acidentado. Após uma semana, busca ajuda afirmando estar insone, irritado (narra ter tido um acesso de raiva desmedido contra a esposa), afirma não sentir mais o amor que sentia no casamento nem qualquer tipo de satisfação. Está muito assustadiço, vem evitando dirigir após a ocorrência, afirma estar desconcentrado e infeliz. Conta, também, que a realidade está estranha, que está “vivendo a vida em câmera lenta”. Após o sonho, não foi mais trabalhar e tem evitado os colegas do trabalho, tentando evitar recordar a cena do acidente ou o sonho. Apesar de seus esforços em contrário, diz recordar constantemente a cena do acidente, o que gera muito mal-estar.</p><p>O diagnóstico adequado ao caso e uma consideração relevante para o diagnóstico diferencial seriam, respectivamente, o(a)</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "transtorno de estresse agudo, em detrimento do transtorno de estresse pós-traumático, devido ao fato de os sintomas serem recentes."
+    },
+    {
+     "key": "B",
+     "text": "transtorno de personalidade, em detrimento do transtorno de estresse agudo, devido à presença de sintomas dissociativos.",
+     "explanation": "Transtorno de personalidade é padrão duradouro desde o início da vida adulta, não reação recente a um trauma; sintomas dissociativos fazem parte do estresse agudo."
+    },
+    {
+     "key": "C",
+     "text": "transtorno de personalidade evitativa, em detrimento de fobia específica, devido à ruptura dos laços sociais e amorosos.",
+     "explanation": "A evitação aqui é ligada ao trauma e é recente, não um padrão de personalidade."
+    },
+    {
+     "key": "D",
+     "text": "transtorno depressivo maior, em detrimento de qualquer transtorno relacionado a estressores, devido à quantidade de sintomas do humor.",
+     "explanation": "Há evento traumático, intrusões, evitação e dissociação: o quadro é relacionado a trauma."
+    },
+    {
+     "key": "E",
+     "text": "fobia específica, em detrimento de transtorno depressivo, devido à especificidade da situação que gera a ansiedade.",
+     "explanation": "Fobia específica não envolve revivência do trauma, dissociação e hiperexcitação."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Após exposição a evento traumático no trabalho, o bombeiro apresenta intrusões, humor negativo, dissociação ('câmera lenta'), evitação e hiperexcitação. Como isso ocorre entre 3 dias e 1 mês do evento (uma semana), o diagnóstico é transtorno de estresse agudo. Só após 1 mês se consideraria o TEPT (DSM-5).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q44",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 44,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>Diante de queixas de problemas auditivos e lombalgias, uma empresa adquire e oferece protetores de ouvido e promove treinamento postural. Em outra ocasião, diante do aumento no número de acidentes do trabalho, essa mesma empresa contrata uma equipe que ministra para os funcionários uma formação específica em segurança do trabalho.</p><p>Do ponto de vista da ergonomia da atividade, a empresa</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "oferece o que, na contemporaneidade, é mais valioso: a capacitação do trabalhador para o trabalho que deve executar, habilitando-o para a tarefa e garantindo a sua permanência na empresa.",
+     "explanation": "A ergonomia da atividade critica justamente intervir só no trabalhador, sem transformar o trabalho."
+    },
+    {
+     "key": "B",
+     "text": "não está levando em conta a especificidade do trabalho prescrito, já que a intervenção foca exclusivamente o trabalhador, ou seja, leva em conta apenas a subjetividade do trabalhador.",
+     "explanation": "O problema não é ignorar o prescrito nem focar a subjetividade; é ignorar o trabalho real e a concepção do posto."
+    },
+    {
+     "key": "C",
+     "text": "trata o trabalhador como problema e visa à manutenção do trabalho, sem levar em conta a concepção do local de trabalho e das questões que ocupam o trabalhador em situação real."
+    },
+    {
+     "key": "D",
+     "text": "deve oferecer o treinamento para os trabalhadores, conduzido por membros da própria equipe, além de estimular treinamento, também, para uso dos equipamentos de proteção individuais.",
+     "explanation": "Mantém o foco em treinar o trabalhador e em EPI, sem mudar o trabalho."
+    },
+    {
+     "key": "E",
+     "text": "deve, antes de tudo, avaliar as características pessoais dos trabalhadores que não tiverem se envolvido em acidentes nem tiverem desenvolvido problemas físicos para, só então, promover tais ações.",
+     "explanation": "Buscar características pessoais dos 'não acidentados' reforça a lógica de culpabilizar o indivíduo."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "A ergonomia da atividade (Guérin, Wisner) propõe adaptar o trabalho ao homem a partir da análise da atividade real. Oferecer protetor, treino postural e curso de segurança, sem rever a concepção do posto e da organização, trata o trabalhador como o problema e mantém o trabalho como está.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q45",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 45,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>Na teoria de Dejours sobre a psicopatologia do trabalho, vê-se que a produção não seria possível se os trabalhadores respeitassem totalmente as diretivas dos gestores. Para que o trabalho funcione, é preciso que haja um investimento na elaboração do que Dejours chama de “regras de ofício”, uma forma de integrar as descobertas da inteligência da prática à tradição da empresa ou do ofício.</p><p>Essas regras de ofício são conceituadas pelo autor como</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a descrição, elaborada coletivamente por trabalhadores e gestores, de uma forma ideal de se realizar o trabalho, para que esse ideal sirva de referência para as estratégias individuais de condução das tarefas.",
+     "explanation": "Regras de ofício não são um ideal descritivo pactuado com gestores; são acordos práticos entre os pares."
+    },
+    {
+     "key": "B",
+     "text": "as regras que se elaboram após a observação, por um terceiro, da forma como as tarefas são conduzidas e da avaliação das regras que deveriam regular tais tarefas, encontrando-se um meio termo viável para alcançar a produção.",
+     "explanation": "Não são elaboradas por um terceiro observador."
+    },
+    {
+     "key": "C",
+     "text": "as regras que se estabelecem após a investigação cuidadosa das necessidades, tanto da organização de trabalho quanto das dos trabalhadores, para descrever instruções rigorosas e para tornar claros os procedimentos.",
+     "explanation": "Instruções rigorosas e procedimentos claros caracterizam o trabalho prescrito."
+    },
+    {
+     "key": "D",
+     "text": "o estabelecimento de acordos entre os membros do coletivo a respeito das maneiras de trabalhar, elaborando-se compromissos entre os estilos de trabalho e entre as preferências de cada trabalhador, de forma a torná-los compatíveis."
+    },
+    {
+     "key": "E",
+     "text": "um esforço individual de cada trabalhador de nomear, descrever e simbolizar a sua forma própria de superar a resistência do real do trabalho para que essa forma se cristalize naquilo que é descrito como sua inteligência.",
+     "explanation": "As regras de ofício são construção coletiva, não esforço individual."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Para Dejours, as regras de ofício resultam da cooperação: são acordos construídos pelo coletivo sobre as maneiras de trabalhar. Compatibilizam estilos e a inteligência prática de cada um, formando a base do coletivo de trabalho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q46",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 46,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "<p>A avaliação psicológica é um procedimento criterioso e pode envolver a utilização de instrumentos científicos e validados, tais como testes psicológicos.</p><p>Na aplicação coletiva de testes psicológicos de base psicométrica, alguns cuidados são necessários, dentre os quais se destaca aquele em que o aplicador deve</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "iniciar a aplicação gradativamente com os examinandos, evitando começar com todos ao mesmo tempo para evitar confusão.",
+     "explanation": "Na aplicação coletiva, todos iniciam juntos, sob as mesmas instruções e tempos (padronização)."
+    },
+    {
+     "key": "B",
+     "text": "utilizar as instruções do manual, mas improvisar, se preciso for, a fim de proporcionar um ambiente descontraído para a testagem.",
+     "explanation": "Improvisar fere a padronização exigida pelo manual."
+    },
+    {
+     "key": "C",
+     "text": "deixar a sala de aplicação após todos terem dado início à realização da testagem para não interferir no desempenho dos examinandos.",
+     "explanation": "O aplicador deve permanecer e supervisionar a aplicação."
+    },
+    {
+     "key": "D",
+     "text": "estabelecer o <em>rapport</em> e aplicar os testes de forma objetiva, inspirando tranquilidade e evitando a ansiedade situacional."
+    },
+    {
+     "key": "E",
+     "text": "verificar se algum examinando apresenta dificuldade de saúde ao final da testagem para, assim, identificar os impactos dessa avaliação.",
+     "explanation": "As condições dos examinandos devem ser verificadas antes, não depois da aplicação."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Em testes psicométricos, coletivos ou não, o aplicador segue as instruções padronizadas do manual, estabelece rapport, reduz a ansiedade situacional e supervisiona todo o processo, garantindo condições iguais a todos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q49",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 49,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "resolucoes",
+   "subtopic": "2.5 Resolução CFP 6/2019 (documentos escritos)",
+   "stem": "<p>Uma das atribuições do(a) psicólogo(a) é a elaboração de documentos, tais como relatórios, laudos e pareceres. Relacione essas modalidades de documentos às respectivas finalidades apresentadas a seguir:</p><p>I – Relatórios<br>II – Laudos<br>III – Pareceres</p><p>S – Apresentar análise técnica em resposta a uma questão problema.<br>T – Subsidiar decisões relacionadas ao contexto em que surgiu a demanda.<br>U – Apresentar descrições literais do atendimento em quaisquer circunstâncias.<br>V – Comunicar a atuação profissional, podendo gerar orientações e recomendações.</p><p>São corretas as seguintes associações:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I – S ; II – U ; III – V",
+     "explanation": "Análise técnica em resposta a questão-problema é o parecer, não o relatório; e descrições literais (U) não são finalidade de documento algum."
+    },
+    {
+     "key": "B",
+     "text": "I – S ; II – V ; III – U",
+     "explanation": "Troca as finalidades e inclui U, que não corresponde a nenhum documento."
+    },
+    {
+     "key": "C",
+     "text": "I – T ; II – S ; III – V",
+     "explanation": "Subsidiar decisões é finalidade do laudo; análise técnica, do parecer."
+    },
+    {
+     "key": "D",
+     "text": "I – U ; II – S ; III – T",
+     "explanation": "Inclui U e troca laudo e parecer."
+    },
+    {
+     "key": "E",
+     "text": "I – V ; II – T ; III – S"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Pela Res. CFP 6/2019: o relatório comunica a atuação profissional e pode gerar orientações e recomendações (art. 11). O laudo, resultado de avaliação psicológica, subsidia decisões no contexto da demanda (art. 13). O parecer é análise técnica em resposta a uma questão-problema (art. 14). A opção U não corresponde a nenhum documento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Res. CFP 6/2019 vigente (ver docs/normas/res-06-2019.md)."
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q58",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 58,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "<p>Estresse é o conjunto de reações do organismo quando submetido a situações que exigem esforço para adaptação. Nesse sentido, o estresse tende a se estabelecer sempre que os estressores excedem os recursos pessoais e sociais que o indivíduo é capaz de mobilizar para enfrentamento da situação.</p><p><small>STRAUB, R. O. Psicologia da saúde. Porto Alegre: Artmed, 2014. Adaptado.</small></p><p>Dados da Organização Mundial da Saúde apontam que o estresse atinge 90% da população mundial, e o Brasil é o país que apresenta os maiores índices de estresse na América Latina.</p><p>Considerando-se que os estressores estão cada vez mais presentes na vida cotidiana do brasileiro, e que é uma tarefa do psicólogo atuar para prevenir que causem agravos à saúde, esse profissional deve considerar que</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a autoavaliação é a medida a ser aplicada para que as condições de estresse do paciente possam ser avaliadas.",
+     "explanation": "A avaliação do estresse usa múltiplas medidas (entrevista, escalas, indicadores fisiológicos), não apenas autoavaliação."
+    },
+    {
+     "key": "B",
+     "text": "a etiologia do estresse está nos fatores ambientais da vida cotidiana, o que determina que umas pessoas sejam mais suscetíveis a ele do que outras.",
+     "explanation": "A suscetibilidade diferencial decorre da avaliação cognitiva e dos recursos individuais, não só de fatores ambientais."
+    },
+    {
+     "key": "C",
+     "text": "a síndrome de <em>burnout</em> é um quadro de natureza ocupacional, caracterizado pelo estresse crônico no ambiente de trabalho."
+    },
+    {
+     "key": "D",
+     "text": "as condições neurológicas do paciente se desorganizam nos quadros de estresse, e os tratamentos disponíveis são direcionados a elas.",
+     "explanation": "O estresse não é definido como desorganização neurológica, e as intervenções são também psicológicas e sociais."
+    },
+    {
+     "key": "E",
+     "text": "o estresse pós-traumático é um quadro de transtorno mental desencadeado como reação a fatores estressores internos.",
+     "explanation": "O TEPT decorre de exposição a evento traumático externo (morte, ameaça grave, violência)."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O burnout é síndrome ocupacional resultante de estresse crônico no trabalho (CID-11, QD85; Maslach). As demais alternativas erram na etiologia do estresse, na avaliação e na definição do TEPT.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q65",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 65,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "psi-org",
+   "subtopic": "3.3 Gestão de conflitos",
+   "stem": "<p>Um psicólogo é designado para assessorar o processo de negociação sobre salários e benefícios de uma universidade. Os funcionários estão na mesa de negociação, determinados a obter tanto quanto puderem da gerência. Como cada centavo a mais negociado no trabalho aumenta os custos de gestão, cada parte negocia de forma agressiva e, muitas vezes, trata o outro como um adversário que deve ser derrotado.</p><p>Nesse caso, portanto, há um processo de negociação</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "integrativa",
+     "explanation": "A integrativa busca soluções ganha-ganha que ampliem os recursos; aqui o jogo é de soma zero."
+    },
+    {
+     "key": "B",
+     "text": "distributiva"
+    },
+    {
+     "key": "C",
+     "text": "funcional",
+     "explanation": "Não é tipo de negociação na classificação clássica."
+    },
+    {
+     "key": "D",
+     "text": "estagnada",
+     "explanation": "Não é tipo de negociação na classificação clássica."
+    },
+    {
+     "key": "E",
+     "text": "conciliadora",
+     "explanation": "A postura descrita é competitiva, não conciliadora."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na negociação distributiva (Robbins), as partes disputam uma quantia fixa de recursos (soma zero): o ganho de um é a perda do outro, com postura competitiva. Na integrativa, buscam-se soluções que beneficiem ambos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q66",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 66,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "psi-org",
+   "subtopic": "3.3 Gestão de conflitos",
+   "stem": "<p>Um psicólogo identificou uma incompatibilidade entre os requisitos de um cargo e as características comportamentais dos indivíduos. Pela dificuldade de obtenção de profissionais capazes de preencher esse cargo, na forma e extensão desejadas, ele propôs uma discussão aberta com membros da área de RH e da chefia imediata do cargo, negociando a modificação dos requisitos das tarefas.</p><p>A técnica de administração de conflitos utilizada nesse caso foi a de</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "comando autoritário",
+     "explanation": "Não houve imposição pela autoridade, mas discussão aberta."
+    },
+    {
+     "key": "B",
+     "text": "suavização",
+     "explanation": "Suavizar é minimizar as diferenças e destacar interesses comuns, sem resolver a causa."
+    },
+    {
+     "key": "C",
+     "text": "resolução de problemas"
+    },
+    {
+     "key": "D",
+     "text": "metas superordenadas",
+     "explanation": "Metas superordenadas criam um objetivo comum que exige cooperação, o que não é o caso."
+    },
+    {
+     "key": "E",
+     "text": "não enfrentamento",
+     "explanation": "Não enfrentar seria evitar o conflito; o psicólogo o encarou."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Na resolução de problemas (confrontação), as partes se reúnem para identificar o problema e resolvê-lo por discussão aberta. Foi o que se fez ao negociar com RH e chefia a modificação dos requisitos do cargo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q67",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 67,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "diag-org",
+   "subtopic": "4.8 Tomada de decisão",
+   "stem": "<p>Um aluno não consegue escutar qualquer mensagem relacionada à religião, considerando-a, automaticamente, ofensiva às suas crenças. A simples presença de algum indicativo de que um tema religioso pode ser abordado, coloca-o fora de si e incapaz de ouvir, levando-o a retirar-se da sala, dominado por forte emoção.</p><p>Esse caso, analisado sob o ponto de vista cognitivo da gestão organizacional, evidencia que</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a presença de crenças subjacentes às interpretações impedem a identificação de elementos que contribuem para desencadear os comportamentos dos indivíduos.",
+     "explanation": "As crenças não impedem identificar os desencadeadores; ao contrário, explicam o comportamento."
+    },
+    {
+     "key": "B",
+     "text": "a evolução do pensamento é homogênea em todas as pessoas, ocorrendo do concreto para o abstrato, do real para o imaginário, da análise para a síntese, do racional para o emocional.",
+     "explanation": "O caso mostra o oposto: o processamento é influenciado por crenças individuais, não homogêneo."
+    },
+    {
+     "key": "C",
+     "text": "o poder da crença é tamanho que as expectativas do indivíduo não afetam o efeito da substância psicoativa.",
+     "explanation": "Não há substância psicoativa no caso; e as expectativas afetam, sim, os efeitos (efeito placebo)."
+    },
+    {
+     "key": "D",
+     "text": "os indivíduos processam determinadas informações sob influência de suas crenças, comprovando que as convicções guiam as percepções."
+    },
+    {
+     "key": "E",
+     "text": "os pensamentos automáticos funcionais manifestam o lado positivo dos esquemas rígidos de comportamento, favorecendo os modelos mentais já arraigados.",
+     "explanation": "Os pensamentos automáticos no caso são disfuncionais."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Na perspectiva cognitiva, as crenças e os esquemas funcionam como filtros: a pessoa interpreta seletivamente as informações conforme suas convicções (percepção seletiva). Por isso o aluno vê qualquer tema religioso como ofensivo antes mesmo de ouvi-lo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q68",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 68,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "<p>Após a seleção de novos servidores para uma Universidade pública, foi realizado um processo de socialização, denominado programa de mentores, em que se utilizaram modelos de papéis para treinar e incentivar o novato.</p><p>Foi utilizada, portanto, uma prática de socialização</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "informal",
+     "explanation": "A socialização informal ocorre no próprio trabalho, sem programa estruturado; aqui há um programa formal."
+    },
+    {
+     "key": "B",
+     "text": "seriada"
+    },
+    {
+     "key": "C",
+     "text": "aleatória",
+     "explanation": "Aleatória é a que não segue sequência definida de etapas."
+    },
+    {
+     "key": "D",
+     "text": "de despojamento",
+     "explanation": "O despojamento busca retirar características do novato, o oposto de incentivá-lo."
+    },
+    {
+     "key": "E",
+     "text": "do tipo investidura",
+     "explanation": "A investidura confirma e valoriza a identidade e as qualidades que o novato já traz, sem usar modelos de papel."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na tipologia de Van Maanen e Schein, a socialização seriada usa membros experientes como modelos de papel (mentores) para treinar e encorajar o novato. A disjuntiva não tem modelos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2019-psicologo-q70",
+   "source": {
+    "file": "unirio-2019-psicologo/prova.pdf",
+    "year": 2019,
+    "originalNumber": 70,
+    "exam": "UNIRIO 2019 – Psicólogo(a)",
+    "org": "UNIRIO"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "<p>As tentativas de se promoverem processos de desenvolvimento de pessoas em diversas organizações revelam a existência de obstáculos, como:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "ambiente organizacional estático que dificulta o acompanhamento das mudanças do mercado de trabalho.",
+     "explanation": "O obstáculo citado na literatura é cultural (acomodação), não um ambiente estático em si."
+    },
+    {
+     "key": "B",
+     "text": "ausência de investimentos em profissionais de maior faixa etária, que possuem menor inteligência fluida e inteligência cristalizada.",
+     "explanation": "A inteligência cristalizada tende a se manter ou aumentar com a idade; a premissa é falsa."
+    },
+    {
+     "key": "C",
+     "text": "obediência à lei do congelamento pelas condições de aprendizagem, que neutralizam experiências e hábitos antigos, substituindo-os por novas experiências e novos hábitos.",
+     "explanation": "Substituir hábitos antigos por novos é o próprio processo de mudança (descongelar, mudar, recongelar), não um obstáculo."
+    },
+    {
+     "key": "D",
+     "text": "existência de mecanismos formais para recompensar esforços e desenvolvimento espontâneos, efetivamente praticados pelos indivíduos.",
+     "explanation": "Mecanismos de recompensa favorecem o desenvolvimento; o obstáculo seria a sua ausência."
+    },
+    {
+     "key": "E",
+     "text": "crença generalizada e arraigada de que o desenvolvimento das pessoas é um problema da organização, e não do indivíduo, que gera comportamentos de acomodação em relação à busca de novos conhecimentos e a mudanças comportamentais."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Um obstáculo ao desenvolvimento de pessoas é a crença de que ele cabe só à organização, o que gera acomodação do indivíduo. Na visão atual, o desenvolvimento é responsabilidade compartilhada, com protagonismo da pessoa (Chiavenato).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "unirio-2019-psicologo-q16",
+   "motivo": "Questão ANULADA no gabarito oficial pós-recursos ('ALTERADO EM 03/12/19'). Destaques em negrito inferidos do enunciado.",
+   "gabaritoOficial": "X",
+   "derivada": "C?",
+   "questao": {
+    "id": "unirio-2019-psicologo-q16",
+    "source": {
+     "file": "unirio-2019-psicologo/prova.pdf",
+     "year": 2019,
+     "originalNumber": 16,
+     "exam": "UNIRIO 2019 – Psicólogo(a)",
+     "org": "UNIRIO"
+    },
+    "area": "portugues",
+    "subtopic": "P.10 Regência verbal e nominal",
+    "stem": "<p>No que diz respeito à norma-padrão da língua, a frase cujo verbo em destaque apresenta regência adequada é:</p>",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "A lembrança da infância <strong>implica</strong> na volta de bons momentos."
+     },
+     {
+      "key": "B",
+      "text": "Estojos de madeira e lápis coloridos eram os objetos que os alunos mais <strong>gostavam</strong>."
+     },
+     {
+      "key": "C",
+      "text": "As minhas mais marcantes lembranças sempre <strong>chegam</strong> aonde vou."
+     },
+     {
+      "key": "D",
+      "text": "Quando necessário, os instrutores <strong>assistem</strong> aos usuários da nova tecnologia, e essa ajuda é fundamental para muitos."
+     },
+     {
+      "key": "E",
+      "text": "Os alunos de hoje <strong>preferem</strong> mais o laptop do que lápis e canetas."
+     }
+    ],
+    "correctKey": "C?",
+    "explanationSummary": "",
+    "status": "review",
+    "annulled": true,
+    "verification": {
+     "gabaritoAnswer": "X",
+     "independentlyDerivedAnswer": "C?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "unirio-2019-psicologo-q21",
+   "tema": "Informática Básica"
+  },
+  {
+   "id": "unirio-2019-psicologo-q22",
+   "tema": "Informática Básica"
+  },
+  {
+   "id": "unirio-2019-psicologo-q23",
+   "tema": "Informática Básica"
+  },
+  {
+   "id": "unirio-2019-psicologo-q24",
+   "tema": "Informática Básica"
+  },
+  {
+   "id": "unirio-2019-psicologo-q25",
+   "tema": "Informática Básica"
+  },
+  {
+   "id": "unirio-2019-psicologo-q26",
+   "tema": "Legislação (Lei 8.112/1990, Estatuto da UNIRIO, Decreto 1.171/1994)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q27",
+   "tema": "Legislação (Lei 8.112/1990, Estatuto da UNIRIO, Decreto 1.171/1994)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q28",
+   "tema": "Legislação (Lei 8.112/1990, Estatuto da UNIRIO, Decreto 1.171/1994)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q29",
+   "tema": "Legislação (Lei 8.112/1990, Estatuto da UNIRIO, Decreto 1.171/1994)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q30",
+   "tema": "Legislação (Lei 8.112/1990, Estatuto da UNIRIO, Decreto 1.171/1994)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q31",
+   "tema": "Abordagem centrada na pessoa (Rogers)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q32",
+   "tema": "Transtornos de aprendizagem x TEA"
+  },
+  {
+   "id": "unirio-2019-psicologo-q33",
+   "tema": "Psicopatologia (transtorno de personalidade)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q34",
+   "tema": "Terapia sistêmica de família"
+  },
+  {
+   "id": "unirio-2019-psicologo-q35",
+   "tema": "Técnica psicanalítica lacaniana (divã)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q36",
+   "tema": "Análise do comportamento (esquemas de reforço)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q38",
+   "tema": "Psicopatologia (transtorno perceptivo induzido por alucinógeno)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q39",
+   "tema": "Psicopatologia (distimia)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q40",
+   "tema": "Psicopatologia (delírios)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q41",
+   "tema": "Psicanálise infantil (Melanie Klein)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q42",
+   "tema": "Epistemologia genética (Piaget)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q43",
+   "tema": "Psicanálise lacaniana (estádio do espelho)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q47",
+   "tema": "Psicodiagnóstico infantil (entrevista devolutiva, Ocampo)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q48",
+   "tema": "Avaliação psicológica clínica (classificação do Rorschach)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q50",
+   "tema": "Psicoterapia não diretiva"
+  },
+  {
+   "id": "unirio-2019-psicologo-q51",
+   "tema": "Psicopatologia (anorexia nervosa)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q52",
+   "tema": "Psicologia comunitária"
+  },
+  {
+   "id": "unirio-2019-psicologo-q53",
+   "tema": "Inteligências múltiplas (Gardner)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q54",
+   "tema": "Terapias cognitivo-comportamentais"
+  },
+  {
+   "id": "unirio-2019-psicologo-q55",
+   "tema": "Violência contra criança e adolescente"
+  },
+  {
+   "id": "unirio-2019-psicologo-q56",
+   "tema": "Psicologia escolar e TEA"
+  },
+  {
+   "id": "unirio-2019-psicologo-q57",
+   "tema": "Saúde pública (saúde universal)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q59",
+   "tema": "Psicologia da saúde (doenças crônicas)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q60",
+   "tema": "Psicologia hospitalar"
+  },
+  {
+   "id": "unirio-2019-psicologo-q61",
+   "tema": "Psicologia na saúde pública (SUS)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q62",
+   "tema": "Bioética (ortotanásia)"
+  },
+  {
+   "id": "unirio-2019-psicologo-q63",
+   "tema": "Bioética"
+  },
+  {
+   "id": "unirio-2019-psicologo-q64",
+   "tema": "Psicologia hospitalar"
+  },
+  {
+   "id": "unirio-2019-psicologo-q69",
+   "tema": "Inteligências múltiplas (intercâmbio estudantil)"
+  }
+ ],
+ "log": "Gabarito 'ALTERADO EM 03/12/19' (pós-recursos), cópia de terceiro com formato oficial; conferido visualmente: pág. 1 (básicos) e pág. 3, Prova 17 (31-70). Questão 16 anulada (fila). Fora: 21-25 Informática, 26-30 Legislação (Lei 8.112, Estatuto UNIRIO, Decreto 1.171) e os específicos de clínica, psicopatologia geral, psicanálise, psicologia escolar, saúde pública e hospitalar. Os textos de Português usam marcadores de linha (5), (10)... na posição em que aparecem no caderno."
+}

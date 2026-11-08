@@ -1,0 +1,786 @@
+{
+ "concurso": "sead-am-2005-psicologo",
+ "questions": [
+  {
+   "id": "sead-am-2005-psicologo-q1",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 1,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "O conceito de felicidade de que fala o título do texto é:",
+   "passage": "<p><strong>Em busca da felicidade</strong></p><p>1 Ainda que seja para tudo se acabar na quarta-feira,<br>2 o carnaval é uma fonte de alegria e felicidade coletivas só<br>3 comparável a momentos como os da conquista da Copa<br>4 do Mundo de futebol.[...] Por que não se consegue<br>5 transformar essa euforia efêmera num estado duradouro<br>6 de prazer e bem-estar, sem precisar dos estímulos<br>7 artificiais das drogas – cocaína, heroína, álcool – ou<br>8 antidepressivos como os Prozacs da vida?</p><p>9 Pois é mais ou menos isso o que dezenas de<br>10 cientistas de diversas áreas estão investigando em várias<br>11 partes do mundo. São psicólogos, neurobiologistas,<br>12 psicanalistas tentando descobrir os mecanismos naturais<br>13 que criam esses estados tão agradáveis quanto eventuais.<br>14 Como perpetuá-los? Como transformar para sempre uma<br>15 depressão no seu oposto? Em suma, como fazer com<br>16 que os centros de prazer de nosso cérebro saiam por aí<br>17 distribuindo à vontade substâncias propiciadoras de alto-<br>18 astral, tais quais a dopamina e a endorfina?</p><p>19 Essa idéia de mudar a orientação de uma ciência<br>20 que sempre se preocupou em minorar dores e<br>21 padecimentos da alma, mais do que em despertar<br>22 prazeres, teria começado quando o psicólogo Martin<br>23 Seligman percebeu que em casa, com a filha, era um<br>24 chato.</p><p>25 Eleito em 2000 presidente da Associação<br>26 Americana de Psicologia, ele teria se dado a missão de<br>27 pôr em prática o novo foco da atividade, que não deveria<br>28 se satisfazer apenas em levar um paciente do estado<br>29 negativo ao normal, ou seja, “de um menos cinco para o<br>30 zero”, como ele explicou à revista portuguesa “Visão”.<br>31 O seu objetivo seria descobrir como levá-lo “do zero ao mais<br>32 cinco”, isto é: em vez de serem menos infelizes, as<br>33 pessoas tinham que ser mais felizes.</p><p>34 Uma das descobertas desses estudos que estão<br>35 se multiplicando é que o peso das relações afetivas na<br>36 nossa felicidade pode ter um efeito maior do que uma<br>37 situação financeira favorável, confirmando o que parecia<br>38 ser um consolo de pobre: dinheiro não traz felicidade.<br>39 Além da constatação de que bons sentimentos e valores<br>40 positivos como a solidariedade e o otimismo elevam as<br>41 taxas de felicidade, uma pesquisa com mais de 20 mil<br>42 pacientes fez uma revelação surpreendente – a de que<br>43 os casados tendem a ser mais felizes do que os solteiros.<br>44 E isso porque três em cada quatro casados viam no<br>45 parceiro o seu melhor amigo.</p><p>46 Não foi difícil concluir que a amizade é assim a<br>47 relação que mais contribui para a construção da felicidade.<br>48 Mais do que o amor? Não se disse, mas não estranharia.<br>49 Como a amizade não tem cláusula de exclusividade, é<br>50 menos possessiva, talvez dê menos trabalho para ser feliz.</p><p>VENTURA, Zuenir. <strong>O Globo</strong>, 09 fev.05</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "momento de alegria.",
+     "explanation": "O texto busca justamente superar os momentos passageiros de alegria (carnaval, Copa)."
+    },
+    {
+     "key": "B",
+     "text": "euforia efêmera.",
+     "explanation": "A euforia efêmera é o ponto de partida que se quer transformar, não a felicidade buscada."
+    },
+    {
+     "key": "C",
+     "text": "prazer duradouro."
+    },
+    {
+     "key": "D",
+     "text": "felicidade conjugal.",
+     "explanation": "O casamento aparece apenas como um dos achados das pesquisas, não como o conceito do título."
+    },
+    {
+     "key": "E",
+     "text": "boa situação financeira.",
+     "explanation": "O texto afirma que as relações afetivas pesam mais que a situação financeira."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "A 'busca da felicidade' do título é a busca por transformar 'essa euforia efêmera num estado duradouro de prazer e bem-estar' (l. 5-6), sem estímulos artificiais. É o prazer duradouro, e não momentos de alegria passageira.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q2",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 2,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Infere-se do texto que a relação entre saúde e felicidade reside no fato de que:",
+   "passage": "<p><strong>Em busca da felicidade</strong></p><p>1 Ainda que seja para tudo se acabar na quarta-feira,<br>2 o carnaval é uma fonte de alegria e felicidade coletivas só<br>3 comparável a momentos como os da conquista da Copa<br>4 do Mundo de futebol.[...] Por que não se consegue<br>5 transformar essa euforia efêmera num estado duradouro<br>6 de prazer e bem-estar, sem precisar dos estímulos<br>7 artificiais das drogas – cocaína, heroína, álcool – ou<br>8 antidepressivos como os Prozacs da vida?</p><p>9 Pois é mais ou menos isso o que dezenas de<br>10 cientistas de diversas áreas estão investigando em várias<br>11 partes do mundo. São psicólogos, neurobiologistas,<br>12 psicanalistas tentando descobrir os mecanismos naturais<br>13 que criam esses estados tão agradáveis quanto eventuais.<br>14 Como perpetuá-los? Como transformar para sempre uma<br>15 depressão no seu oposto? Em suma, como fazer com<br>16 que os centros de prazer de nosso cérebro saiam por aí<br>17 distribuindo à vontade substâncias propiciadoras de alto-<br>18 astral, tais quais a dopamina e a endorfina?</p><p>19 Essa idéia de mudar a orientação de uma ciência<br>20 que sempre se preocupou em minorar dores e<br>21 padecimentos da alma, mais do que em despertar<br>22 prazeres, teria começado quando o psicólogo Martin<br>23 Seligman percebeu que em casa, com a filha, era um<br>24 chato.</p><p>25 Eleito em 2000 presidente da Associação<br>26 Americana de Psicologia, ele teria se dado a missão de<br>27 pôr em prática o novo foco da atividade, que não deveria<br>28 se satisfazer apenas em levar um paciente do estado<br>29 negativo ao normal, ou seja, “de um menos cinco para o<br>30 zero”, como ele explicou à revista portuguesa “Visão”.<br>31 O seu objetivo seria descobrir como levá-lo “do zero ao mais<br>32 cinco”, isto é: em vez de serem menos infelizes, as<br>33 pessoas tinham que ser mais felizes.</p><p>34 Uma das descobertas desses estudos que estão<br>35 se multiplicando é que o peso das relações afetivas na<br>36 nossa felicidade pode ter um efeito maior do que uma<br>37 situação financeira favorável, confirmando o que parecia<br>38 ser um consolo de pobre: dinheiro não traz felicidade.<br>39 Além da constatação de que bons sentimentos e valores<br>40 positivos como a solidariedade e o otimismo elevam as<br>41 taxas de felicidade, uma pesquisa com mais de 20 mil<br>42 pacientes fez uma revelação surpreendente – a de que<br>43 os casados tendem a ser mais felizes do que os solteiros.<br>44 E isso porque três em cada quatro casados viam no<br>45 parceiro o seu melhor amigo.</p><p>46 Não foi difícil concluir que a amizade é assim a<br>47 relação que mais contribui para a construção da felicidade.<br>48 Mais do que o amor? Não se disse, mas não estranharia.<br>49 Como a amizade não tem cláusula de exclusividade, é<br>50 menos possessiva, talvez dê menos trabalho para ser feliz.</p><p>VENTURA, Zuenir. <strong>O Globo</strong>, 09 fev.05</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a felicidade é um dos objetivos da atividade de psicólogos.",
+     "explanation": "É informação do texto (o novo foco de Seligman), mas não estabelece relação entre saúde e felicidade."
+    },
+    {
+     "key": "B",
+     "text": "a felicidade produzida artificialmente pode ser nociva ao ser humano."
+    },
+    {
+     "key": "C",
+     "text": "a euforia é um dos elementos determinantes do bem-estar das pessoas.",
+     "explanation": "O texto trata a euforia como efêmera, não como determinante do bem-estar."
+    },
+    {
+     "key": "D",
+     "text": "a ciência se ocupa em diminuir dores e padecimentos da alma.",
+     "explanation": "Descreve a orientação tradicional da ciência, sem relacionar saúde e felicidade."
+    },
+    {
+     "key": "E",
+     "text": "os produtos químicos são provocadores do estado de felicidade.",
+     "explanation": "O texto busca justamente a felicidade 'sem precisar dos estímulos artificiais'."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Ao propor buscar o bem-estar 'sem precisar dos estímulos artificiais das drogas – cocaína, heroína, álcool – ou antidepressivos', o texto deixa implícito que a felicidade obtida artificialmente pode prejudicar a saúde. Daí se infere a relação entre saúde e felicidade.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q3",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 3,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "Indique a opção em que a coluna da direita <strong>NÃO</strong> traz exemplo(s) do que vem expresso na coluna da esquerda, de acordo com o texto.",
+   "passage": "<p><strong>Em busca da felicidade</strong></p><p>1 Ainda que seja para tudo se acabar na quarta-feira,<br>2 o carnaval é uma fonte de alegria e felicidade coletivas só<br>3 comparável a momentos como os da conquista da Copa<br>4 do Mundo de futebol.[...] Por que não se consegue<br>5 transformar essa euforia efêmera num estado duradouro<br>6 de prazer e bem-estar, sem precisar dos estímulos<br>7 artificiais das drogas – cocaína, heroína, álcool – ou<br>8 antidepressivos como os Prozacs da vida?</p><p>9 Pois é mais ou menos isso o que dezenas de<br>10 cientistas de diversas áreas estão investigando em várias<br>11 partes do mundo. São psicólogos, neurobiologistas,<br>12 psicanalistas tentando descobrir os mecanismos naturais<br>13 que criam esses estados tão agradáveis quanto eventuais.<br>14 Como perpetuá-los? Como transformar para sempre uma<br>15 depressão no seu oposto? Em suma, como fazer com<br>16 que os centros de prazer de nosso cérebro saiam por aí<br>17 distribuindo à vontade substâncias propiciadoras de alto-<br>18 astral, tais quais a dopamina e a endorfina?</p><p>19 Essa idéia de mudar a orientação de uma ciência<br>20 que sempre se preocupou em minorar dores e<br>21 padecimentos da alma, mais do que em despertar<br>22 prazeres, teria começado quando o psicólogo Martin<br>23 Seligman percebeu que em casa, com a filha, era um<br>24 chato.</p><p>25 Eleito em 2000 presidente da Associação<br>26 Americana de Psicologia, ele teria se dado a missão de<br>27 pôr em prática o novo foco da atividade, que não deveria<br>28 se satisfazer apenas em levar um paciente do estado<br>29 negativo ao normal, ou seja, “de um menos cinco para o<br>30 zero”, como ele explicou à revista portuguesa “Visão”.<br>31 O seu objetivo seria descobrir como levá-lo “do zero ao mais<br>32 cinco”, isto é: em vez de serem menos infelizes, as<br>33 pessoas tinham que ser mais felizes.</p><p>34 Uma das descobertas desses estudos que estão<br>35 se multiplicando é que o peso das relações afetivas na<br>36 nossa felicidade pode ter um efeito maior do que uma<br>37 situação financeira favorável, confirmando o que parecia<br>38 ser um consolo de pobre: dinheiro não traz felicidade.<br>39 Além da constatação de que bons sentimentos e valores<br>40 positivos como a solidariedade e o otimismo elevam as<br>41 taxas de felicidade, uma pesquisa com mais de 20 mil<br>42 pacientes fez uma revelação surpreendente – a de que<br>43 os casados tendem a ser mais felizes do que os solteiros.<br>44 E isso porque três em cada quatro casados viam no<br>45 parceiro o seu melhor amigo.</p><p>46 Não foi difícil concluir que a amizade é assim a<br>47 relação que mais contribui para a construção da felicidade.<br>48 Mais do que o amor? Não se disse, mas não estranharia.<br>49 Como a amizade não tem cláusula de exclusividade, é<br>50 menos possessiva, talvez dê menos trabalho para ser feliz.</p><p>VENTURA, Zuenir. <strong>O Globo</strong>, 09 fev.05</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "carnaval (l. 2) — fonte de alegria e felicidade coletivas"
+    },
+    {
+     "key": "B",
+     "text": "antidepressivos (l. 8) — os Prozacs da vida",
+     "explanation": "Prozac é exemplo de antidepressivo."
+    },
+    {
+     "key": "C",
+     "text": "cientistas de diversas áreas (l. 10) — psicólogos, neurobiologistas, psicanalistas",
+     "explanation": "São exemplos das diversas áreas dos cientistas."
+    },
+    {
+     "key": "D",
+     "text": "substâncias propiciadoras de alto-astral (l. 17-18) — a dopamina e a endorfina",
+     "explanation": "São exemplos dessas substâncias ('tais quais')."
+    },
+    {
+     "key": "E",
+     "text": "bons sentimentos e valores positivos (l. 39-40) — a solidariedade e o otimismo",
+     "explanation": "São exemplos ('como') de bons sentimentos e valores positivos."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Em A, 'fonte de alegria e felicidade coletivas' é uma caracterização (predicativo) do carnaval, e não um exemplo dele. Nas demais linhas, a coluna da direita enumera exemplos do termo da esquerda, muitas vezes introduzidos por 'como' ou 'tais quais'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q4",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 4,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Assinale a afirmação correta a respeito do penúltimo e do último parágrafos do texto.",
+   "passage": "<p><strong>Em busca da felicidade</strong></p><p>1 Ainda que seja para tudo se acabar na quarta-feira,<br>2 o carnaval é uma fonte de alegria e felicidade coletivas só<br>3 comparável a momentos como os da conquista da Copa<br>4 do Mundo de futebol.[...] Por que não se consegue<br>5 transformar essa euforia efêmera num estado duradouro<br>6 de prazer e bem-estar, sem precisar dos estímulos<br>7 artificiais das drogas – cocaína, heroína, álcool – ou<br>8 antidepressivos como os Prozacs da vida?</p><p>9 Pois é mais ou menos isso o que dezenas de<br>10 cientistas de diversas áreas estão investigando em várias<br>11 partes do mundo. São psicólogos, neurobiologistas,<br>12 psicanalistas tentando descobrir os mecanismos naturais<br>13 que criam esses estados tão agradáveis quanto eventuais.<br>14 Como perpetuá-los? Como transformar para sempre uma<br>15 depressão no seu oposto? Em suma, como fazer com<br>16 que os centros de prazer de nosso cérebro saiam por aí<br>17 distribuindo à vontade substâncias propiciadoras de alto-<br>18 astral, tais quais a dopamina e a endorfina?</p><p>19 Essa idéia de mudar a orientação de uma ciência<br>20 que sempre se preocupou em minorar dores e<br>21 padecimentos da alma, mais do que em despertar<br>22 prazeres, teria começado quando o psicólogo Martin<br>23 Seligman percebeu que em casa, com a filha, era um<br>24 chato.</p><p>25 Eleito em 2000 presidente da Associação<br>26 Americana de Psicologia, ele teria se dado a missão de<br>27 pôr em prática o novo foco da atividade, que não deveria<br>28 se satisfazer apenas em levar um paciente do estado<br>29 negativo ao normal, ou seja, “de um menos cinco para o<br>30 zero”, como ele explicou à revista portuguesa “Visão”.<br>31 O seu objetivo seria descobrir como levá-lo “do zero ao mais<br>32 cinco”, isto é: em vez de serem menos infelizes, as<br>33 pessoas tinham que ser mais felizes.</p><p>34 Uma das descobertas desses estudos que estão<br>35 se multiplicando é que o peso das relações afetivas na<br>36 nossa felicidade pode ter um efeito maior do que uma<br>37 situação financeira favorável, confirmando o que parecia<br>38 ser um consolo de pobre: dinheiro não traz felicidade.<br>39 Além da constatação de que bons sentimentos e valores<br>40 positivos como a solidariedade e o otimismo elevam as<br>41 taxas de felicidade, uma pesquisa com mais de 20 mil<br>42 pacientes fez uma revelação surpreendente – a de que<br>43 os casados tendem a ser mais felizes do que os solteiros.<br>44 E isso porque três em cada quatro casados viam no<br>45 parceiro o seu melhor amigo.</p><p>46 Não foi difícil concluir que a amizade é assim a<br>47 relação que mais contribui para a construção da felicidade.<br>48 Mais do que o amor? Não se disse, mas não estranharia.<br>49 Como a amizade não tem cláusula de exclusividade, é<br>50 menos possessiva, talvez dê menos trabalho para ser feliz.</p><p>VENTURA, Zuenir. <strong>O Globo</strong>, 09 fev.05</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "O ditado “Dinheiro não traz felicidade” só vale para as pessoas pobres.",
+     "explanation": "O texto diz que o ditado 'parecia ser um consolo de pobre', mas as pesquisas o confirmam em geral."
+    },
+    {
+     "key": "B",
+     "text": "As pessoas pobres costumam ter bons sentimentos e valores positivos.",
+     "explanation": "O texto não relaciona pobreza a bons sentimentos."
+    },
+    {
+     "key": "C",
+     "text": "A maioria das pessoas casadas considera o cônjuge como o seu maior amigo."
+    },
+    {
+     "key": "D",
+     "text": "A revelação dos resultados do estudo surpreendeu os 20 mil pacientes pesquisados.",
+     "explanation": "A revelação foi surpreendente para quem leu os resultados; não se diz que surpreendeu os pacientes."
+    },
+    {
+     "key": "E",
+     "text": "Um estudo provou que a amizade é mais importante para o bem-estar do que o amor.",
+     "explanation": "O texto deixa isso como pergunta e especulação ('Não se disse, mas não estranharia')."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O penúltimo parágrafo informa que 'três em cada quatro casados viam no parceiro o seu melhor amigo' (l. 44-45), isto é, a maioria. A comparação entre amizade e amor fica como especulação do autor.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q5",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 5,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.5 Emprego de tempos e modos verbais",
+   "stem": "A forma verbal “teria começado” (l. 22) pode ser adequadamente substituída por:",
+   "passage": "<p><strong>Em busca da felicidade</strong></p><p>1 Ainda que seja para tudo se acabar na quarta-feira,<br>2 o carnaval é uma fonte de alegria e felicidade coletivas só<br>3 comparável a momentos como os da conquista da Copa<br>4 do Mundo de futebol.[...] Por que não se consegue<br>5 transformar essa euforia efêmera num estado duradouro<br>6 de prazer e bem-estar, sem precisar dos estímulos<br>7 artificiais das drogas – cocaína, heroína, álcool – ou<br>8 antidepressivos como os Prozacs da vida?</p><p>9 Pois é mais ou menos isso o que dezenas de<br>10 cientistas de diversas áreas estão investigando em várias<br>11 partes do mundo. São psicólogos, neurobiologistas,<br>12 psicanalistas tentando descobrir os mecanismos naturais<br>13 que criam esses estados tão agradáveis quanto eventuais.<br>14 Como perpetuá-los? Como transformar para sempre uma<br>15 depressão no seu oposto? Em suma, como fazer com<br>16 que os centros de prazer de nosso cérebro saiam por aí<br>17 distribuindo à vontade substâncias propiciadoras de alto-<br>18 astral, tais quais a dopamina e a endorfina?</p><p>19 Essa idéia de mudar a orientação de uma ciência<br>20 que sempre se preocupou em minorar dores e<br>21 padecimentos da alma, mais do que em despertar<br>22 prazeres, teria começado quando o psicólogo Martin<br>23 Seligman percebeu que em casa, com a filha, era um<br>24 chato.</p><p>25 Eleito em 2000 presidente da Associação<br>26 Americana de Psicologia, ele teria se dado a missão de<br>27 pôr em prática o novo foco da atividade, que não deveria<br>28 se satisfazer apenas em levar um paciente do estado<br>29 negativo ao normal, ou seja, “de um menos cinco para o<br>30 zero”, como ele explicou à revista portuguesa “Visão”.<br>31 O seu objetivo seria descobrir como levá-lo “do zero ao mais<br>32 cinco”, isto é: em vez de serem menos infelizes, as<br>33 pessoas tinham que ser mais felizes.</p><p>34 Uma das descobertas desses estudos que estão<br>35 se multiplicando é que o peso das relações afetivas na<br>36 nossa felicidade pode ter um efeito maior do que uma<br>37 situação financeira favorável, confirmando o que parecia<br>38 ser um consolo de pobre: dinheiro não traz felicidade.<br>39 Além da constatação de que bons sentimentos e valores<br>40 positivos como a solidariedade e o otimismo elevam as<br>41 taxas de felicidade, uma pesquisa com mais de 20 mil<br>42 pacientes fez uma revelação surpreendente – a de que<br>43 os casados tendem a ser mais felizes do que os solteiros.<br>44 E isso porque três em cada quatro casados viam no<br>45 parceiro o seu melhor amigo.</p><p>46 Não foi difícil concluir que a amizade é assim a<br>47 relação que mais contribui para a construção da felicidade.<br>48 Mais do que o amor? Não se disse, mas não estranharia.<br>49 Como a amizade não tem cláusula de exclusividade, é<br>50 menos possessiva, talvez dê menos trabalho para ser feliz.</p><p>VENTURA, Zuenir. <strong>O Globo</strong>, 09 fev.05</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tinha começado.",
+     "explanation": "O mais-que-perfeito afirma o fato como certo, perdendo a ideia de hipótese."
+    },
+    {
+     "key": "B",
+     "text": "havia começado.",
+     "explanation": "Também é mais-que-perfeito com valor de certeza."
+    },
+    {
+     "key": "C",
+     "text": "esteve começando.",
+     "explanation": "Forma inadequada, sem valor hipotético e com aspecto durativo."
+    },
+    {
+     "key": "D",
+     "text": "talvez começasse.",
+     "explanation": "O imperfeito do subjuntivo desloca o fato para uma possibilidade não realizada, alterando o sentido e o tempo."
+    },
+    {
+     "key": "E",
+     "text": "provavelmente começou."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O futuro do pretérito composto ('teria começado') é usado no jornalismo para apresentar um fato passado como provável, sem que o autor se comprometa com ele. 'Provavelmente começou' mantém o tempo passado e o valor de incerteza.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q6",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 6,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "Entre as apresentadas abaixo, as palavras que são sinônimas de “efêmera” (l. 5) e “eventuais” (l. 13), respectivamente, são:",
+   "passage": "<p><strong>Em busca da felicidade</strong></p><p>1 Ainda que seja para tudo se acabar na quarta-feira,<br>2 o carnaval é uma fonte de alegria e felicidade coletivas só<br>3 comparável a momentos como os da conquista da Copa<br>4 do Mundo de futebol.[...] Por que não se consegue<br>5 transformar essa euforia efêmera num estado duradouro<br>6 de prazer e bem-estar, sem precisar dos estímulos<br>7 artificiais das drogas – cocaína, heroína, álcool – ou<br>8 antidepressivos como os Prozacs da vida?</p><p>9 Pois é mais ou menos isso o que dezenas de<br>10 cientistas de diversas áreas estão investigando em várias<br>11 partes do mundo. São psicólogos, neurobiologistas,<br>12 psicanalistas tentando descobrir os mecanismos naturais<br>13 que criam esses estados tão agradáveis quanto eventuais.<br>14 Como perpetuá-los? Como transformar para sempre uma<br>15 depressão no seu oposto? Em suma, como fazer com<br>16 que os centros de prazer de nosso cérebro saiam por aí<br>17 distribuindo à vontade substâncias propiciadoras de alto-<br>18 astral, tais quais a dopamina e a endorfina?</p><p>19 Essa idéia de mudar a orientação de uma ciência<br>20 que sempre se preocupou em minorar dores e<br>21 padecimentos da alma, mais do que em despertar<br>22 prazeres, teria começado quando o psicólogo Martin<br>23 Seligman percebeu que em casa, com a filha, era um<br>24 chato.</p><p>25 Eleito em 2000 presidente da Associação<br>26 Americana de Psicologia, ele teria se dado a missão de<br>27 pôr em prática o novo foco da atividade, que não deveria<br>28 se satisfazer apenas em levar um paciente do estado<br>29 negativo ao normal, ou seja, “de um menos cinco para o<br>30 zero”, como ele explicou à revista portuguesa “Visão”.<br>31 O seu objetivo seria descobrir como levá-lo “do zero ao mais<br>32 cinco”, isto é: em vez de serem menos infelizes, as<br>33 pessoas tinham que ser mais felizes.</p><p>34 Uma das descobertas desses estudos que estão<br>35 se multiplicando é que o peso das relações afetivas na<br>36 nossa felicidade pode ter um efeito maior do que uma<br>37 situação financeira favorável, confirmando o que parecia<br>38 ser um consolo de pobre: dinheiro não traz felicidade.<br>39 Além da constatação de que bons sentimentos e valores<br>40 positivos como a solidariedade e o otimismo elevam as<br>41 taxas de felicidade, uma pesquisa com mais de 20 mil<br>42 pacientes fez uma revelação surpreendente – a de que<br>43 os casados tendem a ser mais felizes do que os solteiros.<br>44 E isso porque três em cada quatro casados viam no<br>45 parceiro o seu melhor amigo.</p><p>46 Não foi difícil concluir que a amizade é assim a<br>47 relação que mais contribui para a construção da felicidade.<br>48 Mais do que o amor? Não se disse, mas não estranharia.<br>49 Como a amizade não tem cláusula de exclusividade, é<br>50 menos possessiva, talvez dê menos trabalho para ser feliz.</p><p>VENTURA, Zuenir. <strong>O Globo</strong>, 09 fev.05</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "passageira – casuais."
+    },
+    {
+     "key": "B",
+     "text": "esfuziante – finais.",
+     "explanation": "Esfuziante é muito alegre, expansivo; 'finais' não equivale a eventuais."
+    },
+    {
+     "key": "C",
+     "text": "eterna – incertos.",
+     "explanation": "Eterna é o oposto de efêmera."
+    },
+    {
+     "key": "D",
+     "text": "enorme – factuais.",
+     "explanation": "Nenhuma das duas tem relação de sentido com as palavras do texto."
+    },
+    {
+     "key": "E",
+     "text": "perene – acidentais.",
+     "explanation": "Perene é duradouro, antônimo de efêmero."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Efêmero é o que dura pouco, passageiro; eventual é o que depende do acaso, casual. A opção A traz os dois sinônimos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q7",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 7,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.2 Ortografia oficial",
+   "stem": "Na linha 4, a expressão “por que” é grafada separadamente, ao passo que, na linha 44, “porque” é grafado junto. Indique a opção em que a grafia está correta de acordo com a norma culta.",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Ela chegou cedo por que tinha muito a fazer.",
+     "explanation": "Conjunção causal se escreve junto: 'porque tinha muito a fazer'."
+    },
+    {
+     "key": "B",
+     "text": "O cargo por que você esperava foi preenchido."
+    },
+    {
+     "key": "C",
+     "text": "O funcionário não terminou o relatório, porquê?",
+     "explanation": "No fim de pergunta, sem valor de substantivo, escreve-se 'por quê?' (separado e com acento)."
+    },
+    {
+     "key": "D",
+     "text": "A cidade porque ele passou foi fundada por imigrantes.",
+     "explanation": "Aqui há preposição ('passar por') + pronome relativo ('a cidade pela qual'): deve ser 'por que', separado."
+    },
+    {
+     "key": "E",
+     "text": "Não entendo porque certas pessoas são tão mal-humoradas.",
+     "explanation": "Interrogativa indireta ('por que razão'): escreve-se 'por que', separado."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Em B, 'por que' é a preposição exigida por 'esperar por' seguida do pronome relativo 'que' (= pelo qual), e por isso se escreve separado. Conjunção causal é 'porque'; interrogativa direta ou indireta é 'por que'; em fim de frase, 'por quê'; substantivo, 'o porquê'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q8",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 8,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.10 Regência verbal e nominal",
+   "stem": "O trecho que <strong>NÃO</strong> é correto sintaticamente para completar uma frase começada por “Além...” é:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "...da pesquisa sobre felicidade sem estímulos químicos, o texto menciona idéias de um psicólogo americano.",
+     "explanation": "Correto: 'além de' + 'a pesquisa' (complemento nominal, não sujeito de infinitivo), contração permitida."
+    },
+    {
+     "key": "B",
+     "text": "...dos psicólogos terem pesquisado os estímulos artificiais da felicidade, eles investigaram também as suas causas naturais."
+    },
+    {
+     "key": "C",
+     "text": "...da boa vontade da comunidade de saúde com os resultados das pesquisas, o público em geral também os aplaudiu.",
+     "explanation": "Correto: 'da boa vontade' é complemento de 'além de', não sujeito de verbo."
+    },
+    {
+     "key": "D",
+     "text": "...de as pessoas casadas serem mais felizes, pesquisas mostram também que elas tendem a morrer mais tarde.",
+     "explanation": "Correto: a preposição não se contrai com o artigo do sujeito do infinitivo ('de as pessoas serem')."
+    },
+    {
+     "key": "E",
+     "text": "...de a verificação dos pesquisadores não trazer uma solução para a felicidade definitiva, ela também não aponta paliativos.",
+     "explanation": "Correto: preposição separada do artigo do sujeito do infinitivo ('de a verificação [...] trazer')."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Pela norma culta, a preposição não se contrai com o artigo que acompanha o sujeito de um verbo no infinitivo: deve-se escrever 'além de os psicólogos terem pesquisado', e não 'dos psicólogos terem'. Em A e C não há infinitivo; em D e E a separação foi respeitada.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Regência: a contração da preposição com o sujeito do infinitivo; classificado em regência por envolver a preposição exigida por 'além de'."
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q9",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 9,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.9 Concordância verbal e nominal",
+   "stem": "Aponte a opção em que se encontra um uso <strong>INACEITÁVEL</strong> de concordância.",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Uma e outra coisa merece nossa atenção.",
+     "explanation": "Aceitável: com 'um e outro', o verbo pode ficar no singular ou ir ao plural."
+    },
+    {
+     "key": "B",
+     "text": "Nem um nem outro candidato conseguiram se destacar.",
+     "explanation": "Aceitável para parte dos gramáticos: com 'nem um nem outro' o singular é preferível, mas o plural é admitido."
+    },
+    {
+     "key": "C",
+     "text": "O médico, com sua enfermeira, foi ao Congresso.",
+     "explanation": "Correto: o termo introduzido por 'com' entre vírgulas não integra o sujeito, e o verbo concorda com 'o médico'."
+    },
+    {
+     "key": "D",
+     "text": "No relatório da OMS, tinham vários erros de tabela."
+    },
+    {
+     "key": "E",
+     "text": "Os cientistas haviam tido muito cuidado nos experimentos.",
+     "explanation": "Correto: 'haver' como auxiliar concorda com o sujeito ('os cientistas haviam')."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "'Ter' no sentido de existir é uso coloquial, inaceitável na norma culta; o correto é 'havia vários erros', com 'haver' impessoal no singular. Mesmo flexionado ('tinham'), o verbo não teria sujeito com que concordar.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q10",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 10,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "Indique a opção que contém uma oração subordinada que está corretamente introduzida por um pronome relativo.",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Não é difícil saber de que o melhor para a saúde do ser humano é ingerir menos produtos químicos.",
+     "explanation": "'Que' é conjunção integrante, não relativo; e 'saber' é transitivo direto, logo 'de' sobra."
+    },
+    {
+     "key": "B",
+     "text": "As diversas drogas cujos os componentes são de origem laboratorial trazem maiores danos à saúde.",
+     "explanation": "'Cujo' não admite artigo depois de si: 'cujos componentes'."
+    },
+    {
+     "key": "C",
+     "text": "As descobertas que falam estes relatórios sobre a felicidade eram já esperadas pela comunidade científica.",
+     "explanation": "'Falar de' exige a preposição antes do relativo: 'de que falam'."
+    },
+    {
+     "key": "D",
+     "text": "Os estímulos artificiais das drogas onde se sente felicidade são nocivos à saúde.",
+     "explanation": "'Onde' só se refere a lugar; estímulos não são lugar ('com os quais', 'pelos quais')."
+    },
+    {
+     "key": "E",
+     "text": "Os boletins científicos a que tiveram acesso os repórteres relatavam o que o grande público esperava."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Em E, 'ter acesso a' exige a preposição 'a', que aparece antes do relativo: 'os boletins a que tiveram acesso os repórteres'. As demais opções trazem conjunção no lugar de relativo, 'cujo' com artigo, regência omitida ou 'onde' sem ideia de lugar.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q22",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 22,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "Segundo Kurt Lewin, para o indivíduo, o grupo é o espaço onde sua participação social se define; é um instrumento para satisfação das necessidades e aspirações psíquicas e sociais; e é uma realidade cuja dinâmica sempre tem um impacto sobre este indivíduo. A adaptação social de um indivíduo, então, consiste em:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "encontrar um grupo que possa satisfazê-lo sem que tenha de alterar um ponto sequer de seus valores e atitudes frente ao campo social.",
+     "explanation": "Para Lewin, o grupo sempre exerce impacto sobre o indivíduo; adaptar-se sem nenhuma mudança contradiz a premissa."
+    },
+    {
+     "key": "B",
+     "text": "atualizar suas aspirações e atitudes, ou seja, atingir seus objetivos pessoais, sem forçar ou romper as relações dentro e com o campo social em que se insere."
+    },
+    {
+     "key": "C",
+     "text": "derrubar as resistências à mudança social deste grupo, de modo a adequá-las ao indivíduo e sua dinâmica intrínseca.",
+     "explanation": "Inverte a relação: submete o grupo ao indivíduo, o que não é adaptação."
+    },
+    {
+     "key": "D",
+     "text": "modificar os valores professados neste campo social, de modo a subjugá-los às necessidades e desejos psicossociais do indivíduo.",
+     "explanation": "Também subordina o campo social ao indivíduo, rompendo o equilíbrio."
+    },
+    {
+     "key": "E",
+     "text": "interagir com os elementos do grupo sem se afetar drasticamente em função de nenhum valor ou atitude transmitidos pelo grupo, ou seja, integrar-se incólume.",
+     "explanation": "Integrar-se 'incólume' nega a influência recíproca entre indivíduo e grupo própria da teoria de campo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na teoria de campo de Lewin, o comportamento resulta da interação entre a pessoa e seu meio (o grupo). A adaptação social consiste em o indivíduo realizar suas aspirações e objetivos sem romper o equilíbrio de suas relações com o campo social, numa influência recíproca, e não em submeter o grupo a si nem ficar imune a ele.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q26",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 26,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-org",
+   "subtopic": "3.4 Análise e desenvolvimento organizacional",
+   "stem": "A Análise Institucional consiste na investigação dos grandes grupos: sua estrutura, origem, composição, história, economia, política, ideologia, etc. A Psicologia Institucional tem como objetivo:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "verificar as questões que influenciam o paciente na sua relação com o terapeuta.",
+     "explanation": "Descreve o foco da relação terapêutica (transferência), próprio da clínica."
+    },
+    {
+     "key": "B",
+     "text": "analisar a individualidade do sujeito.",
+     "explanation": "A psicologia institucional toma como objeto a instituição/organização, não o indivíduo isolado."
+    },
+    {
+     "key": "C",
+     "text": "avaliar as tensões e o estresse do dia-a-dia.",
+     "explanation": "O estresse cotidiano é tema de saúde do trabalhador, não o objetivo da psicologia institucional."
+    },
+    {
+     "key": "D",
+     "text": "estudar os transtornos de personalidade.",
+     "explanation": "É objeto da psicopatologia."
+    },
+    {
+     "key": "E",
+     "text": "estudar as questões conflituosas de uma organização."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A psicologia institucional (Bleger) toma a instituição ou organização como unidade de análise e intervenção: estuda suas dinâmicas, tensões e conflitos, para que a própria organização compreenda e elabore seus problemas. Não se confunde com a clínica individual.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "sead-am-2005-psicologo-q37",
+   "source": {
+    "file": "sead-am-2005-psicologo/prova.pdf",
+    "year": 2005,
+    "originalNumber": 37,
+    "exam": "SEAD-AM 2005 – Psicólogo",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.1 Pesquisa e intervenções nas organizações",
+   "stem": "Em uma investigação psicológica sobre certos comportamentos coletivos, um grupo de cem pessoas, submetido a condições de intensa cobrança como, por exemplo, o ambiente de uma empresa competindo com outras, foi avaliado em termos de produtividade e criatividade. Aplicando um inventário de personalidade, encontraram-se grupos de alta e de baixa assertividade. As pessoas de baixa assertividade apresentaram maior rendimento e produtividade, mas produziram soluções padronizadas para os problemas impostos nas condições. As pessoas de alta assertividade apresentaram rendimento e produtividade medianos, entretanto apresentaram soluções muito criativas para os problemas. Podemos concluir, então, que:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a assertividade está relacionada à criatividade, de modo que pessoas mais assertivas tendem a ser também mais criativas."
+    },
+    {
+     "key": "B",
+     "text": "a assertividade foi causa da criatividade e da diminuição no rendimento.",
+     "explanation": "O estudo é correlacional (grupos formados por um inventário, sem manipulação); não permite afirmar causalidade."
+    },
+    {
+     "key": "C",
+     "text": "técnicas de aumento da assertividade, quando aplicadas em setores de desenvolvimento de produtos, melhoram as inovações.",
+     "explanation": "Generaliza para uma intervenção que não foi testada; não houve manipulação da assertividade."
+    },
+    {
+     "key": "D",
+     "text": "a baixa assertividade aumenta a produtividade e não a criatividade.",
+     "explanation": "Afirma causalidade ('aumenta') a partir de dados correlacionais."
+    },
+    {
+     "key": "E",
+     "text": "o aumento da produtividade e do rendimento foi causado pelo ambiente de intensa cobrança e pela baixa assertividade das pessoas.",
+     "explanation": "Todos estavam sob a mesma cobrança, sem grupo de comparação; não se pode atribuir causa ao ambiente nem à assertividade."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Os grupos foram formados a partir de uma característica medida (assertividade), sem manipulação experimental. Esse delineamento correlacional permite afirmar apenas associação: maior assertividade aparece junto com maior criatividade. Conclusões causais ou sobre o efeito de intervenções não se sustentam.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Metodologia de pesquisa (correlação versus causalidade) em contexto organizacional."
+   }
+  }
+ ],
+ "queue": [],
+ "fora": [
+  {
+   "id": "sead-am-2005-psicologo-q11",
+   "tema": "Abordagem centrada na pessoa (Rogers), clínica"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q12",
+   "tema": "Psicodiagnóstico, entrevista clínica e testes (clínica/infantil)"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q13",
+   "tema": "Psicodiagnóstico, entrevista clínica e testes (clínica/infantil)"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q14",
+   "tema": "Psicodiagnóstico, entrevista clínica e testes (clínica/infantil)"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q18",
+   "tema": "Psicodiagnóstico, entrevista clínica e testes (clínica/infantil)"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q19",
+   "tema": "Psicodiagnóstico, entrevista clínica e testes (clínica/infantil)"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q36",
+   "tema": "Psicodiagnóstico, entrevista clínica e testes (clínica/infantil)"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q15",
+   "tema": "Psicopatologia e avaliação psiquiátrica"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q16",
+   "tema": "Psicopatologia e avaliação psiquiátrica"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q17",
+   "tema": "Psicopatologia e avaliação psiquiátrica"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q21",
+   "tema": "Psicopatologia e avaliação psiquiátrica"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q20",
+   "tema": "Teoria freudiana da melancolia"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q23",
+   "tema": "Prevenção e promoção em saúde mental"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q24",
+   "tema": "Psicologia hospitalar"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q25",
+   "tema": "Psicologia hospitalar"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q27",
+   "tema": "Psicologia hospitalar"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q28",
+   "tema": "Psicologia hospitalar"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q29",
+   "tema": "Psicologia hospitalar"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q31",
+   "tema": "Psicologia hospitalar"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q32",
+   "tema": "Psicologia hospitalar"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q30",
+   "tema": "Reforma psiquiátrica"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q33",
+   "tema": "Objetivos das abordagens psicoterápicas (clínica)"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q34",
+   "tema": "Condicionamento respondente e fobias (clínica comportamental)"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q35",
+   "tema": "Desenvolvimento cognitivo (Piaget)"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q38",
+   "tema": "Legislação do SUS (Lei 8.080/1990)"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q39",
+   "tema": "Legislação do SUS (Lei 8.080/1990)"
+  },
+  {
+   "id": "sead-am-2005-psicologo-q40",
+   "tema": "Legislação do SUS (Lei 8.080/1990)"
+  }
+ ],
+ "log": "Gabarito p. 2, coluna PSICÓLOGO (última), lida na imagem; Português IV no alto. Respostas oficiais aos recursos sem alteração para Psicólogo nem para Português ('demais recursos indeferidos'). Cópia do gabarito hospedada por terceiro (Estude Grátis). Página 2 do caderno conferida na imagem."
+}

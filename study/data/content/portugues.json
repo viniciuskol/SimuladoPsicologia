@@ -1,0 +1,390 @@
+{
+  "areaId": "portugues",
+  "resumo": "<p><strong>Onde a prova mora.</strong> São 60 questões de Língua Portuguesa no banco — 10 em cada uma das seis provas (2008, 2011, 2012, duas de 2018 e 2023), sempre as questões 1 a 10 do caderno. Na prova de 2026 o bloco de Conhecimentos Gerais tem 10 questões de Português. A distribuição por subtópico do edital é desigual e vale planejar em cima dela: <strong>compreensão de textos, 16 questões</strong>; significação das palavras, 8; coesão textual, tempos/modos verbais e regência, 5 cada; classes de palavras e concordância, 4 cada; coordenação e subordinação, pontuação e crase, 3 cada; colocação pronominal e ortografia, 2 cada. Todos os 12 subtópicos já apareceram — não há assunto para descartar —, mas 29 das 60 se decidem em interpretação, coesão e semântica.</p><p><strong>O texto manda em tudo.</strong> Nenhuma questão é solta: até as de gramática saem de um fragmento com número de linha ou de parágrafo. Os textos-base foram jornalísticos (matéria sobre letras de samba em 2011, reportagem sobre \"vício tecnológico\" em 2018) e literários (Machado de Assis em 2018, crônica sobre a língua materna em 2023). Consequência prática: <strong>leia o texto antes de olhar as questões</strong>, porque cerca de meia dúzia das 60 volta ao texto para pedir \"outro exemplo do mesmo fenômeno\": outra metáfora (transp15-q3), outro verbo com a mesma regência (prova6-q7, transp15-q7), outra vírgula com a mesma função (transp23e6-q7) e outro verbo que forma substantivo pelo mesmo paradigma (prova6-q5).</p><p><strong>O segundo formato dominante: cinco frases novas, ache a que obedece à norma-padrão.</strong> Onze das 60 questões são assim (psjpn2018-q4, psjpn2018-q5, psjpn2018-q8, psjpn2018-q9, transp15-q8, transp15-q9, transp15-q10 e, na prova de 2012, petrobras-2012-psicologo-junior-q5, petrobras-2012-psicologo-junior-q7, petrobras-2012-psicologo-junior-q8, petrobras-2012-psicologo-junior-q10) — não é mais um traço só das provas de 2018 —, e todas em vírgula, crase, colocação pronominal, regência, concordância ou conjugação verbal. Aqui não há interpretação: há um erro plantado em cada uma das quatro alternativas erradas. Vale ler procurando o erro, não a beleza da frase.</p><p><strong>Concordância = o pronome <code>se</code>.</strong> As quatro questões de concordância do banco giram inteiramente em torno dele e dos verbos impessoais. Vale decorar a pergunta que resolve: <em>tem quem sofra a ação?</em></p><table><tr><th>Construção</th><th>Papel do <code>se</code></th><th>Verbo</th><th>Exemplo do banco</th></tr><tr><td>verbo transitivo direto + <code>se</code></td><td>apassivador (o complemento é sujeito)</td><td>concorda com esse sujeito</td><td>\"desenvolveu-se ... a ideia\" (singular, correto, psjpn2018-q9); \"evidenciou-se atitudes\" é erro — o certo é <code>evidenciaram-se</code></td></tr><tr><td>verbo intransitivo ou transitivo indireto + <code>se</code></td><td>índice de indeterminação do sujeito</td><td>sempre 3ª pessoa do singular</td><td>\"Necessita-se de políticos\" (correto, transp15-q10)</td></tr><tr><td><code>haver</code> = existir</td><td>impessoal</td><td>sempre singular, e transmite a invariabilidade ao auxiliar (<code>deve haver</code>)</td><td>\"haviam mais de trinta deputados\" é erro (transp15-q10); \"houvesse\" impessoal em prova6-q9</td></tr><tr><td><code>fazer</code>/<code>haver</code> de tempo decorrido</td><td>impessoal</td><td>sempre singular</td><td>\"Fazem quinze anos\" é erro (transp15-q10)</td></tr></table><p>Duas notas que a banca explora: <code>existir</code> <strong>não</strong> é impessoal e concorda normalmente (\"existiam trinta deputados\"); e <em>mais de um</em> pede verbo no singular (\"Mais de um mandato foi exercido\"), salvo quando há reciprocidade ou repetição do termo.</p><p><strong>Crase.</strong> Três questões, três recortes diferentes: artigo subjacente antes de substantivo feminino determinado (\"atentas <code>à</code> fatura\", psjpn2018-q5), fusão com demonstrativo (<code>a + aqueles = àqueles</code>, transp15-q9) e valor de destinação (\"soneto <code>à</code> língua portuguesa\", transp23e6-q5). Os distratores de transp15-q9 são um catálogo dos erros clássicos: <code>à partir</code> (locução com verbo, nunca acentua), <code>daqui à duas horas</code> (numeral, sem artigo), <code>assistimos à apresentações</code> (\"a\" singular + plural: só <code>às</code>) e <code>a política, à qual não quero</code> (o verbo não pede preposição). O teste rápido: troque o termo feminino por um masculino equivalente — se sair <code>ao</code>, era crase; se sair <code>o</code>, não era.</p><p><strong>Colocação pronominal.</strong> A norma-padrão da prova é a regra de atração, não o hábito falado. Palavra atrativa antes do verbo (negação, advérbio sem vírgula, pronome relativo, indefinido ou interrogativo, conjunção subordinativa, <em>que</em>) exige próclise: por isso \"nunca <code>se</code> afastara\" é a única correta em transp15-q8, e \"não aplica-se\", \"sempre deve-se\", \"para que adote-se\", \"que ... mobilizam-se\" são todas erradas em psjpn2018-q8. A exceção que a banca usou para montar o gabarito de psjpn2018-q8: <strong>advérbio ou adjunto seguido de vírgula perde o poder de atração</strong> — \"Entre os numerosos usuários da internet, constata-se...\" fica correto com ênclise. Some a isso duas proibições: não se inicia período com pronome oblíquo átono (\"Se atormentou...\") e não se usa ênclise com futuro do presente ou futuro do pretérito — nesses tempos, ou próclise ou mesóclise (<code>dir-lhe-ia</code>, nunca <code>diria-lhe</code>).</p><p><strong>Coesão e conectivos.</strong> Cinco questões de coesão e três de coordenação/subordinação, e o comando é quase sempre o mesmo: <em>qual conectivo/pronome mantém a relação?</em> A banca já pediu que se substituísse dois-pontos explicativos por <code>porque</code> (psjpn2018-q7), que se identificasse <code>como</code> com valor de causa (transp15-q2) e que se articulasse uma conclusão com <code>portanto</code> (transp23e6-q9). Nas de referência, o alvo é o antecedente: \"desse tipo de tecnologia\" retomando <em>inteligência artificial</em> (psjpn2018-q6) e o <code>que</code> relativo distinguido do <code>que</code> conjunção integrante (transp23e6-q6). E há a pegadinha de valor: <code>onde</code> só retoma lugar físico (prova6-q10) — para o resto, <em>em que</em>, <em>no qual</em>.</p><p><strong>Interpretação.</strong> As 16 questões de compreensão pedem sempre uma leitura sustentada por trecho: motivo real de um fato (prova6-q1), oposição que <strong>não</strong> aparece (prova6-q2), inferência a partir de uma imagem (\"desejo que não quer acabar de morrer\" = ambição política ainda viva, transp15-q4), palavras que marcam um sentimento (transp23e6-q2), natureza do fragmento de abertura (reminiscência, transp23e6-q1). O distrator típico é verdadeiro no mundo, mas não está no texto — ou está no texto e não responde ao que se perguntou.</p>",
+  "cheatsheet": [
+    {
+      "heading": "Crase — quando põe, quando não põe",
+      "items": [
+        "TEM: preposição 'a' + artigo feminino 'a(s)' — 'atentas à fatura' (psjpn2018-q5); a + aquele/aquela/aquilo = àquele/àquela/àquilo (transp15-q9); a + a qual = à qual (só se o termo anterior pedir preposição); locuções femininas de tempo, modo e lugar (à noite, às pressas, à esquerda) e locuções prepositivas/conjuntivas (à custa de, à medida que); 'à moda de' / 'à maneira de', inclusive elíptico ('bife à milanesa').",
+        "NÃO TEM: antes de palavra masculina, de verbo ('a partir de', 'a fim de'), de pronome pessoal, da maioria dos pronomes de tratamento (a Vossa Senhoria), de palavra no plural quando o 'a' está no singular ('assistimos a apresentações'; com artigo seria 'às apresentações'), entre palavras repetidas ('cara a cara', 'gota a gota'), e quando o verbo não rege preposição ('a política, a qual não quero').",
+        "TESTE DO MASCULINO: troque o termo feminino por um masculino. Deu 'ao' → crase. Deu 'o' → sem crase. Deu 'a' → sem crase.",
+        "À MEDIDA QUE marca proporção; NA MEDIDA EM QUE marca causa. Não são intercambiáveis.",
+        "Nomes de lugar: 'vou a Roma / volto de Roma' (sem artigo, sem crase); 'vou à Bahia / volto da Bahia' (com artigo, com crase). O teste é o 'de/da' na volta.",
+        "FACULTATIVA: antes de nome próprio feminino de pessoa (\"escrevi a/à Maria\"), antes de pronome possessivo feminino (\"entreguei a/à minha irmã\") e depois de \"até\" (\"até a/à porta\").",
+        "'A DISTÂNCIA' sem determinante não leva crase (\"viu o navio a distância\"); com determinante, leva (\"à distância de 200 metros\"). Cuidado também com \"à vista\", \"à mão\", \"à venda\" — locuções femininas sempre com crase."
+      ]
+    },
+    {
+      "heading": "Colocação dos pronomes átonos",
+      "items": [
+        "PRÓCLISE OBRIGATÓRIA com palavra atrativa antes do verbo: negação (não, nunca, nem, jamais), advérbio sem vírgula (sempre, ainda, talvez), pronome relativo (que, quem, onde, cujo), pronome indefinido (alguém, tudo, poucos, ninguém), pronome interrogativo, conjunção subordinativa (que, se, quando, porque, para que) e orações exclamativas/optativas.",
+        "EXCEÇÃO QUE A BANCA USOU: advérbio ou adjunto adverbial seguido de VÍRGULA deixa de atrair — 'Entre os numerosos usuários da internet, constata-se...' (ênclise correta, psjpn2018-q8).",
+        "ÊNCLISE: com verbo iniciando a oração ('Constata-se...'), e com imperativo afirmativo. Nunca se inicia período com pronome oblíquo átono na norma-padrão ('Se atormentou' é erro, transp15-q8).",
+        "MESÓCLISE: com futuro do presente e futuro do pretérito, quando não houver palavra atrativa — 'dir-lhe-ei', 'dar-lhe-iam'. Com esses dois tempos a ênclise é vedada ('Diria-lhe' é erro); com palavra atrativa, próclise ('Poucos lhe dariam').",
+        "Com particípio não se usa ênclise: 'tendo-me dito', não 'tendo dito-me'. Com infinitivo há duas posições possíveis (próclise ou ênclise: \"não o quero ver\" / \"não quero vê-lo\"); mesóclise só com futuro do presente e futuro do pretérito. Com gerúndio a ênclise é a regra (\"fazendo-se\"), mas depois da preposição \"em\" vai próclise (\"em se tratando de\")."
+      ]
+    },
+    {
+      "heading": "Concordância verbal — o 'se' e os impessoais",
+      "items": [
+        "Verbo transitivo direto + SE = voz passiva sintética: o complemento é SUJEITO e o verbo concorda com ele. 'Enviam-se vídeos', 'reduzam-se os comportamentos', 'evidenciaram-se atitudes', 'reeleger-se-ão os políticos' (todos corrigem distratores de psjpn2018-q9 e transp15-q10).",
+        "Verbo intransitivo, de ligação ou transitivo indireto + SE = índice de indeterminação do sujeito: verbo SEMPRE no singular. 'Necessita-se de políticos', 'trata-se de casos', 'assiste-se a cenas' (transp15-q10).",
+        "HAVER e FAZER impessoais ficam no singular: 'havia trinta deputados', 'faz quinze anos'. A impessoalidade passa ao auxiliar: 'deve haver', 'pode fazer'. EXISTIR não é impessoal e concorda: 'existiam trinta deputados'.",
+        "MAIS DE UM + verbo no singular ('Mais de um mandato foi exercido'), salvo reciprocidade ou repetição do termo. PORCENTAGEM/FRAÇÃO: concorda com o número ou com o especificador ('20% dos alunos faltaram').",
+        "Sujeito composto posposto ao verbo admite concordância com o mais próximo ou no plural. Núcleos ligados por 'ou' e 'nem': plural é a leitura usual; com 'ou' de exclusão, singular.",
+        "Concordância nominal: 'anexo', 'incluso', 'obrigado', 'mesmo' e 'próprio' concordam (documentos anexos, ela mesma); 'menos' e 'pseudo' são invariáveis; 'alerta' é invariável como advérbio (\"ficaram alerta\"), mas concorda quando é adjetivo (\"sentinelas alertas\"); 'é proibido entrada' (sem determinante, invariável) x 'é proibida a entrada' (com artigo, concorda); 'meio' é invariável quando advérbio ('ela está meio cansada')."
+      ]
+    },
+    {
+      "heading": "Regência — o que a banca cobrou e o que ela costuma cobrar",
+      "items": [
+        "COBRADO NO BANCO: referir-se A algo/alguém e necessitar DE algo — daí a preposição obrigatória antes do relativo: 'aparelhos DE QUE elas não necessitam' (psjpn2018-q10). Referir/confessar são bitransitivos: 'referir algo A alguém', 'confessar algo A alguém' (transp15-q7). 'Vingar' no sentido de 'dar certo' é intransitivo (prova6-q7).",
+        "ASSISTIR: 'a' = ver/presenciar (assistir ao jogo); sem preposição = ajudar (o médico assistiu o paciente).",
+        "ASPIRAR: 'a' = desejar (aspirar ao cargo); sem preposição = sugar/inalar. Com 'aspirar a' e 'assistir a', a tradição pede 'a ele/a ela', não 'lhe'.",
+        "VISAR: 'a' = ter em vista/objetivar; sem preposição = mirar ou dar visto. IMPLICAR = acarretar é transitivo direto na norma-padrão ('implica mudanças'). OBEDECER/DESOBEDECER pedem 'a'. PREFERIR: 'preferir X A Y', sem 'mais' nem 'do que'.",
+        "ESQUECER/LEMBRAR: sem pronome, objeto direto ('esqueci o nome'); pronominais, exigem 'de' ('esqueci-me do nome'). CHEGAR e IR pedem 'a', não 'em' ('cheguei a São Paulo').",
+        "Regência nominal frequente: acesso A, atento A, respeito A, preferência POR, aversão A/POR, capaz DE, apto A, obediência A.",
+        "NAMORAR é transitivo direto: \"namorar alguém\" (não \"namorar com\"). CUSTAR, no sentido de ser difícil, tem como sujeito a coisa e complemento indireto a pessoa: \"custou-me acreditar\" (não \"custei a acreditar\"). INFORMAR é bitransitivo: \"informar algo a alguém\" ou \"informar alguém de/sobre algo\"."
+      ]
+    },
+    {
+      "heading": "Pontuação — o que a vírgula pode e o que ela nunca pode",
+      "items": [
+        "NUNCA separa sujeito de predicado (\"O mercado brasileiro de automóveis, ainda é...\" é erro), nem verbo de seu complemento, nem o verbo da oração substantiva que o completa — seja ela introduzida por \"que\" (\"mostram que, muitas economias...\") ou pela conjunção integrante \"se\" (\"ver, se a importação vale a pena\"). Atenção: antes de oração adverbial condicional posposta a vírgula é aceitável (\"Sairei, se não chover\") — o que se proíbe é a vírgula entre o verbo e sua oração substantiva. Esses erros são o material dos quatro distratores de psjpn2018-q4, e dois deles aparecem duas vezes cada.",
+        "SEMPRE (ou quase): separa adjunto adverbial ou oração adverbial anteposta — 'Depois de chegarem às telas..., as notícias estarão disponíveis' (gabarito de psjpn2018-q4). Adjunto curto deslocado admite vírgula facultativa.",
+        "ISOLA entre duas vírgulas: aposto explicativo ('a minha avó, Pedrina Perucchi, era italiana' — transp23e6-q7), vocativo, oração adjetiva EXPLICATIVA, conjunção adversativa ou conclusiva deslocada (porém, todavia, portanto) e termo intercalado.",
+        "ANTES DE 'E': normalmente não se usa; usa-se quando os sujeitos são diferentes, quando 'e' tem valor adversativo ou em polissíndeto.",
+        "PONTO E VÍRGULA separa orações longas ou já pontuadas internamente e itens de enumeração. DOIS-PONTOS anunciam enumeração, citação ou EXPLICAÇÃO — e nesse último caso equivalem a 'porque' (psjpn2018-q7).",
+        "RETICÊNCIAS marcam interrupção do pensamento, hesitação ou suspensão intencional; em transp15-q6 o valor cobrado foi interrupção de uma ideia. Confirme pelo que vem depois delas."
+      ]
+    },
+    {
+      "heading": "Conectivos e a relação lógico-semântica de cada um",
+      "items": [
+        "CAUSA: porque, pois (antes do verbo), já que, uma vez que, como (no início do período) — 'Como adorasse a mulher' = 'porque adorava' (transp15-q2). Também 'devido a', 'em virtude de'.",
+        "CONSEQUÊNCIA/CONCLUSÃO: portanto, logo, então, assim, por isso, de modo que — 'nossa língua é sepultura mesmo, PORTANTO tudo o que a gente fizer...' (transp23e6-q9).",
+        "OPOSIÇÃO/CONCESSÃO: mas, porém, todavia, contudo, entretanto, no entanto (adversativas coordenadas); embora, ainda que, mesmo que, apesar de (concessivas subordinadas). 'Mas' fica no início da oração; 'porém' e 'todavia' podem vir deslocados entre vírgulas. Some a essa lista \"ao passo que\" e \"enquanto\" com valor contrastivo. \"enquanto\" é temporal por padrão e só é contrastivo quando opõe dois fatos simultâneos.",
+        "CONDIÇÃO: se, caso, desde que, contanto que, salvo se, a menos que. FINALIDADE: para que, a fim de que, de modo que (com subjuntivo). PROPORÇÃO: à medida que, quanto mais, quanto menos, ao passo que — atenção: \"ao passo que\" hoje é usado sobretudo como contrastivo (\"o Norte cresceu, ao passo que o Sul recuou\"), não como proporcional; se a questão pedir proporção, prefira \"à medida que\". \"de modo que\" + subjuntivo = finalidade (\"fale de modo que todos entendam\"); + indicativo = consequência.",
+        "TEMPO: quando, enquanto, assim que, logo que, depois que, antes que. COMPARAÇÃO: como, do que, tal qual, assim como. ADIÇÃO: e, não só... mas também, além disso.",
+        "ALTERNÂNCIA: ou... ou, ora... ora, quer... quer. EXPLICAÇÃO coordenada: pois, porque, que (justifica a enunciação, tipicamente depois de imperativo) — distinta da causal subordinada, que indica causa real do fato."
+      ]
+    },
+    {
+      "heading": "Sintaxe do período — coordenação, subordinação e a vírgula da adjetiva",
+      "items": [
+        "SUBSTANTIVAS (função de substantivo): subjetiva, objetiva direta, objetiva indireta, completiva nominal, predicativa e apositiva. Introduzidas por conjunção integrante 'que' ou 'se' — o 'que' aqui NÃO tem antecedente e não exerce função na oração seguinte.",
+        "ADJETIVAS (função de adjetivo): introduzidas por pronome relativo (que, qual, quem, cujo, onde, quanto), que SEMPRE retoma um antecedente e exerce função sintática dentro da própria oração — foi essa a distinção cobrada em transp23e6-q6 ('a borboleta QUE entrou na varanda').",
+        "RESTRITIVA x EXPLICATIVA: sem vírgula, a adjetiva restringe o antecedente a um subconjunto ('os alunos que estudaram passaram' — só alguns); entre vírgulas, ela apenas comenta e vale para todo o antecedente ('os alunos, que estudaram, passaram' — todos). A vírgula, aqui, muda o sentido, não a estética.",
+        "ADVERBIAIS: causal, consecutiva, condicional, concessiva, comparativa, conformativa, final, proporcional, temporal. O conectivo é a etiqueta — mas 'como' e 'que' mudam de valor conforme o contexto, e é aí que a banca ataca.",
+        "COORDENADAS: aditiva, adversativa, alternativa, conclusiva, explicativa (e as assindéticas, sem conectivo). Coordenadas são sintaticamente independentes; subordinadas exercem função dentro da outra oração.",
+        "'ONDE' só retoma lugar físico (prova6-q10). Para lugar não físico ou referência abstrata, use 'em que', 'no qual'. 'Aonde' só com verbos de movimento. Depois de 'cujo' nunca vem artigo."
+      ]
+    },
+    {
+      "heading": "Verbos — tempos, modos e vozes",
+      "items": [
+        "VOZES: ativa; passiva analítica (ser + particípio: \"fora usada\"; \"estar/ficar + particípio\" indica estado resultante, não a mesma voz); passiva sintética/pronominal (verbo + se: 'se usara'); reflexiva. A conversão entre analítica e sintética deve PRESERVAR o tempo — 'fora usada' (mais-que-perfeito) = 'se usara', não 'se usou' nem 'se usava' (prova6-q8). A passiva pede verbo transitivo direto (ou bitransitivo); a exceção cobrada são obedecer/desobedecer/perdoar/pagar, transitivos indiretos que ainda assim admitem passiva analítica (\"A lei foi obedecida\").",
+        "CORRELAÇÃO CONDICIONAL: hipótese irreal do presente — 'se tivesse (imperfeito do subjuntivo) ... teria (futuro do pretérito)'; hipótese irreal do passado — 'se tivesse escrito (mais-que-perfeito composto do subjuntivo) ... teria sido lida (futuro do pretérito composto)', gabarito de transp23e6-q8. Hipótese possível no futuro: 'se tiver escrito (futuro do subjuntivo) ... será lida'.",
+        "PARTICÍPIOS ABUNDANTES (duas formas): ganhar (ganhado/ganho), pagar (pagado/pago), gastar (gastado/gasto), aceitar (aceitado/aceito), entregar (entregado/entregue), eleger (elegido/eleito), imprimir (imprimido/impresso), acender (acendido/aceso), prender (prendido/preso). Uso tradicional: forma regular com ter/haver, forma curta com ser/estar.",
+        "VER tem só o particípio irregular 'visto' (prova6-q6). Outros irregulares únicos: fazer/feito, dizer/dito, pôr/posto, abrir/aberto, escrever/escrito, vir/vindo.",
+        "MODOS: indicativo = fato; subjuntivo = hipótese, dúvida, desejo (que eu fale, se eu falasse, quando eu falar); imperativo = ordem. Presente do indicativo com valor de futuro é comum em texto jornalístico e em previsão.",
+        "Pretérito imperfeito = ação durativa/habitual no passado; perfeito = ação concluída; mais-que-perfeito = anterior a outro passado ('fora usada'). Futuro do pretérito também marca polidez e hipótese."
+      ]
+    },
+    {
+      "heading": "Semântica, figuras e classes de palavras",
+      "items": [
+        "SINONÍMIA é sempre contextual: 'severidade' = 'firmeza' (tom sério e firme), não 'rispidez' nem 'desgosto' (transp23e6-q10). Teste substituindo no próprio período e verificando se o resto da frase continua coerente.",
+        "DENOTATIVO x CONOTATIVO: 'carcoma' (inseto que rói madeira) usado como desgaste da existência é conotativo/metafórico; 'de fresta que era, chegou a porta escancarada' é a mesma operação aplicada à intimidade (transp15-q3).",
+        "POLISSEMIA/DUPLO SENTIDO em título: 'repique' vale ao mesmo tempo como instrumento do samba e como repetição de palavras (prova6-q3). Título nunca é aleatório — pergunte o que ele faz, não o que ele diz.",
+        "FIGURAS que já apareceram ou rondaram: metáfora (transp15-q3), hipérbole nos adjetivos intensificadores 'gigantescas', 'astronômicas', 'desenfreada' (psjpn2018-q3), antítese no jogo de oposições passado/presente e tradição/modernidade (prova6-q2), eufemismo, ironia, personificação, metonímia (parte pelo todo, autor pela obra).",
+        "CLASSES: adjetivo qualifica e pode intensificar a avaliação do autor (psjpn2018-q3); advérbio modifica verbo/adjetivo/advérbio; a distinção adjunto adnominal (do substantivo, indica posse/qualidade) x complemento nominal (exigido por substantivo abstrato, nome derivado de verbo) é campeã de pegadinha.",
+        "DERIVAÇÃO: o paradigma de prova6-q5 é verbo → substantivo abstrato em -ência/-ância (incidir → incidência, abranger → abrangência, tender → tendência). Sufixos -mento, -ção, -ança formam outros abstratos de ação/estado.",
+        "ORTOGRAFIA cobrada: 'porque' (conjunção causal, junto e sem acento), 'por que' (preposição + pronome, em pergunta ou com antecedente), 'porquê' (substantivo, com artigo) e 'por quê' (fim de frase) — prova6-q4."
+      ]
+    }
+  ],
+  "mentalModels": [
+    {
+      "title": "A vírgula não separa quem faz de o que faz",
+      "body": "Sujeito e verbo são um bloco soldado; verbo e complemento também. Toda vez que uma alternativa põe vírgula entre eles — 'O mercado brasileiro de automóveis, ainda é grande', 'mostram que, muitas economias apresentam crescimento' — ela está errada, e você elimina sem pensar em mais nada. Foi assim que psjpn2018-q4 se resolveu: sobrou a única frase em que a vírgula fecha um adjunto adverbial anteposto."
+    },
+    {
+      "title": "Crase é 'ao' disfarçado",
+      "body": "Nunca decore lista: troque a palavra feminina por um masculino equivalente e ouça. 'Atentas à fatura' → 'atentos ao extrato': saiu 'ao', tem crase. 'Assistimos a apresentações' → 'assistimos a shows': saiu 'a', não tem. 'A partir daquela conversa' → não existe masculino, é verbo: nunca acentua. Esse único teste mata as quatro alternativas erradas de transp15-q9."
+    },
+    {
+      "title": "O 'se' pergunta: alguém sofreu a ação?",
+      "body": "Se você consegue responder 'quem foi desenvolvido? a ideia' ou 'quem foi enviado? os vídeos', então esse termo é sujeito e o verbo tem de concordar com ele — daí 'enviem-se vídeos'. Se a única resposta possível vem com preposição ('necessita-se DE políticos'), não há sujeito para concordar e o verbo trava no singular. Essa pergunta resolve as quatro questões de concordância do banco."
+    },
+    {
+      "title": "Pronome átono foge de palavra magnética",
+      "body": "Negação, advérbio, relativo, indefinido e conjunção subordinativa são ímãs: o pronome salta para antes do verbo. 'Nunca se afastara', 'não se aplica', 'para que se adote', 'que se mobilizam'. E há o desmagnetizador: uma vírgula depois do advérbio corta a atração, e a ênclise volta a ser correta ('Entre os usuários, constata-se')."
+    },
+    {
+      "title": "Adjetiva com vírgula é comentário; sem vírgula é filtro",
+      "body": "'Os candidatos que estudaram passaram' seleciona um subgrupo — os outros não passaram. 'Os candidatos, que estudaram, passaram' informa que todos estudaram e todos passaram. Quando a questão perguntar se a vírgula pode entrar ou sair, a resposta não é de estilo: é se o antecedente é o todo ou uma parte."
+    }
+  ],
+  "patterns": [
+    {
+      "title": "'Ache outro exemplo do mesmo fenômeno no texto' — o formato de espelho",
+      "howToSpot": "O enunciado isola um item do texto (uma metáfora, uma regência, uma vírgula, um sufixo) e as cinco alternativas trazem outros fragmentos, quase sempre também do texto. Não se pergunta a regra: pergunta-se a semelhança. O caminho é sempre o mesmo — CLASSIFIQUE o item citado no enunciado antes de ler as alternativas (é aposto? é verbo bitransitivo? é conotação?) e depois classifique cada alternativa. Os distratores são fenômenos vizinhos: em transp23e6-q7 o aposto explicativo disputa com vocativo, adjetivo deslocado, oração concessiva intercalada e oração gerundiva intercalada — todos entre vírgulas, todos parecidos, um só igual. Em petrobras-2012-psicologo-junior-q6 o comando é literalmente 'a seguinte frase apresenta idêntico fenômeno': o trecho do texto traz voz passiva pronominal ('o equívoco... se criasse') e a resposta é a única frase nova em que o <code>se</code> também é apassivador ('Criou-se um método'), contra frases em que ele é reflexivo ou índice de indeterminação. O procedimento é o mesmo de sempre: nomeie o fenômeno do trecho <em>antes</em> de ler as alternativas.",
+      "evidence": [
+        "prova6-q5",
+        "prova6-q7",
+        "transp15-q3",
+        "transp15-q7",
+        "transp23e6-q7",
+        "petrobras-2012-psicologo-junior-q6"
+      ]
+    },
+    {
+      "title": "Cinco frases novas, um erro plantado em cada errada",
+      "howToSpot": "Comando do tipo 'A vírgula/o acento/o pronome/o verbo foi empregado de acordo com a norma-padrão em:', com cinco períodos que não vêm do texto. Onze questões do banco são assim: sete nas duas provas de 2018 e quatro na de 2012 — ou seja, o formato não é exclusivo de 2018, e responde por quase um quinto da prova de Português. Aqui não se lê procurando a frase bonita: percorre-se um checklist fixo do assunto anunciado — em vírgula, procure vírgula entre sujeito e verbo, entre verbo e complemento e antes de oração substantiva; em crase, aplique o teste do masculino em cada uma; em pronome, procure a palavra atrativa; em concordância, ache o sujeito de cada 'se'. Quatro eliminações e sobra o gabarito. As quatro de 2012 mostram a versão 'norma-padrão pura' do molde, com um enunciado que sequer volta ao texto: petrobras-2012-psicologo-junior-q5 pede a frase com regência correta ('Esquecemo-nos daquelas regras' — <em>esquecer-se de</em> pede preposição, <em>esquecer</em> sem pronome não pede); petrobras-2012-psicologo-junior-q7 e petrobras-2012-psicologo-junior-q10 pedem a frase correta em concordância ('Ocorreram poucas dúvidas', 'Pensou-se muito nas sugestões'); e petrobras-2012-psicologo-junior-q8 inverte o comando — pede o verbo que NÃO está conjugado conforme a norma, e a resposta é 'Assim que dispormos', pois o futuro do subjuntivo de <em>dispor</em> é <em>dispusermos</em>. Nas quatro, o método é o mesmo: percorra as cinco frases marcando o erro que você identifica em cada uma; a que sobrar sem marca é o gabarito.",
+      "evidence": [
+        "psjpn2018-q4",
+        "psjpn2018-q5",
+        "psjpn2018-q8",
+        "psjpn2018-q9",
+        "transp15-q8",
+        "transp15-q9",
+        "transp15-q10",
+        "petrobras-2012-psicologo-junior-q5",
+        "petrobras-2012-psicologo-junior-q7",
+        "petrobras-2012-psicologo-junior-q8",
+        "petrobras-2012-psicologo-junior-q10"
+      ]
+    },
+    {
+      "title": "Concordância só entra pela porta do 'se' e dos verbos impessoais",
+      "howToSpot": "Nas quatro questões de concordância do banco, as vinte alternativas somadas tratam de uma coisa só: voz passiva sintética (evidenciou-se atitudes, se envie vídeos, se reduza os comportamentos, comprovou-se os danos, reeleger-se-á os políticos), índice de indeterminação (necessita-se de), 'haver' existencial (haviam mais de trinta), 'fazer' de tempo (fazem quinze anos) e 'mais de um' (mais de um mandato foram exercidos). Se a questão de concordância vier em 2026, aposte que é isso outra vez — e a decisão é sempre 'esse termo é sujeito ou complemento preposicionado?'. As duas questões de 2012 confirmam o diagnóstico sem exceção: em petrobras-2012-psicologo-junior-q7 a correta é 'Ocorreram poucas dúvidas' (<em>ocorrer</em> não é impessoal e concorda com o sujeito) e em petrobras-2012-psicologo-junior-q10 é 'Pensou-se muito nas sugestões' (verbo transitivo indireto + <code>se</code> = índice de indeterminação, sempre singular).",
+      "evidence": [
+        "psjpn2018-q9",
+        "transp15-q10",
+        "petrobras-2012-psicologo-junior-q7",
+        "petrobras-2012-psicologo-junior-q10"
+      ]
+    },
+    {
+      "title": "Troque o conectivo (ou o sinal de pontuação) sem mudar a relação",
+      "howToSpot": "A banca dá um trecho articulado por um conectivo, por dois-pontos ou por justaposição e pede o substituto que preserva a relação — ou pede o nome da relação. Já saiu dois-pontos explicativos = 'porque' (psjpn2018-q7), 'como' inicial = causa (transp15-q2) e justaposição conclusiva = 'portanto' (transp23e6-q9). As alternativas erradas oferecem sempre relações de outra família: contraste (mas, embora), tempo (quando, enquanto), finalidade (para). Leia o período inteiro com o candidato encaixado e teste a lógica, não o som. Em petrobras-2008-psicologo-junior-q10 o comando é substituir dois conectivos ao mesmo tempo, sem alterar o sentido: o <em>mas</em> adversativo vira <strong>entretanto</strong> e o <em>quando</em> temporal vira <strong>depois que</strong> — como a alternativa tem de acertar os dois, basta reconhecer o valor de um deles para eliminar metade das opções.",
+      "evidence": [
+        "psjpn2018-q7",
+        "transp15-q2",
+        "transp23e6-q9",
+        "petrobras-2008-psicologo-junior-q10"
+      ]
+    },
+    {
+      "title": "Ache o antecedente exato da expressão referencial",
+      "howToSpot": "Trecho com pronome, demonstrativo ou expressão resumitiva em destaque, e alternativas propondo antecedentes plausíveis — em psjpn2018-q6 cada alternativa vem com a candidata entre colchetes. Os distratores usam termos que estão perto no texto mas não cabem: em psjpn2018-q6, 'desse tipo de tecnologia' retoma 'inteligência artificial', não 'experiências de realidade virtual'. Regra de trabalho: releia a frase substituindo fisicamente a expressão pelo candidato; se a frase virar redundante ou incoerente, o candidato caiu. Vale também para distinguir o 'que' relativo (tem antecedente e função sintática) do 'que' conjunção integrante (transp23e6-q6).",
+      "evidence": [
+        "psjpn2018-q6",
+        "transp23e6-q6"
+      ]
+    },
+    {
+      "title": "Interpretação: a alternativa verdadeira que o texto não disse",
+      "howToSpot": "Nas 16 questões de compreensão, o distrator dominante é uma afirmação razoável no mundo real, ou até presente no texto, mas que não responde ao comando. Em prova6-q1 pergunta-se o motivo REAL das palavras curtas (comunicação fácil) e as erradas oferecem efeitos estéticos e de identidade linguística; em transp23e6-q4 pergunta-se o motivo do 'quase susto' e as erradas oferecem a morte, o pessimismo do poeta e a geografia do Lácio — todos tópicos que o texto menciona. Sublinhe o comando, procure o trecho que o sustenta e só então escolha; se não achar o trecho, a alternativa não é a resposta.",
+      "evidence": [
+        "prova6-q1",
+        "prova6-q2",
+        "psjpn2018-q1",
+        "transp15-q4",
+        "transp23e6-q2",
+        "transp23e6-q4",
+        "petrobras-2008-psicologo-junior-q6",
+        "petrobras-2012-psicologo-junior-q1",
+        "petrobras-2012-psicologo-junior-q2"
+      ]
+    },
+    {
+      "title": "Meta-formatos de 2011: I/II/III e 'asserção-razão'",
+      "howToSpot": "As três questões desse tipo estão todas na prova de 2011. No formato I/II/III, o padrão é duas afirmações corretas e uma armadilha de detalhe: em prova6-q9, I e II são verdadeiras (haver impessoal = existir; transmite invariabilidade ao auxiliar) e III inverte um fato local — no trecho, 'houvesse' é verbo principal, não auxiliar. Avalie cada item isoladamente, marque V/F na margem e só depois procure a combinação. No formato 'afirmação PORQUE afirmação' (prova6-q10), julgue as duas separadamente e, só se ambas forem verdadeiras, pergunte se a segunda é de fato a justificativa da primeira.",
+      "evidence": [
+        "prova6-q4",
+        "prova6-q9",
+        "prova6-q10"
+      ]
+    },
+    {
+      "title": "Crase e regência entram sempre pelo mesmo par de perguntas",
+      "howToSpot": "As três questões de crase e as cinco de regência se resolvem com duas perguntas encadeadas: (1) o termo anterior exige preposição? (2) o termo seguinte admite artigo? Em transp15-q9, 'em referência A' exige a preposição e 'aqueles' a absorve (àqueles); em psjpn2018-q10, 'necessitar' exige 'de' e por isso o relativo tem de vir preposicionado ('de que'). Os distratores desligam uma das duas pontas: preposição inexistente ('à qual não quero'), artigo impossível (numeral, plural com 'a' singular, verbo). A prova de 2008 traz a variante 'troque o verbo e mantenha a regência': em petrobras-2008-psicologo-junior-q9, substituindo <em>trocar</em> ('troca segurança por desafio') por <em>preferir</em>, a norma-padrão exige 'prefere segurança <strong>a</strong> desafio' — sem 'do que', sem 'mais', sem 'em vez de'. Guarde os verbos de regência que a banca gosta: preferir (a), esquecer-se (de), obedecer (a), assistir (a, no sentido de ver), visar (a, no sentido de ter por objetivo), implicar (sem preposição).",
+      "evidence": [
+        "psjpn2018-q5",
+        "psjpn2018-q10",
+        "transp15-q7",
+        "transp15-q9",
+        "transp23e6-q5",
+        "petrobras-2008-psicologo-junior-q9"
+      ]
+    },
+    {
+      "title": "Comando negativo: 'NÃO', 'IMPROCEDENTE', 'EXCETO' — sete questões, e a resposta é a única falsa",
+      "howToSpot": "Sete das 60 questões invertem o comando, e cinco delas entraram no banco neste ciclo (prova6-q2, prova6-q6, petrobras-2008-psicologo-junior-q1, petrobras-2008-psicologo-junior-q3, petrobras-2008-psicologo-junior-q7, petrobras-2008-psicologo-junior-q8, petrobras-2012-psicologo-junior-q8) — a prova de 2008 tem quatro só ela, o que faz deste o formato-armadilha mais frequente do Português. As formulações variam de propósito para escapar do olho treinado: 'característica que NÃO é justificativa' (petrobras-2008-psicologo-junior-q1), 'substantivo cujo sentido NÃO caracteriza' (petrobras-2008-psicologo-junior-q3), 'assinale a afirmativa IMPROCEDENTE' (petrobras-2008-psicologo-junior-q7), 'a sequência que NÃO pode ser considerada locução verbal' (petrobras-2008-psicologo-junior-q8), 'o verbo que NÃO está conjugado de acordo com a norma' (petrobras-2012-psicologo-junior-q8). O efeito é sempre o mesmo: quatro alternativas verdadeiras e uma falsa, e quem lê no automático marca a primeira alternativa que reconhece como correta — que é exatamente o erro. Duas consequências práticas. Primeira: circule a palavra de negação no enunciado e escreva 'F' no alto da margem antes de ler as alternativas, para lembrar que você procura a falsa. Segunda: nas negativas de compreensão, não basta que a alternativa seja falsa no mundo — ela tem de contrariar o <em>texto</em>: em petrobras-2008-psicologo-junior-q7 a resposta é 'a vocação é um dom que se adquire com o tempo' porque o fragmento trata vocação como algo que se descobre, não que se adquire. Nas negativas de gramática, o caminho é nomear o fenômeno em cada alternativa (aqui, locução verbal = auxiliar + principal) e achar a que não se encaixa — em petrobras-2008-psicologo-junior-q8, 'implica renunciar' não é locução, porque <em>renunciar</em> é complemento de <em>implica</em>, não parte de um tempo composto.",
+      "evidence": [
+        "prova6-q2",
+        "prova6-q6",
+        "petrobras-2008-psicologo-junior-q1",
+        "petrobras-2008-psicologo-junior-q3",
+        "petrobras-2008-psicologo-junior-q7",
+        "petrobras-2008-psicologo-junior-q8",
+        "petrobras-2012-psicologo-junior-q8"
+      ]
+    }
+  ],
+  "tactics": [
+    {
+      "title": "Leia o texto inteiro primeiro, marcando conectivos e referências",
+      "body": "Como até as questões de gramática saem de fragmentos com número de linha, a leitura prévia se paga duas vezes. Na primeira passada, circule conectivos (porque, mas, portanto, embora), pronomes e demonstrativos, e escreva na margem uma palavra por parágrafo. Isso resolve de graça as questões de coesão e as de ordenação de ideias, como psjpn2018-q2, que só pergunta o que vem imediatamente depois de um ponto do texto."
+    },
+    {
+      "title": "Nas questões de norma-padrão, procure o erro — não a resposta",
+      "body": "Nesse formato há quatro frases defeituosas e uma correta. Ler procurando a correta é lento e sugestionável; ler procurando defeito é mecânico. Percorra as cinco com o checklist do assunto anunciado no comando e risque cada alternativa no momento em que achar o defeito. Se sobrarem duas, compare só o ponto exato em disputa."
+    },
+    {
+      "title": "Classifique antes de comparar",
+      "body": "Nos enunciados de espelho ('a mesma função', 'a mesma regência', 'outro exemplo de'), a nota vem de nomear o fenômeno do enunciado antes de olhar as alternativas: 'aposto explicativo', 'verbo bitransitivo com objeto direto e indireto em a', 'metáfora'. Escreva esse rótulo na margem. Sem rótulo, você compara impressões; com rótulo, você compara categorias."
+    },
+    {
+      "title": "Teste substituindo de verdade, dentro do período",
+      "body": "Em sinonímia, conectivo e referência, não julgue a alternativa isolada: reescreva o trecho com ela dentro. 'Severidade' → 'rispidez' faz o pai virar grosseiro e briga com o resto do parágrafo; 'firmeza' não (transp23e6-q10). O mesmo em referência: substitua a expressão pelo antecedente proposto e veja se a frase sobrevive."
+    },
+    {
+      "title": "Trate NÃO, EXCETO e 'único' como parte da resposta",
+      "body": "O banco tem sete comandos negativos, quatro deles na prova de 2008 (prova6-q2 pede a oposição que NÃO aparece; prova6-q6 pede o verbo que tem SOMENTE forma irregular; petrobras-2008-psicologo-junior-q1, petrobras-2008-psicologo-junior-q3, petrobras-2008-psicologo-junior-q7, petrobras-2008-psicologo-junior-q8 e petrobras-2012-psicologo-junior-q8 pedem, respectivamente, a característica que NÃO justifica, o substantivo que NÃO caracteriza, a afirmativa IMPROCEDENTE, a sequência que NÃO é locução verbal e o verbo que NÃO respeita a norma). Nesses casos, marque V/F ao lado de cada alternativa segundo o critério positivo e só depois inverta. Responder no automático em questão negativa é o erro mais caro da prova, porque você acerta o conteúdo e perde o ponto."
+    },
+    {
+      "title": "Reserve tempo pelo peso real: interpretação é 9 de 40",
+      "body": "Compreensão, coesão e semântica somam 29 das 60 questões do banco e dependem de leitura, não de memorização — então garanta essas primeiro. Crase, colocação pronominal e concordância são poucas questões, mas totalmente previsíveis e treináveis em pouco tempo: são o melhor retorno por hora de estudo no bloco gramatical."
+    }
+  ],
+  "trapWords": [
+    {
+      "term": "porque",
+      "confusedWith": "por que / porquê / por quê",
+      "distinction": "'Porque' é conjunção (causa ou explicação): 'não saí porque chovia'. 'Por que' é preposição + pronome, em pergunta ou com antecedente ('a razão por que saí'). 'Porquê' é substantivo, vem com artigo ('o porquê da saída'). 'Por quê' é forma tônica no fim da frase ('Saiu por quê?'). Cobrado em prova6-q4."
+    },
+    {
+      "term": "onde",
+      "confusedWith": "aonde / em que / no qual",
+      "distinction": "'Onde' só retoma lugar físico (prova6-q10). 'Aonde' pede verbo de movimento ('aonde você vai'). Para referência abstrata ou não espacial ('a situação em que estamos'), use 'em que' ou 'no qual' — 'onde' aí é erro."
+    },
+    {
+      "term": "se apassivador",
+      "confusedWith": "índice de indeterminação do sujeito",
+      "distinction": "Com verbo transitivo direto, o 'se' é apassivador e o complemento vira sujeito: o verbo concorda ('enviam-se vídeos'). Com verbo intransitivo ou transitivo indireto, o 'se' indetermina e o verbo fica no singular ('necessita-se de políticos'). É a distinção que decide as quatro questões de concordância do banco."
+    },
+    {
+      "term": "haver (existencial)",
+      "confusedWith": "existir",
+      "distinction": "'Haver' no sentido de existir é impessoal e fica no singular ('havia trinta deputados'), transmitindo a invariabilidade ao auxiliar ('deve haver'). 'Existir' não é impessoal e concorda com o sujeito ('existiam trinta deputados'). 'Haviam trinta deputados' é o erro plantado em transp15-q10."
+    },
+    {
+      "term": "oração adjetiva restritiva",
+      "confusedWith": "oração adjetiva explicativa",
+      "distinction": "Sem vírgula, restringe o antecedente a uma parte dele ('os alunos que estudaram passaram'). Entre vírgulas, apenas comenta e vale para o antecedente todo ('os alunos, que estudaram, passaram'). A vírgula muda o sentido da informação, não o estilo."
+    },
+    {
+      "term": "coordenada explicativa",
+      "confusedWith": "subordinada causal",
+      "distinction": "A explicativa justifica o ato de dizer e costuma vir depois de imperativo ou de uma suposição ('Traga o guarda-chuva, pois vai chover'); a causal apresenta a causa real do fato enunciado ('Ele faltou porque estava doente'). Ambas podem usar 'porque'/'pois', e é aí que a banca cobra a leitura."
+    },
+    {
+      "term": "que (pronome relativo)",
+      "confusedWith": "que (conjunção integrante)",
+      "distinction": "Relativo tem antecedente e exerce função sintática na oração que introduz ('a borboleta QUE entrou' — sujeito de entrou). Integrante não retoma nada e apenas liga uma oração substantiva ao verbo anterior ('Não esquecer QUE minha avó era italiana'). Foi exatamente essa a decisão de transp23e6-q6."
+    },
+    {
+      "term": "adjunto adnominal",
+      "confusedWith": "complemento nominal",
+      "distinction": "Adjunto adnominal liga-se a substantivo concreto ou abstrato indicando posse, qualidade ou origem, e mantém sentido ativo ('o amor DA MÃE' = a mãe ama). Complemento nominal é exigido por nome abstrato e tem sentido passivo/alvo ('o amor DA MÃE' = alguém ama a mãe; 'medo DE ASSALTO'). Só o contexto decide."
+    },
+    {
+      "term": "aposto",
+      "confusedWith": "vocativo",
+      "distinction": "O aposto explica, identifica ou enumera um termo já dito, e é sempre um substantivo em relação de equivalência com ele ('minha avó, Pedrina Perucchi, era italiana'). O vocativo chama o interlocutor e não se relaciona sintaticamente com nada ('Mude de lugar, meu pai'). Os dois vêm entre vírgulas — foram alternativas concorrentes em transp23e6-q7."
+    },
+    {
+      "term": "a partir de",
+      "confusedWith": "à partir de",
+      "distinction": "'Partir' é verbo, e não existe crase antes de verbo: escreve-se sempre 'a partir de', sem acento. 'À partir daquela conversa' é o distrator A de transp15-q9. Mesma lógica vale para 'a fim de', 'a começar por'."
+    },
+    {
+      "term": "a (singular) + substantivo plural",
+      "confusedWith": "às",
+      "distinction": "'Assistimos a apresentações' não leva acento: o 'a' é só preposição diante de plural indeterminado. Se o substantivo estiver determinado, o artigo aparece no plural e a crase também: 'assistimos às apresentações da noite'. O erro do plural com 'à' singular apareceu em transp15-q9."
+    },
+    {
+      "term": "assistir a",
+      "confusedWith": "assistir (sem preposição)",
+      "distinction": "Com 'a', significa ver ou presenciar ('assistir ao jogo'). Sem preposição, significa prestar assistência ('o médico assistiu o paciente'). O mesmo tipo de par vale para 'aspirar' (a = desejar; sem preposição = inalar) e 'visar' (a = objetivar; sem preposição = mirar, dar visto)."
+    },
+    {
+      "term": "necessitar de",
+      "confusedWith": "necessitar (direto)",
+      "distinction": "Na norma-padrão cobrada em psjpn2018-q10, 'necessitar' rege 'de', e por isso o relativo tem de vir preposicionado: 'aparelhos DE QUE elas não necessitam'. A pegadinha é que a frase sem a preposição soa natural na fala — e é justamente ela a alternativa errada."
+    },
+    {
+      "term": "'fora usada' (passiva analítica)",
+      "confusedWith": "'se usou' (passiva sintética em outro tempo)",
+      "distinction": "A conversão entre as duas formas de passiva tem de manter o tempo verbal: 'fora usada' (mais-que-perfeito) equivale a 'se usara'. 'Se usou', 'se usava' e 'se usaria' mudam o tempo e, com ele, o sentido — foram os distratores de prova6-q8."
+    },
+    {
+      "term": "ganho / ganhado (particípio abundante)",
+      "confusedWith": "visto (particípio único)",
+      "distinction": "Verbos abundantes têm duas formas de particípio, uma regular e uma curta (ganhado/ganho, pagado/pago, aceitado/aceito, entregado/entregue). 'Ver' não é abundante: só 'visto' circula na língua-padrão — foi o gabarito de prova6-q6."
+    }
+  ],
+  "resources": [
+    {
+      "title": "VOLP — Vocabulário Ortográfico da Língua Portuguesa",
+      "publisher": "Academia Brasileira de Letras",
+      "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario",
+      "kind": "norma",
+      "free": true,
+      "why": "Autoridade oficial de grafia e hífen — é o que decide dúvida de ortografia oficial (P.2)."
+    },
+    {
+      "title": "Emprego da crase",
+      "publisher": "Michaelis On-line / Editora Melhoramentos",
+      "url": "https://michaelis.uol.com.br/moderno-portugues/nocoes-gramaticais/emprego-da-crase/",
+      "kind": "guia",
+      "free": true,
+      "why": "Regras e casos de crase com exemplos — P.11 (e ajuda no P.10, regência)."
+    },
+    {
+      "title": "Emprego dos sinais de pontuação",
+      "publisher": "Michaelis On-line / Editora Melhoramentos",
+      "url": "https://michaelis.uol.com.br/moderno-portugues/nocoes-gramaticais/emprego-dos-sinais-de-pontuacao/",
+      "kind": "guia",
+      "free": true,
+      "why": "Vírgula, ponto e vírgula, dois-pontos e travessão caso a caso — P.8, com reflexo no P.7."
+    },
+    {
+      "title": "Manual de Comunicação da Secom — Redação e Estilo",
+      "publisher": "Senado Federal",
+      "url": "https://www12.senado.leg.br/manualdecomunicacao",
+      "kind": "guia",
+      "free": true,
+      "why": "Padrão institucional de redação em português: coesão, concordância e regência aplicadas (P.3, P.9 e P.10)."
+    },
+    {
+      "title": "Ciberdúvidas da Língua Portuguesa",
+      "publisher": "ISCTE-IUL / Ciberdúvidas",
+      "url": "https://ciberduvidas.iscte-iul.pt/",
+      "kind": "artigo",
+      "free": true,
+      "why": "Consultório com respostas fundamentadas para dúvidas de classes de palavras, verbos e colocação pronominal (P.5, P.6 e P.12)."
+    },
+    {
+      "title": "Dicionário Priberam da Língua Portuguesa",
+      "publisher": "Priberam",
+      "url": "https://dicionario.priberam.org/",
+      "kind": "guia",
+      "free": true,
+      "why": "Significação das palavras e conjugação verbal completa por verbete — P.4 e P.5."
+    }
+  ]
+}

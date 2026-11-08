@@ -1,0 +1,2405 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "id": "fc-portugues-001",
+      "area": "portugues",
+      "front": "Quando o pronome \"se\" faz o verbo concordar com o termo seguinte?",
+      "back": "Quando o verbo é transitivo direto: aí o \"se\" é apassivador e o complemento é o sujeito. Por isso 'enviam-se vídeos' e 'evidenciaram-se atitudes' (plural), mas 'desenvolveu-se a ideia' (singular).",
+      "sourceQuestionId": "psjpn2018-q9"
+    },
+    {
+      "id": "fc-portugues-002",
+      "area": "portugues",
+      "front": "Por que 'Necessita-se de políticos mais compromissados' fica no singular?",
+      "back": "Porque 'necessitar de' é transitivo indireto: o \"se\" é índice de indeterminação do sujeito, não apassivador. Sem sujeito para concordar, o verbo trava na 3ª pessoa do singular.",
+      "sourceQuestionId": "transp15-q10"
+    },
+    {
+      "id": "fc-portugues-003",
+      "area": "portugues",
+      "front": "Como fica o verbo \"fazer\" indicando tempo decorrido, e por quê?",
+      "back": "Sempre no singular: \"Faz quinze anos que ele entrou na vida pública\". \"Fazer\" de tempo decorrido é impessoal, não tem sujeito — e o mesmo vale para \"Há quinze anos\". \"Fazem quinze anos\" é o erro plantado no distrator.",
+      "sourceQuestionId": "transp15-q10"
+    },
+    {
+      "id": "fc-portugues-004",
+      "area": "portugues",
+      "front": "Como fica o verbo \"haver\" com sentido de existir, e o que acontece com o auxiliar?",
+      "back": "No singular: \"Havia mais de trinta deputados\". \"Haver\" existencial é impessoal, e transmite a invariabilidade ao auxiliar de locução (\"deve haver\", \"pode haver\").",
+      "sourceQuestionId": "transp15-q10"
+    },
+    {
+      "id": "fc-portugues-005",
+      "area": "portugues",
+      "front": "Qual a diferença de concordância entre \"haver\" existencial e \"existir\"?",
+      "back": "\"Haver\" existencial é impessoal e trava no singular (\"havia trinta deputados\"); \"existir\" tem sujeito e concorda com ele (\"existiam trinta deputados\")."
+    },
+    {
+      "id": "fc-portugues-006",
+      "area": "portugues",
+      "front": "Qual é o teste rápido para decidir se cabe crase?",
+      "back": "Trocar o termo feminino por um masculino equivalente. Se sair 'ao', tem crase ('atentas à fatura' → 'atentos ao extrato'). Se sair 'o' ou 'a', não tem.",
+      "sourceQuestionId": "psjpn2018-q5"
+    },
+    {
+      "id": "fc-portugues-007",
+      "area": "portugues",
+      "front": "Por que 'à partir daquela conversa' está errado?",
+      "back": "Porque 'partir' é verbo, e não existe crase antes de verbo. Escreve-se sempre 'a partir de', sem acento — o mesmo valendo para 'a fim de'.",
+      "sourceQuestionId": "transp15-q9"
+    },
+    {
+      "id": "fc-portugues-008",
+      "area": "portugues",
+      "front": "Que condição o substantivo plural precisa satisfazer para haver crase antes dele?",
+      "back": "Precisa estar determinado, para que apareça o artigo no plural: \"assistimos às apresentações da noite\". Indeterminado, só a preposição: \"assistimos a apresentações inflamadas\", sem acento.",
+      "sourceQuestionId": "transp15-q9"
+    },
+    {
+      "id": "fc-portugues-009",
+      "area": "portugues",
+      "front": "Que fusão gera o acento em 'em referência àqueles pensamentos'?",
+      "back": "A preposição 'a', exigida por 'em referência a', mais o demonstrativo 'aqueles': a + aqueles = àqueles. Vale igual para àquela, àquilo e à qual.",
+      "sourceQuestionId": "transp15-q9"
+    },
+    {
+      "id": "fc-portugues-010",
+      "area": "portugues",
+      "front": "Por que 'soneto à língua portuguesa' leva acento grave?",
+      "back": "Porque há preposição 'a' com valor de destinação (soneto dedicado a alguém) mais o artigo feminino 'a' de 'língua'. Preposição + artigo = crase.",
+      "sourceQuestionId": "transp23e6-q5"
+    },
+    {
+      "id": "fc-portugues-011",
+      "area": "portugues",
+      "front": "Que classes de palavras obrigam próclise?",
+      "back": "Negação (não, nunca, jamais), advérbio sem vírgula, pronome relativo, indefinido ou interrogativo, e conjunção subordinativa — inclusive o 'que'. Ex.: 'nunca se afastara', 'para que se adote'.",
+      "sourceQuestionId": "psjpn2018-q8"
+    },
+    {
+      "id": "fc-portugues-012",
+      "area": "portugues",
+      "front": "O que desliga o poder de atração de um advérbio anteposto ao verbo?",
+      "back": "Uma vírgula depois dele: \"Entre os numerosos usuários da internet, constata-se...\" — com o adjunto isolado por vírgula, a ênclise volta a ser correta.",
+      "sourceQuestionId": "psjpn2018-q8"
+    },
+    {
+      "id": "fc-portugues-013",
+      "area": "portugues",
+      "front": "Por que 'Diria-lhe para evitar a política' é errado?",
+      "back": "Porque com futuro do presente e futuro do pretérito a ênclise é vedada na norma-padrão: usa-se mesóclise ('Dir-lhe-ia') ou próclise, se houver palavra atrativa.",
+      "sourceQuestionId": "transp15-q8"
+    },
+    {
+      "id": "fc-portugues-014",
+      "area": "portugues",
+      "front": "Que posição de pronome oblíquo átono a norma-padrão proíbe no início de período, e qual é a saída?",
+      "back": "Proíbe a próclise em início de período (\"Se atormentou...\"). A saída é a ênclise: \"Atormentou-se com aquela crise\".",
+      "sourceQuestionId": "transp15-q8"
+    },
+    {
+      "id": "fc-portugues-015",
+      "area": "portugues",
+      "front": "Em que três posições a vírgula nunca pode entrar?",
+      "back": "Entre sujeito e verbo, entre verbo e seu complemento, e antes da oração substantiva que completa o verbo ('mostram que, muitas economias...'). Foram os erros plantados nos distratores.",
+      "sourceQuestionId": "psjpn2018-q4"
+    },
+    {
+      "id": "fc-portugues-016",
+      "area": "portugues",
+      "front": "Que função têm as vírgulas em 'minha avó, Pedrina Perucchi, era italiana'?",
+      "back": "Isolam um aposto explicativo, que identifica o termo anterior. O concorrente típico é o vocativo, que chama o interlocutor e não tem relação sintática com o resto.",
+      "sourceQuestionId": "transp23e6-q7"
+    },
+    {
+      "id": "fc-portugues-017",
+      "area": "portugues",
+      "front": "Dois-pontos com valor explicativo equivalem a que conjunção?",
+      "back": "A 'porque': o que vem depois deles justifica o que veio antes. Foi a substituição cobrada no trecho sobre a compra que atende à necessidade de status.",
+      "sourceQuestionId": "psjpn2018-q7"
+    },
+    {
+      "id": "fc-portugues-018",
+      "area": "portugues",
+      "front": "Que relação estabelece o 'como' no início de um período, com verbo no subjuntivo?",
+      "back": "Causa, equivalendo a 'porque' ou 'já que': 'Como adorasse a mulher, não se vexava de dizê-lo'. Não é comparação nesse contexto.",
+      "sourceQuestionId": "transp15-q2"
+    },
+    {
+      "id": "fc-portugues-019",
+      "area": "portugues",
+      "front": "Que tipo de antecedente o pronome relativo 'onde' pode retomar?",
+      "back": "Só lugar físico ('a região onde se concentra a elite'). Para referência abstrata use 'em que' ou 'no qual'; 'aonde' só com verbo de movimento.",
+      "sourceQuestionId": "prova6-q10"
+    },
+    {
+      "id": "fc-portugues-020",
+      "area": "portugues",
+      "front": "Como distinguir o 'que' pronome relativo do 'que' conjunção integrante?",
+      "back": "O relativo retoma um antecedente e exerce função sintática na oração que introduz ('a borboleta que entrou'). O integrante não retoma nada e apenas liga uma oração substantiva ao verbo anterior.",
+      "sourceQuestionId": "transp23e6-q6"
+    },
+    {
+      "id": "fc-portugues-021",
+      "area": "portugues",
+      "front": "Que diferença de sentido a vírgula cria na oração adjetiva?",
+      "back": "Sem vírgula (restritiva), limita o antecedente a uma parte: 'os alunos que estudaram passaram'. Entre vírgulas (explicativa), comenta e vale para todo o antecedente: todos estudaram e todos passaram."
+    },
+    {
+      "id": "fc-portugues-022",
+      "area": "portugues",
+      "front": "Qual é o equivalente de 'fora usada' na voz passiva sintética?",
+      "back": "'Se usara'. A conversão tem de preservar o tempo verbal — 'se usou', 'se usava' e 'se usaria' mudam o tempo e, com ele, o sentido.",
+      "sourceQuestionId": "prova6-q8"
+    },
+    {
+      "id": "fc-portugues-023",
+      "area": "portugues",
+      "front": "Que correlação verbal expressa hipótese irreal do passado?",
+      "back": "'Se' + mais-que-perfeito composto do subjuntivo na subordinada + futuro do pretérito composto na principal: 'se tivesse escrito..., teria sido lida'.",
+      "sourceQuestionId": "transp23e6-q8"
+    },
+    {
+      "id": "fc-portugues-024",
+      "area": "portugues",
+      "front": "Entre ganhar, pagar e ver, qual tem SÓ particípio irregular?",
+      "back": "'Ver' — só 'visto' circula na língua-padrão. Ganhar e pagar são abundantes (ganhado/ganho, pagado/pago), com a forma regular usada com ter/haver e a curta com ser/estar.",
+      "sourceQuestionId": "prova6-q6"
+    },
+    {
+      "id": "fc-portugues-025",
+      "area": "portugues",
+      "front": "Qual a regência de 'necessitar' na norma-padrão, e o efeito disso no pronome relativo?",
+      "back": "Rege 'de'; logo o relativo tem de vir preposicionado: 'aparelhos DE QUE elas não necessitam'. A versão sem preposição soa natural na fala e é justamente o erro.",
+      "sourceQuestionId": "psjpn2018-q10"
+    },
+    {
+      "id": "fc-portugues-026",
+      "area": "portugues",
+      "front": "Que regência têm 'referir' e 'confessar'?",
+      "back": "Bitransitiva: algo (objeto direto) a alguém (objeto indireto com 'a') — 'referir o fato a alguém', 'confessou-me que trazia uma carcoma'.",
+      "sourceQuestionId": "transp15-q7"
+    },
+    {
+      "id": "fc-portugues-027",
+      "area": "portugues",
+      "front": "Como escolher entre porque, por que, porquê e por quê?",
+      "back": "'Porque' = conjunção (causa/explicação). 'Por que' = preposição + pronome, em pergunta ou com antecedente. 'Porquê' = substantivo, vem com artigo. 'Por quê' = forma tônica no fim da frase.",
+      "sourceQuestionId": "prova6-q4"
+    },
+    {
+      "id": "fc-ingles-001",
+      "area": "ingles",
+      "front": "Que pista lexical nas alternativas de inglês sinaliza erro por excesso, e qual é a exceção obrigatória?",
+      "back": "Linguagem absoluta: certainly, definitely, surely, absolutely, inevitable, undeniable, e o \"only\"/\"all\" que endurece a afirmação. No banco, 16 alternativas erradas as usam e nenhuma correta — mas 5 dessas ocorrências são só o andaime \"only Text I / only Text II / all\", em que \"only\" pode ser gabarito. Serve como desempate, não como atalho.",
+      "sourceQuestionId": "transp15-q20"
+    },
+    {
+      "id": "fc-ingles-002",
+      "area": "ingles",
+      "front": "Em uma questão de inglês, 'given that' pode ser substituído por quê?",
+      "back": "Por 'taking into account that' — é premissa considerada, valor de causa/consideração. Não é concessivo, então even though e despite the fact that estão errados.",
+      "sourceQuestionId": "transp15-q13"
+    },
+    {
+      "id": "fc-ingles-003",
+      "area": "ingles",
+      "front": "Iniciando frase e seguido de contraste, 'Still' equivale a quê?",
+      "back": "A 'Nevertheless' / 'However' — ainda assim. Dentro da frase, junto ao verbo, 'still' é temporal (= ainda). A posição decide o valor.",
+      "sourceQuestionId": "psjpn2018-q17"
+    },
+    {
+      "id": "fc-ingles-004",
+      "area": "ingles",
+      "front": "O que significa 'take hold' em 'Dutch disease and the oil curse will take hold'?",
+      "back": "Firmar-se, instalar-se e tornar-se difícil de reverter. Nada a ver com segurar algo fisicamente.",
+      "sourceQuestionId": "prova6-q16"
+    },
+    {
+      "id": "fc-ingles-005",
+      "area": "ingles",
+      "front": "O que significa 'account for' em 'India accounting for almost one-third of global growth'?",
+      "back": "Responder por / corresponder a uma parcela (\"India accounting for almost one-third of global growth\"). Atenção ao gabarito da banca em psjpn2018-q15: ela aceitou \"being the reason for\" — o distrator era \"being blamed for\" (culpa).",
+      "sourceQuestionId": "psjpn2018-q15"
+    },
+    {
+      "id": "fc-ingles-006",
+      "area": "ingles",
+      "front": "O que significa 'forging ahead' em 'Solar is forging ahead in global power markets'?",
+      "back": "Avançando de forma firme e constante (progressing steadily). Os distratores oferecem o sentido oposto: declining, falling, slowing down.",
+      "sourceQuestionId": "psjpn2018-q15"
+    },
+    {
+      "id": "fc-ingles-007",
+      "area": "ingles",
+      "front": "Com economia ou produção como sujeito, o que significa 'pick up'?",
+      "back": "Melhorar, ganhar ritmo, aumentar — 'as economic growth has picked up'. Não é 'pegar'; e os distratores oferecem declined, deteriorated, stabilized.",
+      "sourceQuestionId": "transp15-q16"
+    },
+    {
+      "id": "fc-ingles-008",
+      "area": "ingles",
+      "front": "O que significa 'driven by' em 'driven not least by the levels of air pollution'?",
+      "back": "Impulsionado, motivado ou causado por. Distratores usam 'delayed by' e 'hindered by', que invertem o sentido.",
+      "sourceQuestionId": "transp15-q16"
+    },
+    {
+      "id": "fc-ingles-009",
+      "area": "ingles",
+      "front": "O que significa 'pivotal' em 'Satellite communications will also be pivotal'?",
+      "back": "Essencial, crucial, central. É avaliação positiva e forte, o que já elimina tricky, erratic, haphazard e problematic.",
+      "sourceQuestionId": "transp23e6-q18"
+    },
+    {
+      "id": "fc-ingles-010",
+      "area": "ingles",
+      "front": "Em texto econômico, o que significa 'flat'?",
+      "back": "Estável, sem crescimento ('growth remained flat'). Não é sinônimo de 'high' — foi exatamente essa a afirmação falsa cobrada.",
+      "sourceQuestionId": "transp15-q18"
+    },
+    {
+      "id": "fc-ingles-011",
+      "area": "ingles",
+      "front": "O que significa 'rife'?",
+      "back": "Disseminado, generalizado, abundante — geralmente de algo negativo ('speculation is rife'). É quase o oposto de 'scarce'.",
+      "sourceQuestionId": "transp15-q18"
+    },
+    {
+      "id": "fc-ingles-012",
+      "area": "ingles",
+      "front": "Que tipo de variação \"surge\" expressa, e qual verbo/substantivo está próximo dele?",
+      "back": "Um aumento súbito e forte (\"a surge in demand\"); como verbo, disparar. É próximo de \"increase\", \"rise\" e \"soar\" — e não é \"surgir\" (to arise, to emerge). A questão apresentou \"surge\" e \"increase\" como antônimos, o que é falso.",
+      "sourceQuestionId": "transp15-q18"
+    },
+    {
+      "id": "fc-ingles-013",
+      "area": "ingles",
+      "front": "O que significa 'thriving' em 'a thriving solar industry'?",
+      "back": "Prosperando, crescendo com sucesso — próximo de 'developing' nesse contexto, e o oposto de estagnado.",
+      "sourceQuestionId": "transp15-q18"
+    },
+    {
+      "id": "fc-ingles-014",
+      "area": "ingles",
+      "front": "O que \"realise/realize\" significa em inglês, e como se diz \"realizar\" (executar)?",
+      "back": "Significa perceber, dar-se conta — por isso \"realise\" e \"understand\" são sinônimos. \"Realizar\" no sentido de executar é carry out, perform ou achieve.",
+      "sourceQuestionId": "prova6-q14"
+    },
+    {
+      "id": "fc-ingles-015",
+      "area": "ingles",
+      "front": "Qual a relação entre 'curb' e 'foster'?",
+      "back": "São antônimos: 'curb' é conter, restringir; 'foster' é fomentar, promover. Foi o único par realmente antônimo da questão.",
+      "sourceQuestionId": "prova6-q14"
+    },
+    {
+      "id": "fc-ingles-016",
+      "area": "ingles",
+      "front": "O que significa 'undisputed', e qual seu sinônimo cobrado na prova?",
+      "back": "Incontestável, indiscutível — sinônimo de \"irrefutable\" (psjpn2018-q14). Distratores da questão: \"disturbed\", \"stagnation\", \"restrain\", \"unnecessary\".",
+      "sourceQuestionId": "psjpn2018-q14"
+    },
+    {
+      "id": "fc-ingles-017",
+      "area": "ingles",
+      "front": "Em 'the SODOR project will provide low latency', o que 'low latency' garante?",
+      "back": "Transmissão de grande volume de dados com atraso mínimo. Latência é atraso, não volume — três distratores trocavam latência por 'low volume of data'.",
+      "sourceQuestionId": "transp23e6-q15"
+    },
+    {
+      "id": "fc-ingles-018",
+      "area": "ingles",
+      "front": "O que significa 'claimed' em texto jornalístico?",
+      "back": "Alegado, afirmado sem comprovação (ou reivindicado). Não é 'hidden' nem 'comprovado'; e o substantivo 'claim' é alegação, não reclamação (complaint).",
+      "sourceQuestionId": "transp15-q18"
+    },
+    {
+      "id": "fc-ingles-019",
+      "area": "ingles",
+      "front": "Em \"output from America's producing areas\", o que \"output\" significa e qual é o par oposto?",
+      "back": "Produção, volume produzido — em texto de energia é sempre esse sentido, não \"saída de dispositivo\". O par oposto é \"input\" (insumo).",
+      "sourceQuestionId": "transp15-q14"
+    },
+    {
+      "id": "fc-ingles-020",
+      "area": "ingles",
+      "front": "Em texto de energia, o que \"the grid\" designa?",
+      "back": "A rede elétrica de transmissão e distribuição — não \"grade\" nem \"mapa\". Termo do campo semântico de transição energética que ainda não apareceu nas provas do banco, mas é previsível em texto de renováveis."
+    },
+    {
+      "id": "fc-ingles-021",
+      "area": "ingles",
+      "front": "Qual costuma ser o antecedente de expressões como 'that shift' ou 'this trend'?",
+      "back": "Uma oração ou um trecho inteiro, não uma palavra isolada. Em 'that shift', o antecedente era a mudança da indústria pesada movida a carvão para uma economia de serviços.",
+      "sourceQuestionId": "transp15-q15"
+    },
+    {
+      "id": "fc-ingles-022",
+      "area": "ingles",
+      "front": "Em '14% of the UK's greenhouse gas emissions, of which 91% is from road vehicles', a que 'which' se refere?",
+      "back": "A 'greenhouse gas emissions', o substantivo imediatamente anterior: 91% dessas emissões vêm de veículos rodoviários.",
+      "sourceQuestionId": "transp23e6-q16"
+    },
+    {
+      "id": "fc-ingles-023",
+      "area": "ingles",
+      "front": "Em textos de previsão, o present simple ('wind becomes the leading source after 2030') expressa quê?",
+      "back": "Futuro projetado. Já o present continuous ('are changing') descreve processo em curso agora — foi essa diferença que decidiu a questão de referência temporal.",
+      "sourceQuestionId": "psjpn2018-q16"
+    },
+    {
+      "id": "fc-ingles-024",
+      "area": "ingles",
+      "front": "O que \"offset\" faz em \"a comparable increase in 2018 would offset most of the current OPEC production cuts\"?",
+      "back": "Compensa, anula o efeito de algo — o aumento da produção de shale cancelaria os cortes da OPEP. Como substantivo, \"offset\" é compensação (também em \"carbon offset\").",
+      "sourceQuestionId": "transp15-q14"
+    },
+    {
+      "id": "fc-ingles-025",
+      "area": "ingles",
+      "front": "Qual a escala de certeza dos modais em inglês, do mais forte ao mais fraco?",
+      "back": "will / must (dedução) > should, is likely to, is expected to, is projected to > can, may > could, might. Reconhecer essa escala é o que impede aceitar alternativa absoluta para texto hedged."
+    },
+    {
+      "id": "fc-portugues-028",
+      "area": "portugues",
+      "front": "Que relação 'à medida que' expressa, e qual locução ocupa o lugar dela quando a ideia é causa?",
+      "back": "'À medida que' marca proporção: uma coisa varia conforme a outra ('à medida que o preço sobe, o consumo cai'). Quando a ideia é causa, a locução é 'na medida em que'. As duas não são intercambiáveis, e a mistura 'à medida em que' não existe na norma-padrão."
+    },
+    {
+      "id": "fc-portugues-029",
+      "area": "portugues",
+      "front": "Em que contextos a crase é facultativa?",
+      "back": "Antes de nome próprio feminino de pessoa ('escrevi a/à Maria'), antes de pronome possessivo feminino ('entreguei a/à minha irmã') e depois de 'até' ('até a/à porta'). Nesses casos as duas grafias estão corretas, então acentuar ou não acentuar não é, por si, erro."
+    },
+    {
+      "id": "fc-portugues-030",
+      "area": "portugues",
+      "front": "Quando 'a distância' recebe acento grave?",
+      "back": "Pela regra tradicional, que é a cobrada, quando o termo vem determinado: 'à distância de 200 metros'. Sem determinante, escreve-se sem crase: 'viu o navio a distância'. Parte da tradição gramatical e o uso consagrado ('ensino à distância') aceitam a crase mesmo sem determinante, então o determinante é o critério seguro, não uma proibição absoluta."
+    },
+    {
+      "id": "fc-portugues-031",
+      "area": "portugues",
+      "front": "Como decidir se há crase antes de nome de lugar, como em 'vou a/à Bahia'?",
+      "back": "Pelo teste da volta: se você volta DA Bahia, o lugar admite artigo e a crase entra ('vou à Bahia'); se volta DE Roma, não há artigo nem crase ('vou a Roma'). Topônimo normalmente sem artigo passa a ter quando é determinado: 'vou à Roma dos Césares'."
+    },
+    {
+      "id": "fc-portugues-032",
+      "area": "portugues",
+      "front": "Em que casos entra vírgula antes de 'e', e em que caso ela não entra?",
+      "back": "Entra quando os sujeitos das orações são diferentes ('O preço caiu, e a demanda cresceu'), na enumeração de orações coordenadas encerrada por 'e', e quando o 'e' tem valor adversativo ou aparece repetido em polissíndeto. No 'e' aditivo simples, ligando termos ou orações de mesmo sujeito, não se usa vírgula: 'Estudou a matéria e fez o simulado'."
+    },
+    {
+      "id": "fc-portugues-033",
+      "area": "portugues",
+      "front": "Como fica o verbo quando o sujeito é 'mais de um'?",
+      "back": "No singular: 'Mais de um mandato foi exercido' — pluralizar é o erro da alternativa A de transp15-q10. A exceção é a ideia de reciprocidade ou a repetição da expressão: 'mais de um deputado se agrediram', 'mais de um jornalista, mais de um político compareceram'.",
+      "sourceQuestionId": "transp15-q10"
+    },
+    {
+      "id": "fc-portugues-034",
+      "area": "portugues",
+      "front": "Com que termo o verbo concorda quando o sujeito é uma porcentagem?",
+      "back": "Com especificador, a concordância é facultativa: '20% da população migrou' (com o especificador) e '20% da população migraram' (com o numeral) são ambos aceitos. Sem especificador, o verbo concorda com o próprio número: '1% votou', '30% votaram'. Por isso não se descarta uma alternativa só porque ela concordou com o numeral."
+    },
+    {
+      "id": "fc-portugues-035",
+      "area": "portugues",
+      "front": "Quais dessas palavras variam na concordância nominal: 'anexo', 'obrigado' e 'menos'?",
+      "back": "'Anexo' e 'obrigado' são adjetivos e concordam com o substantivo a que se referem: 'seguem os documentos anexos', 'ela disse obrigada'. 'Menos' é invariável em qualquer contexto ('menos pessoas', 'menos água'), e a locução 'em anexo' também não varia."
+    },
+    {
+      "id": "fc-portugues-036",
+      "area": "portugues",
+      "front": "Que concordâncias admite o sujeito composto posposto ao verbo?",
+      "back": "Duas: o plural ('Chegaram o diretor e o assessor') ou a concordância com o núcleo mais próximo ('Chegou o diretor e o assessor'). Anteposto ao verbo, o sujeito composto pede o plural."
+    },
+    {
+      "id": "fc-portugues-037",
+      "area": "portugues",
+      "front": "Que sentido 'assistir' tem com a preposição 'a' e que sentido tem sem ela?",
+      "back": "Com 'a', significa ver ou presenciar: 'assistir ao jogo'. Sem preposição, significa prestar assistência: 'o médico assistiu o paciente'. No sentido de presenciar, a tradição pede 'assistir a ele', não 'assistir-lhe'."
+    },
+    {
+      "id": "fc-portugues-038",
+      "area": "portugues",
+      "front": "Como distinguir adjunto adnominal de complemento nominal em construções como 'o amor da mãe'?",
+      "back": "Se o termo pratica a ação, é adjunto adnominal: 'o amor DA MÃE' equivale a 'a mãe ama'. Se sofre a ação, é complemento nominal: 'o amor AO PRÓXIMO' equivale a 'alguém ama o próximo'. O adjunto indica posse, qualidade ou origem; o complemento completa o sentido de substantivo abstrato, adjetivo ou advérbio."
+    },
+    {
+      "id": "fc-portugues-039",
+      "area": "portugues",
+      "front": "Como separar a coordenada explicativa da subordinada causal quando as duas vêm com 'pois' ou 'porque'?",
+      "back": "A explicativa justifica o ato de dizer e costuma seguir imperativo ou suposição: 'Traga o guarda-chuva, pois vai chover'. A causal dá a causa real do fato enunciado: 'Não saí porque chovia'. Só na explicativa cabe a paráfrase 'digo isso porque...'."
+    },
+    {
+      "id": "fc-portugues-040",
+      "area": "portugues",
+      "front": "O que o comando 'Segundo o texto' exige?",
+      "back": "O que o autor afirma ou sustenta. Sua opinião e seu conhecimento externo não contam: localize o trecho que justifica a alternativa.",
+      "sourceQuestionId": "prova6-q1"
+    },
+    {
+      "id": "fc-portugues-041",
+      "area": "portugues",
+      "front": "Como resolver 'a única oposição que NÃO aparece no texto é'?",
+      "back": "Procure cada par no texto e elimine os que têm trecho de apoio. A resposta é o par sem apoio nenhum, mesmo que pareça plausível.",
+      "sourceQuestionId": "prova6-q2"
+    },
+    {
+      "id": "fc-portugues-042",
+      "area": "portugues",
+      "front": "Qual a diferença entre 'segundo o texto' e 'infere-se'?",
+      "back": "Inferir é concluir algo não dito, mas autorizado pelas pistas. 'Um desejo que não quer acabar de morrer' permite inferir que Lobo Neves ainda esperava ter êxito na política, não que estivesse morrendo.",
+      "sourceQuestionId": "transp15-q4"
+    },
+    {
+      "id": "fc-portugues-043",
+      "area": "portugues",
+      "front": "No texto de Machado, Lobo Neves fala do teatro. Por que 'teatro da época' não é a causa do desabafo?",
+      "back": "O teatro é metáfora. 'Vira o teatro pelo lado da plateia' fala da vida pública vista de fora, e é com ela que ele está insatisfeito. Separe a imagem usada do assunto real.",
+      "sourceQuestionId": "transp15-q1"
+    },
+    {
+      "id": "fc-portugues-044",
+      "area": "portugues",
+      "front": "Que efeito tem a abertura 'Estou me vendo debaixo de uma árvore' numa crônica?",
+      "back": "Marca reminiscência: a narradora adulta evoca uma cena vivida no passado, como se a visse de novo.",
+      "sourceQuestionId": "transp23e6-q1"
+    },
+    {
+      "id": "fc-portugues-045",
+      "area": "portugues",
+      "front": "Como responder 'as palavras que marcam o sentimento de insegurança são'?",
+      "back": "Veja o que cada termo descreve no contexto e exija que os dois do par marquem o sentimento. 'Rodeios' e 'gaguejar' descrevem hesitação ao falar. Um par com um só termo certo está errado.",
+      "sourceQuestionId": "transp23e6-q2"
+    },
+    {
+      "id": "fc-portugues-046",
+      "area": "portugues",
+      "front": "Como achar o motivo da reação de um personagem?",
+      "back": "Releia o trecho indicado e o entorno, porque a causa costuma estar explícita. Em 'À moda brasileira', o susto vem do temor de que escritos em português não sejam conhecidos.",
+      "sourceQuestionId": "transp23e6-q4"
+    },
+    {
+      "id": "fc-portugues-047",
+      "area": "portugues",
+      "front": "Numa questão 'Segundo os Textos I e II', que condição a alternativa precisa cumprir?",
+      "back": "Valer para os dois textos. A alternativa que descreve bem só um deles está errada, por mais exata que seja.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q1"
+    },
+    {
+      "id": "fc-portugues-048",
+      "area": "portugues",
+      "front": "O que pede 'o pensamento do autor citado está ratificado em tal trecho'?",
+      "back": "O trecho que confirma aquela ideia, mesmo com outras palavras. Compare o sentido, não a repetição de termos.",
+      "sourceQuestionId": "petrobras-2008-psicologo-junior-q2"
+    },
+    {
+      "id": "fc-portugues-049",
+      "area": "portugues",
+      "front": "Que marcas indicam um texto predominantemente argumentativo?",
+      "back": "Uma tese defendida com argumentos, como citações de autoridade e exemplos. Narrar fatos ou descrever não é o objetivo principal, ainda que apareçam para apoiar a tese.",
+      "sourceQuestionId": "petrobras-2008-psicologo-junior-q5"
+    },
+    {
+      "id": "fc-portugues-050",
+      "area": "portugues",
+      "front": "Como avaliar uma alternativa que resume o raciocínio de um parágrafo?",
+      "back": "Refaça a cadeia de ideias e confira a ordem das relações, como causa e consequência. Mesmas palavras em relação trocada tornam a alternativa errada.",
+      "sourceQuestionId": "petrobras-2008-psicologo-junior-q6"
+    },
+    {
+      "id": "fc-portugues-051",
+      "area": "portugues",
+      "front": "O que 'assinale a afirmativa IMPROCEDENTE' pede?",
+      "back": "A que o texto contradiz ou não sustenta. Marque a incorreta: no fragmento 'Prazer e Vocação', vocação é algo imanente, então 'dom que se adquire com o tempo' é a improcedente.",
+      "sourceQuestionId": "petrobras-2008-psicologo-junior-q7"
+    },
+    {
+      "id": "fc-portugues-052",
+      "area": "portugues",
+      "front": "Quais são os três desvios mais comuns de alternativas erradas em compreensão de texto?",
+      "back": "Extrapolação, que vai além do que o texto permite; redução, que toma uma parte pelo todo; e contradição, que afirma o contrário do texto."
+    },
+    {
+      "id": "fc-ingles-026",
+      "area": "ingles",
+      "front": "Em 'Unless costs fall further, coal will remain competitive', que ideia 'unless' introduz?",
+      "back": "Condição negativa, equivalente a 'if... not': a menos que os custos caiam mais, o carvão continua competitivo. A negação já está no próprio conectivo, por isso o verbo depois dele fica na afirmativa; não é contraste nem causa."
+    },
+    {
+      "id": "fc-ingles-027",
+      "area": "ingles",
+      "front": "Em 'the project was delayed but eventually came on stream', o que 'eventually' informa?",
+      "back": "Que a coisa aconteceu no final, depois de algum tempo — 'por fim'. Não corresponde a 'eventualmente' no sentido de ocasionalmente, que em inglês é 'occasionally' ou 'from time to time'."
+    },
+    {
+      "id": "fc-ingles-028",
+      "area": "ingles",
+      "front": "Em 'Ultimately, Brazil's ability to avoid Dutch disease will depend not just on how the money is spent', que valor tem 'Ultimately'?",
+      "back": "Valor de conclusão: em última análise, no fim das contas. Não marca tempo recente nem acrescenta informação nova, e foi por isso que a troca por 'Furthermore' entrou como alternativa errada em prova6-q17.",
+      "sourceQuestionId": "prova6-q17"
+    },
+    {
+      "id": "fc-ingles-029",
+      "area": "ingles",
+      "front": "Em 'the country's oil industry has so far been big enough to become a government cash cow', o que 'so far' informa?",
+      "back": "Que o quadro vale até agora, do passado até o presente — e é essa leitura que pede o present perfect ao lado. Não equivale a 'meanwhile' (enquanto isso), troca oferecida como distrator em prova6-q17.",
+      "sourceQuestionId": "prova6-q17"
+    },
+    {
+      "id": "fc-ingles-030",
+      "area": "ingles",
+      "front": "Em 'the fleet has hardly changed since 2010', o que 'hardly' faz com o sentido do verbo?",
+      "back": "Nega quase por completo: a frota quase não mudou. 'Hardly' não significa 'duramente' (hard, harshly) e, por já ser negativo, não vem acompanhado de 'not'."
+    },
+    {
+      "id": "fc-ingles-031",
+      "area": "ingles",
+      "front": "Por que 'despite the fall in prices' funciona e 'despite prices fell' não?",
+      "back": "Porque 'despite' e 'in spite of' são preposições e pedem substantivo ou forma em -ing ('despite falling prices'). Para uma oração com sujeito e verbo, o concessivo tem de ser 'although', 'though' ou 'even though': 'although prices fell'."
+    },
+    {
+      "id": "fc-ingles-032",
+      "area": "ingles",
+      "front": "Em 'cheap gas could undermine investment in renewables', o que 'undermine' faz com o investimento?",
+      "back": "Enfraquece, mina pela base — o prefixo 'under-' marca a ação por baixo. É o oposto de 'boost' e 'strengthen', e não tem relação com 'underline' (sublinhar)."
+    },
+    {
+      "id": "fc-ingles-033",
+      "area": "ingles",
+      "front": "Em 'the technologies deployed so far', que oração o particípio 'deployed' está resumindo?",
+      "back": "Uma relativa passiva reduzida: 'the technologies that have been deployed so far' — as tecnologias que foram implantadas até agora. Perceber isso evita ler 'deployed' como o verbo principal da frase."
+    },
+    {
+      "id": "fc-ingles-034",
+      "area": "ingles",
+      "front": "Em 'the global energy system is being reshaped by four major forces', quem age e quem sofre a ação?",
+      "back": "As quatro forças agem: o agente da passiva vem depois de 'by'. O sistema energético global é quem sofre a reformulação. Quando não há 'by', a frase simplesmente não nomeia o agente — em geral porque ele é desconhecido, genérico ou irrelevante — e o sujeito continua sendo o paciente."
+    },
+    {
+      "id": "fc-ingles-035",
+      "area": "ingles",
+      "front": "Em 'Some producers cut output, and others may do so next year', o que 'do so' retoma?",
+      "back": "O predicado inteiro anterior, 'cut output'. 'Do so', 'does' e 'did' substituem verbo mais complementos, nunca um substantivo — logo o antecedente é uma ação, não uma coisa."
+    },
+    {
+      "id": "fc-ingles-036",
+      "area": "ingles",
+      "front": "Que diferença de sentido separa 'the fields, which are offshore, need new rigs' de 'the fields which are offshore need new rigs'?",
+      "back": "Com vírgulas (non-defining), a informação só comenta e vale para todos os campos. Sem vírgulas (defining), ela restringe: apenas os campos offshore precisam de sondas novas. Em oração non-defining não se usa 'that'."
+    },
+    {
+      "id": "fc-ingles-037",
+      "area": "ingles",
+      "front": "Em 'the company is investing upstream rather than downstream', a que etapas do setor de óleo e gás o texto se refere?",
+      "back": "'Upstream' é exploração e produção, a ponta do poço; 'downstream' é refino, distribuição e venda ao consumidor. O transporte e a estocagem entre as duas pontas são o 'midstream'."
+    },
+    {
+      "id": "fc-etica-001",
+      "area": "etica",
+      "front": "Quantos Princípios Fundamentais e quantos artigos tem o Código de Ética do Psicólogo (Res. CFP 10/2005)?",
+      "back": "7 princípios (I a VII) e 25 artigos. Arts. 1º a 20: responsabilidades; arts. 21 a 25: disposições gerais."
+    },
+    {
+      "id": "fc-etica-002",
+      "area": "etica",
+      "front": "Desde quando vigora o Código de Ética Profissional do Psicólogo atual e qual norma ele revogou?",
+      "back": "Desde 27/08/2005. Revogou a Resolução CFP 002/87, o Código anterior."
+    },
+    {
+      "id": "fc-etica-003",
+      "area": "etica",
+      "front": "Princípio Fundamental I do Código de Ética: qual o núcleo?",
+      "back": "Respeito e promoção da liberdade, dignidade, igualdade e integridade do ser humano, apoiado nos valores da Declaração Universal dos Direitos Humanos."
+    },
+    {
+      "id": "fc-etica-004",
+      "area": "etica",
+      "front": "Princípio Fundamental II do Código de Ética: qual o núcleo?",
+      "back": "Promover a saúde e a qualidade de vida das pessoas e coletividades e contribuir para eliminar negligência, discriminação, exploração, violência, crueldade e opressão."
+    },
+    {
+      "id": "fc-etica-005",
+      "area": "etica",
+      "front": "Princípio Fundamental III do Código de Ética: qual o núcleo?",
+      "back": "Responsabilidade social, analisando crítica e historicamente a realidade política, econômica, social e cultural."
+    },
+    {
+      "id": "fc-etica-006",
+      "area": "etica",
+      "front": "Princípios IV a VII do Código de Ética, por palavra-chave.",
+      "back": "IV aprimoramento contínuo e Psicologia como campo científico; V universalização do acesso a informações e serviços; VI zelar pela dignidade da profissão e rejeitar seu aviltamento; VII considerar as relações de poder e posicionar-se criticamente."
+    },
+    {
+      "id": "fc-etica-007",
+      "area": "etica",
+      "front": "Num dilema sem artigo específico (ex.: psicólogo numa banca que escolhe projetos), o que deve orientar a posição do psicólogo segundo a banca?",
+      "back": "Os Princípios Fundamentais: dignidade humana, promoção da saúde das coletividades, eliminação da violência e análise do contexto político e social. Não a opinião da maioria nem a defesa corporativa da Psicologia.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q31"
+    },
+    {
+      "id": "fc-etica-008",
+      "area": "etica",
+      "front": "Art. 10 do Código: o que o psicólogo faz quando o sigilo conflita com os princípios?",
+      "back": "Poderá decidir pela quebra, salvo casos previstos em lei, baseando a decisão na busca do menor prejuízo e restringindo-se às informações estritamente necessárias."
+    },
+    {
+      "id": "fc-etica-009",
+      "area": "etica",
+      "front": "Depor em juízo quebra o sigilo obrigatoriamente?",
+      "back": "Não. Art. 11: requisitado a depor, o psicólogo poderá prestar informações, observando o art. 10 (menor prejuízo, só o estritamente necessário)."
+    },
+    {
+      "id": "fc-etica-010",
+      "area": "etica",
+      "front": "Art. 6º: o que a psicóloga faz com as informações de um caso ao trabalhar com médicos?",
+      "back": "Compartilha somente as informações relevantes para qualificar o serviço e assinala aos médicos a responsabilidade de preservar o sigilo.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q37"
+    },
+    {
+      "id": "fc-etica-011",
+      "area": "etica",
+      "front": "Atendimento não eventual de criança ou adolescente: que autorização o Código exige?",
+      "back": "Autorização de ao menos um dos responsáveis (art. 8º). Sem responsável legal, atende e comunica às autoridades competentes."
+    },
+    {
+      "id": "fc-etica-012",
+      "area": "etica",
+      "front": "Art. 3º: o que faz o psicólogo que percebe incompatibilidade entre as práticas da organização e o Código?",
+      "back": "Recusa-se a prestar serviços e, se pertinente, apresenta denúncia ao órgão competente."
+    },
+    {
+      "id": "fc-etica-013",
+      "area": "etica",
+      "front": "Greve de profissionais num serviço de saúde mental: quais as duas obrigações do psicólogo pelo art. 5º?",
+      "back": "Não interromper as atividades de emergência e comunicar previamente a paralisação aos usuários. Não há dever de manter todos os atendimentos regulares.",
+      "sourceQuestionId": "seplag-salvador-2011-psicologo-q41"
+    },
+    {
+      "id": "fc-etica-014",
+      "area": "etica",
+      "front": "Psicólogo vê colega desviar pacientes do serviço público para o consultório. O que o Código diz?",
+      "back": "Conivência com faltas éticas de psicólogos é vedada (art. 2º, e) e desviar pessoa atendida de instituição para serviço particular é falta (art. 2º, l).",
+      "sourceQuestionId": "seplag-salvador-2011-psicologo-q40"
+    },
+    {
+      "id": "fc-etica-015",
+      "area": "etica",
+      "front": "A gerência só oferece auxiliares sem formação em Psicologia para aplicar e corrigir testes. Conduta?",
+      "back": "Informar e sustentar a impossibilidade de usar o instrumento e recusar a avaliação se não houver alternativa ética: o art. 18 proíbe ceder instrumentos e técnicas privativas a leigos.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q65"
+    },
+    {
+      "id": "fc-etica-016",
+      "area": "etica",
+      "front": "Demissão ou exoneração do psicólogo: o que acontece com os arquivos confidenciais (art. 15 § 1º)?",
+      "back": "Repassar todo o material ao psicólogo substituto ou lacrá-lo para uso posterior pelo substituto.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q54"
+    },
+    {
+      "id": "fc-etica-017",
+      "area": "etica",
+      "front": "Extinção do serviço de Psicologia: quem providencia a destinação dos arquivos (art. 15 § 2º)?",
+      "back": "O Conselho Regional de Psicologia, que o psicólogo responsável deve informar."
+    },
+    {
+      "id": "fc-etica-018",
+      "area": "etica",
+      "front": "Penalidades do art. 21 do Código, na ordem.",
+      "back": "Advertência; multa; censura pública; suspensão do exercício por até 30 dias, ad referendum do CFP; cassação do exercício, ad referendum do CFP."
+    },
+    {
+      "id": "fc-etica-019",
+      "area": "etica",
+      "front": "Quem resolve dúvidas e casos omissos do Código, e quem firma jurisprudência sobre eles?",
+      "back": "Dúvidas e omissos: os CRPs, ad referendum do CFP (art. 22). Jurisprudência: o CFP (art. 23)."
+    },
+    {
+      "id": "fc-etica-020",
+      "area": "etica",
+      "front": "Quando o psicólogo pode intervir no trabalho de outro psicólogo (art. 7º)?",
+      "back": "A pedido do responsável pelo serviço; em emergência ou risco, dando ciência imediata; quando informado da interrupção voluntária e definitiva do serviço; ou em trabalho multiprofissional cuja metodologia preveja a intervenção."
+    },
+    {
+      "id": "fc-etica-021",
+      "area": "etica",
+      "front": "Art. 14: uso de gravação ou espelho unidirecional no atendimento.",
+      "back": "A pessoa atendida deve ser informada desde o início sobre os meios de registro e observação utilizados."
+    },
+    {
+      "id": "fc-etica-022",
+      "area": "etica",
+      "front": "Art. 4º: o que o Código diz sobre honorários?",
+      "back": "Fixados com justa retribuição e considerando as condições do usuário; comunicados antes do início do trabalho; a qualidade do serviço não depende do valor."
+    },
+    {
+      "id": "fc-etica-023",
+      "area": "etica",
+      "front": "Art. 2º, k: em que caso o psicólogo não pode ser perito, avaliador ou parecerista?",
+      "back": "Quando seus vínculos pessoais ou profissionais, atuais ou anteriores, possam afetar a qualidade do trabalho ou a fidelidade aos resultados."
+    },
+    {
+      "id": "fc-etica-024",
+      "area": "etica",
+      "front": "Art. 2º, h: que vedação protege os instrumentos psicológicos?",
+      "back": "Interferir na validade e fidedignidade de instrumentos e técnicas, adulterar resultados ou fazer declarações falsas."
+    },
+    {
+      "id": "fc-etica-025",
+      "area": "etica",
+      "front": "Art. 20: o que a publicidade do psicólogo deve conter e o que não pode ter?",
+      "back": "Nome completo, CRP e número de registro; só títulos que possua. Não pode usar preço como propaganda, prometer resultados, autopromover-se em detrimento de colegas nem ser sensacionalista."
+    },
+    {
+      "id": "fc-etica-026",
+      "area": "etica",
+      "front": "Art. 16: requisitos éticos da pesquisa.",
+      "back": "Avaliar riscos, participação voluntária com consentimento livre e esclarecido, anonimato (salvo interesse manifesto) e acesso dos participantes aos resultados ao final."
+    },
+    {
+      "id": "fc-etica-027",
+      "area": "etica",
+      "front": "Na visão ética da Petrobras 2012, qual o papel do psicólogo no contexto organizacional?",
+      "back": "Contribuir para uma relação empregado-empregador tão equânime quanto possível, zelando por condições de realização pessoal do trabalhador, sem esperar anular os conflitos inerentes.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q57"
+    },
+    {
+      "id": "fc-etica-028",
+      "area": "etica",
+      "front": "Art. 12: o que entra num documento produzido em equipe multiprofissional?",
+      "back": "Só as informações necessárias ao cumprimento dos objetivos do trabalho."
+    },
+    {
+      "id": "fc-etica-029",
+      "area": "etica",
+      "front": "A Res. CFP 18/2002 cita o 'art. 27' do Código de Ética. Ele existe no Código atual?",
+      "back": "Não. A referência é ao Código de 1987; o Código vigente (Res. CFP 10/2005) tem 25 artigos."
+    },
+    {
+      "id": "fc-etica-030",
+      "area": "etica",
+      "front": "Art. 1º, g: como o psicólogo informa resultados de avaliação?",
+      "back": "Informa aos envolvidos os resultados, transmitindo somente o que for necessário para as decisões que afetem o usuário ou beneficiário."
+    },
+    {
+      "id": "fc-etica-031",
+      "area": "etica",
+      "front": "Art. 1º, d: dever em situação de calamidade ou emergência.",
+      "back": "Prestar serviços profissionais em situações de calamidade pública ou emergência, sem visar benefício pessoal."
+    },
+    {
+      "id": "fc-etica-032",
+      "area": "etica",
+      "front": "Art. 2º, n, o e p: três vedações ligadas a dinheiro e tempo.",
+      "back": "Prolongar desnecessariamente a prestação de serviços (n); pleitear comissões, empréstimos ou vantagens além dos honorários (o); receber, pagar remuneração ou porcentagem por encaminhamento (p)."
+    },
+    {
+      "id": "fc-etica-033",
+      "area": "etica",
+      "front": "Art. 13: o que comunicar aos responsáveis no atendimento de criança, adolescente ou interdito?",
+      "back": "Somente o estritamente essencial para promover medidas em benefício da pessoa atendida."
+    },
+    {
+      "id": "fc-etica-034",
+      "area": "etica",
+      "front": "Por que 'atendimento eventual' de criança é armadilha no art. 8º?",
+      "back": "A exigência de autorização de ao menos um responsável vale para atendimento não eventual; a alternativa que fala em atendimento eventual muda a hipótese da norma."
+    },
+    {
+      "id": "fc-etica-035",
+      "area": "etica",
+      "front": "Art. 2º, b: que induções são vedadas?",
+      "back": "Induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas, de orientação sexual ou a qualquer tipo de preconceito no exercício profissional."
+    },
+    {
+      "id": "fc-etica-036",
+      "area": "etica",
+      "front": "Art. 24: como se altera o Código de Ética?",
+      "back": "Por iniciativa do CFP, ouvidos os Conselhos Regionais de Psicologia."
+    },
+    {
+      "id": "fc-etica-037",
+      "area": "etica",
+      "front": "Art. 18: o que o psicólogo não pode fazer com instrumentos e técnicas?",
+      "back": "Divulgar, ensinar, ceder, emprestar ou vender a leigos instrumentos e técnicas que permitam ou facilitem o exercício ilegal da profissão."
+    },
+    {
+      "id": "fc-etica-038",
+      "area": "etica",
+      "front": "Art. 1º, b: que dever limita o que o psicólogo aceita fazer?",
+      "back": "Assumir só responsabilidades para as quais esteja capacitado pessoal, teórica e tecnicamente."
+    },
+    {
+      "id": "fc-etica-039",
+      "area": "etica",
+      "front": "Art. 1º, k: o que fazer quando não puder continuar o atendimento?",
+      "back": "Sugerir serviços de outros psicólogos e fornecer ao substituto as informações necessárias à continuidade do trabalho."
+    },
+    {
+      "id": "fc-etica-040",
+      "area": "etica",
+      "front": "Art. 2º, j: que relação é vedada?",
+      "back": "Estabelecer com a pessoa atendida, familiar ou terceiro que tenha vínculo com o atendido relação que possa interferir negativamente nos objetivos do serviço."
+    },
+    {
+      "id": "fc-resolucoes-001",
+      "area": "resolucoes",
+      "front": "Res. CFP 6/2019: quais as 5 modalidades de documento psicológico?",
+      "back": "Declaração, atestado, relatório (psicológico ou multiprofissional), laudo e parecer (art. 8º)."
+    },
+    {
+      "id": "fc-resolucoes-002",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: o que é vedado registrar na declaração?",
+      "back": "Sintomas, situações ou estados psicológicos (art. 9º § 1º). A declaração só registra comparecimento, acompanhamento, dias e horários."
+    },
+    {
+      "id": "fc-resolucoes-003",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: qual documento certifica estado psicológico com base em diagnóstico e pode justificar faltas ou afastamento?",
+      "back": "O atestado psicológico (art. 10), que decorre de avaliação."
+    },
+    {
+      "id": "fc-resolucoes-004",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: o relatório psicológico tem finalidade de diagnóstico?",
+      "back": "Não. Comunica a atuação profissional em processos de trabalho, sem finalidade de produzir diagnóstico (art. 11)."
+    },
+    {
+      "id": "fc-resolucoes-005",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: quais os 5 itens do relatório psicológico?",
+      "back": "Identificação, descrição da demanda, procedimento, análise e conclusão."
+    },
+    {
+      "id": "fc-resolucoes-006",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: que item o laudo tem e o relatório não?",
+      "back": "Referências. O laudo tem 6 itens: os 5 do relatório mais as referências (art. 13)."
+    },
+    {
+      "id": "fc-resolucoes-007",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: o parecer decorre de avaliação psicológica?",
+      "back": "Não. É análise técnica que responde a uma questão-problema ou a documentos psicológicos questionados, sem avaliação nem intervenção (art. 14)."
+    },
+    {
+      "id": "fc-resolucoes-008",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: quais os itens do parecer?",
+      "back": "Identificação, descrição da demanda, análise, conclusão e referências: 5 itens, sem 'procedimento'."
+    },
+    {
+      "id": "fc-resolucoes-009",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: prazo de guarda dos documentos e do material que os fundamentou.",
+      "back": "Mínimo de 5 anos, podendo ser ampliado por lei, determinação judicial ou circunstâncias do caso (art. 15). A guarda é da psicóloga em conjunto com a instituição."
+    },
+    {
+      "id": "fc-resolucoes-010",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: para quais documentos a entrevista devolutiva é dever?",
+      "back": "Relatório e laudo: ao menos uma entrevista devolutiva (art. 18). Nos demais, é recomendada quando solicitada."
+    },
+    {
+      "id": "fc-resolucoes-011",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: como devem ser as laudas?",
+      "back": "Numeradas, rubricadas da primeira até a penúltima e assinadas na última (art. 5º § 8º)."
+    },
+    {
+      "id": "fc-resolucoes-012",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: em que pessoa gramatical se escreve o documento?",
+      "back": "Linguagem impessoal, na terceira pessoa (art. 6º § 4º)."
+    },
+    {
+      "id": "fc-resolucoes-013",
+      "area": "resolucoes",
+      "front": "Res. 6/2019: quando foi editada e quando entrou em vigor?",
+      "back": "Em 29/03/2019, com vigência 90 dias após a publicação. Revogou as Res. 15/1996, 07/2003 e 04/2019."
+    },
+    {
+      "id": "fc-resolucoes-014",
+      "area": "resolucoes",
+      "front": "Na prova de 2011 (então pela Res. 07/2003), que documento tinha a finalidade de 'resposta esclarecedora, no campo do conhecimento psicológico'?",
+      "back": "O parecer. Na Res. 6/2019 vigente, o parecer segue sendo análise técnica de questão-problema.",
+      "sourceQuestionId": "seplag-salvador-2011-psicologo-q45"
+    },
+    {
+      "id": "fc-resolucoes-015",
+      "area": "resolucoes",
+      "front": "Res. CFP 31/2022: definição de avaliação psicológica.",
+      "back": "Processo estruturado de investigação de fenômenos psicológicos, composto de métodos, técnicas e instrumentos, para prover informações à tomada de decisão individual, grupal ou institucional (art. 1º § 1º)."
+    },
+    {
+      "id": "fc-resolucoes-016",
+      "area": "resolucoes",
+      "front": "Res. 31/2022: quais são as fontes fundamentais de informação?",
+      "back": "Testes psicológicos aprovados pelo CFP; entrevistas psicológicas e anamneses; protocolos ou registros de observação (art. 3º, conectivo e/ou)."
+    },
+    {
+      "id": "fc-resolucoes-017",
+      "area": "resolucoes",
+      "front": "Res. 31/2022: quais são as fontes complementares?",
+      "back": "Técnicas e instrumentos não psicológicos com respaldo científico, e documentos técnicos como protocolos e relatórios de equipes multiprofissionais (art. 4º)."
+    },
+    {
+      "id": "fc-resolucoes-018",
+      "area": "resolucoes",
+      "front": "Res. 31/2022: usar teste com parecer desfavorável no SATEPSI é permitido?",
+      "back": "É falta ética, salvo em pesquisa e em ensino com objetivo formativo e histórico (art. 12)."
+    },
+    {
+      "id": "fc-resolucoes-019",
+      "area": "resolucoes",
+      "front": "Res. 31/2022: prazo máximo dos estudos de validade, precisão e normas de um teste.",
+      "back": "15 anos, contados da aprovação pelo Plenário do CFP. Testes aprovados antes: validade 20 anos e normas 15 (art. 22)."
+    },
+    {
+      "id": "fc-resolucoes-020",
+      "area": "resolucoes",
+      "front": "Res. 31/2022: dúvida se um instrumento é teste psicológico. Quem decide?",
+      "back": "Os CRPs submetem à Comissão Consultiva em Avaliação Psicológica (CCAP) do CFP, que o classifica como teste psicológico ou instrumento não privativo (art. 13)."
+    },
+    {
+      "id": "fc-resolucoes-021",
+      "area": "resolucoes",
+      "front": "Res. 31/2022: teste aprovado ganha novo formato de correção que segue o manual. Precisa de nova avaliação?",
+      "back": "Não. Formato diferente de correção, seguindo o manual, dispensa; formato diferente de aplicação exige apreciação da CCAP (art. 24)."
+    },
+    {
+      "id": "fc-resolucoes-022",
+      "area": "resolucoes",
+      "front": "Res. 31/2022: quantos pareceristas ad hoc analisam um teste submetido ao SATEPSI?",
+      "back": "Dois (art. 19)."
+    },
+    {
+      "id": "fc-resolucoes-023",
+      "area": "resolucoes",
+      "front": "Res. 31/2022: o que significa SATEPSI e quando a resolução entrou em vigor?",
+      "back": "Sistema de Avaliação de Testes Psicológicos. Vigência 60 dias após a publicação; revogou a Res. 09/2018."
+    },
+    {
+      "id": "fc-resolucoes-024",
+      "area": "resolucoes",
+      "front": "Por que a banca diz que a escolha de instrumentos exige análise crítica?",
+      "back": "Porque limites e vantagens de um instrumento são relativos à população, às condições de uso e aos objetivos da avaliação; nenhum é absoluto.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q67"
+    },
+    {
+      "id": "fc-resolucoes-025",
+      "area": "resolucoes",
+      "front": "Res. CFP 8/2025: qual a finalidade da avaliação psicológica em concurso?",
+      "back": "Identificar requisitos psicológicos do candidato compatíveis com as atividades do cargo; não é psicodiagnóstico para identificar psicopatologias (art. 6º)."
+    },
+    {
+      "id": "fc-resolucoes-026",
+      "area": "resolucoes",
+      "front": "Res. 8/2025: de onde vêm os requisitos psicológicos avaliados?",
+      "back": "Do estudo científico do cargo (profissiografia), com características necessárias e restritivas ou impeditivas. O resultado é apto ou inapto (art. 7º)."
+    },
+    {
+      "id": "fc-resolucoes-027",
+      "area": "resolucoes",
+      "front": "Res. 8/2025: quais são as três bancas e o papel de cada uma?",
+      "back": "Examinadora: responsabilidade técnica de toda a avaliação. Avaliadora: aplica, corrige e faz a devolutiva. Revisora: analisa recursos, sem membros que atuaram nas etapas."
+    },
+    {
+      "id": "fc-resolucoes-028",
+      "area": "resolucoes",
+      "front": "Res. 8/2025: até que grau de parentesco a psicóloga fica impedida?",
+      "back": "Cônjuge, companheiro ou parente consanguíneo ou por afinidade até o terceiro grau do candidato (art. 4º)."
+    },
+    {
+      "id": "fc-resolucoes-029",
+      "area": "resolucoes",
+      "front": "Res. 8/2025: o que o edital não pode divulgar sobre a fase psicológica?",
+      "back": "Os nomes dos métodos, técnicas e instrumentos e os escores a atingir (art. 12, parágrafo único). O extrato dos requisitos é obrigatório."
+    },
+    {
+      "id": "fc-resolucoes-030",
+      "area": "resolucoes",
+      "front": "Res. 8/2025: limite de candidatos por sala na aplicação coletiva presencial.",
+      "back": "40, quando não houver regulamentação específica (art. 14)."
+    },
+    {
+      "id": "fc-resolucoes-031",
+      "area": "resolucoes",
+      "front": "Res. 8/2025: quem tem direito a entrevista devolutiva e como ela ocorre?",
+      "back": "O candidato inapto, com psicóloga da Banca Avaliadora ou Examinadora; não pode ser filmada, gravada nem fotografada. Representante legal recebe envelope lacrado, sem devolutiva."
+    },
+    {
+      "id": "fc-resolucoes-032",
+      "area": "resolucoes",
+      "front": "Res. 8/2025: o resultado 'apto' vale para outro concurso?",
+      "back": "Não. Não tem validade para outro cargo nem para outro processo seletivo (art. 23)."
+    },
+    {
+      "id": "fc-resolucoes-033",
+      "area": "resolucoes",
+      "front": "Res. 8/2025: que resolução ela revogou e por quanto tempo a Banca Examinadora responde?",
+      "back": "Revogou a Res. CFP 2/2016. A Banca Examinadora responde por até 5 anos da publicação do resultado final (art. 8º § 1º)."
+    },
+    {
+      "id": "fc-resolucoes-034",
+      "area": "resolucoes",
+      "front": "Res. CFP 14/2023: a avaliação de riscos psicossociais é exclusiva de equipe?",
+      "back": "Não. Pode ser individual ou como integrante de equipe multiprofissional ou intersetorial (art. 3º)."
+    },
+    {
+      "id": "fc-resolucoes-035",
+      "area": "resolucoes",
+      "front": "Res. 14/2023: que modalidades de trabalho a avaliação deve considerar?",
+      "back": "Atividades presenciais, remotas ou híbridas (art. 2º § 3º)."
+    },
+    {
+      "id": "fc-resolucoes-036",
+      "area": "resolucoes",
+      "front": "Res. 14/2023: qual resolução ela revogou?",
+      "back": "A Res. CFP 02/2022 (art. 10)."
+    },
+    {
+      "id": "fc-resolucoes-037",
+      "area": "resolucoes",
+      "front": "Res. 14/2023: em que deve resultar a avaliação de riscos psicossociais?",
+      "back": "Em documento psicológico compatível com a finalidade, conforme as normas do CFP (art. 6º)."
+    },
+    {
+      "id": "fc-resolucoes-038",
+      "area": "resolucoes",
+      "front": "Res. 14/2023: que exigência vale para técnicas e instrumentos usados?",
+      "back": "Evidências de validade e confiabilidade, com autonomia técnica da psicóloga quanto a fontes, coleta, método e devolução (art. 4º)."
+    },
+    {
+      "id": "fc-resolucoes-039",
+      "area": "resolucoes",
+      "front": "Res. CFP 9/2024: psicóloga do RJ atende por TDICs pessoas de outros estados. Precisa de inscrição secundária?",
+      "back": "Não. Fica dispensada da inscrição secundária (art. 6º § 1º)."
+    },
+    {
+      "id": "fc-resolucoes-040",
+      "area": "resolucoes",
+      "front": "Res. 9/2024: forma e foro dos contratos de serviço mediado por TDICs.",
+      "back": "Podem ser escritos ou verbais e devem eleger o foro da jurisdição da inscrição principal da psicóloga (art. 7º)."
+    },
+    {
+      "id": "fc-resolucoes-041",
+      "area": "resolucoes",
+      "front": "Res. 9/2024: o que a psicóloga faz diante de risco de morte do usuário no atendimento remoto?",
+      "back": "Considera serviço concomitante, encaminhamento à rede de proteção presencial ou atendimento exclusivamente presencial; registra as ações (art. 5º). Não há proibição absoluta do remoto."
+    },
+    {
+      "id": "fc-resolucoes-042",
+      "area": "resolucoes",
+      "front": "Res. 9/2024: que testes podem ser usados no atendimento mediado por TDICs?",
+      "back": "Só os com parecer favorável do SATEPSI e com padronização e normatização específicas para essa finalidade (art. 2º, parágrafo único)."
+    },
+    {
+      "id": "fc-resolucoes-043",
+      "area": "resolucoes",
+      "front": "Res. 9/2024: o que revogou e quando entrou em vigor?",
+      "back": "Revogou as Res. 11/2018 e 04/2020; vigência 30 dias após a publicação (DOU 30/07/2024)."
+    },
+    {
+      "id": "fc-resolucoes-044",
+      "area": "resolucoes",
+      "front": "Res. CFP 01/1999: que serviços o psicólogo não pode apoiar?",
+      "back": "Eventos e serviços que proponham tratamento e cura das homossexualidades (art. 3º, parágrafo único), nem ação coercitiva para tratamentos não solicitados."
+    },
+    {
+      "id": "fc-resolucoes-045",
+      "area": "resolucoes",
+      "front": "Res. 01/1999: o que diz o considerando central sobre a homossexualidade?",
+      "back": "Que não constitui doença, nem distúrbio, nem perversão."
+    },
+    {
+      "id": "fc-resolucoes-046",
+      "area": "resolucoes",
+      "front": "Res. CFP 18/2002: dupla conduta exigida perante o crime de racismo.",
+      "back": "Não ser conivente e não se omitir (art. 3º)."
+    },
+    {
+      "id": "fc-resolucoes-047",
+      "area": "resolucoes",
+      "front": "Res. 18/2002: o que é vedado quanto a instrumentos e técnicas?",
+      "back": "Utilizá-los para criar, manter ou reforçar preconceitos, estigmas, estereótipos ou discriminação racial (art. 4º)."
+    },
+    {
+      "id": "fc-resolucoes-048",
+      "area": "resolucoes",
+      "front": "Res. CFP 8/2020: quem está protegido pelas ações do art. 3º?",
+      "back": "A mulher cisgênero, transexual ou travesti e a pessoa com expressões não binárias de gênero, dentre outras, considerados raça, etnia, orientação sexual e deficiência."
+    },
+    {
+      "id": "fc-resolucoes-049",
+      "area": "resolucoes",
+      "front": "Res. 8/2020: o que fazer com autores de violência de gênero?",
+      "back": "Considerar promover ações com eles, em processos interventivos e de acolhimento, para romper ciclos de violência (art. 3º § 2º)."
+    },
+    {
+      "id": "fc-resolucoes-050",
+      "area": "resolucoes",
+      "front": "Res. 8/2020: em quebra de sigilo ou notificação compulsória, que informação se presta?",
+      "back": "Só a estritamente necessária, sem comprometer a segurança da pessoa que sofreu violência (art. 5º, I)."
+    },
+    {
+      "id": "fc-psi-org-001",
+      "area": "psi-org",
+      "front": "Quais são as três etapas do modelo de mudança de Lewin?",
+      "back": "Descongelamento (criar a percepção de necessidade e reduzir resistências), mudança ou movimento (adotar novos comportamentos) e recongelamento (institucionalizar o novo padrão)."
+    },
+    {
+      "id": "fc-psi-org-002",
+      "area": "psi-org",
+      "front": "O que é a análise do campo de forças de Lewin?",
+      "back": "Toda situação é um equilíbrio entre forças propulsoras e restritivas; para mudar, aumenta-se as propulsoras ou, de preferência, reduz-se as restritivas."
+    },
+    {
+      "id": "fc-psi-org-003",
+      "area": "psi-org",
+      "front": "Kotter: quais são os 8 passos da mudança, em ordem?",
+      "back": "Senso de urgência; coalizão administrativa forte; visão e estratégia; comunicar a visão; dar poder aos funcionários para agir; vitórias de curto prazo; consolidar ganhos e produzir mais mudança; ancorar as novas abordagens na cultura."
+    },
+    {
+      "id": "fc-psi-org-004",
+      "area": "psi-org",
+      "front": "O que a banca considera necessário para uma empresa substituir seu produto e sobreviver?",
+      "back": "Detectar e superar resistências, fortalecer as fontes de apoio, planejar, implementar e estabilizar a mudança no longo prazo.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q52"
+    },
+    {
+      "id": "fc-psi-org-005",
+      "area": "psi-org",
+      "front": "Greiner: como termina a fase de crescimento por criatividade?",
+      "back": "Numa crise de liderança, resolvida pela profissionalização da gestão, que abre a fase de crescimento por direção.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q63"
+    },
+    {
+      "id": "fc-psi-org-006",
+      "area": "psi-org",
+      "front": "Greiner: fases e crises, em ordem.",
+      "back": "Criatividade (crise de liderança); direção (crise de autonomia); delegação (crise de controle); coordenação (crise de burocracia); colaboração."
+    },
+    {
+      "id": "fc-psi-org-007",
+      "area": "psi-org",
+      "front": "Quais são os valores do desenvolvimento organizacional?",
+      "back": "Respeito pelas pessoas, confiança e apoio, igualdade de poder, confrontação e participação."
+    },
+    {
+      "id": "fc-psi-org-008",
+      "area": "psi-org",
+      "front": "Cite técnicas de DO.",
+      "back": "Retroação de dados (survey feedback), consultoria de processos, formação de equipes, desenvolvimento intergrupal e investigação apreciativa.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q68"
+    },
+    {
+      "id": "fc-psi-org-009",
+      "area": "psi-org",
+      "front": "Investigação apreciativa: em que difere das outras intervenções de DO?",
+      "back": "Parte do que a organização faz bem, e não dos problemas. Ciclo: descoberta, sonho, projeto (design) e destino."
+    },
+    {
+      "id": "fc-psi-org-010",
+      "area": "psi-org",
+      "front": "Senge: quais as cinco disciplinas da organização que aprende?",
+      "back": "Domínio pessoal, modelos mentais, visão compartilhada, aprendizagem em equipe e pensamento sistêmico (a quinta disciplina)."
+    },
+    {
+      "id": "fc-psi-org-011",
+      "area": "psi-org",
+      "front": "O que caracteriza as organizações que aprendem segundo a banca?",
+      "back": "Construção de visões compartilhadas e aprendizagem generativa.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q44"
+    },
+    {
+      "id": "fc-psi-org-012",
+      "area": "psi-org",
+      "front": "Por que algumas organizações aprendem mais que outras?",
+      "back": "Porque criam mecanismos eficazes de distribuição e interpretação das informações.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q23"
+    },
+    {
+      "id": "fc-psi-org-013",
+      "area": "psi-org",
+      "front": "Argyris: aprendizagem de circuito simples x circuito duplo.",
+      "back": "Simples: detecta e corrige o erro mantendo as normas. Duplo: questiona e muda as normas, políticas e premissas que geraram o erro."
+    },
+    {
+      "id": "fc-psi-org-014",
+      "area": "psi-org",
+      "front": "Mintzberg: as 5 partes da organização.",
+      "back": "Cúpula estratégica, linha intermediária, núcleo operacional, tecnoestrutura e assessoria (equipe) de apoio."
+    },
+    {
+      "id": "fc-psi-org-015",
+      "area": "psi-org",
+      "front": "Mintzberg: as 5 configurações estruturais.",
+      "back": "Estrutura simples, burocracia mecanizada, burocracia profissional, forma divisionalizada e adhocracia."
+    },
+    {
+      "id": "fc-psi-org-016",
+      "area": "psi-org",
+      "front": "Em organização estruturada em redes e alianças, o que o psicólogo espera do RH quanto a treinamento?",
+      "back": "Que as opções de treinamento fiquem em grande parte a cargo do próprio empregado.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q58"
+    },
+    {
+      "id": "fc-psi-org-017",
+      "area": "psi-org",
+      "front": "Benchmarking: definição usada pela banca.",
+      "back": "Descrever práticas de outras empresas consideradas excepcionais num processo, para localizar falhas e planejar mudanças nos processos da própria empresa.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q53"
+    },
+    {
+      "id": "fc-psi-org-018",
+      "area": "psi-org",
+      "front": "Fleury e Fleury: definição de competência.",
+      "back": "Saber agir responsável e reconhecido, que implica mobilizar, integrar e transferir conhecimentos, recursos e habilidades, agregando valor econômico à organização e valor social ao indivíduo.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q46"
+    },
+    {
+      "id": "fc-psi-org-019",
+      "area": "psi-org",
+      "front": "O que significa CHA na gestão por competências?",
+      "back": "Conhecimentos (saber), habilidades (saber fazer) e atitudes (querer fazer)."
+    },
+    {
+      "id": "fc-psi-org-020",
+      "area": "psi-org",
+      "front": "Qual é o objetivo central da gestão por competências?",
+      "back": "Eliminar ou minimizar o gap entre as competências necessárias e as disponíveis.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q40"
+    },
+    {
+      "id": "fc-psi-org-021",
+      "area": "psi-org",
+      "front": "Na fórmula N = I × (4 − D) da autoavaliação de competências, o que indica N maior?",
+      "back": "Maior necessidade de desenvolver aquela competência: importância alta e domínio baixo.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q64"
+    },
+    {
+      "id": "fc-psi-org-022",
+      "area": "psi-org",
+      "front": "Mapeamento de competências organizacionais: quem localiza as competências, pela resposta da banca?",
+      "back": "Os próprios trabalhadores localizam as competências de que a organização precisa e dispõe, acrescidas das que a diretoria identifica como essenciais.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q68"
+    },
+    {
+      "id": "fc-psi-org-023",
+      "area": "psi-org",
+      "front": "Prahalad e Hamel: o que são competências essenciais (core competences)?",
+      "back": "Competências da organização que dão vantagem competitiva, são difíceis de imitar e permitem acesso a vários mercados."
+    },
+    {
+      "id": "fc-psi-org-024",
+      "area": "psi-org",
+      "front": "Pontes: o que a avaliação de desempenho procura verificar?",
+      "back": "O comportamento dos indivíduos no trabalho em face dos resultados desejados pela empresa.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q48"
+    },
+    {
+      "id": "fc-psi-org-025",
+      "area": "psi-org",
+      "front": "Qual o maior mérito da avaliação 360 graus segundo Pontes?",
+      "back": "Confrontar a autopercepção com a percepção de várias pessoas, e não só com a do superior.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q22"
+    },
+    {
+      "id": "fc-psi-org-026",
+      "area": "psi-org",
+      "front": "Efeito halo na avaliação de desempenho.",
+      "back": "O avaliador gosta (ou não) do avaliado e essa impressão geral distorce o julgamento de todos os fatores.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q49"
+    },
+    {
+      "id": "fc-psi-org-027",
+      "area": "psi-org",
+      "front": "Tendência central, leniência e recência: o que é cada erro?",
+      "back": "Tendência central: notas médias para evitar extremos. Leniência: notas altas para todos. Recência: pesar só os fatos mais recentes."
+    },
+    {
+      "id": "fc-psi-org-028",
+      "area": "psi-org",
+      "front": "Balanced scorecard: quais as quatro perspectivas?",
+      "back": "Financeira, clientes, processos internos, e aprendizado e crescimento, derivadas da estratégia.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q63"
+    },
+    {
+      "id": "fc-psi-org-029",
+      "area": "psi-org",
+      "front": "Navegador Skandia: indicadores do foco nas pessoas.",
+      "back": "Índice de empowerment e rotatividade dos funcionários, entre outros.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q41"
+    },
+    {
+      "id": "fc-psi-org-030",
+      "area": "psi-org",
+      "front": "Funcionário promovido pelo desempenho passado passa a render abaixo da média no novo cargo. Diagnóstico e intervenção?",
+      "back": "Princípio de Peter: chegou ao nível de incompetência; intervenção: treinamento e desenvolvimento.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q69"
+    },
+    {
+      "id": "fc-psi-org-031",
+      "area": "psi-org",
+      "front": "Da avaliação de desempenho à gestão estratégica do desempenho: o que muda?",
+      "back": "Passa-se a considerar, além do desempenho pessoal, os elementos estruturais e tecnológicos e intangíveis como cultura, liderança e valores.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q33"
+    },
+    {
+      "id": "fc-psi-org-032",
+      "area": "psi-org",
+      "front": "Thomas-Kilmann: os dois eixos e os cinco estilos.",
+      "back": "Eixos: assertividade (satisfazer os próprios interesses) e cooperação (satisfazer os do outro). Estilos: competição, colaboração, compromisso, acomodação e evitação."
+    },
+    {
+      "id": "fc-psi-org-033",
+      "area": "psi-org",
+      "front": "Líder retira da equipe quem errou e adverte quem reclamou, sem negociar. Estilo?",
+      "back": "Competição: atitude assertiva e não cooperativa, com uso do poder.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q42"
+    },
+    {
+      "id": "fc-psi-org-034",
+      "area": "psi-org",
+      "front": "Schein: efeitos do conflito intergrupal dentro de cada grupo.",
+      "back": "Aumentam a coesão, o foco na tarefa, a estruturação e a aceitação de liderança autocrática.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q34"
+    },
+    {
+      "id": "fc-psi-org-035",
+      "area": "psi-org",
+      "front": "Bowditch e Buono: abordagens estrutural x de processo na gestão de conflitos.",
+      "back": "Estruturais mudam estrutura, regras e recursos; de processo atuam na interação: desativação, reuniões de confrontação e colaboração.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q68"
+    },
+    {
+      "id": "fc-psi-org-036",
+      "area": "psi-org",
+      "front": "Visão interacionista do conflito (Robbins).",
+      "back": "Algum conflito é necessário: o funcional melhora o desempenho; o disfuncional prejudica. O nível ótimo não é zero."
+    },
+    {
+      "id": "fc-psi-org-037",
+      "area": "psi-org",
+      "front": "Paradigma da gestão de pessoas: pessoas são parceiras ou recursos?",
+      "back": "Parceiras, fornecedoras de conhecimento, habilidades e inteligência. 'Recursos produtivos' é a visão tradicional de RH.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q49"
+    },
+    {
+      "id": "fc-psi-org-038",
+      "area": "psi-org",
+      "front": "Ulrich: os quatro papéis do RH.",
+      "back": "Parceiro estratégico, especialista administrativo, defensor dos funcionários e agente de mudança."
+    },
+    {
+      "id": "fc-psi-org-039",
+      "area": "psi-org",
+      "front": "Chiavenato: qual o ponto nevrálgico da competitividade de uma empresa?",
+      "back": "A qualidade das pessoas que nela trabalham.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q37"
+    },
+    {
+      "id": "fc-psi-org-040",
+      "area": "psi-org",
+      "front": "Empowerment visa a quê, pela resposta da banca?",
+      "back": "Desenvolver o autogerenciamento das equipes.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q27"
+    },
+    {
+      "id": "fc-psi-org-041",
+      "area": "psi-org",
+      "front": "Por que medir o comprometimento organizacional como no século XX perdeu validade?",
+      "back": "Pela flexibilização das trajetórias: a permanência numa única organização pela vida toda tornou-se obsoleta.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q38"
+    },
+    {
+      "id": "fc-psi-org-042",
+      "area": "psi-org",
+      "front": "Modelos mentais: diferença entre viés cognitivo e esquema interpretativo.",
+      "back": "O esquema interpretativo (paradigma, visão de mundo) depende essencialmente de valores e crenças; o viés cognitivo só aponta os efeitos.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q37"
+    },
+    {
+      "id": "fc-psi-org-043",
+      "area": "psi-org",
+      "front": "Carreira: promoção vertical, reclassificação com e sem mudança de classe.",
+      "back": "Vertical: subir ao nível imediatamente superior no mesmo segmento. Com mudança de classe: ir a segmento de classe mais alta. Sem mudança de classe: ir a um nível de outro segmento.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q46"
+    },
+    {
+      "id": "fc-psi-org-044",
+      "area": "psi-org",
+      "front": "Papel ético do psicólogo entre produtividade e bem-estar (Petrobras 2012).",
+      "back": "Contribuir para uma relação empregado-empregador tão equânime quanto possível, sem esperar anular os conflitos inerentes.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q66"
+    },
+    {
+      "id": "fc-diag-org-001",
+      "area": "diag-org",
+      "front": "Maslow: os cinco níveis da hierarquia de necessidades, da base ao topo.",
+      "back": "Fisiológicas, segurança, sociais (afiliação), estima e autorrealização."
+    },
+    {
+      "id": "fc-diag-org-002",
+      "area": "diag-org",
+      "front": "Herzberg: o que são fatores higiênicos e o que eles fazem?",
+      "back": "Fatores do contexto (salário, benefícios, condições, supervisão, políticas). Quando adequados, evitam a insatisfação, mas não motivam."
+    },
+    {
+      "id": "fc-diag-org-003",
+      "area": "diag-org",
+      "front": "Herzberg: o que são fatores motivacionais?",
+      "back": "Fatores do conteúdo do cargo: o próprio trabalho, realização, reconhecimento, responsabilidade, crescimento. Geram satisfação."
+    },
+    {
+      "id": "fc-diag-org-004",
+      "area": "diag-org",
+      "front": "Trabalhador satisfeito com salário e benefícios, insatisfeito com mudanças técnicas na atividade. Ação pela teoria de Herzberg?",
+      "back": "Plano de treinamento e desenvolvimento, atuando sobre fatores motivacionais (conteúdo do trabalho).",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q39"
+    },
+    {
+      "id": "fc-diag-org-005",
+      "area": "diag-org",
+      "front": "McGregor: Teoria X x Teoria Y.",
+      "back": "X: as pessoas evitam trabalho e responsabilidade e precisam ser controladas. Y: as pessoas se autodirigem, buscam responsabilidade e podem gostar do trabalho."
+    },
+    {
+      "id": "fc-diag-org-006",
+      "area": "diag-org",
+      "front": "Alderfer: o que é a teoria ERG e em que difere de Maslow?",
+      "back": "Existência, relacionamento e crescimento; várias necessidades agem ao mesmo tempo e a frustração de uma superior faz regredir para a inferior."
+    },
+    {
+      "id": "fc-diag-org-007",
+      "area": "diag-org",
+      "front": "McClelland: as três necessidades adquiridas.",
+      "back": "Realização, poder e afiliação."
+    },
+    {
+      "id": "fc-diag-org-008",
+      "area": "diag-org",
+      "front": "Pessoa com grande necessidade de realização rende mais em que tipo de situação?",
+      "back": "Em situações moderadamente desafiadoras, nem muito controladas nem difíceis demais.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q30"
+    },
+    {
+      "id": "fc-diag-org-009",
+      "area": "diag-org",
+      "front": "Vroom: os três componentes da teoria da expectância.",
+      "back": "Expectância (esforço leva a desempenho), instrumentalidade (desempenho leva a recompensa) e valência (valor atribuído à recompensa)."
+    },
+    {
+      "id": "fc-diag-org-010",
+      "area": "diag-org",
+      "front": "Trabalhador cumpre a meta para pedir folga, mas vê o pedido de um colega negado. O que o gerente deve fazer, por Vroom?",
+      "back": "Garantir que a velocidade na produção resulte de fato em flexibilização do horário (instrumentalidade).",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q32"
+    },
+    {
+      "id": "fc-diag-org-011",
+      "area": "diag-org",
+      "front": "Adams: como funciona a teoria da equidade?",
+      "back": "A pessoa compara sua razão resultados/insumos com a de outros; a iniquidade gera tensão e ela muda esforço, pede mais, distorce percepções ou sai."
+    },
+    {
+      "id": "fc-diag-org-012",
+      "area": "diag-org",
+      "front": "Trabalhador acredita receber menos que colegas e mesmo assim mantém o desempenho. Como, pela equidade?",
+      "back": "Racionalizando a iniquidade, isto é, distorcendo cognitivamente a comparação.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q24"
+    },
+    {
+      "id": "fc-diag-org-013",
+      "area": "diag-org",
+      "front": "Locke: o que diz a teoria da fixação de metas?",
+      "back": "Metas específicas e difíceis, aceitas e acompanhadas de feedback, levam a desempenho melhor que 'faça o melhor possível'."
+    },
+    {
+      "id": "fc-diag-org-014",
+      "area": "diag-org",
+      "front": "Em que teorias o estabelecimento de objetivos é etapa necessária?",
+      "back": "Fixação de metas, teoria do controle e teoria da ação.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q25"
+    },
+    {
+      "id": "fc-diag-org-015",
+      "area": "diag-org",
+      "front": "Teoria da avaliação cognitiva: conclusão central.",
+      "back": "Introduzir recompensas externas, como pagamento, em trabalho gratificante pelo conteúdo tende a reduzir a motivação intrínseca.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q31"
+    },
+    {
+      "id": "fc-diag-org-016",
+      "area": "diag-org",
+      "front": "Hackman e Oldham: as cinco dimensões centrais do cargo.",
+      "back": "Variedade de habilidades, identidade da tarefa, significado da tarefa, autonomia e feedback."
+    },
+    {
+      "id": "fc-diag-org-017",
+      "area": "diag-org",
+      "front": "Que técnica nasceu da abordagem das características do trabalho?",
+      "back": "O enriquecimento de tarefas (de cargos).",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q51"
+    },
+    {
+      "id": "fc-diag-org-018",
+      "area": "diag-org",
+      "front": "Taylorismo tirou do operário a concepção da tarefa inteira e o próprio ritmo. Que dimensões de Hackman e Oldham se perderam?",
+      "back": "Identidade com a tarefa e autonomia.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q36"
+    },
+    {
+      "id": "fc-diag-org-019",
+      "area": "diag-org",
+      "front": "Davis: grau em que o empregado se imerge no cargo e vê o trabalho como parte central da vida.",
+      "back": "Envolvimento no cargo.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q25"
+    },
+    {
+      "id": "fc-diag-org-020",
+      "area": "diag-org",
+      "front": "Davis: dois sistemas de incentivo grupal que reconhecem interesses mútuos.",
+      "back": "Participação nos lucros e ganhos por produtividade.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q24"
+    },
+    {
+      "id": "fc-diag-org-021",
+      "area": "diag-org",
+      "front": "Chiavenato: modelo de decisão que aproveita melhor os candidatos e envolve todos os cargos vagos.",
+      "back": "Classificação: vários candidatos para várias vagas, comparados com os requisitos de cada cargo até esgotá-los.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q26"
+    },
+    {
+      "id": "fc-diag-org-022",
+      "area": "diag-org",
+      "front": "Chiavenato: o que é a entrevista diretiva?",
+      "back": "Determina o tipo de resposta desejada, mas não especifica as perguntas, que ficam a critério do entrevistador.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q39"
+    },
+    {
+      "id": "fc-diag-org-023",
+      "area": "diag-org",
+      "front": "Chiavenato: as cinco categorias de técnicas de seleção.",
+      "back": "Entrevista; provas de conhecimento ou capacidade; testes psicológicos; testes de personalidade; técnicas de simulação."
+    },
+    {
+      "id": "fc-diag-org-024",
+      "area": "diag-org",
+      "front": "O que se propõem os testes de personalidade na seleção?",
+      "back": "Revelar aspectos das características do candidato determinados pelo caráter e pelo temperamento.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q42"
+    },
+    {
+      "id": "fc-diag-org-025",
+      "area": "diag-org",
+      "front": "Validade de um teste de seleção.",
+      "back": "Capacidade de aferir exatamente a variável humana que se pretende medir.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q40"
+    },
+    {
+      "id": "fc-diag-org-026",
+      "area": "diag-org",
+      "front": "Muchinsky: estratégia de maior precisão preditiva para treinamento e desempenho.",
+      "back": "Medir a inteligência geral.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q30"
+    },
+    {
+      "id": "fc-diag-org-027",
+      "area": "diag-org",
+      "front": "Que teste prevê especificamente comportamento contraproducente?",
+      "back": "Teste de integridade.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q56"
+    },
+    {
+      "id": "fc-diag-org-028",
+      "area": "diag-org",
+      "front": "Entrevista estruturada: o que aumenta sua confiabilidade e validade?",
+      "back": "O entrevistador ter informações detalhadas sobre o trabalho em questão.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q61"
+    },
+    {
+      "id": "fc-diag-org-029",
+      "area": "diag-org",
+      "front": "Recrutamento interno: forma mais comum segundo a banca.",
+      "back": "Transferências dentro da empresa (além de promoções).",
+      "sourceQuestionId": "seplag-salvador-2011-psicologo-q43"
+    },
+    {
+      "id": "fc-diag-org-030",
+      "area": "diag-org",
+      "front": "Kirkpatrick: os quatro níveis de avaliação de treinamento.",
+      "back": "Reação, aprendizagem, comportamento (transferência para o cargo) e resultados."
+    },
+    {
+      "id": "fc-diag-org-031",
+      "area": "diag-org",
+      "front": "Hamblin: em que difere de Kirkpatrick?",
+      "back": "Tem cinco níveis: reação, aprendizagem, comportamento no cargo, mudança organizacional e valor final."
+    },
+    {
+      "id": "fc-diag-org-032",
+      "area": "diag-org",
+      "front": "MAIS (Borges-Andrade): quais os componentes?",
+      "back": "Insumo, procedimento, processo, resultado e ambiente; o ambiente tem necessidades, apoio, disseminação e resultados a longo prazo."
+    },
+    {
+      "id": "fc-diag-org-033",
+      "area": "diag-org",
+      "front": "No MAIS, onde fica o suporte social à transferência do aprendizado?",
+      "back": "No componente ambiente, subcomponente apoio.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q43"
+    },
+    {
+      "id": "fc-diag-org-034",
+      "area": "diag-org",
+      "front": "Spector: duas vantagens do treinamento no trabalho.",
+      "back": "Exposição ao trabalho real e alto nível de transferência.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q28"
+    },
+    {
+      "id": "fc-diag-org-035",
+      "area": "diag-org",
+      "front": "Treinamento x desenvolvimento, pela banca.",
+      "back": "Treinamento melhora o indivíduo no cargo atual; desenvolvimento enfoca o crescimento para a carreira futura e o desenvolvimento da organização.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q66"
+    },
+    {
+      "id": "fc-diag-org-036",
+      "area": "diag-org",
+      "front": "Método de desenvolvimento que movimenta a pessoa por várias posições.",
+      "back": "Rotação de cargos.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q56"
+    },
+    {
+      "id": "fc-diag-org-037",
+      "area": "diag-org",
+      "front": "Quando uma ação de treinamento é viável (Milioni)?",
+      "back": "Quando o problema de desempenho decorre de falta de preparo para a função ou para uma etapa do trabalho.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q43"
+    },
+    {
+      "id": "fc-diag-org-038",
+      "area": "diag-org",
+      "front": "Etapas do levantamento de necessidades de treinamento (LNT).",
+      "back": "Análise organizacional, análise de tarefas (operações) e análise individual (pessoas)."
+    },
+    {
+      "id": "fc-diag-org-039",
+      "area": "diag-org",
+      "front": "Por que mais informação não basta para a aprendizagem organizacional?",
+      "back": "Porque aprender implica mudar a forma de ver a realidade e as capacidades pessoais; informação a mais não garante isso.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q69"
+    },
+    {
+      "id": "fc-diag-org-040",
+      "area": "diag-org",
+      "front": "Schein: os três níveis da cultura organizacional.",
+      "back": "Artefatos visíveis, valores expostos (crenças e valores declarados) e pressupostos básicos (inconscientes, a essência)."
+    },
+    {
+      "id": "fc-diag-org-041",
+      "area": "diag-org",
+      "front": "Por que se diz que a cultura pode ser gerenciada?",
+      "back": "Porque os gerentes podem modelar elementos superficiais, como símbolos, histórias e cerimônias, que transmitem acordos culturais.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q51"
+    },
+    {
+      "id": "fc-diag-org-042",
+      "area": "diag-org",
+      "front": "Efeito de uma cultura organizacional forte sobre a rotatividade.",
+      "back": "Diminui a rotatividade, por gerar coesão, lealdade e comprometimento.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q27"
+    },
+    {
+      "id": "fc-diag-org-043",
+      "area": "diag-org",
+      "front": "Robbins: o que é socialização organizacional?",
+      "back": "Processo que adapta os funcionários à cultura organizacional.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q29"
+    },
+    {
+      "id": "fc-diag-org-044",
+      "area": "diag-org",
+      "front": "Crença não confirmada, não explicitada e aceita sem análise, num campo organizacional.",
+      "back": "Mito organizacional.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q25"
+    },
+    {
+      "id": "fc-diag-org-045",
+      "area": "diag-org",
+      "front": "Clima organizacional: definição da banca.",
+      "back": "Percepção que os colaboradores têm e avaliação que fazem das práticas e procedimentos da organização.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q35"
+    },
+    {
+      "id": "fc-diag-org-046",
+      "area": "diag-org",
+      "front": "Quando a decisão em grupo é melhor que a individual?",
+      "back": "Quando é preciso gerar conhecimento mais completo; o custo é mais tempo e risco de conformidade.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q32"
+    },
+    {
+      "id": "fc-diag-org-047",
+      "area": "diag-org",
+      "front": "Simon: racionalidade limitada.",
+      "back": "O decisor não conhece todas as alternativas nem consequências e escolhe a primeira solução satisfatória, não a ótima."
+    },
+    {
+      "id": "fc-diag-org-048",
+      "area": "diag-org",
+      "front": "Pensamento grupal (Janis).",
+      "back": "Pressão por consenso num grupo coeso suprime a crítica e leva a decisões ruins; sinais: ilusão de invulnerabilidade, autocensura, unanimidade aparente."
+    },
+    {
+      "id": "fc-diag-org-049",
+      "area": "diag-org",
+      "front": "Thomas e Ely: as três perspectivas de gestão da diversidade.",
+      "back": "Discriminação e justiça; acesso e legitimidade; aprendizagem e efetividade, a mais recente e integradora.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q35"
+    },
+    {
+      "id": "fc-diag-org-050",
+      "area": "diag-org",
+      "front": "Pesquisa-ação: o que faz o pesquisador ou agente de mudança?",
+      "back": "Compreende a dinâmica do grupo pelas inter-relações de suas partes e intervém junto com os participantes.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q67"
+    },
+    {
+      "id": "fc-psi-social-001",
+      "area": "psi-social",
+      "front": "Bion: o que é o grupo de trabalho?",
+      "back": "O nível racional, consciente, de qualquer grupo, responsável pela realização da tarefa proposta.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q28"
+    },
+    {
+      "id": "fc-psi-social-002",
+      "area": "psi-social",
+      "front": "Bion: quais são os três supostos básicos?",
+      "back": "Dependência, luta e fuga, e acasalamento. São estados emocionais inconscientes que atrapalham a tarefa."
+    },
+    {
+      "id": "fc-psi-social-003",
+      "area": "psi-social",
+      "front": "Que estratégia de grupo (Zimerman) usar para trabalhar problemas de relacionamento interpessoal nos setores da organização?",
+      "back": "O grupo operativo.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q29"
+    },
+    {
+      "id": "fc-psi-social-004",
+      "area": "psi-social",
+      "front": "Pichon-Rivière: o que é ECRO?",
+      "back": "Esquema conceitual, referencial e operativo: o conjunto de conhecimentos e experiências com que o grupo pensa e age."
+    },
+    {
+      "id": "fc-psi-social-005",
+      "area": "psi-social",
+      "front": "Pichon-Rivière: os vetores do cone invertido.",
+      "back": "Pertença, cooperação, pertinência, comunicação, aprendizagem e telê."
+    },
+    {
+      "id": "fc-psi-social-006",
+      "area": "psi-social",
+      "front": "Pichon-Rivière: papéis típicos no grupo operativo.",
+      "back": "Porta-voz, bode expiatório, líder de mudança e líder de resistência (sabotador)."
+    },
+    {
+      "id": "fc-psi-social-007",
+      "area": "psi-social",
+      "front": "Dissonância cognitiva: quando o trabalhador age contra suas atitudes, o que diminui o mal-estar?",
+      "back": "Uma recompensa maior pelo comportamento.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q22"
+    },
+    {
+      "id": "fc-psi-social-008",
+      "area": "psi-social",
+      "front": "Status no grupo: o que pesa mais para o equilíbrio?",
+      "back": "A percepção de justiça do status, mais do que sua equidade objetiva.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q29"
+    },
+    {
+      "id": "fc-psi-social-009",
+      "area": "psi-social",
+      "front": "Grupo formado por polícia, alunos, reitoria e família para resolver uma crise no campus.",
+      "back": "Grupo de tarefa (grupo formal que pode atravessar a hierarquia).",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q36"
+    },
+    {
+      "id": "fc-psi-social-010",
+      "area": "psi-social",
+      "front": "Robbins: quando é melhor um 'grupo de trabalho' do que uma 'equipe de trabalho'?",
+      "back": "Quando o objetivo principal é compartilhar informações.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q36"
+    },
+    {
+      "id": "fc-psi-social-011",
+      "area": "psi-social",
+      "front": "Robbins: quatro diferenças entre grupo e equipe de trabalho.",
+      "back": "Objetivo (informação x desempenho coletivo), sinergia (neutra x positiva), responsabilidade (individual x individual e mútua), habilidades (aleatórias x complementares)."
+    },
+    {
+      "id": "fc-psi-social-012",
+      "area": "psi-social",
+      "front": "Robbins e Finley: esforço necessário para a eficácia da equipe.",
+      "back": "Manter equilíbrio constante entre os interesses individuais e os coletivos.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q37"
+    },
+    {
+      "id": "fc-psi-social-013",
+      "area": "psi-social",
+      "front": "Robbins e Finley: que mito prejudica o desenvolvimento de equipes?",
+      "back": "O de que as pessoas trabalham melhor em equipe do que individualmente.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q38"
+    },
+    {
+      "id": "fc-psi-social-014",
+      "area": "psi-social",
+      "front": "Tuckman: as cinco fases do desenvolvimento de equipes.",
+      "back": "Formação, tormenta ou conflito, normatização, desempenho e desintegração (encerramento)."
+    },
+    {
+      "id": "fc-psi-social-015",
+      "area": "psi-social",
+      "front": "Na fase de desintegração de uma equipe, qual a tarefa do líder?",
+      "back": "Conduzir a transição, tratando o encerramento como processo natural.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q66"
+    },
+    {
+      "id": "fc-psi-social-016",
+      "area": "psi-social",
+      "front": "Hackman: três critérios de efetividade de equipe.",
+      "back": "Resultado produtivo, satisfação e crescimento dos membros, e capacidade da equipe de continuar trabalhando junta (sobrevivência).",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q41"
+    },
+    {
+      "id": "fc-psi-social-017",
+      "area": "psi-social",
+      "front": "Por que um 'time dos sonhos' pode perder para um time sem estrelas?",
+      "back": "Porque a efetividade da equipe depende da integração e da interação, não da soma de talentos individuais.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q47"
+    },
+    {
+      "id": "fc-psi-social-018",
+      "area": "psi-social",
+      "front": "Liderança (Ohio): as duas dimensões.",
+      "back": "Estrutura de iniciação (organizar tarefas e papéis) e consideração (confiança, respeito, atenção aos liderados)."
+    },
+    {
+      "id": "fc-psi-social-019",
+      "area": "psi-social",
+      "front": "Grid gerencial: qual é o estilo 9.9 e qual o 1.9?",
+      "back": "9.9: gerência de equipe, máxima preocupação com produção e pessoas. 1.9: clube de campo, só pessoas."
+    },
+    {
+      "id": "fc-psi-social-020",
+      "area": "psi-social",
+      "front": "Fiedler: em que situações o líder orientado para a tarefa vai melhor?",
+      "back": "Nas muito favoráveis e nas muito desfavoráveis; o orientado para o relacionamento, nas intermediárias."
+    },
+    {
+      "id": "fc-psi-social-021",
+      "area": "psi-social",
+      "front": "Hersey e Blanchard: os quatro estilos e a maturidade correspondente.",
+      "back": "Determinar (M1), persuadir (M2), compartilhar (M3) e delegar (M4), conforme capacidade e disposição do liderado."
+    },
+    {
+      "id": "fc-psi-social-022",
+      "area": "psi-social",
+      "front": "Teoria que diz que o líder deve ajustar o comportamento às situações de trabalho.",
+      "back": "Teoria da contingência (situacional).",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q26"
+    },
+    {
+      "id": "fc-psi-social-023",
+      "area": "psi-social",
+      "front": "House, caminho-meta: estilos do líder e sua função.",
+      "back": "Diretivo, apoiador, orientado para a conquista ou participativo; ajuda os subordinados a atingir metas pessoais compatíveis com as da organização.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q28"
+    },
+    {
+      "id": "fc-psi-social-024",
+      "area": "psi-social",
+      "front": "Visão de futuro, risco pessoal, avaliação realista do ambiente, sensibilidade aos liderados e comportamento não convencional: que líder?",
+      "back": "Carismático.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q34"
+    },
+    {
+      "id": "fc-psi-social-025",
+      "area": "psi-social",
+      "front": "Bass: componentes da liderança transformacional.",
+      "back": "Influência idealizada (carisma), motivação inspiradora, estimulação intelectual e consideração individualizada."
+    },
+    {
+      "id": "fc-psi-social-026",
+      "area": "psi-social",
+      "front": "Líderes de organizações que aprendem fazem o quê?",
+      "back": "Incentivam o questionamento dos padrões mentais vigentes.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q62"
+    },
+    {
+      "id": "fc-psi-social-027",
+      "area": "psi-social",
+      "front": "Liderança compartilhada: o que exige do gestor antes?",
+      "back": "Ação para mudar as expectativas dos subordinados, que esperam que o líder comande sozinho.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q69"
+    },
+    {
+      "id": "fc-psi-social-028",
+      "area": "psi-social",
+      "front": "French e Raven: as cinco bases de poder.",
+      "back": "Coercitivo, de recompensa, legítimo, de especialista e de referência."
+    },
+    {
+      "id": "fc-psi-social-029",
+      "area": "psi-social",
+      "front": "Ator de TV que influencia a escolha de uma marca exerce que poder?",
+      "back": "Poder de referência.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q33"
+    },
+    {
+      "id": "fc-psi-social-030",
+      "area": "psi-social",
+      "front": "Escuta ativa (Robbins): exemplo de comportamento.",
+      "back": "Usar paráfrases, além de contato visual, perguntas e não interromper.",
+      "sourceQuestionId": "al-to-2005-consultor-legislativo-psicologia-q33"
+    },
+    {
+      "id": "fc-psi-social-031",
+      "area": "psi-social",
+      "front": "Que feedback é útil, pela banca?",
+      "back": "O dirigido e específico.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q65"
+    },
+    {
+      "id": "fc-psi-social-032",
+      "area": "psi-social",
+      "front": "Por que o feedback é importante numa visão sistêmica da empresa?",
+      "back": "Proporciona aprendizagem de informações novas sobre si, os outros e os processos grupais.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q67"
+    },
+    {
+      "id": "fc-psi-social-033",
+      "area": "psi-social",
+      "front": "Janela de Johari: as quatro áreas.",
+      "back": "Aberta (eu e os outros sabemos), cega (só os outros sabem), oculta (só eu sei) e desconhecida (ninguém sabe)."
+    },
+    {
+      "id": "fc-psi-social-034",
+      "area": "psi-social",
+      "front": "Como o chefe evita receber informação tendenciosa de baixo?",
+      "back": "Criando confiança nas relações de trabalho.",
+      "sourceQuestionId": "mpe-ro-2005-analista-psicologia-q22"
+    },
+    {
+      "id": "fc-psi-social-035",
+      "area": "psi-social",
+      "front": "Redes de comunicação: qual é centralizada e qual favorece satisfação?",
+      "back": "Roda é centralizada (rápida e precisa em tarefas simples); todos os canais favorece satisfação e tarefas complexas."
+    },
+    {
+      "id": "fc-psi-social-036",
+      "area": "psi-social",
+      "front": "Professores em greve procuram a comunidade acadêmica para apoiar o movimento. Tática de influência?",
+      "back": "Coalizão.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q47"
+    },
+    {
+      "id": "fc-psi-social-037",
+      "area": "psi-social",
+      "front": "Robbins: cite as táticas de influência.",
+      "back": "Persuasão racional, apelo inspiracional, consulta, troca, apelo pessoal, insinuação, legitimidade, pressão e coalizão."
+    },
+    {
+      "id": "fc-psi-social-038",
+      "area": "psi-social",
+      "front": "Gerenciamento de impressões: 'meu chefe foi seu colega de quarto' é que técnica?",
+      "back": "Associação (vincular-se a pessoas ou coisas valorizadas).",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q70"
+    },
+    {
+      "id": "fc-psi-social-039",
+      "area": "psi-social",
+      "front": "Intervenção em crise: o que o psicólogo faz primeiro?",
+      "back": "Interage com a pessoa para avaliar a situação, aliviar a ansiedade e agir no menor tempo possível, dando-lhe sensação de controle.",
+      "sourceQuestionId": "secad-to-2009-psicologo-q45"
+    },
+    {
+      "id": "fc-psi-social-040",
+      "area": "psi-social",
+      "front": "Grupos de apoio: característica central.",
+      "back": "Necessidade de apoio psicológico a uma categoria de pessoas que vive uma crise comum; sustentam a força já existente.",
+      "sourceQuestionId": "secad-to-2009-psicologo-q46"
+    },
+    {
+      "id": "fc-psi-social-041",
+      "area": "psi-social",
+      "front": "Primeiros cuidados psicológicos (OMS): os três verbos de ação.",
+      "back": "Observar, escutar e aproximar (conectar a apoios). Atender necessidades básicas e não forçar o relato do evento."
+    },
+    {
+      "id": "fc-psi-social-042",
+      "area": "psi-social",
+      "front": "Pirâmide de intervenções do IASC em emergências.",
+      "back": "Da base ao topo: serviços básicos e segurança; apoio comunitário e familiar; apoio focado não especializado; serviços especializados."
+    },
+    {
+      "id": "fc-saude-trab-001",
+      "area": "saude-trab",
+      "front": "Psicodinâmica do trabalho: como Dejours conceitua o trabalho?",
+      "back": "Aquilo que o sujeito acrescenta às prescrições para atingir os objetivos: trabalhar é preencher a lacuna irredutível entre o prescrito e o real.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q56"
+    },
+    {
+      "id": "fc-saude-trab-002",
+      "area": "saude-trab",
+      "front": "Para a psicodinâmica, o sofrimento no trabalho é evitável?",
+      "back": "Não. É intrínseco ao trabalhar; pode virar sofrimento criativo (pela via do reconhecimento) ou patogênico.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q42"
+    },
+    {
+      "id": "fc-saude-trab-003",
+      "area": "saude-trab",
+      "front": "Dejours: diferença entre julgamento de utilidade e julgamento de beleza.",
+      "back": "Utilidade: dado pela hierarquia e pelos clientes, sobre a contribuição técnica e econômica. Beleza: dado pelos pares, sobre a conformidade às regras do ofício e a originalidade."
+    },
+    {
+      "id": "fc-saude-trab-004",
+      "area": "saude-trab",
+      "front": "Que dispositivo favorece o julgamento de beleza numa organização?",
+      "back": "Um espaço comum em que os trabalhadores apresentam seu modo de fazer, expõem as transgressões às regras do ofício e as legitimam por consenso.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q37"
+    },
+    {
+      "id": "fc-saude-trab-005",
+      "area": "saude-trab",
+      "front": "O que são estratégias defensivas coletivas e ideologia defensiva de profissão?",
+      "back": "Modos coletivos de negar ou minimizar o risco e o sofrimento para continuar trabalhando; a ideologia defensiva aparece como aparente inconsciência do risco pela equipe.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q63"
+    },
+    {
+      "id": "fc-saude-trab-006",
+      "area": "saude-trab",
+      "front": "Como se coordenam as inteligências no trabalho, pela psicodinâmica?",
+      "back": "Cada trabalhador torna visíveis e justificáveis os desvios que se autoriza em relação ao procedimento, permitindo compromisso entre o técnico e o social.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q43"
+    },
+    {
+      "id": "fc-saude-trab-007",
+      "area": "saude-trab",
+      "front": "Que lugar a ideologia neoliberal dá ao sofrimento, segundo a psicodinâmica?",
+      "back": "O de adversidade, não de injustiça: seria resultado de opção pessoal por não se esforçar o bastante.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q59"
+    },
+    {
+      "id": "fc-saude-trab-008",
+      "area": "saude-trab",
+      "front": "Abordagens de saúde mental e trabalho: método de cada uma (estresse, psicodinâmica, epidemiológica).",
+      "back": "Estresse: estudos predominantemente quantitativos. Psicodinâmica: qualitativos, pela palavra em coletivo. Epidemiológica: semiclínicos, estatísticos e escalas psicométricas.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q39"
+    },
+    {
+      "id": "fc-saude-trab-009",
+      "area": "saude-trab",
+      "front": "Clot: como é a autoconfrontação cruzada?",
+      "back": "Registrar a atividade, confrontar o trabalhador com o registro diante do psicólogo e de um colega experiente e, por fim, levar o material ao coletivo.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q55"
+    },
+    {
+      "id": "fc-saude-trab-010",
+      "area": "saude-trab",
+      "front": "Clot: o que são gênero e estilo profissional?",
+      "back": "Gênero: as regras não escritas, compartilhadas pelo coletivo, sobre como se faz. Estilo: a retomada pessoal do gênero por cada trabalhador."
+    },
+    {
+      "id": "fc-saude-trab-011",
+      "area": "saude-trab",
+      "front": "Seligmann-Silva: o que a flexibilidade da precarização produz?",
+      "back": "Mudança permanente que desconsidera o tempo do trabalho mental e afetivo e obriga à polivalência, abalando o reconhecimento do trabalhador.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q35"
+    },
+    {
+      "id": "fc-saude-trab-012",
+      "area": "saude-trab",
+      "front": "Selye: as três fases da síndrome geral de adaptação.",
+      "back": "Alarme, resistência e exaustão."
+    },
+    {
+      "id": "fc-saude-trab-013",
+      "area": "saude-trab",
+      "front": "Lipp: as quatro fases do estresse no modelo brasileiro.",
+      "back": "Alerta, resistência, quase-exaustão e exaustão."
+    },
+    {
+      "id": "fc-saude-trab-014",
+      "area": "saude-trab",
+      "front": "Lazarus e Folkman: avaliação primária, secundária e tipos de enfrentamento.",
+      "back": "Primária: a situação é ameaça? Secundária: tenho recursos? Enfrentamento focado no problema (agir sobre a situação) ou na emoção (regular a reação)."
+    },
+    {
+      "id": "fc-saude-trab-015",
+      "area": "saude-trab",
+      "front": "Karasek: combinações do modelo demanda-controle.",
+      "back": "Alta demanda e baixo controle: alto desgaste. Alta demanda e alto controle: trabalho ativo. Baixa e baixo: passivo. Baixa e alto: baixo desgaste."
+    },
+    {
+      "id": "fc-saude-trab-016",
+      "area": "saude-trab",
+      "front": "Carga de trabalho e controle: como interagem, pela banca?",
+      "back": "Com alto controle, reduzem-se os efeitos negativos da carga alta, seja quantitativa ou qualitativamente alta.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q44"
+    },
+    {
+      "id": "fc-saude-trab-017",
+      "area": "saude-trab",
+      "front": "Exigência de controle das manifestações emocionais: efeito sobre o estresse.",
+      "back": "Favorece perturbações relacionadas ao estresse.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q48"
+    },
+    {
+      "id": "fc-saude-trab-018",
+      "area": "saude-trab",
+      "front": "Burnout (Maslach): as três dimensões.",
+      "back": "Exaustão emocional, despersonalização (cinismo) e redução da realização pessoal, por exposição crônica ao estresse no trabalho.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q46"
+    },
+    {
+      "id": "fc-saude-trab-019",
+      "area": "saude-trab",
+      "front": "Siegrist: modelo de estresse ocupacional.",
+      "back": "Desequilíbrio entre esforço e recompensa (salário, estima, segurança e perspectiva de carreira), agravado pelo supercomprometimento."
+    },
+    {
+      "id": "fc-saude-trab-020",
+      "area": "saude-trab",
+      "front": "Operário que viu o irmão cair do andaime tem insônia, pesadelos e hipervigilância há 3 meses. Hipótese?",
+      "back": "Transtorno de estresse pós-traumático.",
+      "sourceQuestionId": "bndes-2024-analista-psicologia-organizacional-q58"
+    },
+    {
+      "id": "fc-saude-trab-021",
+      "area": "saude-trab",
+      "front": "Hirigoyen: definição de assédio moral adotada pelo Ministério da Saúde.",
+      "back": "Toda conduta abusiva (gesto, palavra, comportamento, atitude) que atente, por repetição ou sistematização, contra a dignidade ou integridade psíquica ou física, ameaçando o emprego ou degradando o clima.",
+      "sourceQuestionId": "bndes-2013-profissional-basico-psicologia-q38"
+    },
+    {
+      "id": "fc-saude-trab-022",
+      "area": "saude-trab",
+      "front": "Assédio sexual: definição da banca.",
+      "back": "Comportamento de natureza sexual que, por chantagem ou intimidação, cria ambiente desfavorável e interfere no desempenho.",
+      "sourceQuestionId": "petrobras-2012-psicologo-junior-q26"
+    },
+    {
+      "id": "fc-saude-trab-023",
+      "area": "saude-trab",
+      "front": "Walton: os 8 critérios de qualidade de vida no trabalho.",
+      "back": "Compensação justa; condições seguras e saudáveis; uso e desenvolvimento de capacidades; crescimento e segurança; integração social; constitucionalismo; trabalho e espaço total de vida; relevância social."
+    },
+    {
+      "id": "fc-saude-trab-024",
+      "area": "saude-trab",
+      "front": "Schilling: os três grupos de relação trabalho-doença.",
+      "back": "I: trabalho como causa necessária (doenças profissionais). II: fator contributivo, não necessário. III: provocador de distúrbio latente ou agravador de doença existente."
+    },
+    {
+      "id": "fc-saude-trab-025",
+      "area": "saude-trab",
+      "front": "NR-1: ordem das medidas de prevenção.",
+      "back": "Eliminação; minimização com proteção coletiva; medidas administrativas ou de organização do trabalho; proteção individual."
+    },
+    {
+      "id": "fc-saude-trab-026",
+      "area": "saude-trab",
+      "front": "NR-1: em que categoria do GRO entram os fatores de risco psicossociais?",
+      "back": "Nos fatores ergonômicos (1.5.3.1.4)."
+    },
+    {
+      "id": "fc-saude-trab-027",
+      "area": "saude-trab",
+      "front": "NR-1: desde quando vigora o capítulo 1.5 com os riscos psicossociais?",
+      "back": "Desde 26/05/2026: Portaria MTE 1.419/2024, com vigência prorrogada pela Portaria MTE 765/2025."
+    },
+    {
+      "id": "fc-saude-trab-028",
+      "area": "saude-trab",
+      "front": "NR-1: documentos mínimos do PGR.",
+      "back": "Inventário de riscos e plano de ação (1.5.7.1)."
+    },
+    {
+      "id": "fc-saude-trab-029",
+      "area": "saude-trab",
+      "front": "NR-1: periodicidade de revisão da avaliação de riscos.",
+      "back": "A cada 2 anos ou nas situações previstas; até 3 anos para organizações com certificação em sistema de gestão de SST."
+    },
+    {
+      "id": "fc-saude-trab-030",
+      "area": "saude-trab",
+      "front": "NR-1, 1.4.1.1: três medidas contra o assédio nas organizações com CIPA.",
+      "back": "Regras de conduta divulgadas; procedimentos de denúncia, apuração e sanção com anonimato do denunciante; capacitação no mínimo a cada 12 meses em todos os níveis."
+    },
+    {
+      "id": "fc-saude-trab-031",
+      "area": "saude-trab",
+      "front": "Guia de fatores psicossociais do MTE: três pontos que derrubam alternativas.",
+      "back": "As NRs não definem profissional específico; o MTE não indica ferramenta; o objetivo não é avaliar a saúde mental individual de cada trabalhador."
+    },
+    {
+      "id": "fc-saude-trab-032",
+      "area": "saude-trab",
+      "front": "NR-4: quem compõe o SESMT? O psicólogo está incluído?",
+      "back": "Médico do trabalho, engenheiro de segurança, técnico de segurança, enfermeiro do trabalho e auxiliar ou técnico de enfermagem do trabalho. O psicólogo não está."
+    },
+    {
+      "id": "fc-saude-trab-033",
+      "area": "saude-trab",
+      "front": "NR-4: carga horária mínima de médico, engenheiro e enfermeiro no SESMT.",
+      "back": "15 horas semanais (tempo parcial) ou 30 horas (tempo integral). Técnicos: 44 horas."
+    },
+    {
+      "id": "fc-saude-trab-034",
+      "area": "saude-trab",
+      "front": "NR-5: como são escolhidos presidente e vice da CIPA?",
+      "back": "Presidente designado pela organização; vice escolhido pelos representantes eleitos dos empregados, entre os titulares."
+    },
+    {
+      "id": "fc-saude-trab-035",
+      "area": "saude-trab",
+      "front": "NR-5: mandato e estabilidade dos eleitos.",
+      "back": "Mandato de 1 ano, com uma reeleição. Estabilidade do eleito para cargo de direção desde o registro da candidatura até 1 ano após o mandato."
+    },
+    {
+      "id": "fc-saude-trab-036",
+      "area": "saude-trab",
+      "front": "NR-5: prazos do processo eleitoral da CIPA.",
+      "back": "Convocar no mínimo 60 dias antes do fim do mandato; inscrições por pelo menos 15 dias; eleição no mínimo 30 dias antes do fim do mandato."
+    },
+    {
+      "id": "fc-saude-trab-037",
+      "area": "saude-trab",
+      "front": "NR-5: carga horária do treinamento da CIPA por grau de risco.",
+      "back": "GR1 8 h; GR2 12 h; GR3 16 h; GR4 20 h."
+    },
+    {
+      "id": "fc-saude-trab-038",
+      "area": "saude-trab",
+      "front": "NR-7: os cinco exames do PCMSO.",
+      "back": "Admissional, periódico, de retorno ao trabalho, de mudança de riscos ocupacionais e demissional."
+    },
+    {
+      "id": "fc-saude-trab-039",
+      "area": "saude-trab",
+      "front": "NR-7: o PCMSO pode servir para selecionar pessoal?",
+      "back": "Não. Não deve ter caráter de seleção de pessoal (7.3.2.2)."
+    },
+    {
+      "id": "fc-saude-trab-040",
+      "area": "saude-trab",
+      "front": "NR-7: exame de retorno e encaminhamento à Previdência.",
+      "back": "Retorno antes de reassumir após ausência igual ou superior a 30 dias, ocupacional ou não. Previdência quando o afastamento for superior a 15 dias."
+    },
+    {
+      "id": "fc-saude-trab-041",
+      "area": "saude-trab",
+      "front": "NR-7: por quanto tempo se guarda o prontuário?",
+      "back": "No mínimo 20 anos após o desligamento do empregado."
+    },
+    {
+      "id": "fc-saude-trab-042",
+      "area": "saude-trab",
+      "front": "NR-17: quando a Análise Ergonômica do Trabalho é obrigatória?",
+      "back": "Quando a AEP indicar necessidade de avaliação aprofundada, quando as ações forem inadequadas, quando sugerida pelo PCMSO ou quando a análise de acidente ou doença apontar condição de trabalho."
+    },
+    {
+      "id": "fc-saude-trab-043",
+      "area": "saude-trab",
+      "front": "NR-17: aspectos da organização do trabalho (17.4.1).",
+      "back": "Normas de produção, modo operatório, exigência de tempo, ritmo, conteúdo das tarefas e aspectos cognitivos."
+    },
+    {
+      "id": "fc-saude-trab-044",
+      "area": "saude-trab",
+      "front": "NR-17: regras das pausas.",
+      "back": "Computadas como tempo de trabalho efetivo e usufruídas fora do posto, sem aumento de cadência."
+    },
+    {
+      "id": "fc-saude-trab-045",
+      "area": "saude-trab",
+      "front": "NR-20: a quais instalações ela não se aplica?",
+      "back": "Às plataformas e instalações de apoio de exploração e produção de petróleo e gás do subsolo marinho, regidas pela NR-37."
+    },
+    {
+      "id": "fc-saude-trab-046",
+      "area": "saude-trab",
+      "front": "NR-20: classe do transporte dutoviário e da refinaria.",
+      "back": "Transporte dutoviário: Classe II. Refinaria: Classe III."
+    },
+    {
+      "id": "fc-saude-trab-047",
+      "area": "saude-trab",
+      "front": "NR-20: prazos do curso de atualização após acidente.",
+      "back": "Até 30 dias após modificação significativa; 45 dias após explosão ou queimadura de 2º ou 3º grau com internação; 90 dias após morte de trabalhador."
+    },
+    {
+      "id": "fc-saude-trab-048",
+      "area": "saude-trab",
+      "front": "NR-37: o que a operadora deve adotar quanto a riscos psicossociais a bordo?",
+      "back": "Programas de promoção e prevenção para mitigar os fatores identificados e prevenir agressão, assédio moral e assédio sexual (37.6.2 d)."
+    },
+    {
+      "id": "fc-saude-trab-049",
+      "area": "saude-trab",
+      "front": "NR-37: CIPLAT, quem preside e quando há eleitos?",
+      "back": "Preside o empregado de maior nível hierárquico lotado na plataforma; há eleitos quando a turma de embarque tem 8 ou mais empregados."
+    },
+    {
+      "id": "fc-saude-trab-050",
+      "area": "saude-trab",
+      "front": "NR-37: treinamento básico antes do primeiro embarque.",
+      "back": "Mínimo de 6 horas, incluindo riscos psicossociais de jornada prolongada, turnos e trabalho noturno."
+    },
+    {
+      "id": "fc-saude-trab-051",
+      "area": "saude-trab",
+      "front": "Portaria GM/MS 1.999/2023: datas e efeito.",
+      "back": "Assinada em 27/11/2023, publicada em 29/11/2023, vigência 30 dias após; altera a Portaria de Consolidação GM/MS 5/2017."
+    },
+    {
+      "id": "fc-saude-trab-052",
+      "area": "saude-trab",
+      "front": "LDRT: diferença entre Lista A e Lista B.",
+      "back": "Lista A: agentes ou fatores de risco com as doenças. Lista B: doenças com os agentes ou fatores."
+    },
+    {
+      "id": "fc-saude-trab-053",
+      "area": "saude-trab",
+      "front": "LDRT: código do Esgotamento (Burnout).",
+      "back": "Z73.0 (CID-10)."
+    },
+    {
+      "id": "fc-saude-trab-054",
+      "area": "saude-trab",
+      "front": "LDRT: que formas de contratação aparecem entre os fatores psicossociais de gestão organizacional?",
+      "back": "Terceirização, trabalho intermitente, MEI, pejotização e uberização."
+    },
+    {
+      "id": "fc-saude-trab-055",
+      "area": "saude-trab",
+      "front": "Diretriz da Política de Saúde do Trabalhador: prevenção precede reparação. Exemplo da banca.",
+      "back": "Obrigar empresas a publicar balanço de Saúde e Segurança do Trabalho, como fazem com dados contábeis.",
+      "sourceQuestionId": "seplag-salvador-2011-psicologo-q56"
+    },
+    {
+      "id": "fc-saude-trab-056",
+      "area": "saude-trab",
+      "front": "Que pessoas o SUS não considera trabalhadores para fins de responsabilização?",
+      "back": "As que vivem de rendimentos patrimoniais.",
+      "sourceQuestionId": "seplag-salvador-2011-psicologo-q55"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "areaId": "resolucoes",
+  "resumo": "<p><strong>Por que esta área é diferente.</strong> O edital lista 8 resoluções do CFP pelo número, e 5 delas (8/2025, 6/2019, 31/2022, 14/2023 e 9/2024) são mais novas que quase todas as provas antigas do banco. Resultado: só <strong>3 questões oficiais</strong> no banco tratam do assunto, todas de 2011 e 2012 e todas sobre normas já revogadas (seplag-salvador-2011-psicologo-q45 e seplag-salvador-2011-psicologo-q47, sobre documentos, quando valia a Res. 07/2003; petrobras-2012-psicologo-junior-q67, sobre avaliação psicológica). A prova mais recente do banco, BNDES 2024, cobrou 3 questões da Res. CFP 02/2022 (riscos psicossociais), que foi revogada pela 14/2023: elas ficaram fora do banco, na fila de revisão, mas mostram que a Cesgranrio cobra a resolução <strong>do momento</strong>, letra por letra. Para cobrir o edital, o banco tem <strong>39 questões autorais</strong> sobre o texto vigente: 1/1999 (2), 18/2002 (2), 8/2020 (4), 8/2025 (7), 6/2019 (7), 31/2022 (6), 14/2023 (5), 9/2024 (6).</p>\n<p><strong>Como estudar.</strong> Este é o item em que a decoreba paga: números (5 anos, 15 anos, 40 candidatos, 3º grau, 30 dias), listas fechadas (modalidades de documento, fontes fundamentais e complementares, bancas do concurso) e verbos (deverá x poderá x considerará). A banca tende a trocar o elemento de uma lista pelo da lista vizinha. Tudo aqui vem de <code>docs/normas/</code>, conferido em 05/11/2026; o grau de verificação varia e está dito em cada norma.</p>\n<p><strong>Grau de verificação por norma.</strong></p>\n<ul>\n<li><strong>Texto oficial lido por inteiro:</strong> 01/1999 (PDF do CFP), 18/2002 (PDF do CFP), 8/2020 (PDF do CFP conferido com o DOU), 6/2019 (versão comentada do CFP), 31/2022 e 14/2023 (cópias do DOU).</li>\n<li><strong>Só em reprodução de terceiro:</strong> 8/2025 (Normas Brasil; o CFP confirmou número, revogação da 2/2016, profissiografia, bancas e devolutiva) e 9/2024 (ABMES, que transcreve o DOU). Os detalhes por artigo dessas duas carregam essa ressalva.</li>\n<li><strong>Não verificado em nenhuma:</strong> a ausência de alteração posterior no portal Atos Oficiais do CFP, que bloqueia acesso automatizado. O STF e a Res. 01/1999: o histórico vem de notícias, o acórdão não foi lido.</li>\n</ul>\n<p><strong>Revogações que viram alternativa.</strong> 6/2019 revogou 15/1996, 07/2003 e 04/2019. 31/2022 revogou 09/2018 (que já tinha revogado a 02/2003). 14/2023 revogou 02/2022. 9/2024 revogou 11/2018 e 04/2020. 8/2025 revogou 2/2016. O simulado avisa, depois da resposta, quando uma questão antiga cita norma revogada; o gabarito mostrado é sempre o oficial da prova.</p>",
+  "cheatsheet": [
+    {
+      "heading": "Res. 6/2019: documentos escritos (5 modalidades, 6 documentos)",
+      "items": [
+        "Art. 8º: I declaração; II atestado; III relatório (a. psicológico; b. multiprofissional); IV laudo; V parecer.",
+        "<strong>Declaração</strong> (art. 9º): registra comparecimento, acompanhamento, dias e horários; <strong>vedado</strong> registrar sintomas, situações ou estados psicológicos.",
+        "<strong>Atestado</strong> (art. 10): certifica situação ou estado com fundamento em <strong>diagnóstico psicológico</strong>; justifica faltas, aptidão, afastamento; CID facultado quando justificadamente necessário; CRP pode pedir a fundamentação em até 5 anos.",
+        "<strong>Relatório</strong> (art. 11): comunica a atuação; <strong>não tem finalidade de diagnóstico</strong>; 5 itens: identificação, descrição da demanda, procedimento, análise, conclusão.",
+        "<strong>Laudo</strong> (art. 13): resultado de <strong>avaliação psicológica</strong>; 6 itens: os 5 do relatório + <strong>referências</strong>.",
+        "<strong>Parecer</strong> (art. 14): análise técnica de questão-problema ou documento questionado; <strong>não</strong> decorre de avaliação nem de intervenção; 5 itens: identificação, descrição da demanda, análise, conclusão, referências (sem procedimento).",
+        "Guarda: <strong>mínimo de 5 anos</strong>, ampliável (art. 15), em conjunto com a instituição. Devolutiva: dever de ao menos uma para <strong>relatório e laudo</strong> (art. 18). Laudas numeradas, rubricadas da primeira até a <strong>penúltima</strong>, assinatura na última (art. 5º § 8º). Linguagem impessoal, terceira pessoa. Entrega com protocolo. Vigência: 90 dias após a publicação; data: 29/03/2019."
+      ]
+    },
+    {
+      "heading": "Res. 31/2022: avaliação psicológica e SATEPSI",
+      "items": [
+        "Art. 1º § 1º: avaliação é <strong>processo estruturado</strong> de investigação de fenômenos psicológicos, com métodos, técnicas e instrumentos, para prover informações à <strong>tomada de decisão</strong>.",
+        "Fontes <strong>fundamentais</strong> (art. 3º, e/ou): testes aprovados pelo CFP; entrevistas e anamneses; protocolos ou registros de observação. Fontes <strong>complementares</strong> (art. 4º, 'podem'): técnicas e instrumentos não psicológicos com respaldo científico; documentos técnicos, como relatórios de equipe.",
+        "Art. 7º: testes servem para identificar, descrever, qualificar e mensurar. Art. 8º: uso de teste é privativo (Lei 4.119/1962). Art. 11: seguir rigorosamente o manual aprovado.",
+        "Art. 12: usar teste com parecer desfavorável ou não avaliado é <strong>falta ética</strong>, exceto em pesquisa e ensino com objetivo formativo e histórico.",
+        "Art. 13: dúvida de classificação: os <strong>CRPs</strong> submetem à <strong>CCAP</strong>. Art. 19: 2 pareceristas ad hoc. Art. 22: estudos de validade, precisão e normas com prazo máximo de <strong>15 anos</strong>; testes aprovados antes: validade 20 e normas 15.",
+        "Art. 24: formato diferente de <strong>aplicação</strong> exige apreciação da CCAP; de <strong>correção</strong>, seguindo o manual, não. Vigência: 60 dias após a publicação; revogou a 09/2018."
+      ]
+    },
+    {
+      "heading": "Res. 8/2025: avaliação psicológica em concurso público (verificada em reprodução)",
+      "items": [
+        "Finalidade (art. 6º): identificar requisitos psicológicos compatíveis com o cargo; <strong>não é psicodiagnóstico</strong>. Requisitos vêm do estudo científico do cargo (<strong>profissiografia</strong>, art. 7º); resultado <strong>apto/inapto</strong>.",
+        "Três bancas: <strong>Examinadora</strong> (responsabilidade técnica de toda a avaliação; currículos no site; até 5 anos da publicação do resultado final), <strong>Avaliadora</strong> (aplica, corrige e faz devolutiva), <strong>Revisora</strong> (recursos; quem atuou nas etapas está impedido).",
+        "Impedimento absoluto (art. 4º): cônjuge, companheiro, parente consanguíneo ou por afinidade <strong>até o terceiro grau</strong>.",
+        "Edital (art. 12): extrato dos requisitos obrigatório; <strong>vedado</strong> divulgar nomes de métodos, técnicas, instrumentos e escores.",
+        "Máximo de <strong>40 candidatos por sala</strong> sem regulamentação específica (art. 14). Devolutiva a <strong>inaptos</strong>, não filmada nem gravada; representante legal recebe envelope lacrado, sem devolutiva. Aptidão <strong>não vale</strong> para outro cargo ou certame (art. 23). Revogou a 2/2016."
+      ]
+    },
+    {
+      "heading": "Res. 14/2023 (riscos psicossociais) e Res. 9/2024 (TDICs)",
+      "items": [
+        "14/2023: avaliação de riscos psicossociais pode ser <strong>individual ou em equipe multiprofissional ou intersetorial</strong> (art. 3º); atividade presencial, <strong>remota ou híbrida</strong> (art. 2º § 3º); autonomia técnica e instrumentos com evidências de validade e confiabilidade (art. 4º); atende exames admissionais, periódicos, de retorno, de mudança de função e demissionais (art. 5º); resultado em <strong>documento psicológico</strong> (art. 6º); revogou a <strong>02/2022</strong>.",
+        "14/2023 x MTE: o Guia da NR-1 diz que a avaliação no GRO não visa a saúde mental individual e que as NRs não definem profissional específico. Não atribua exclusividade ao psicólogo.",
+        "9/2024: mediação eventual ou frequente por TDICs; testes só com parecer favorável do SATEPSI <strong>e</strong> padronização e normatização específicas para o meio (art. 2º p.ú.); em risco de morte, violência, privação de liberdade, urgência, emergência ou desastre, <strong>considerar</strong> serviço concomitante, encaminhamento presencial ou atendimento só presencial (art. 5º).",
+        "9/2024: inscrição secundária <strong>dispensada</strong> (art. 6º § 1º); contrato <strong>escrito ou verbal</strong>, foro da inscrição principal da psicóloga (art. 7º); vigência 30 dias após a publicação; revogou 11/2018 e 04/2020."
+      ]
+    },
+    {
+      "heading": "Res. 01/1999, 18/2002 e 8/2020: direitos humanos na prática profissional",
+      "items": [
+        "01/1999: homossexualidade não é doença, distúrbio nem perversão (considerando); não favorecer patologização nem ação coercitiva para tratamentos não solicitados (art. 3º); não colaborar com serviços de 'tratamento e cura' (art. 3º p.ú.); não fazer pronunciamento público que reforce preconceito (art. 4º).",
+        "18/2002: contribuir para eliminar o racismo (art. 1º); não ser conivente nem se omitir perante o crime de racismo (art. 3º); não usar instrumentos ou técnicas para criar, manter ou reforçar preconceitos e estereótipos (art. 4º); não colaborar com eventos discriminatórios (art. 5º).",
+        "8/2020: acolher e cooperar com ações protetivas à mulher cis, trans ou travesti e à pessoa não binária (art. 3º); fortalecer redes de apoio (§ 1º); <strong>considerar promover</strong> ações com autores de violência (§ 2º); não favorecer patologização e revitimização (art. 4º); na quebra de sigilo e notificação, informações estritamente necessárias (art. 5º)."
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "title": "Documento trocado: a definição certa com o nome do documento vizinho",
+      "body": "As questões de documentos dão a finalidade e pedem o nome. Em seplag-salvador-2011-psicologo-q45 a finalidade 'resposta esclarecedora, no campo do conhecimento psicológico' é do <strong>parecer</strong>, e as alternativas oferecem laudo, relatório, atestado e declaração; em seplag-salvador-2011-psicologo-q47 o prontuário é definido como documento único, legal, sigiloso e científico. As autorais repetem o formato pela Res. 6/2019: declaração sem sintomas (autoral-r6-01), parecer sem avaliação (autoral-r6-02), referências como item que distingue laudo de relatório (autoral-r6-03). Defesa: para cada documento, saiba responder 'decorre de avaliação?' e 'quantos itens tem?'.",
+      "evidence": [
+        "seplag-salvador-2011-psicologo-q45",
+        "seplag-salvador-2011-psicologo-q47",
+        "autoral-r6-01",
+        "autoral-r6-02",
+        "autoral-r6-03"
+      ]
+    },
+    {
+      "title": "Avaliação psicológica: instrumento é relativo, decisão é do psicólogo",
+      "body": "petrobras-2012-psicologo-junior-q67 já cobrava a ideia que a Res. 31/2022 pôs em artigo: instrumentos têm limites e vantagens relativos à população, às condições e aos objetivos, o que obriga a análise crítica. As autorais exploram as listas: fonte complementar é o relatório de equipe multiprofissional (autoral-r31-01); teste desfavorável no SATEPSI é falta ética, salvo pesquisa e ensino (autoral-r31-02). O distrator clássico inverte fundamental e complementar ou torna o teste obrigatório.",
+      "evidence": [
+        "petrobras-2012-psicologo-junior-q67",
+        "autoral-r31-01",
+        "autoral-r31-02"
+      ]
+    },
+    {
+      "title": "Número decorado: prazo, limite e grau de parentesco",
+      "body": "Nas normas novas, a forma mais simples de questão é pedir um número: 40 candidatos por sala e parentesco até o 3º grau (Res. 8/2025; autoral-r825-04, autoral-r825-06), guarda mínima de 5 anos (Res. 6/2019; autoral-r6-04), 15 anos para estudos de validade e normas (Res. 31/2022; autoral-r31-03). As alternativas erradas trazem números vizinhos (30, 50; 2º grau; 10 e 20 anos) e trocas de 'mínimo' por 'exatamente'.",
+      "evidence": [
+        "autoral-r825-04",
+        "autoral-r825-06",
+        "autoral-r6-04",
+        "autoral-r31-03"
+      ]
+    },
+    {
+      "title": "Verbo da norma: 'considerar' não é 'dever', 'pode' não é 'exclusivamente'",
+      "body": "As resoluções de direitos e de TDICs usam verbos brandos de propósito. A 8/2020 diz que a psicóloga 'considerará promover' ações com autores de violência (autoral-r8-04); a 9/2024 manda 'considerar a possibilidade' de atendimento presencial em situação de risco, sem proibir o remoto (autoral-r9-03); a 14/2023 permite avaliação individual ou em equipe (autoral-r14-01). A alternativa que endurece o verbo ('é vedado', 'deverá obrigatoriamente', 'exclusivamente em equipe') é o distrator.",
+      "evidence": [
+        "autoral-r8-04",
+        "autoral-r9-03",
+        "autoral-r14-01"
+      ]
+    },
+    {
+      "title": "Revogação: qual resolução substituiu qual",
+      "body": "A banca de 2024 cobrou a resolução de riscos psicossociais vigente na época (02/2022), hoje revogada pela 14/2023 (autoral-r14-02). A 9/2024 revogou a 11/2018 e a 04/2020 e entrou em vigor 30 dias depois de publicada (autoral-r9-05). Decore a cadeia: 07/2003 para 6/2019; 02/2003 para 09/2018 para 31/2022; 11/2018 para 9/2024; 2/2016 para 8/2025; 02/2022 para 14/2023.",
+      "evidence": [
+        "autoral-r14-02",
+        "autoral-r9-05"
+      ]
+    }
+  ],
+  "trapWords": [
+    {
+      "term": "laudo (6 itens)",
+      "confusedWith": "relatório (5 itens)",
+      "distinction": "Laudo decorre de avaliação psicológica e acrescenta referências; relatório comunica a atuação e não tem finalidade de diagnóstico."
+    },
+    {
+      "term": "parecer",
+      "confusedWith": "laudo",
+      "distinction": "Parecer é análise técnica de questão-problema ou de documento questionado; não decorre de avaliação nem de intervenção. Tem 5 itens, sem 'procedimento'."
+    },
+    {
+      "term": "declaração",
+      "confusedWith": "atestado",
+      "distinction": "Declaração registra comparecimento e horários, sem sintoma; atestado certifica estado com base em diagnóstico psicológico."
+    },
+    {
+      "term": "fontes fundamentais",
+      "confusedWith": "fontes complementares",
+      "distinction": "Fundamentais: testes aprovados, entrevistas e anamneses, observação. Complementares: instrumentos não psicológicos com respaldo científico e documentos técnicos."
+    },
+    {
+      "term": "Banca Examinadora",
+      "confusedWith": "Banca Avaliadora e Revisora",
+      "distinction": "Examinadora tem a responsabilidade técnica de tudo; Avaliadora aplica, corrige e faz devolutiva; Revisora julga recursos."
+    },
+    {
+      "term": "formato de correção novo",
+      "confusedWith": "formato de aplicação novo",
+      "distinction": "Res. 31/2022, art. 24: aplicação diferente vai à CCAP; correção diferente que siga o manual não precisa de nova avaliação."
+    },
+    {
+      "term": "15 anos",
+      "confusedWith": "20 anos",
+      "distinction": "Res. 31/2022, art. 22: estudos de validade, precisão e normas valem até 15 anos; para testes aprovados antes da resolução, validade 20 e normas 15."
+    },
+    {
+      "term": "inscrição secundária dispensada",
+      "confusedWith": "inscrição em cada estado",
+      "distinction": "Res. 9/2024, art. 6º § 1º: atendimento por TDICs a residentes de outros estados dispensa a inscrição secundária."
+    }
+  ]
+}

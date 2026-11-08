@@ -1,0 +1,1415 @@
+{
+ "concurso": "cefet-rj-2014-psicologo",
+ "questions": [
+  {
+   "id": "cefet-rj-2014-psicologo-q1",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 1,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>O extrato do texto que justifica a afirmativa do autor “É, em todos os sentidos, uma passagem.” (l. 10-11) é</p>",
+   "passage": "<p>(1) O dia: 28 de novembro de 1995. A hora: aproximadamente vinte, talvez quinze para a uma da tarde. O local: a recepção do Hotel Novo Mundo, aqui ao lado, no Flamengo.</p>\n<p>(5) Acabara de almoçar com minha secretária e alguns amigos, descêramos a escada em curva que leva do restaurante ao <em>hall</em> da recepção. Pelo menos uma ou duas vezes por semana cumpro esse itinerário e, pelo que me lembre, nada de especial me (10) acontece nessa hora e nesse lugar. É, em todos os sentidos, uma passagem.</p>\n<p>Não cheguei a ouvir o meu nome. Foi a secretária que me avisou: um dos porteiros, de cabelos brancos, óculos de aros grossos, queria falar comigo. (15) E sabia o meu nome — eu que nunca fora hóspede do hotel, apenas um frequentador mais ou menos regular do restaurante que é aberto a todos.</p>\n<p>Aproximei-me do balcão, duvidando que realmente me tivessem chamado. Ainda mais pelo nome: (20) não haveria uma hipótese passável para que soubessem meu nome.</p>\n<p>— Sim ...</p>\n<p>O porteiro tirou os óculos, abriu uma gaveta embaixo do balcão e de lá retirou o embrulho, que pare(25)cia um envelope médio, gordo, amarrado por barbante ordinário.</p>\n<p>— Um hóspede esteve aqui no último fim de semana, perguntou se nós o conhecíamos, pediu que lhe entregássemos este envelope ...</p>\n<p>(30) — Sim ... sim ...</p>\n<p>Eu não sabia se examinava o envelope ou a cara do porteiro. Nada fizera para que ele soubesse meu nome, para que pudesse dizer a alguém que me conhecia. O fato de duas ou três vezes por semana eu (35) almoçar no restaurante do hotel não lhe daria esse direito. [...]</p>\n<p>Passou-me o envelope, que era, à primeira vista e ao primeiro contato, aquilo que eu desconfiava: os originais de um livro, contos, romance ou poesias, tal(40)vez história ou ensaio.</p>\n<p>— Está certo ... não terei de agradecer... a menos que o nome e o endereço do interessado estejam...</p>\n<p>Foi então que olhei bem o embrulho. A princípio apenas suspeitei. E ficaria na suspeita se não hou(45)vesse certeza. Uma das faces estava subscritada, meu nome em letras grandes e a informação logo embaixo, sublinhada pelo traço inconfundível: “Para o jornalista Carlos Heitor Cony. Em mão”.</p>\n<p>Era a letra do meu pai. A letra e o modo. Tudo no (50) embrulho o revelava, inteiro, total. Só ele faria aquelas dobras no papel, só ele daria aquele nó no barbante ordinário, só ele escreveria meu nome daquela maneira, acrescentando a função que também fora a sua. Sobretudo, só ele destacaria o fato de alguém (55) ter se prestado a me trazer aquele embrulho. Ele detestava o correio normal, mas se alguém o avisava que ia a algum lugar, logo encontrava um motivo para mandar alguma coisa a alguém por intermédio do portador. [...]</p>\n<p>(60) Recente, feito e amarrado há pouco, tudo no envelope o revelava: ele, o pai inteiro, com suas manias e cheiros.</p>\n<p>Apenas uma coisa não fazia sentido. Estávamos — como já disse — em novembro de 1995. E o (65) pai morrera, aos noventa e um anos, no dia 14 de janeiro de 1985.</p>\n<p><small>CONY, C. H. Quase Memória: quase-romance. São Paulo: Companhia das Letras. 2001. p. 9-11. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“O dia: 28 de novembro de 1995.” (l. 1)",
+     "explanation": "A data não explica por que o lugar e a hora são 'passagem'."
+    },
+    {
+     "key": "B",
+     "text": "“A hora: aproximadamente vinte, talvez quinze para a uma da tarde” (l. 1-2)",
+     "explanation": "A hora não justifica a ideia de passagem."
+    },
+    {
+     "key": "C",
+     "text": "“O local: a recepção do Hotel Novo Mundo, aqui ao lado, no Flamengo.” (l. 3-4)",
+     "explanation": "O local, por si, não indica a rotina de mero trânsito."
+    },
+    {
+     "key": "D",
+     "text": "“descêramos a escada em curva que leva do restaurante ao <em>hall</em>” (l. 6-7)",
+     "explanation": "Descreve o trajeto daquele dia, mas não a recorrência que faz do lugar uma mera passagem, sem nada de especial."
+    },
+    {
+     "key": "E",
+     "text": "“Pelo menos uma ou duas vezes por semana cumpro esse itinerário” (l. 7-9)"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O narrador explica que cumpre aquele itinerário uma ou duas vezes por semana e que 'nada de especial' lhe acontece ali. O lugar é só trajeto rotineiro, uma passagem.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q2",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 2,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>A palavra que substitui <strong>passável</strong> no trecho “hipótese passável” (l. 20), mantendo o mesmo sentido, é</p>",
+   "passage": "<p>(1) O dia: 28 de novembro de 1995. A hora: aproximadamente vinte, talvez quinze para a uma da tarde. O local: a recepção do Hotel Novo Mundo, aqui ao lado, no Flamengo.</p>\n<p>(5) Acabara de almoçar com minha secretária e alguns amigos, descêramos a escada em curva que leva do restaurante ao <em>hall</em> da recepção. Pelo menos uma ou duas vezes por semana cumpro esse itinerário e, pelo que me lembre, nada de especial me (10) acontece nessa hora e nesse lugar. É, em todos os sentidos, uma passagem.</p>\n<p>Não cheguei a ouvir o meu nome. Foi a secretária que me avisou: um dos porteiros, de cabelos brancos, óculos de aros grossos, queria falar comigo. (15) E sabia o meu nome — eu que nunca fora hóspede do hotel, apenas um frequentador mais ou menos regular do restaurante que é aberto a todos.</p>\n<p>Aproximei-me do balcão, duvidando que realmente me tivessem chamado. Ainda mais pelo nome: (20) não haveria uma hipótese passável para que soubessem meu nome.</p>\n<p>— Sim ...</p>\n<p>O porteiro tirou os óculos, abriu uma gaveta embaixo do balcão e de lá retirou o embrulho, que pare(25)cia um envelope médio, gordo, amarrado por barbante ordinário.</p>\n<p>— Um hóspede esteve aqui no último fim de semana, perguntou se nós o conhecíamos, pediu que lhe entregássemos este envelope ...</p>\n<p>(30) — Sim ... sim ...</p>\n<p>Eu não sabia se examinava o envelope ou a cara do porteiro. Nada fizera para que ele soubesse meu nome, para que pudesse dizer a alguém que me conhecia. O fato de duas ou três vezes por semana eu (35) almoçar no restaurante do hotel não lhe daria esse direito. [...]</p>\n<p>Passou-me o envelope, que era, à primeira vista e ao primeiro contato, aquilo que eu desconfiava: os originais de um livro, contos, romance ou poesias, tal(40)vez história ou ensaio.</p>\n<p>— Está certo ... não terei de agradecer... a menos que o nome e o endereço do interessado estejam...</p>\n<p>Foi então que olhei bem o embrulho. A princípio apenas suspeitei. E ficaria na suspeita se não hou(45)vesse certeza. Uma das faces estava subscritada, meu nome em letras grandes e a informação logo embaixo, sublinhada pelo traço inconfundível: “Para o jornalista Carlos Heitor Cony. Em mão”.</p>\n<p>Era a letra do meu pai. A letra e o modo. Tudo no (50) embrulho o revelava, inteiro, total. Só ele faria aquelas dobras no papel, só ele daria aquele nó no barbante ordinário, só ele escreveria meu nome daquela maneira, acrescentando a função que também fora a sua. Sobretudo, só ele destacaria o fato de alguém (55) ter se prestado a me trazer aquele embrulho. Ele detestava o correio normal, mas se alguém o avisava que ia a algum lugar, logo encontrava um motivo para mandar alguma coisa a alguém por intermédio do portador. [...]</p>\n<p>(60) Recente, feito e amarrado há pouco, tudo no envelope o revelava: ele, o pai inteiro, com suas manias e cheiros.</p>\n<p>Apenas uma coisa não fazia sentido. Estávamos — como já disse — em novembro de 1995. E o (65) pai morrera, aos noventa e um anos, no dia 14 de janeiro de 1985.</p>\n<p><small>CONY, C. H. Quase Memória: quase-romance. São Paulo: Companhia das Letras. 2001. p. 9-11. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "medíocre",
+     "explanation": "'Medíocre' tem sentido pejorativo (de pouco valor)."
+    },
+    {
+     "key": "B",
+     "text": "moderado",
+     "explanation": "'Moderado' indica comedimento, não plausibilidade."
+    },
+    {
+     "key": "C",
+     "text": "razoável"
+    },
+    {
+     "key": "D",
+     "text": "sofrível",
+     "explanation": "'Sofrível' indica qualidade fraca, apenas tolerável, com tom negativo."
+    },
+    {
+     "key": "E",
+     "text": "incontestável",
+     "explanation": "'Incontestável' é muito mais forte que 'passável'."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "'Hipótese passável' é uma hipótese aceitável, que se possa admitir: razoável. O narrador diz que não havia explicação aceitável para saberem seu nome.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q3",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 3,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>O Texto apresenta duas partes distintas, sendo a primeira a apresentação do narrador no contexto espaço-temporal da trama e a segunda, as considerações e desconfianças em relação ao embrulho.</p><p>O trecho que marca a mudança é:</p>",
+   "passage": "<p>(1) O dia: 28 de novembro de 1995. A hora: aproximadamente vinte, talvez quinze para a uma da tarde. O local: a recepção do Hotel Novo Mundo, aqui ao lado, no Flamengo.</p>\n<p>(5) Acabara de almoçar com minha secretária e alguns amigos, descêramos a escada em curva que leva do restaurante ao <em>hall</em> da recepção. Pelo menos uma ou duas vezes por semana cumpro esse itinerário e, pelo que me lembre, nada de especial me (10) acontece nessa hora e nesse lugar. É, em todos os sentidos, uma passagem.</p>\n<p>Não cheguei a ouvir o meu nome. Foi a secretária que me avisou: um dos porteiros, de cabelos brancos, óculos de aros grossos, queria falar comigo. (15) E sabia o meu nome — eu que nunca fora hóspede do hotel, apenas um frequentador mais ou menos regular do restaurante que é aberto a todos.</p>\n<p>Aproximei-me do balcão, duvidando que realmente me tivessem chamado. Ainda mais pelo nome: (20) não haveria uma hipótese passável para que soubessem meu nome.</p>\n<p>— Sim ...</p>\n<p>O porteiro tirou os óculos, abriu uma gaveta embaixo do balcão e de lá retirou o embrulho, que pare(25)cia um envelope médio, gordo, amarrado por barbante ordinário.</p>\n<p>— Um hóspede esteve aqui no último fim de semana, perguntou se nós o conhecíamos, pediu que lhe entregássemos este envelope ...</p>\n<p>(30) — Sim ... sim ...</p>\n<p>Eu não sabia se examinava o envelope ou a cara do porteiro. Nada fizera para que ele soubesse meu nome, para que pudesse dizer a alguém que me conhecia. O fato de duas ou três vezes por semana eu (35) almoçar no restaurante do hotel não lhe daria esse direito. [...]</p>\n<p>Passou-me o envelope, que era, à primeira vista e ao primeiro contato, aquilo que eu desconfiava: os originais de um livro, contos, romance ou poesias, tal(40)vez história ou ensaio.</p>\n<p>— Está certo ... não terei de agradecer... a menos que o nome e o endereço do interessado estejam...</p>\n<p>Foi então que olhei bem o embrulho. A princípio apenas suspeitei. E ficaria na suspeita se não hou(45)vesse certeza. Uma das faces estava subscritada, meu nome em letras grandes e a informação logo embaixo, sublinhada pelo traço inconfundível: “Para o jornalista Carlos Heitor Cony. Em mão”.</p>\n<p>Era a letra do meu pai. A letra e o modo. Tudo no (50) embrulho o revelava, inteiro, total. Só ele faria aquelas dobras no papel, só ele daria aquele nó no barbante ordinário, só ele escreveria meu nome daquela maneira, acrescentando a função que também fora a sua. Sobretudo, só ele destacaria o fato de alguém (55) ter se prestado a me trazer aquele embrulho. Ele detestava o correio normal, mas se alguém o avisava que ia a algum lugar, logo encontrava um motivo para mandar alguma coisa a alguém por intermédio do portador. [...]</p>\n<p>(60) Recente, feito e amarrado há pouco, tudo no envelope o revelava: ele, o pai inteiro, com suas manias e cheiros.</p>\n<p>Apenas uma coisa não fazia sentido. Estávamos — como já disse — em novembro de 1995. E o (65) pai morrera, aos noventa e um anos, no dia 14 de janeiro de 1985.</p>\n<p><small>CONY, C. H. Quase Memória: quase-romance. São Paulo: Companhia das Letras. 2001. p. 9-11. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“Não cheguei a ouvir o meu nome” (l. 12)",
+     "explanation": "Ainda faz parte da narração dos acontecimentos no hotel."
+    },
+    {
+     "key": "B",
+     "text": "“Aproximei-me do balcão, duvidando que realmente me tivessem chamado.” (l. 18-19)",
+     "explanation": "A dúvida é sobre ter sido chamado, não sobre o embrulho."
+    },
+    {
+     "key": "C",
+     "text": "“— Um hóspede esteve aqui no último fim de semana, perguntou se nós o conhecíamos, pediu que lhe entregássemos este envelope” (l. 27-29)",
+     "explanation": "É a fala do porteiro, ainda na narração dos fatos."
+    },
+    {
+     "key": "D",
+     "text": "“Foi então que olhei bem o embrulho.” (l. 43)"
+    },
+    {
+     "key": "E",
+     "text": "“Recente, feito e amarrado há pouco, tudo no envelope o revelava” (l. 60-61)",
+     "explanation": "Já está dentro da segunda parte, não marca a passagem."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "'Foi então que olhei bem o embrulho' inaugura a observação atenta do pacote e as suspeitas (a letra, o modo, o pai), que formam a segunda parte.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q4",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 4,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>Quando o narrador diz “A princípio apenas suspeitei” (l. 43-44), essa suspeita é a de que o</p>",
+   "passage": "<p>(1) O dia: 28 de novembro de 1995. A hora: aproximadamente vinte, talvez quinze para a uma da tarde. O local: a recepção do Hotel Novo Mundo, aqui ao lado, no Flamengo.</p>\n<p>(5) Acabara de almoçar com minha secretária e alguns amigos, descêramos a escada em curva que leva do restaurante ao <em>hall</em> da recepção. Pelo menos uma ou duas vezes por semana cumpro esse itinerário e, pelo que me lembre, nada de especial me (10) acontece nessa hora e nesse lugar. É, em todos os sentidos, uma passagem.</p>\n<p>Não cheguei a ouvir o meu nome. Foi a secretária que me avisou: um dos porteiros, de cabelos brancos, óculos de aros grossos, queria falar comigo. (15) E sabia o meu nome — eu que nunca fora hóspede do hotel, apenas um frequentador mais ou menos regular do restaurante que é aberto a todos.</p>\n<p>Aproximei-me do balcão, duvidando que realmente me tivessem chamado. Ainda mais pelo nome: (20) não haveria uma hipótese passável para que soubessem meu nome.</p>\n<p>— Sim ...</p>\n<p>O porteiro tirou os óculos, abriu uma gaveta embaixo do balcão e de lá retirou o embrulho, que pare(25)cia um envelope médio, gordo, amarrado por barbante ordinário.</p>\n<p>— Um hóspede esteve aqui no último fim de semana, perguntou se nós o conhecíamos, pediu que lhe entregássemos este envelope ...</p>\n<p>(30) — Sim ... sim ...</p>\n<p>Eu não sabia se examinava o envelope ou a cara do porteiro. Nada fizera para que ele soubesse meu nome, para que pudesse dizer a alguém que me conhecia. O fato de duas ou três vezes por semana eu (35) almoçar no restaurante do hotel não lhe daria esse direito. [...]</p>\n<p>Passou-me o envelope, que era, à primeira vista e ao primeiro contato, aquilo que eu desconfiava: os originais de um livro, contos, romance ou poesias, tal(40)vez história ou ensaio.</p>\n<p>— Está certo ... não terei de agradecer... a menos que o nome e o endereço do interessado estejam...</p>\n<p>Foi então que olhei bem o embrulho. A princípio apenas suspeitei. E ficaria na suspeita se não hou(45)vesse certeza. Uma das faces estava subscritada, meu nome em letras grandes e a informação logo embaixo, sublinhada pelo traço inconfundível: “Para o jornalista Carlos Heitor Cony. Em mão”.</p>\n<p>Era a letra do meu pai. A letra e o modo. Tudo no (50) embrulho o revelava, inteiro, total. Só ele faria aquelas dobras no papel, só ele daria aquele nó no barbante ordinário, só ele escreveria meu nome daquela maneira, acrescentando a função que também fora a sua. Sobretudo, só ele destacaria o fato de alguém (55) ter se prestado a me trazer aquele embrulho. Ele detestava o correio normal, mas se alguém o avisava que ia a algum lugar, logo encontrava um motivo para mandar alguma coisa a alguém por intermédio do portador. [...]</p>\n<p>(60) Recente, feito e amarrado há pouco, tudo no envelope o revelava: ele, o pai inteiro, com suas manias e cheiros.</p>\n<p>Apenas uma coisa não fazia sentido. Estávamos — como já disse — em novembro de 1995. E o (65) pai morrera, aos noventa e um anos, no dia 14 de janeiro de 1985.</p>\n<p><small>CONY, C. H. Quase Memória: quase-romance. São Paulo: Companhia das Letras. 2001. p. 9-11. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "pacote fora embrulhado pelo pai dele."
+    },
+    {
+     "key": "B",
+     "text": "destinatário do embrulho fosse ele próprio.",
+     "explanation": "Que o pacote era para ele já se sabia (o porteiro o chamou e o nome estava escrito)."
+    },
+    {
+     "key": "C",
+     "text": "envelope continha os originais de uma obra escrita.",
+     "explanation": "Essa desconfiança aparece antes (l. 37-40) e não é a 'suspeita' que vira certeza."
+    },
+    {
+     "key": "D",
+     "text": "emissor deveria ter, mais tarde, seu agradecimento.",
+     "explanation": "O narrador diz o contrário ('não terei de agradecer')."
+    },
+    {
+     "key": "E",
+     "text": "remetente só poderia ser um jornalista, já que enviara originais.",
+     "explanation": "Não há essa suposição no texto."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Logo após a suspeita, vem a certeza: 'Era a letra do meu pai. A letra e o modo.' O narrador suspeitava que o pacote fora feito pelo pai.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q5",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 5,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>A informação contida no trecho “só ele destacaria o fato de alguém ter se prestado a me trazer aquele embrulho” (l. 54-55) é corroborada por que passagem?</p>",
+   "passage": "<p>(1) O dia: 28 de novembro de 1995. A hora: aproximadamente vinte, talvez quinze para a uma da tarde. O local: a recepção do Hotel Novo Mundo, aqui ao lado, no Flamengo.</p>\n<p>(5) Acabara de almoçar com minha secretária e alguns amigos, descêramos a escada em curva que leva do restaurante ao <em>hall</em> da recepção. Pelo menos uma ou duas vezes por semana cumpro esse itinerário e, pelo que me lembre, nada de especial me (10) acontece nessa hora e nesse lugar. É, em todos os sentidos, uma passagem.</p>\n<p>Não cheguei a ouvir o meu nome. Foi a secretária que me avisou: um dos porteiros, de cabelos brancos, óculos de aros grossos, queria falar comigo. (15) E sabia o meu nome — eu que nunca fora hóspede do hotel, apenas um frequentador mais ou menos regular do restaurante que é aberto a todos.</p>\n<p>Aproximei-me do balcão, duvidando que realmente me tivessem chamado. Ainda mais pelo nome: (20) não haveria uma hipótese passável para que soubessem meu nome.</p>\n<p>— Sim ...</p>\n<p>O porteiro tirou os óculos, abriu uma gaveta embaixo do balcão e de lá retirou o embrulho, que pare(25)cia um envelope médio, gordo, amarrado por barbante ordinário.</p>\n<p>— Um hóspede esteve aqui no último fim de semana, perguntou se nós o conhecíamos, pediu que lhe entregássemos este envelope ...</p>\n<p>(30) — Sim ... sim ...</p>\n<p>Eu não sabia se examinava o envelope ou a cara do porteiro. Nada fizera para que ele soubesse meu nome, para que pudesse dizer a alguém que me conhecia. O fato de duas ou três vezes por semana eu (35) almoçar no restaurante do hotel não lhe daria esse direito. [...]</p>\n<p>Passou-me o envelope, que era, à primeira vista e ao primeiro contato, aquilo que eu desconfiava: os originais de um livro, contos, romance ou poesias, tal(40)vez história ou ensaio.</p>\n<p>— Está certo ... não terei de agradecer... a menos que o nome e o endereço do interessado estejam...</p>\n<p>Foi então que olhei bem o embrulho. A princípio apenas suspeitei. E ficaria na suspeita se não hou(45)vesse certeza. Uma das faces estava subscritada, meu nome em letras grandes e a informação logo embaixo, sublinhada pelo traço inconfundível: “Para o jornalista Carlos Heitor Cony. Em mão”.</p>\n<p>Era a letra do meu pai. A letra e o modo. Tudo no (50) embrulho o revelava, inteiro, total. Só ele faria aquelas dobras no papel, só ele daria aquele nó no barbante ordinário, só ele escreveria meu nome daquela maneira, acrescentando a função que também fora a sua. Sobretudo, só ele destacaria o fato de alguém (55) ter se prestado a me trazer aquele embrulho. Ele detestava o correio normal, mas se alguém o avisava que ia a algum lugar, logo encontrava um motivo para mandar alguma coisa a alguém por intermédio do portador. [...]</p>\n<p>(60) Recente, feito e amarrado há pouco, tudo no envelope o revelava: ele, o pai inteiro, com suas manias e cheiros.</p>\n<p>Apenas uma coisa não fazia sentido. Estávamos — como já disse — em novembro de 1995. E o (65) pai morrera, aos noventa e um anos, no dia 14 de janeiro de 1985.</p>\n<p><small>CONY, C. H. Quase Memória: quase-romance. São Paulo: Companhia das Letras. 2001. p. 9-11. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“Está certo” (l. 41)",
+     "explanation": "É fala do narrador ao porteiro, sem relação com o portador."
+    },
+    {
+     "key": "B",
+     "text": "“Uma das faces estava subscritada” (l. 45)",
+     "explanation": "Indica só que havia endereçamento."
+    },
+    {
+     "key": "C",
+     "text": "“Para o jornalista Carlos Heitor Cony” (l. 47-48)",
+     "explanation": "Identifica o destinatário e sua função, não o portador."
+    },
+    {
+     "key": "D",
+     "text": "“Em mão” (l. 48)"
+    },
+    {
+     "key": "E",
+     "text": "“Recente, feito e amarrado há pouco” (l. 60)",
+     "explanation": "Refere-se ao estado do embrulho, não ao portador."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A anotação 'Em mão' destaca que o pacote foi entregue por alguém em pessoa, não pelo correio, como o pai gostava de fazer.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q6",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 6,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "<p>O período em que o vocábulo <strong>logo</strong> apresenta a mesma classe do destacado em “Ele detestava o correio normal, mas se alguém o avisava que ia a algum lugar, <strong>logo</strong> encontrava um motivo para mandar alguma coisa a alguém” (l. 55-58) é:</p>",
+   "passage": "<p>(1) O dia: 28 de novembro de 1995. A hora: aproximadamente vinte, talvez quinze para a uma da tarde. O local: a recepção do Hotel Novo Mundo, aqui ao lado, no Flamengo.</p>\n<p>(5) Acabara de almoçar com minha secretária e alguns amigos, descêramos a escada em curva que leva do restaurante ao <em>hall</em> da recepção. Pelo menos uma ou duas vezes por semana cumpro esse itinerário e, pelo que me lembre, nada de especial me (10) acontece nessa hora e nesse lugar. É, em todos os sentidos, uma passagem.</p>\n<p>Não cheguei a ouvir o meu nome. Foi a secretária que me avisou: um dos porteiros, de cabelos brancos, óculos de aros grossos, queria falar comigo. (15) E sabia o meu nome — eu que nunca fora hóspede do hotel, apenas um frequentador mais ou menos regular do restaurante que é aberto a todos.</p>\n<p>Aproximei-me do balcão, duvidando que realmente me tivessem chamado. Ainda mais pelo nome: (20) não haveria uma hipótese passável para que soubessem meu nome.</p>\n<p>— Sim ...</p>\n<p>O porteiro tirou os óculos, abriu uma gaveta embaixo do balcão e de lá retirou o embrulho, que pare(25)cia um envelope médio, gordo, amarrado por barbante ordinário.</p>\n<p>— Um hóspede esteve aqui no último fim de semana, perguntou se nós o conhecíamos, pediu que lhe entregássemos este envelope ...</p>\n<p>(30) — Sim ... sim ...</p>\n<p>Eu não sabia se examinava o envelope ou a cara do porteiro. Nada fizera para que ele soubesse meu nome, para que pudesse dizer a alguém que me conhecia. O fato de duas ou três vezes por semana eu (35) almoçar no restaurante do hotel não lhe daria esse direito. [...]</p>\n<p>Passou-me o envelope, que era, à primeira vista e ao primeiro contato, aquilo que eu desconfiava: os originais de um livro, contos, romance ou poesias, tal(40)vez história ou ensaio.</p>\n<p>— Está certo ... não terei de agradecer... a menos que o nome e o endereço do interessado estejam...</p>\n<p>Foi então que olhei bem o embrulho. A princípio apenas suspeitei. E ficaria na suspeita se não hou(45)vesse certeza. Uma das faces estava subscritada, meu nome em letras grandes e a informação logo embaixo, sublinhada pelo traço inconfundível: “Para o jornalista Carlos Heitor Cony. Em mão”.</p>\n<p>Era a letra do meu pai. A letra e o modo. Tudo no (50) embrulho o revelava, inteiro, total. Só ele faria aquelas dobras no papel, só ele daria aquele nó no barbante ordinário, só ele escreveria meu nome daquela maneira, acrescentando a função que também fora a sua. Sobretudo, só ele destacaria o fato de alguém (55) ter se prestado a me trazer aquele embrulho. Ele detestava o correio normal, mas se alguém o avisava que ia a algum lugar, logo encontrava um motivo para mandar alguma coisa a alguém por intermédio do portador. [...]</p>\n<p>(60) Recente, feito e amarrado há pouco, tudo no envelope o revelava: ele, o pai inteiro, com suas manias e cheiros.</p>\n<p>Apenas uma coisa não fazia sentido. Estávamos — como já disse — em novembro de 1995. E o (65) pai morrera, aos noventa e um anos, no dia 14 de janeiro de 1985.</p>\n<p><small>CONY, C. H. Quase Memória: quase-romance. São Paulo: Companhia das Letras. 2001. p. 9-11. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Não tive pressa em abrir o pacote, <strong>logo</strong> não estava muito curioso em relação a seu conteúdo.",
+     "explanation": "'Logo' é conjunção conclusiva (= portanto)."
+    },
+    {
+     "key": "B",
+     "text": "Só <strong>logo</strong> mais tarde, sozinho em minha sala, comecei a celebrar a cerimônia estranha, absurda e, pela lógica, das coisas ilógicas, que era receber aquele presente."
+    },
+    {
+     "key": "C",
+     "text": "Afastei papéis, embuti o teclado do micro no seu estojo, limpei toda a mesa para pôr o embrulho; <strong>logo</strong>, eu estava tratando o pacote com cuidado.",
+     "explanation": "'Logo' entre ponto e vírgula e vírgula introduz conclusão: conjunção conclusiva."
+    },
+    {
+     "key": "D",
+     "text": "Depois de passado o susto, já que o pai tinha aquele seu jeito de dar o nó, concluí que, <strong>logo</strong>, o pacote só podia vir dele.",
+     "explanation": "'Logo' é conclusivo (= portanto)."
+    },
+    {
+     "key": "E",
+     "text": "Escrevi uma carta ao pai contando-lhe dos últimos acontecimentos, mas ele não respondeu; <strong>logo</strong>, não se importou com as notícias.",
+     "explanation": "'Logo' é conjunção conclusiva."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "No texto, 'logo' é advérbio de tempo (= imediatamente). Em B, 'logo mais tarde' também é advérbio de tempo; nas demais, 'logo' é conjunção conclusiva.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q7",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 7,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "portugues",
+   "subtopic": "P.11 Emprego do sinal indicativo de crase",
+   "stem": "<p>O acento indicativo de crase está usado de acordo com a norma-padrão em:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "O pai não gostava de que <strong>à</strong> ceia fosse feita antes das dez horas da noite.",
+     "explanation": "'A ceia' é sujeito de 'fosse feita': só artigo, sem preposição."
+    },
+    {
+     "key": "B",
+     "text": "<strong>À</strong> bem dizer, o pai era um sujeito bastante esquisito.",
+     "explanation": "Não há crase antes de verbo: 'a bem dizer'."
+    },
+    {
+     "key": "C",
+     "text": "<strong>Às</strong> famílias desprovidas de recursos na vizinhança, o pai sempre dava um presente."
+    },
+    {
+     "key": "D",
+     "text": "Daqui <strong>à</strong> duas horas, tentarei começar o ritual de abrir o pacote para desvendar o segredo.",
+     "explanation": "Indicação de tempo futuro com 'daqui a': sem crase."
+    },
+    {
+     "key": "E",
+     "text": "O nome da estrada era Arca porque <strong>à</strong> região, entre Itaipava e Teresópolis, era assim conhecida.",
+     "explanation": "'A região' é sujeito: não há preposição."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "'Dar algo a alguém': o objeto indireto 'às famílias' tem preposição 'a' + artigo 'as', logo há crase.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q8",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 8,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "portugues",
+   "subtopic": "P.5 Emprego de tempos e modos verbais",
+   "stem": "<p>Considerem-se os tempos verbais empregados no trecho “não haveria uma hipótese passável <strong>para que soubessem meu nome</strong>” (l. 20-21).</p><p>A oração em destaque pode ser reescrita, mantendo-se a conjugação verbal de acordo com a norma-padrão, assim:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "para que intervissem nos negócios.",
+     "explanation": "'Intervir' segue 'vir': 'interviessem'."
+    },
+    {
+     "key": "B",
+     "text": "para que propossem um novo plano.",
+     "explanation": "'Propor' segue 'pôr': 'propusessem'."
+    },
+    {
+     "key": "C",
+     "text": "para que reouvessem a correspondência."
+    },
+    {
+     "key": "D",
+     "text": "para que requisessem as fichas.",
+     "explanation": "'Requerer' não segue 'querer': 'requeressem'."
+    },
+    {
+     "key": "E",
+     "text": "para que revessem os procedimentos.",
+     "explanation": "'Rever' segue 'ver': 'revissem'."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "'Reaver' só se conjuga nas formas em que 'haver' tem a letra v. No pretérito imperfeito do subjuntivo, a forma é 'reouvessem', correta.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q9",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 9,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "portugues",
+   "subtopic": "P.8 Emprego dos sinais de pontuação",
+   "stem": "<p>Em qual trecho a vírgula pode ser retirada mantendo-se os preceitos às regras de pontuação da norma-padrão?</p>",
+   "passage": "<p>(1) O dia: 28 de novembro de 1995. A hora: aproximadamente vinte, talvez quinze para a uma da tarde. O local: a recepção do Hotel Novo Mundo, aqui ao lado, no Flamengo.</p>\n<p>(5) Acabara de almoçar com minha secretária e alguns amigos, descêramos a escada em curva que leva do restaurante ao <em>hall</em> da recepção. Pelo menos uma ou duas vezes por semana cumpro esse itinerário e, pelo que me lembre, nada de especial me (10) acontece nessa hora e nesse lugar. É, em todos os sentidos, uma passagem.</p>\n<p>Não cheguei a ouvir o meu nome. Foi a secretária que me avisou: um dos porteiros, de cabelos brancos, óculos de aros grossos, queria falar comigo. (15) E sabia o meu nome — eu que nunca fora hóspede do hotel, apenas um frequentador mais ou menos regular do restaurante que é aberto a todos.</p>\n<p>Aproximei-me do balcão, duvidando que realmente me tivessem chamado. Ainda mais pelo nome: (20) não haveria uma hipótese passável para que soubessem meu nome.</p>\n<p>— Sim ...</p>\n<p>O porteiro tirou os óculos, abriu uma gaveta embaixo do balcão e de lá retirou o embrulho, que pare(25)cia um envelope médio, gordo, amarrado por barbante ordinário.</p>\n<p>— Um hóspede esteve aqui no último fim de semana, perguntou se nós o conhecíamos, pediu que lhe entregássemos este envelope ...</p>\n<p>(30) — Sim ... sim ...</p>\n<p>Eu não sabia se examinava o envelope ou a cara do porteiro. Nada fizera para que ele soubesse meu nome, para que pudesse dizer a alguém que me conhecia. O fato de duas ou três vezes por semana eu (35) almoçar no restaurante do hotel não lhe daria esse direito. [...]</p>\n<p>Passou-me o envelope, que era, à primeira vista e ao primeiro contato, aquilo que eu desconfiava: os originais de um livro, contos, romance ou poesias, tal(40)vez história ou ensaio.</p>\n<p>— Está certo ... não terei de agradecer... a menos que o nome e o endereço do interessado estejam...</p>\n<p>Foi então que olhei bem o embrulho. A princípio apenas suspeitei. E ficaria na suspeita se não hou(45)vesse certeza. Uma das faces estava subscritada, meu nome em letras grandes e a informação logo embaixo, sublinhada pelo traço inconfundível: “Para o jornalista Carlos Heitor Cony. Em mão”.</p>\n<p>Era a letra do meu pai. A letra e o modo. Tudo no (50) embrulho o revelava, inteiro, total. Só ele faria aquelas dobras no papel, só ele daria aquele nó no barbante ordinário, só ele escreveria meu nome daquela maneira, acrescentando a função que também fora a sua. Sobretudo, só ele destacaria o fato de alguém (55) ter se prestado a me trazer aquele embrulho. Ele detestava o correio normal, mas se alguém o avisava que ia a algum lugar, logo encontrava um motivo para mandar alguma coisa a alguém por intermédio do portador. [...]</p>\n<p>(60) Recente, feito e amarrado há pouco, tudo no envelope o revelava: ele, o pai inteiro, com suas manias e cheiros.</p>\n<p>Apenas uma coisa não fazia sentido. Estávamos — como já disse — em novembro de 1995. E o (65) pai morrera, aos noventa e um anos, no dia 14 de janeiro de 1985.</p>\n<p><small>CONY, C. H. Quase Memória: quase-romance. São Paulo: Companhia das Letras. 2001. p. 9-11. Os números entre parênteses marcam o início das linhas 1, 5, 10... do caderno.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“e alguns amigos, descêramos a escada” (l. 5-6)",
+     "explanation": "A vírgula separa orações coordenadas assindéticas; sem ela, as orações se fundiriam."
+    },
+    {
+     "key": "B",
+     "text": "“Aproximei-me do balcão, duvidando” (l. 18)"
+    },
+    {
+     "key": "C",
+     "text": "“O porteiro tirou os óculos, abriu uma gaveta” (l. 23)",
+     "explanation": "Separa orações coordenadas assindéticas; é obrigatória."
+    },
+    {
+     "key": "D",
+     "text": "“os originais de um livro, contos” (l. 38-39)",
+     "explanation": "Separa elementos de enumeração; é obrigatória."
+    },
+    {
+     "key": "E",
+     "text": "“Recente, feito e amarrado” (l. 60)",
+     "explanation": "Separa termos coordenados; é obrigatória."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "A oração reduzida de gerúndio posposta à principal ('duvidando que...') pode vir com ou sem vírgula. Nas demais, a vírgula separa coordenadas assindéticas ou itens de enumeração e é obrigatória.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q10",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 10,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "portugues",
+   "subtopic": "P.9 Concordância verbal e nominal",
+   "stem": "<p>A concordância nominal está de acordo com a norma-padrão na seguinte frase:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Anexo ao pacote, encontrei várias cartas antigas.",
+     "explanation": "'Anexo' concorda com o termo a que se refere: 'Anexas ao pacote, encontrei várias cartas'."
+    },
+    {
+     "key": "B",
+     "text": "O porteiro tirou os óculos e o colocou sobre a mesa.",
+     "explanation": "'Óculos' é plural: 'os colocou'."
+    },
+    {
+     "key": "C",
+     "text": "A secretária e eu terminamos o almoço meio-dia e meio.",
+     "explanation": "'Meio-dia e meia (hora)'."
+    },
+    {
+     "key": "D",
+     "text": "Leio qualquer manuscritos que me cheguem às mãos.",
+     "explanation": "Plural de 'qualquer' é 'quaisquer'."
+    },
+    {
+     "key": "E",
+     "text": "Formulei hipóteses o mais improváveis possível sobre o caso."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Na expressão 'o mais ... possível', 'possível' concorda com o artigo: 'o mais improváveis possível'; com 'os mais', seria 'possíveis'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q26",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 26,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "<p>Em uma organização de trabalho, cada vez que um colaborador alcança as metas de desempenho mensais, propostas por sua gerência, ele tem a possibilidade de escolher um dia da semana em que trabalhará apenas meio período, no mês seguinte, sem perda de remuneração. Essa redução da carga horária vigora por um mês, até seu desempenho ser novamente avaliado, de tal modo que o seu meio período de folga seja mantido ou modificado.</p><p>De acordo com a teoria da aprendizagem, o comportamento no sentido de cumprir as metas mensais de um funcionário, cuja carga horária foi reduzida, está sendo</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "reforçado negativamente"
+    },
+    {
+     "key": "B",
+     "text": "reforçado positivamente",
+     "explanation": "Não se acrescenta um estímulo; retira-se parte da jornada (estímulo aversivo)."
+    },
+    {
+     "key": "C",
+     "text": "modelado vicariamente",
+     "explanation": "Modelação vicária é aprender observando outros; não é o caso."
+    },
+    {
+     "key": "D",
+     "text": "estimulado aversivamente",
+     "explanation": "Não se apresenta estímulo aversivo como consequência; ao contrário, retira-se um."
+    },
+    {
+     "key": "E",
+     "text": "apreendido cognitivamente",
+     "explanation": "Não é conceito da teoria do reforço."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "No reforço negativo, a consequência que aumenta a frequência do comportamento é a retirada de um estímulo aversivo. Atingir as metas remove meio período de trabalho, sem perda salarial, e isso fortalece o comportamento de cumprir metas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q28",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 28,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "psi-org",
+   "subtopic": "3.3 Gestão de conflitos",
+   "stem": "<p>Em um ambiente de trabalho, duas equipes estão diante de uma negociação sobre uma meta de caráter trivial em que a barganha integrativa é impossível. Apesar de a resolução dessa questão ter igual importância para ambas as partes, e não haver pressão de tempo, há forte presença de conflitos interpessoais, com ameaça de rupturas irreversíveis durante o processo de negociação, independente do resultado.</p><p>Havendo um problema muito mais importante a ser resolvido em um futuro próximo, o qual necessitará da atuação engajada e articulada das duas equipes, a estratégia de gerenciamento de conflitos mais adequada a ser tomada, nesse momento, por quem estiver no comando de uma dessas equipes é a</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "competição",
+     "explanation": "Competir em questão trivial, sob risco de ruptura, comprometeria a cooperação futura."
+    },
+    {
+     "key": "B",
+     "text": "colaboração",
+     "explanation": "A colaboração exige solução integrativa, que o enunciado diz ser impossível."
+    },
+    {
+     "key": "C",
+     "text": "conciliação",
+     "explanation": "O compromisso (dividir a diferença) ainda exigiria negociar sob alto risco de ruptura, por algo trivial."
+    },
+    {
+     "key": "D",
+     "text": "evasão"
+    },
+    {
+     "key": "E",
+     "text": "benevolência",
+     "explanation": "A acomodação cabe quando a questão é mais importante para o outro lado; aqui tem igual importância para ambos."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Segundo Robbins (Thomas), a evitação é indicada quando a questão é trivial e quando os custos potenciais do confronto superam os benefícios da resolução. Aqui, o risco é de ruptura irreversível, que prejudicaria um problema futuro mais importante.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q29",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 29,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "<p>Uma avaliação de desempenho implica a construção de critérios que podem ser qualificados como teóricos ou reais.</p><p>Um critério real é exemplificado no caso em que um desempenho avaliado como bom é o de um</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "professor que ministra conhecimentos relevantes e claros aos seus alunos.",
+     "explanation": "'Relevantes e claros' é critério conceitual (teórico), não uma medida operacional."
+    },
+    {
+     "key": "B",
+     "text": "vendedor que alcança a meta de vendas estabelecida pela gerência de sua loja."
+    },
+    {
+     "key": "C",
+     "text": "policial que contribui para garantir a ordem e a segurança da população.",
+     "explanation": "'Contribuir para a ordem' é critério abstrato (teórico)."
+    },
+    {
+     "key": "D",
+     "text": "escritor que produz livros relevantes e interessantes para seu público.",
+     "explanation": "'Relevantes e interessantes' é critério teórico, de difícil medida."
+    },
+    {
+     "key": "E",
+     "text": "motorista que conduz veículos de maneira segura e eficaz.",
+     "explanation": "'Segura e eficaz' é conceito, não medida operacional."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na avaliação de desempenho, o critério teórico (conceitual) é a definição abstrata do bom desempenho. O critério real é a medida observável que o operacionaliza, como atingir a meta numérica de vendas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q30",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 30,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "<p>Um psicólogo, trabalhando em um programa de treinamento, realiza um trabalho nas seguintes etapas: desenvolve uma série de critérios comparativos para estabelecer um padrão; produz um projeto de estudos especificando como os dados serão coletados e quais serão as medidas utilizadas para avaliar os critérios inicialmente produzidos; coleta dados com os sujeitos aos quais o treinamento se dirige e, finalmente, analisa os dados e interpreta resultados.</p><p>Pela análise do trabalho descrito acima, conclui-se que o psicólogo se encontra na seguinte etapa do programa de treinamento:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Avaliação do treinamento"
+    },
+    {
+     "key": "B",
+     "text": "Avaliação das necessidades de treinamento",
+     "explanation": "O levantamento de necessidades investiga lacunas antes do treinamento, não critérios e medidas de resultado."
+    },
+    {
+     "key": "C",
+     "text": "Aplicação do treinamento",
+     "explanation": "A execução não envolve definir critérios, desenho de estudo e análise de dados."
+    },
+    {
+     "key": "D",
+     "text": "Definição dos objetivos do treinamento",
+     "explanation": "Definir objetivos não inclui coleta e análise de dados de resultado."
+    },
+    {
+     "key": "E",
+     "text": "Projeto de treinamento",
+     "explanation": "O desenho do treinamento planeja conteúdos e métodos, não a avaliação dos resultados."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Definir critérios e padrões, planejar como coletar e medir, coletar dados com os treinandos e analisar resultados são passos da avaliação do treinamento (Spector).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q31",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 31,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>Em paralelo às estratégias motivacionais utilizadas oficialmente, a psicodinâmica do trabalho demonstrou que o zelo no trabalho e o comprometimento com a produtividade são promovidos, largamente, pela manipulação de ameaças veladas e pela gestão do medo do trabalhador.</p><p>O zelo no trabalho, nesse contexto, é descrito como a</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "submissão estrita e literal às instruções recebidas dos superiores para a execução das tarefas.",
+     "explanation": "Seguir estritamente as prescrições é a 'operação padrão' (greve de zelo), que paralisa a produção; é o oposto do zelo."
+    },
+    {
+     "key": "B",
+     "text": "ação transgressora e clandestina que subverte as regras prescritas para viabilizar o trabalho real."
+    },
+    {
+     "key": "C",
+     "text": "vigilância discreta e permanente que controla os colegas que executam funções análogas às do trabalhador.",
+     "explanation": "Descreve controle mútuo, não zelo."
+    },
+    {
+     "key": "D",
+     "text": "comunicação clara e frequente entre produção e supervisão que informa sobre possíveis melhorias dos procedimentos.",
+     "explanation": "Zelo é em boa parte clandestino; não é comunicação formal de melhorias."
+    },
+    {
+     "key": "E",
+     "text": "conformação ativa e intencional dos recursos físicos e psíquicos do trabalhador para superação das metas de produção.",
+     "explanation": "Descreve esforço produtivo genérico, sem a transgressão das prescrições que define o zelo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Para Dejours, o zelo é a mobilização da inteligência prática para fazer o trabalho funcionar apesar das falhas do prescrito. Envolve ajustes e transgressões, muitas vezes clandestinos, das regras. Sem ele, cumprir à risca as normas paralisa a produção.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q32",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 32,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<blockquote>Pode-se perguntar o quê, no trabalho, é fonte específica de nocividade para a vida mental. A luta pela saúde do corpo conduzia à denúncia das condições de trabalho. Quanto ao sofrimento mental, ele resulta da organização do trabalho.</blockquote><p><small>DEJOURS, Christophe. A loucura do trabalho. São Paulo: Cortez, 2012. p. 25.</small></p><p>O setor que mais cresce, atualmente, é o setor terciário, e, com isso, o modelo taylorista perdeu relevância. Novas questões surgiram para aqueles que lidam com a relação entre saúde e trabalho. No trecho citado, encontra-se uma importante distinção imposta por essas transformações do mundo do trabalho.</p><p>De acordo com a abordagem representada, um exemplo de problema relacionado à organização do trabalho seria a</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "submissão a níveis elevados de ruído",
+     "explanation": "Ruído é condição de trabalho (ambiente físico)."
+    },
+    {
+     "key": "B",
+     "text": "presença de vírus, fungos e bactérias no local de trabalho",
+     "explanation": "Agentes biológicos são condição de trabalho."
+    },
+    {
+     "key": "C",
+     "text": "assunção da responsabilidade pela vida de outras pessoas"
+    },
+    {
+     "key": "D",
+     "text": "exposição a situações de risco necessárias à execução da tarefa",
+     "explanation": "Risco físico inerente à tarefa é condição de trabalho."
+    },
+    {
+     "key": "E",
+     "text": "inadequação das características antropométricas do posto de trabalho",
+     "explanation": "Antropometria do posto é condição de trabalho (ergonomia física)."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Dejours distingue condições de trabalho (ambiente físico, químico, biológico e de segurança, que afetam o corpo) de organização do trabalho (divisão de tarefas, responsabilidades, hierarquia, relações), que afeta a vida mental. Responder pela vida de outras pessoas é conteúdo e responsabilidade da tarefa, logo organização do trabalho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q33",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 33,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "psi-org",
+   "subtopic": "3.1 Transformações no mundo do trabalho e mudanças nas organizações",
+   "stem": "<p>Com a globalização e com as novas formas de contrato de trabalho, a distinção da inclusão e da exclusão do mundo do trabalho vem sendo cada vez mais difícil de sustentar.</p><p>No contexto contemporâneo, mesmo um trabalhador com vínculo estável pode experimentar a precarização subjetiva de seu trabalho quando</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o equipamento utilizado é inadequado às características do corpo humano.",
+     "explanation": "Problema ergonômico físico, não precarização subjetiva."
+    },
+    {
+     "key": "B",
+     "text": "o exercício de sua função pode expô-lo a situações em que há risco de ele ser assaltado ou sequestrado.",
+     "explanation": "Risco à segurança física, não a precarização subjetiva descrita na literatura."
+    },
+    {
+     "key": "C",
+     "text": "os recursos necessários para responder às exigências de seu trabalho não estão sendo garantidos."
+    },
+    {
+     "key": "D",
+     "text": "a possibilidade de crescimento e evolução na carreira e a adesão aos treinamentos oferecidos pela organização estão vinculadas.",
+     "explanation": "Vincular carreira a treinamento é prática de gestão, não precarização."
+    },
+    {
+     "key": "E",
+     "text": "as condições ambientais em que as tarefas vão ser realizadas estão aquém do limite da salubridade.",
+     "explanation": "Insalubridade é precarização das condições objetivas, não subjetiva."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Linhart descreve a precarização subjetiva: mesmo com emprego estável, o trabalhador sente-se sem recursos (tempo, meios, apoio, qualificação) para responder a exigências crescentes e mutáveis. Isso gera insegurança e sensação de não dar conta.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q34",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 34,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "<p>As culturas organizacionais podem ser qualificadas como fortes ou fracas. Cada uma dessas conformações traz vantagens e desvantagens.</p><p>Comparando-se uma cultura organizacional forte com uma fraca, percebe-se que a cultura mais forte favorece a</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "estabilidade do sistema social"
+    },
+    {
+     "key": "B",
+     "text": "aquisição de outras empresas",
+     "explanation": "Culturas fortes dificultam fusões e aquisições, pela incompatibilidade com outras culturas."
+    },
+    {
+     "key": "C",
+     "text": "diversidade de seus funcionários",
+     "explanation": "Culturas fortes tendem a homogeneizar e podem barrar a diversidade."
+    },
+    {
+     "key": "D",
+     "text": "flexibilidade em relação a mudanças",
+     "explanation": "Culturas fortes são barreira à mudança."
+    },
+    {
+     "key": "E",
+     "text": "formalização das regras de comportamento",
+     "explanation": "Cultura forte funciona como substituta da formalização: dispensa regras escritas."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Segundo Robbins, a cultura forte, com valores intensamente compartilhados, aumenta a coesão, a lealdade e a estabilidade do sistema social e reduz a necessidade de formalização. Em contrapartida, dificulta a mudança, a diversidade e as fusões.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q35",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 35,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>O supervisor de um grupo aponta uma falha cometida por um trabalhador, reclamando, veementemente, da recorrência dessa falha. Esse trabalhador, após o constrangimento público, e imediatamente após assumir a responsabilidade pelos problemas causados, abre um surto psicótico.</p><p>De acordo com a psicodinâmica do trabalho proposta por Dejours, a relação entre o trabalho e a eclosão do surto se explica pelo(s) seguinte(s) fato(s):</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Uma série de fatores psíquicos e fisiológicos, sendo contingente a relação entre surto e trabalho.",
+     "explanation": "Dejours não trata a relação como contingente: o trabalho pode desestabilizar defesas e desencadear a descompensação."
+    },
+    {
+     "key": "B",
+     "text": "A supervisão representar um papel ocupado pela figura paterna e a reprovação recebida dessa figura promover a desestruturação da personalidade.",
+     "explanation": "Explicação psicanalítica clássica (transferência), não a da psicodinâmica do trabalho."
+    },
+    {
+     "key": "C",
+     "text": "O trabalho ser estruturante da personalidade em nossa cultura, e a distância experimentada entre o trabalho realizado e o prescrito ter causado a psicose.",
+     "explanation": "Para Dejours, o trabalho não 'causa' a psicose; a distância entre prescrito e real é inerente a todo trabalho."
+    },
+    {
+     "key": "D",
+     "text": "A estrutura da personalidade do trabalhador já ser psicótica e o episódio no ambiente do trabalho ter operado como fator desencadeante dos sintomas."
+    },
+    {
+     "key": "E",
+     "text": "As relações sociais garantirem ou impedirem a saúde mental e a perda das garantias à posição social ocupada pelo trabalhador o condenarem à patologia.",
+     "explanation": "Explicação sociológica determinista, alheia à psicodinâmica."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Em A loucura do trabalho, Dejours afirma que a organização do trabalho não cria doenças mentais específicas. As descompensações dependem da estrutura de personalidade prévia, e o trabalho atua como fator desencadeante, quando falham as defesas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q36",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 36,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>Um psicólogo é chamado a sugerir modificações na forma como o trabalho é realizado em um contexto organizacional.</p><p>Se o objetivo é o aumento da motivação dos trabalhadores, e o psicólogo é orientado por uma das clínicas do trabalho, ele deverá sugerir</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aumento da remuneração que o trabalhador recebe pelo trabalho que realiza.",
+     "explanation": "Remuneração é incentivo extrínseco; as clínicas do trabalho focam a atividade e sua organização."
+    },
+    {
+     "key": "B",
+     "text": "permissão para que o trabalhador exerça maior controle sobre os ritmos de seu trabalho."
+    },
+    {
+     "key": "C",
+     "text": "estabelecimento de períodos de inatividade obrigatória dentro da jornada normal de trabalho.",
+     "explanation": "Pausas impostas não devolvem ao trabalhador o poder de agir sobre o trabalho."
+    },
+    {
+     "key": "D",
+     "text": "minimização das variações das funções exercidas por cada trabalhador, padronizando as tarefas.",
+     "explanation": "Padronizar reduz a margem de manobra e tende a aumentar o sofrimento."
+    },
+    {
+     "key": "E",
+     "text": "divulgação dos critérios utilizados para avaliação e gratificação do desempenho dos trabalhadores.",
+     "explanation": "Transparência na avaliação não altera a relação do sujeito com a atividade."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Para as clínicas do trabalho (psicodinâmica, clínica da atividade, ergologia), a mobilização subjetiva depende da margem de manobra e do poder de agir sobre o próprio trabalho. Dar controle sobre os ritmos amplia essa margem.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q38",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 38,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "<p>Do ponto de vista específico da psicodinâmica do trabalho, a saúde mental do trabalhador depende da</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "relação de poder estabelecida entre trabalhadores e supervisores de uma organização de trabalho.",
+     "explanation": "Relações de poder influenciam, mas não são o critério específico da psicodinâmica para a saúde mental."
+    },
+    {
+     "key": "B",
+     "text": "percepção, no trabalho, da justiça distributiva e atributiva na forma como as tarefas e os trabalhadores são alocados.",
+     "explanation": "Justiça organizacional é conceito de outra abordagem (comportamento organizacional)."
+    },
+    {
+     "key": "C",
+     "text": "adequação das condições ambientais em que o trabalho é realizado às preferências e peculiaridades do trabalhador.",
+     "explanation": "Condições ambientais afetam sobretudo o corpo, não a vida mental."
+    },
+    {
+     "key": "D",
+     "text": "inexistência, no ambiente de trabalho, de ameaças reais ou potenciais à segurança psicológica e física do trabalhador.",
+     "explanation": "O sofrimento é inerente ao trabalho; a saúde não depende de ausência total de ameaças."
+    },
+    {
+     "key": "E",
+     "text": "possibilidade de encontrar, no trabalho, vias convenientes de descarga da energia psíquica e psicomotora do trabalhador."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Em 'A carga psíquica do trabalho', Dejours afirma que o trabalho equilibrante permite descarregar a energia psíquica, enquanto o trabalho fatigante a acumula e gera sofrimento. A organização do trabalho deve oferecer vias de descarga adequadas às necessidades do trabalhador.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q39",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 39,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "<p>A situação abaixo ilustra um conflito que envolve um dos componentes das relações interpessoais, tais como são descritas pela psicologia organizacional.</p><blockquote>O coordenador de um grupo de pesquisa precisa selecionar um membro de sua equipe para uma importante viagem de intercâmbio, que tem caráter emergencial e duração indeterminada. O pesquisador adequado para a tarefa é também seu genro, cujo filho está prestes a nascer.</blockquote><p>O conflito em questão é relativo</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "à socialização",
+     "explanation": "Não se trata de integração de novos membros."
+    },
+    {
+     "key": "B",
+     "text": "à comunicação",
+     "explanation": "Não há falha de comunicação."
+    },
+    {
+     "key": "C",
+     "text": "à interdependência",
+     "explanation": "O dilema não decorre de dependência mútua de tarefas."
+    },
+    {
+     "key": "D",
+     "text": "à equidade",
+     "explanation": "Não se discute justiça na distribuição de recompensas."
+    },
+    {
+     "key": "E",
+     "text": "aos papéis"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O coordenador ocupa dois papéis incompatíveis em relação ao mesmo pesquisador: chefe (que precisa enviá-lo) e sogro (que se preocupa com o neto prestes a nascer). É um conflito de papéis.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q42",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 42,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "<p>Considere as situações descritas a seguir.</p><p>Situação 1<br>Os inspetores de uma empresa devem, ao final do dia, reportar-se ao gerente de seu departamento para terem seu trabalho avaliado.</p><p>Situação 2<br>Os funcionários de uma Universidade uniram-se com o intuito de reivindicar melhores condições salariais.</p><p>Situação 3<br>Aos domingos, um grupo de operários de uma empresa metalúrgica reúne-se para assistir aos jogos de seu time de futebol.</p><p>Ao se classificarem os grupos em formais e informais, percebem-se 4 tipos específicos. A partir desse modo de classificação, verifica-se que é característica do grupo da situação</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "1 ser informal de amizade.",
+     "explanation": "O grupo 1 é formal de comando (subordinados a um gerente)."
+    },
+    {
+     "key": "B",
+     "text": "2 ser formal de comando.",
+     "explanation": "O grupo 2 não é definido pela estrutura hierárquica; reúne-se por interesse comum."
+    },
+    {
+     "key": "C",
+     "text": "2 ser informal de interesse."
+    },
+    {
+     "key": "D",
+     "text": "3 ser formal de tarefa.",
+     "explanation": "O grupo 3 é informal de amizade (lazer em comum)."
+    },
+    {
+     "key": "E",
+     "text": "3 ser formal de comando.",
+     "explanation": "O grupo 3 é informal de amizade."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Robbins distingue grupos formais (de comando e de tarefa) e informais (de interesse e de amizade). Reunir-se para reivindicar salários é grupo de interesse; inspetores que se reportam ao gerente formam grupo de comando; assistir futebol juntos é grupo de amizade.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q45",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 45,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "<p>Considere as seguintes situações descritas a seguir:</p><p>Situação 1<br>O grupo de professores do curso de Física da Universidade X demonstra uma grande coesão em suas decisões sobre as vicissitudes do curso e uma forte proximidade relacional entre seus membros.</p><p>Situação 2<br>A empresa Y possui um grupo experiente de contadores. Esse grupo formou-se ao longo dos anos a ponto de sua funcionalidade estruturada encontrar-se estabelecida e consolidada, possibilitando ao grupo voltar seus esforços à compreensão de tarefas e aos objetivos a serem realizados.</p><p>A partir do modelo de 5 estágios de desenvolvimento de grupo, os grupos apontados nas situações 1 e 2 encontram-se, respectivamente, nos seguintes estágios:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "normatização; tormenta",
+     "explanation": "O grupo 2 não está em conflito (tormenta); está focado na tarefa."
+    },
+    {
+     "key": "B",
+     "text": "normatização; desempenho"
+    },
+    {
+     "key": "C",
+     "text": "formação; normatização",
+     "explanation": "O grupo 1 já é coeso (não está na incerteza da formação); o grupo 2 já passou da normatização."
+    },
+    {
+     "key": "D",
+     "text": "formação; interrupção",
+     "explanation": "Nenhum dos grupos está se formando ou se dissolvendo."
+    },
+    {
+     "key": "E",
+     "text": "interrupção; tormenta",
+     "explanation": "Não há encerramento nem conflito."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "No modelo de cinco estágios (Tuckman, em Robbins), a normatização se caracteriza por coesão e relações próximas (situação 1). No desempenho, a estrutura está consolidada e a energia vai para a tarefa (situação 2).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q46",
+   "source": {
+    "file": "cefet-rj-2014-psicologo/prova.pdf",
+    "year": 2014,
+    "originalNumber": 46,
+    "exam": "CEFET-RJ 2014 – Psicólogo",
+    "org": "CEFET-RJ"
+   },
+   "area": "psi-org",
+   "subtopic": "3.4 Análise e desenvolvimento organizacional",
+   "stem": "<p>Um psicólogo foi contratado por uma empresa para intervir institucionalmente. Esse consultor reúne-se com um grupo de gerentes da empresa. Seu trabalho consiste em identificar os parâmetros positivos observáveis na dinâmica organizacional, com o intuito de utilizá-los como ponto de partida para a melhoria do desempenho desses gerentes.</p><p>Tendo-se em vista as diferentes táticas de desenvolvimento organizacional, a descrita na situação é classificada como tática de</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "construção de equipes",
+     "explanation": "A construção de equipes trabalha metas, papéis e relações de uma equipe, não parte dos pontos fortes da organização."
+    },
+    {
+     "key": "B",
+     "text": "consultoria de processo",
+     "explanation": "Na consultoria de processo, o consultor ajuda o cliente a perceber e agir sobre processos (comunicação, decisão), sem foco nos aspectos positivos."
+    },
+    {
+     "key": "C",
+     "text": "investigação apreciativa"
+    },
+    {
+     "key": "D",
+     "text": "treinamento de sensibilidade",
+     "explanation": "O T-group trabalha a percepção interpessoal em grupo não estruturado."
+    },
+    {
+     "key": "E",
+     "text": "desenvolvimento intergrupos",
+     "explanation": "O desenvolvimento intergrupos trata percepções e estereótipos entre grupos."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "A investigação apreciativa (Cooperrider; Robbins) parte do que a organização faz bem, dos seus sucessos e pontos fortes, para construir a mudança, em vez de focar problemas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "cefet-rj-2014-psicologo-q27",
+   "motivo": "Divergência: o gabarito oficial é C (intervalo fixo e razão variável). Minha derivação: o salário-base mensal é intervalo fixo, e o diferencial 'proporcional à produtividade' corresponde a razão fixa (cada unidade produzida gera o mesmo acréscimo), o que levaria a B. A banca pode ter entendido que o valor varia conforme a produção. Revisar.",
+   "gabaritoOficial": "C",
+   "derivada": "B",
+   "questao": {
+    "id": "cefet-rj-2014-psicologo-q27",
+    "source": {
+     "file": "cefet-rj-2014-psicologo/prova.pdf",
+     "year": 2014,
+     "originalNumber": 27,
+     "exam": "CEFET-RJ 2014 – Psicólogo",
+     "org": "CEFET-RJ"
+    },
+    "area": "diag-org",
+    "subtopic": "4.7 Motivação no trabalho",
+    "stem": "<p>Em uma organização de trabalho, os colaboradores de uma determinada função recebem seu salário-base mensalmente, acrescido de um diferencial proporcional à sua produtividade naquele mês.</p><p>De acordo com a teoria da aprendizagem, o programa de reforçamento que está sendo utilizado é o esquema de</p>",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "reforço contínuo"
+     },
+     {
+      "key": "B",
+      "text": "intervalo e razão fixos"
+     },
+     {
+      "key": "C",
+      "text": "intervalo fixo e razão variável"
+     },
+     {
+      "key": "D",
+      "text": "intervalo e razão variáveis"
+     },
+     {
+      "key": "E",
+      "text": "intervalo variável e razão fixa"
+     }
+    ],
+    "correctKey": "C",
+    "explanationSummary": "",
+    "status": "review",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "C",
+     "independentlyDerivedAnswer": "B",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "cefet-rj-2014-psicologo-q11",
+   "tema": "Matemática e Raciocínio Lógico"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q12",
+   "tema": "Matemática e Raciocínio Lógico"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q13",
+   "tema": "Matemática e Raciocínio Lógico"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q14",
+   "tema": "Matemática e Raciocínio Lógico"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q15",
+   "tema": "Matemática e Raciocínio Lógico"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q16",
+   "tema": "Informática"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q17",
+   "tema": "Informática"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q18",
+   "tema": "Informática"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q19",
+   "tema": "Informática"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q20",
+   "tema": "Informática"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q21",
+   "tema": "Legislação (Código de Ética do servidor federal, Lei 11.892, Lei 8.429, CF, Código Penal)"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q22",
+   "tema": "Legislação (Código de Ética do servidor federal, Lei 11.892, Lei 8.429, CF, Código Penal)"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q23",
+   "tema": "Legislação (Código de Ética do servidor federal, Lei 11.892, Lei 8.429, CF, Código Penal)"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q24",
+   "tema": "Legislação (Código de Ética do servidor federal, Lei 11.892, Lei 8.429, CF, Código Penal)"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q25",
+   "tema": "Legislação (Código de Ética do servidor federal, Lei 11.892, Lei 8.429, CF, Código Penal)"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q37",
+   "tema": "Desenvolvimento (Vygotsky)"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q40",
+   "tema": "Desenvolvimento cognitivo (Piaget)"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q41",
+   "tema": "Psicologia escolar (bullying, análise institucional)"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q43",
+   "tema": "Plano Nacional de Educação em Direitos Humanos"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q44",
+   "tema": "Psicologia escolar (história)"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q47",
+   "tema": "Orientação profissional (Super)"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q48",
+   "tema": "Psicologia escolar"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q49",
+   "tema": "Psicologia escolar"
+  },
+  {
+   "id": "cefet-rj-2014-psicologo-q50",
+   "tema": "Pensamento e linguagem (Vigotski x Piaget)"
+  }
+ ],
+ "log": "Gabarito 'Alterado em: 09/06/2014' (pós-recursos), conferido visualmente: pág. 1 (básicos, provas 13 a 33) e pág. 4, Prova 29 (26-50). recursos.pdf não altera a Prova 29 nem os básicos da Classe E (a anulação da Q20 vale para as provas 3 a 12). Fora: 11-15 Matemática/Raciocínio lógico, 16-20 Informática, 21-25 Legislação e os específicos de psicologia escolar, do desenvolvimento e orientação profissional. Q27 divergiu (fila)."
+}

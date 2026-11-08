@@ -1,0 +1,1273 @@
+{
+ "concurso": "unirio-2016-psicologo-clinica",
+ "questions": [
+  {
+   "id": "unirio-2016-psicologo-clinica-q1",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 1,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>Com base na leitura integral do texto, constata-se que as palavras “suor” e “lágrima”, presentes no título, estabelecem entre si uma relação de</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "contrariedade",
+     "explanation": "Suor e lágrima não se opõem no texto; um leva ao outro."
+    },
+    {
+     "key": "B",
+     "text": "concessão",
+     "explanation": "Não há ideia de algo que se admite apesar de outra coisa."
+    },
+    {
+     "key": "C",
+     "text": "alternância",
+     "explanation": "Não se alternam; encadeiam-se."
+    },
+    {
+     "key": "D",
+     "text": "tempo e condição",
+     "explanation": "Não há relação de condição."
+    },
+    {
+     "key": "E",
+     "text": "causa e efeito"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O suor do engraxate (trabalho por 'míseros tostões') provoca a culpa e a vergonha do narrador, cujo sapato brilha 'salgado como lágrima'. O suor é causa, a lágrima (vergonha) é efeito.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q2",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 2,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "<p>O sentimento de vergonha relatado pelo autor é reforçado pela seguinte passagem:</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“Pelo menos aqui no Rio, são raros esses engraxates, só existem nos aeroportos e em poucos lugares avulsos.” (l. 5-7)",
+     "explanation": "Informação de contexto, sem relação com a vergonha."
+    },
+    {
+     "key": "B",
+     "text": "“Sentei-me naquela espécie de cadeira canônica, de coro de abadia pobre” (l. 8-9)",
+     "explanation": "Descreve a cadeira, não a vergonha."
+    },
+    {
+     "key": "C",
+     "text": "“Uso-o pouco, em parte para poupá-lo, em parte porque quando posso estou sempre de tênis.” (l. 13-15)",
+     "explanation": "Comentário sobre o hábito de uso do sapato."
+    },
+    {
+     "key": "D",
+     "text": "“E foi assim que a testa e a calva do valente filho do povo ficaram manchadas de graxa e o meu sapato adquiriu um brilho de espelho à custa do suor alheio.” (l. 25-27)"
+    },
+    {
+     "key": "E",
+     "text": "“Na hora de pagar, alegando não ter nota menor, deixei-lhe um troco generoso.” (l. 30-31)",
+     "explanation": "Mostra uma tentativa de compensar, mas não reforça a vergonha."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O brilho do sapato 'à custa do suor alheio' e a graxa na testa do 'valente filho do povo' mostram o contraste que gera a vergonha final ('tive vergonha daquele brilho humano').",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q3",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 3,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.7 Coordenação e subordinação",
+   "stem": "<p>A predominância de orações e períodos coordenados no primeiro parágrafo do texto</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "torna a contextualização da narrativa mais dinâmica."
+    },
+    {
+     "key": "B",
+     "text": "contribui para a dispersão das imagens apresentadas.",
+     "explanation": "A coordenação encadeia as informações; não as dispersa."
+    },
+    {
+     "key": "C",
+     "text": "insere um tom de mistério aos acontecimentos relatados.",
+     "explanation": "Não há mistério no parágrafo."
+    },
+    {
+     "key": "D",
+     "text": "foca a atenção do leitor apenas ao calor que fazia no Rio.",
+     "explanation": "O parágrafo trata também do aeroporto, do voo atrasado e dos engraxates."
+    },
+    {
+     "key": "E",
+     "text": "gera um encadeamento entre cenas que se excluem.",
+     "explanation": "As cenas se complementam, não se excluem."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Orações coordenadas, curtas e justapostas ('Cheguei ao Santos Dumont, o vôo estava atrasado, decidi engraxar os sapatos') dão ritmo ágil à contextualização (tempo, lugar, situação).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q4",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 4,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>O uso dos adjetivos destacados em “rei <strong>desolado</strong> de um reino <strong>desolante</strong>” (l. 10) justifica-se pelo fato de o autor</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "demonstrar-se triste pela condição do engraxate.",
+     "explanation": "Na linha 10 o engraxate ainda não foi apresentado; a tristeza com a condição dele surge depois."
+    },
+    {
+     "key": "B",
+     "text": "sentir-se incomodado pelo forte calor no Rio."
+    },
+    {
+     "key": "C",
+     "text": "encontrar-se solitário numa cidade nova.",
+     "explanation": "O Rio não é cidade nova para o narrador ('aqui no Rio')."
+    },
+    {
+     "key": "D",
+     "text": "entender-se tão oprimido quanto o engraxate.",
+     "explanation": "O narrador não se iguala ao engraxate; o texto o mostra em posição privilegiada."
+    },
+    {
+     "key": "E",
+     "text": "revelar-se como alguém sem compaixão.",
+     "explanation": "O texto termina com culpa e vergonha, o oposto de falta de compaixão."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Até a linha 10, o cenário é de calor extremo ('o mais quente deste verão') e de voo atrasado. Sentado na cadeira do engraxate, o narrador se vê como rei 'desolado' de um reino 'desolante', imagem do desconforto e do abatimento causados pela situação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q6",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 6,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>Em “fizera um filho do povo suar para ganhar seu <strong>pão</strong>” (l. 36-37), o termo em destaque assume o sentido de</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "rumo",
+     "explanation": "'Pão' não indica direção."
+    },
+    {
+     "key": "B",
+     "text": "trabalho",
+     "explanation": "O trabalho é o que se faz ('suar'); o 'pão' é o que se ganha com ele."
+    },
+    {
+     "key": "C",
+     "text": "desconto",
+     "explanation": "Não há ideia de abatimento."
+    },
+    {
+     "key": "D",
+     "text": "imposto",
+     "explanation": "Não há ideia de tributo."
+    },
+    {
+     "key": "E",
+     "text": "retribuição"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Em 'ganhar o pão', 'pão' é metonímia do sustento, isto é, o pagamento recebido pelo trabalho: retribuição.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q7",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 7,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.8 Emprego dos sinais de pontuação",
+   "stem": "<p>Em geral, assinala-se com vírgula o deslocamento de orações de sua ordem padrão, conforme poderia ter sido feito com a oração destacada em “Uso-o pouco, em parte para poupá-lo, em parte porque <strong>quando posso</strong> estou sempre de tênis.” (l. 13-15).</p><p>No trecho mencionado, a falta das vírgulas busca conferir ao período um tom de</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "formalidade",
+     "explanation": "A ausência das vírgulas aproxima o texto da fala, o oposto da formalidade."
+    },
+    {
+     "key": "B",
+     "text": "intransigência",
+     "explanation": "Pontuação não indica intransigência aqui."
+    },
+    {
+     "key": "C",
+     "text": "restrição",
+     "explanation": "Não há valor restritivo."
+    },
+    {
+     "key": "D",
+     "text": "coloquialidade"
+    },
+    {
+     "key": "E",
+     "text": "artificialidade",
+     "explanation": "O efeito é de naturalidade, não de artificialidade."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Sem as vírgulas que isolariam a oração deslocada, o período ganha fluidez de fala, num tom coloquial próprio da crônica.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q8",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 8,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "<p>No trecho “Pegou aquele paninho que dá brilho final nos sapatos e com ele enxugou o próprio suor, <strong>que</strong> era abundante” (l. 18-20), o pronome destacado faz referência ao termo</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "paninho",
+     "explanation": "O primeiro 'que' do período retoma 'paninho', mas o destacado vem após 'suor'."
+    },
+    {
+     "key": "B",
+     "text": "brilho",
+     "explanation": "Não é o brilho que era abundante."
+    },
+    {
+     "key": "C",
+     "text": "sapatos",
+     "explanation": "Plural; o verbo 'era' está no singular."
+    },
+    {
+     "key": "D",
+     "text": "ele",
+     "explanation": "'Ele' retoma o paninho, que não era 'abundante'."
+    },
+    {
+     "key": "E",
+     "text": "suor"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O relativo 'que' retoma o antecedente imediato 'suor': o suor era abundante.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q9",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 9,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>Ao utilizar, como elemento coesivo, a expressão <strong>valente filho do povo</strong> (l. 25-26), para se referir ao engraxate, o autor assume no texto uma postura</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "incoerente",
+     "explanation": "A expressão é coerente com o tom de compaixão do texto."
+    },
+    {
+     "key": "B",
+     "text": "dispensável",
+     "explanation": "A expressão é carregada de sentido."
+    },
+    {
+     "key": "C",
+     "text": "parcial"
+    },
+    {
+     "key": "D",
+     "text": "objetiva",
+     "explanation": "Uma postura objetiva usaria termos neutros ('o engraxate')."
+    },
+    {
+     "key": "E",
+     "text": "inconsequente",
+     "explanation": "Não há inconsequência."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Ao chamar o engraxate de 'valente filho do povo', o narrador expressa juízo de valor e simpatia: a retomada é avaliativa, o que revela postura parcial (subjetiva).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q10",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 10,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.11 Emprego do sinal indicativo de crase",
+   "stem": "<p>O sinal indicativo de crase está empregado conforme a norma-padrão em:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "O engraxate ficou frente <strong>à</strong> frente com o homem desconhecido.",
+     "explanation": "Em expressões com palavras repetidas não há crase: 'frente a frente'."
+    },
+    {
+     "key": "B",
+     "text": "O escritor começou <strong>à</strong> conversar com o engraxate no aeroporto.",
+     "explanation": "Não há crase antes de verbo."
+    },
+    {
+     "key": "C",
+     "text": "Não se sabe <strong>à</strong> que proporções chegou a vergonha do escritor.",
+     "explanation": "Antes do pronome interrogativo 'que' não há artigo: 'a que proporções'."
+    },
+    {
+     "key": "D",
+     "text": "<strong>À</strong> medida que o rapaz engraxava, o escritor sentia mais vergonha."
+    },
+    {
+     "key": "E",
+     "text": "O escritor foi exposto <strong>à</strong> emoções até então desconhecidas para ele.",
+     "explanation": "'A' singular diante de palavra plural é só preposição: 'a emoções'."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A locução conjuntiva proporcional 'à medida que' leva acento grave.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q11",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 11,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>No trecho “Olhei meus sapatos e tive vergonha daquele brilho humano, <strong>salgado</strong> como lágrima.” (l. 37-39), a palavra destacada</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "torna o pensamento do escritor contraditório.",
+     "explanation": "Não há contradição: o adjetivo liga o brilho ao suor e à lágrima."
+    },
+    {
+     "key": "B",
+     "text": "enfatiza a culpa sentida pelo escritor."
+    },
+    {
+     "key": "C",
+     "text": "provoca um efeito de humor ao que é dito.",
+     "explanation": "O tom final é de culpa, não de humor."
+    },
+    {
+     "key": "D",
+     "text": "desconstrói o sentido do termo “brilho”.",
+     "explanation": "O adjetivo qualifica e ressignifica o brilho, mas não o desconstrói."
+    },
+    {
+     "key": "E",
+     "text": "impessoaliza o enunciado.",
+     "explanation": "O trecho é pessoal e subjetivo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "'Salgado' associa o brilho do sapato ao suor do engraxate e à lágrima. Reforça a vergonha e a culpa do narrador por ter feito outro suar por ele.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q12",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 12,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.8 Emprego dos sinais de pontuação",
+   "stem": "<p>Uma reescritura possível para o trecho “Com o mesmo pano, executou com maestria aqueles movimentos rápidos em torno da biqueira, mas a todo instante o usava para enxugar-se — caso contrário, o suor inundaria o meu cromo italiano.” (l. 21-24), respeitando-se a norma-padrão e mantendo-se o sentido original, está assinalada em</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Com o mesmo pano executou com maestria, aqueles movimentos rápidos em torno da biqueira, mas a todo instante o usava para enxugar-se — caso contrário, o suor inundaria o meu cromo italiano.",
+     "explanation": "A vírgula após 'maestria' separa o verbo de seu objeto direto."
+    },
+    {
+     "key": "B",
+     "text": "Com o mesmo pano, executou com maestria aqueles movimentos rápidos em torno da biqueira, mas a todo instante o usava para enxugar-se (caso contrário, o suor, inundaria o meu cromo italiano).",
+     "explanation": "A vírgula após 'suor' separa o sujeito do verbo."
+    },
+    {
+     "key": "C",
+     "text": "Com o mesmo pano, executou, com maestria, aqueles movimentos rápidos em torno da biqueira, mas, a todo instante, o usava para enxugar-se. Caso contrário, o suor inundaria o meu cromo italiano."
+    },
+    {
+     "key": "D",
+     "text": "Com o mesmo pano, executou com maestria aqueles movimentos rápidos em torno da biqueira, mas a todo instante o usava para enxugar-se — caso contrário, o suor inundaria, o meu cromo italiano.",
+     "explanation": "A vírgula após 'inundaria' separa o verbo do objeto."
+    },
+    {
+     "key": "E",
+     "text": "Com o mesmo pano executou com maestria aqueles movimentos rápidos em torno da biqueira, mas a todo instante o usava para enxugar-se; caso contrário, o suor inundaria o meu cromo, italiano.",
+     "explanation": "A vírgula entre 'cromo' e 'italiano' separa o substantivo de seu adjetivo restritivo."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Em C, as vírgulas isolam adjuntos adverbiais intercalados ('com maestria', 'a todo instante'), uso facultativo e correto. O ponto antes de 'Caso contrário' mantém o sentido.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q13",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 13,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "<p>Em “No dia seguinte, os jornais diriam que fora o mais quente <strong>deste</strong> verão que inaugura o século e o milênio.” (l. 2-4), o pronome destacado</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "torna ambíguo o termo referido.",
+     "explanation": "Não há ambiguidade: 'este verão' é o verão em curso."
+    },
+    {
+     "key": "B",
+     "text": "marca a temporalidade do enunciado."
+    },
+    {
+     "key": "C",
+     "text": "afasta o leitor da narração.",
+     "explanation": "O demonstrativo de 1ª pessoa aproxima, não afasta."
+    },
+    {
+     "key": "D",
+     "text": "descentraliza o foco narrativo.",
+     "explanation": "O foco continua no narrador."
+    },
+    {
+     "key": "E",
+     "text": "introduz um caráter irônico ao texto.",
+     "explanation": "Não há ironia no demonstrativo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "'Deste' (este) situa o verão no tempo de quem escreve, o presente da enunciação. É o verão que inaugura o século, vivido pelo cronista. O pronome tem valor dêitico temporal.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q14",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 14,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.12 Colocação dos pronomes átonos",
+   "stem": "<p>O pronome em destaque está adequadamente colocado, quanto à norma-padrão, em:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "O rapaz <strong>se</strong> mostrou feliz com o troco generoso."
+    },
+    {
+     "key": "B",
+     "text": "Sentirá-<strong>se</strong> feliz aquele que tiver um trabalho digno.",
+     "explanation": "Com verbo no futuro do presente, não se usa ênclise: 'Sentir-se-á'."
+    },
+    {
+     "key": "C",
+     "text": "O engraxate não queixou-<strong>se</strong> do calor.",
+     "explanation": "O advérbio 'não' atrai o pronome: 'não se queixou'."
+    },
+    {
+     "key": "D",
+     "text": "Nunca observou-<strong>se</strong> tanta compaixão naquele homem.",
+     "explanation": "'Nunca' atrai o pronome: 'Nunca se observou'."
+    },
+    {
+     "key": "E",
+     "text": "<strong>Se</strong> sentiu envergonhado com a cena o escritor.",
+     "explanation": "A norma-padrão não admite pronome átono no início do período."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Em A, com sujeito expresso antes do verbo e sem fator de atração, a próclise é aceita pela norma-padrão brasileira (a ênclise também seria).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q15",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 15,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "<p>A palavra em negrito em “Pelo menos aqui no Rio, são raros esses engraxates, só existem nos aeroportos e em poucos lugares <strong>avulsos</strong>.” (l. 5-7) pode ser substituída, no texto, sem alteração de sentido por</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "distantes",
+     "explanation": "'Avulsos' não indica distância."
+    },
+    {
+     "key": "B",
+     "text": "escondidos",
+     "explanation": "Não se diz que os lugares sejam ocultos."
+    },
+    {
+     "key": "C",
+     "text": "destacados"
+    },
+    {
+     "key": "D",
+     "text": "desagradáveis",
+     "explanation": "Não há juízo negativo."
+    },
+    {
+     "key": "E",
+     "text": "exóticos",
+     "explanation": "Não há ideia de estranheza."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "'Avulsos' significa separados, isolados, soltos. 'Destacados', no sentido de 'separados do conjunto', mantém o sentido de lugares esparsos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q16",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 16,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.9 Concordância verbal e nominal",
+   "stem": "<p>A concordância verbal está plenamente adequada à norma-padrão no seguinte período:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Fazem 15 anos que o escritor encontrou o engraxate.",
+     "explanation": "'Fazer' indicando tempo é impessoal: 'Faz 15 anos'."
+    },
+    {
+     "key": "B",
+     "text": "Deve haver muitos engraxates pelos aeroportos do Rio."
+    },
+    {
+     "key": "C",
+     "text": "Deseja melhores oportunidades de trabalho os brasileiros.",
+     "explanation": "O sujeito 'os brasileiros' é plural: 'Desejam'."
+    },
+    {
+     "key": "D",
+     "text": "Muitos de nós quer viver sob condições melhores.",
+     "explanation": "Com 'muitos de nós', o verbo vai à 3ª ou à 1ª pessoa do plural: 'querem' ou 'queremos'."
+    },
+    {
+     "key": "E",
+     "text": "Cada um de nós devem ter consciência do seu valor.",
+     "explanation": "'Cada um' exige singular: 'deve'."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "'Haver' (existir) é impessoal e transmite a impessoalidade ao auxiliar: 'Deve haver muitos engraxates'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q17",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 17,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.9 Concordância verbal e nominal",
+   "stem": "<p>O período em que se observa concordância nominal adequada à norma-padrão é:</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "O sapato e a meia do homem ficaram molhadas de suor.",
+     "explanation": "Com substantivos de gêneros diferentes, o predicativo vai ao masculino plural: 'molhados'."
+    },
+    {
+     "key": "B",
+     "text": "É necessário muita concentração no ato de engraxar.",
+     "explanation": "Sem determinante, aceita-se 'necessário', mas com 'muita' (determinante) a concordância é exigida: 'necessária'."
+    },
+    {
+     "key": "C",
+     "text": "O engraxate estava com os braços e a cabeça suadas.",
+     "explanation": "Adjetivo posposto a substantivos de gêneros diferentes: 'suados' (ou concordância com o mais próximo, 'suada')."
+    },
+    {
+     "key": "D",
+     "text": "Bastantes são os engraxates que trabalham no aeroporto."
+    },
+    {
+     "key": "E",
+     "text": "As emoções do escritor ficaram meias estremecidas.",
+     "explanation": "'Meio' como advérbio (= um pouco) é invariável: 'meio estremecidas'."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "'Bastante' como adjetivo (= muitos, suficientes) concorda com o substantivo: 'Bastantes são os engraxates'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q18",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 18,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "<p>Em “Elogiou meus sapatos, cromo italiano, fabricante ilustre, <strong>os Rosseti</strong>.” (l. 12-13), o trecho em destaque cumpre a função de</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "especificar o fabricante dos sapatos."
+    },
+    {
+     "key": "B",
+     "text": "destacar o nome do dono dos sapatos.",
+     "explanation": "O dono é o narrador; Rosseti é a marca."
+    },
+    {
+     "key": "C",
+     "text": "convocar o produtor de seus calçados.",
+     "explanation": "Não é vocativo."
+    },
+    {
+     "key": "D",
+     "text": "assinalar o tipo de solado.",
+     "explanation": "Não se refere a solado."
+    },
+    {
+     "key": "E",
+     "text": "menosprezar o tipo de calçado.",
+     "explanation": "Ao contrário, valoriza o calçado."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "'Os Rosseti' é aposto que especifica 'fabricante ilustre', identificando a marca dos sapatos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q19",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 19,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.5 Emprego de tempos e modos verbais",
+   "stem": "<p>Em “Fazia calor no Rio, 40 graus e qualquer coisa, quase 41.” (l. 1-2), o uso do pretérito imperfeito do indicativo busca</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "estabelecer uma relação de causa e efeito.",
+     "explanation": "O tempo verbal não estabelece causa."
+    },
+    {
+     "key": "B",
+     "text": "contextualizar o tempo da narrativa."
+    },
+    {
+     "key": "C",
+     "text": "introduzir uma ambiência de suspense.",
+     "explanation": "Não há suspense."
+    },
+    {
+     "key": "D",
+     "text": "banalizar o calor que fazia no Rio.",
+     "explanation": "O calor é destacado, não banalizado."
+    },
+    {
+     "key": "E",
+     "text": "projetar uma possibilidade.",
+     "explanation": "Possibilidade seria expressa pelo futuro do pretérito ou pelo subjuntivo."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "O pretérito imperfeito descreve o pano de fundo (estado contínuo no passado) sobre o qual se desenrolam as ações narradas: situa a narrativa.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q20",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 20,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "<p>No trecho “No dia seguinte, <strong>os</strong> jornais diriam que fora o mais quente deste verão” (l. 2-3), a palavra destacada contribui para</p>",
+   "passage": "<p><strong>O suor e a lágrima</strong></p><p>1 Fazia calor no Rio, 40 graus e qualquer coisa,<br>2 quase 41. No dia seguinte, os jornais diriam que fora<br>3 o mais quente deste verão que inaugura o século e<br>4 o milênio. Cheguei ao Santos Dumont, o vôo estava<br>5 atrasado, decidi engraxar os sapatos. Pelo menos<br>6 aqui no Rio, são raros esses engraxates, só existem<br>7 nos aeroportos e em poucos lugares avulsos.</p><p>8 Sentei-me naquela espécie de cadeira canônica,<br>9 de coro de abadia pobre, que também pode parecer<br>10 o trono de um rei desolado de um reino desolante.</p><p>11 O engraxate era gordo e estava com calor — o<br>12 que me pareceu óbvio. Elogiou meus sapatos, cromo<br>13 italiano, fabricante ilustre, os Rosseti. Uso-o pouco,<br>14 em parte para poupá-lo, em parte porque quando<br>15 posso estou sempre de tênis.</p><p>16 Ofereceu-me o jornal que eu já havia lido e co-<br>17 meçou seu ofício. Meio careca, o suor encharcou-lhe<br>18 a testa e a calva. Pegou aquele paninho que dá brilho<br>19 final nos sapatos e com ele enxugou o próprio suor,<br>20 que era abundante.</p><p>21 Com o mesmo pano, executou com maestria<br>22 aqueles movimentos rápidos em torno da biqueira,<br>23 mas a todo instante o usava para enxugar-se — caso<br>24 contrário, o suor inundaria o meu cromo italiano.</p><p>25 E foi assim que a testa e a calva do valente filho<br>26 do povo ficaram manchadas de graxa e o meu sapato<br>27 adquiriu um brilho de espelho à custa do suor alheio.<br>28 Nunca tive sapatos tão brilhantes, tão dignamente<br>29 suados.</p><p>30 Na hora de pagar, alegando não ter nota menor,<br>31 deixei-lhe um troco generoso. Ele me olhou espanta-<br>32 do, retribuiu a gorjeta me desejando em dobro tudo o<br>33 que eu viesse a precisar nos restos dos meus dias.</p><p>34 Saí daquela cadeira com um baita sentimento<br>35 de culpa. Que diabo, meus sapatos não estavam tão<br>36 sujos assim, por míseros tostões, fizera um filho do<br>37 povo suar para ganhar seu pão. Olhei meus sapa-<br>38 tos e tive vergonha daquele brilho humano, salgado<br>39 como lágrima.</p><p><small>CONY, C. H. In: NESTROVSKI, A. (Org.). Figuras do Brasil – 80 autores em 80 anos de Folha. São Paulo: Publifolha. 2001. p. 319.</small></p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "especificar o tipo de jornal referido.",
+     "explanation": "O artigo não especifica um tipo de jornal."
+    },
+    {
+     "key": "B",
+     "text": "marcar o momento da publicação dos jornais.",
+     "explanation": "Quem marca o momento é 'No dia seguinte'."
+    },
+    {
+     "key": "C",
+     "text": "relativizar a função dos jornais.",
+     "explanation": "Não há relativização."
+    },
+    {
+     "key": "D",
+     "text": "impessoalizar os jornais, pois qualquer um daria a notícia."
+    },
+    {
+     "key": "E",
+     "text": "tornar ambíguo o sentido do vocábulo “jornais”.",
+     "explanation": "Não há ambiguidade."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O artigo definido plural 'os' tem valor genérico: refere-se aos jornais em geral, sem identificar nenhum. Qualquer um deles daria a notícia, o que impessoaliza a fonte.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q41",
+   "source": {
+    "file": "unirio-2016-psicologo-clinica/prova.pdf",
+    "year": 2016,
+    "originalNumber": 41,
+    "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+    "org": "UNIRIO"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "<p>Um psicólogo hospitalar que trabalha em uma UTI, devido à exposição à rotina de casos entre a vida e a morte, comum entre seus pacientes, desenvolve uma síndrome decorrente da prevalência de estresse, caracterizada por esgotamento emocional e psíquico com desenvolvimento de imagem negativa de si, atitudes negativas em relação ao trabalho, despersonalização e desinteresse pelos seus pacientes. Além de se ausentar do trabalho com mais frequência, vem desenvolvendo comportamento cínico, em relação aos seus colegas de trabalho, e dependência de álcool.</p><p>O quadro patológico descrito na história é característico de</p>",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Fibromialgia",
+     "explanation": "Síndrome de dor musculoesquelética difusa, não de esgotamento ocupacional."
+    },
+    {
+     "key": "B",
+     "text": "Síndrome de Burnout"
+    },
+    {
+     "key": "C",
+     "text": "Transtorno de Personalidade Narcísica",
+     "explanation": "Padrão de grandiosidade e falta de empatia desde a vida adulta inicial, não reação ao trabalho."
+    },
+    {
+     "key": "D",
+     "text": "Transtorno de Personalidade Histriônica",
+     "explanation": "Padrão de emotividade excessiva e busca de atenção, sem relação com o quadro."
+    },
+    {
+     "key": "E",
+     "text": "Transtorno de Personalidade Antissocial",
+     "explanation": "Padrão de desrespeito a direitos alheios, não esgotamento ocupacional."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Exaustão emocional, despersonalização/cinismo e baixa realização profissional, com absenteísmo, em profissional exposto a estresse crônico no trabalho, caracterizam a síndrome de burnout (Maslach). É frequente em profissões de cuidado, como em UTI.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "unirio-2016-psicologo-clinica-q5",
+   "motivo": "Divergência: o gabarito oficial dá A (reflexivo); minha leitura é B (irônico), pois o comentário 'o que me pareceu óbvio', isolado pelo travessão, tem tom de humor/ironia sobre uma constatação evidente (fazia 40 graus). A banca pode entender o trecho como reflexão do narrador. Revisar.",
+   "gabaritoOficial": "A",
+   "derivada": "B",
+   "questao": {
+    "id": "unirio-2016-psicologo-clinica-q5",
+    "source": {
+     "file": "unirio-2016-psicologo-clinica/prova.pdf",
+     "year": 2016,
+     "originalNumber": 5,
+     "exam": "UNIRIO 2016 – Psicólogo(a) / Clínica",
+     "org": "UNIRIO"
+    },
+    "area": "portugues",
+    "subtopic": "P.8 Emprego dos sinais de pontuação",
+    "stem": "<p>O travessão em “O engraxate era gordo e estava com calor — o que me pareceu óbvio.” (l. 11-12) enfatiza um trecho de caráter</p>",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "reflexivo"
+     },
+     {
+      "key": "B",
+      "text": "irônico"
+     },
+     {
+      "key": "C",
+      "text": "dúbio"
+     },
+     {
+      "key": "D",
+      "text": "piedoso"
+     },
+     {
+      "key": "E",
+      "text": "imparcial"
+     }
+    ],
+    "correctKey": "A",
+    "explanationSummary": "",
+    "status": "review",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "A",
+     "independentlyDerivedAnswer": "B",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "unirio-2016-psicologo-clinica-q21",
+   "tema": "Informática Básica"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q22",
+   "tema": "Informática Básica"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q23",
+   "tema": "Informática Básica"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q24",
+   "tema": "Informática Básica"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q25",
+   "tema": "Informática Básica"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q26",
+   "tema": "Legislação (Lei 8.112/1990)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q27",
+   "tema": "Legislação (Lei 8.112/1990)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q28",
+   "tema": "Legislação (Lei 8.112/1990)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q29",
+   "tema": "Legislação (Lei 8.112/1990)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q30",
+   "tema": "Legislação (Lei 8.112/1990)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q31",
+   "tema": "Psicologia hospitalar (avaliação)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q32",
+   "tema": "Terapia cognitiva (distorções)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q33",
+   "tema": "Exame psíquico (níveis de consciência)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q34",
+   "tema": "Interconsulta hospitalar"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q35",
+   "tema": "Luto (Bowlby)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q36",
+   "tema": "Autismo (comorbidades)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q37",
+   "tema": "Psicologia hospitalar (reações ao diagnóstico)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q38",
+   "tema": "Psicologia hospitalar obstétrica"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q39",
+   "tema": "Transtornos puerperais"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q40",
+   "tema": "Avaliação neuropsicológica"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q42",
+   "tema": "Exame neurológico (reflexos)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q43",
+   "tema": "Obstetrícia de alto risco"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q44",
+   "tema": "Síndrome de Korsakoff"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q45",
+   "tema": "Avaliação funcional (escala de Berg)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q46",
+   "tema": "Psicofarmacologia"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q47",
+   "tema": "História da psicologia hospitalar"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q48",
+   "tema": "História da psicologia hospitalar"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q49",
+   "tema": "Psicologia hospitalar x psicologia da saúde"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q50",
+   "tema": "Psicologia hospitalar (UTI, delirium)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q51",
+   "tema": "Pacientes terminais"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q52",
+   "tema": "Psicologia hospitalar (limites institucionais)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q53",
+   "tema": "Abstinência alcoólica"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q54",
+   "tema": "Definição de psicólogo hospitalar"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q55",
+   "tema": "Transtorno do humor devido a condição médica"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q56",
+   "tema": "Técnicas de intervenção hospitalar"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q57",
+   "tema": "Preparo psicológico de criança para cirurgia"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q58",
+   "tema": "Psicologia na maternidade"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q59",
+   "tema": "Luto perinatal"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q60",
+   "tema": "Religiosidade no hospital"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q61",
+   "tema": "Setting do psicólogo hospitalar"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q62",
+   "tema": "Família e doença (posições)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q63",
+   "tema": "Bioética (Declaração Universal)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q64",
+   "tema": "Grupos de sala de espera (oncologia)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q65",
+   "tema": "Dor e psicologia hospitalar"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q66",
+   "tema": "SUS (CF art. 198)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q67",
+   "tema": "Assistência farmacêutica (Portaria 1.554/2013)"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q68",
+   "tema": "Notificação compulsória"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q69",
+   "tema": "Programa Saúde não tem Preço"
+  },
+  {
+   "id": "unirio-2016-psicologo-clinica-q70",
+   "tema": "Indicadores de mortalidade infantil"
+  }
+ ],
+ "log": "Gabarito definitivo oficial (Cesgranrio via Wayback, 'gab_recursos_superior'), conferido visualmente: pág. 1 (básicos, provas 8 a 29) e pág. 5, Prova 29 (31-70); nenhuma anulação na Prova 29 nem nos básicos. Prova de psicologia clínica/hospitalar: dos específicos, só a 41 (burnout) cabe no edital 2026. Fora: 21-25 Informática, 26-30 Lei 8.112 e os demais específicos (hospitalar, psicopatologia geral, saúde pública/SUS). Q5 divergiu (fila)."
+}

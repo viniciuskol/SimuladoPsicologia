@@ -1,0 +1,778 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simulado de Psicologia — Transpetro 2026</title>
+<link rel="stylesheet" href="shared/styles.css">
+</head>
+<body>
+<div class="topbar">
+  <a href="simulado.html">Simulado de Psicologia</a>
+  <nav>
+    <a href="simulado.html" class="active">Simulado</a>
+    <a href="estudo.html">Estudo</a>
+  </nav>
+</div>
+<div class="app" id="app">
+  <div class="empty-state">Carregando...</div>
+</div>
+<script type="module">
+import { loadJSON, showFetchHelp } from "./shared/data-loader.js";
+import { recordAttempt, loadAttempts, statsByArea, clearAttempts, wrongByArea,
+         loadSession, saveSession, clearSession } from "./shared/storage.js";
+import { EXAM_TOTAL, AUTHORED_SOURCE, EXAM_SHAPE, blockLabel, buildExam, examReadiness, historicExams, isAuthored,
+         filterQuestions, buildTraining, examSources, summarize, editalCut, shuffle } from "./shared/exam.js";
+import { pendingErrorIds, contentNotices } from "./shared/planner.js";
+import { figureHtml } from "./shared/figures.js";
+
+const app = document.getElementById("app");
+let AREAS = [], QUESTIONS = [], QBYID = {};
+// { version, kind: "prova"|"treino", title, status, order, idx, answers, flagged,
+//   timeMs, elapsedMs, limitMs, endReason, recordFailed }
+let session = null;
+
+const DEFAULT_MINUTES = 270;
+const LOW_TIME_MS = 10 * 60 * 1000;
+const MAX_TICK_MS = 5000;
+
+// Escolhas do início da tela: sobrevivem à ida e volta dentro da página.
+const picker = { areas: null, subtopic: "", file: "", qty: 20, minutes: DEFAULT_MINUTES };
+let storageFailed = false;
+let mapOpen = false;
+let passageSeen = null, passageClosed = false;
+let linkNotice = "";
+
+// Os dados têm só estas tags de formatação; qualquer outro "<" é texto da questão
+// (<<interface>>, i<=raiz) e precisa aparecer na tela. Entidades já escritas nos
+// dados são mantidas para não virarem "&amp;lt;".
+const richText = s => String(s ?? "")
+  .replace(/&(?!(?:amp|lt|gt|quot|#\d+);)/g, "&amp;")
+  .replace(/</g, "&lt;").replace(/>/g, "&gt;")
+  .replace(/&lt;(\/?)(p|strong|em|br|b|i|small|sup|sub|blockquote|table|thead|tbody|tr|th|td)&gt;/g, "<$1$2>");
+
+// [[fig:N]] marca no enunciado onde entra a figura N, na ordem da prova original.
+const stemHtml = q => richText(q.stem).replace(/\s*\[\[fig:(\d+)\]\]\s*/g, (_, n) =>
+  q.images?.[n - 1] ? figureHtml(q.images[n - 1]) : "");
+
+const authoredBadge = q => isAuthored(q) ? `<span class="badge-authored">Questão autoral</span>` : "";
+
+// Depois de responder: a base legal poderia entregar a resposta antes.
+const authoredNote = q => isAuthored(q)
+  ? `<p class="muted">${authoredBadge(q)} Não é de prova oficial.${q.source.basis ? ` Base: ${richText(q.source.basis)}.` : ""}</p>`
+  : "";
+
+// 1, 2, 3, 7 vira "1 a 3, 7": prova sem o bloco de línguas deixa dezenas de números de fora.
+function numberRanges(list) {
+  const parts = [];
+  for (let i = 0; i < list.length; i++) {
+    let j = i;
+    while (list[j + 1] === list[j] + 1) j++;
+    parts.push(j - i >= 2 ? `${list[i]} a ${list[j]}` : list.slice(i, j + 1).join(", "));
+    i = j;
+  }
+  return parts.join(", ");
+}
+
+const noticesHtml = q => contentNotices(q).map(text => `<p class="muted">⚠ ${richText(text)}</p>`).join("");
+
+function showAtTop() {
+  window.scrollTo(0, 0);
+  const el = document.getElementById("screen-start");
+  if (el) el.focus({ preventScroll: true });
+}
+
+function fmtClock(ms) {
+  const total = Math.max(0, Math.ceil(ms / 1000));
+  const h = Math.floor(total / 3600), m = Math.floor((total % 3600) / 60), s = total % 60;
+  return `${h}:${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
+}
+
+function fmtDuration(ms) {
+  const total = Math.round(ms / 1000);
+  const h = Math.floor(total / 3600), m = Math.floor((total % 3600) / 60), s = total % 60;
+  if (h) return `${h}h ${String(m).padStart(2, "0")}min`;
+  return m ? `${m}min ${String(s).padStart(2, "0")}s` : `${s}s`;
+}
+
+function answeredCount() {
+  return session.order.filter(id => session.answers[id]).length;
+}
+
+function persist() {
+  storageFailed = !saveSession(session);
+  const warn = document.getElementById("save-warn");
+  if (warn) warn.hidden = !storageFailed;
+}
+
+const saveWarning = () => `<p class="muted" id="save-warn" role="alert" ${storageFailed ? "" : "hidden"}>⚠ O navegador recusou a gravação: se fechar esta página, o progresso desta sessão se perde.</p>`;
+
+async function init() {
+  try {
+    [AREAS, QUESTIONS] = await Promise.all([
+      loadJSON("data/areas.json").then(d => d.areas),
+      loadJSON("data/questions.json").then(d => d.questions),
+    ]);
+  } catch (e) {
+    showFetchHelp(app);
+    return;
+  }
+  QBYID = Object.fromEntries(QUESTIONS.map(q => [q.id, q]));
+  picker.areas = new Set(AREAS.map(a => a.id));
+  restoreSession();
+  if (startFromLink()) return;
+  if (session && session.status === "finished") renderResult();
+  else renderPicker();
+}
+
+// Links vindos da tela de estudo: ?q=id,id · ?refazer=1&area=x&n=10 · ?area=x&sub=y&n=10 · ?area=x&n=10.
+// O endereço é limpo logo em seguida para recarregar a página não abrir outro treino.
+function startFromLink() {
+  const params = new URLSearchParams(location.search);
+  if (!params.toString()) return false;
+  history.replaceState(null, "", location.pathname);
+  const limit = Math.max(0, Number(params.get("n")) || 0);
+  const area = params.get("area") || "";
+  const sub = params.get("sub") || "";
+  let order = null, title = "", empty = "";
+
+  if (params.has("q")) {
+    order = params.get("q").split(",").filter(id => QBYID[id]);
+    title = order.length === 1 ? `Questão ${order[0]}` : `Treino de ${order.length} questões`;
+    empty = "Esta questão não está mais no banco.";
+  } else if (params.has("refazer")) {
+    const pending = shuffle(pendingErrorIds(wrongByArea(), QBYID, area));
+    order = limit ? pending.slice(0, limit) : pending;
+    title = `Refazer ${order.length} erro(s)`;
+    empty = "Nenhum erro pendente para refazer.";
+  } else if (sub || area) {
+    const pool = filterQuestions(QUESTIONS, { areaIds: area ? [area] : AREAS.map(a => a.id), subtopic: sub });
+    order = buildTraining(pool, limit);
+    title = `Treino: ${sub || (AREAS.find(a => a.id === area) || {}).label || area}`;
+    empty = "Nenhuma questão neste assunto.";
+  }
+  if (!order) return false;
+  if (!order.length) { linkNotice = empty; return false; }
+  if (!confirmReplace()) return false;
+  beginSession("treino", title, order, null);
+  return true;
+}
+
+// Questão removida do banco depois de salva a sessão sai da ordem.
+function restoreSession() {
+  const saved = loadSession();
+  if (!saved) return;
+  saved.order = saved.order.filter(id => QBYID[id]);
+  if (!saved.order.length) { clearSession(); return; }
+  saved.idx = Math.min(Math.max(saved.idx, 0), saved.order.length - 1);
+  session = saved;
+}
+
+/* ---------- Cronômetro ---------- */
+
+// O tempo só corre com a página aberta e visível, e cada passo é limitado: tirar o
+// notebook da suspensão não pode descontar as horas em que ele ficou fechado.
+let timerId = null, lastTick = 0, ticksSinceSave = 0;
+
+function startTimer() {
+  if (timerId) return;
+  lastTick = Date.now();
+  timerId = setInterval(tick, 1000);
+}
+
+function stopTimer() {
+  if (timerId) clearInterval(timerId);
+  timerId = null;
+}
+
+function tick() {
+  const now = Date.now();
+  const dt = Math.min(now - lastTick, MAX_TICK_MS);
+  lastTick = now;
+  if (document.hidden || !session || session.status !== "active") return;
+  session.elapsedMs += dt;
+  const id = session.order[session.idx];
+  // No treino, o tempo da questão para ao responder: ler a explicação não conta.
+  if (session.kind === "prova" || !session.answers[id]) session.timeMs[id] = (session.timeMs[id] || 0) + dt;
+  updateClock();
+  if (session.limitMs && session.elapsedMs >= session.limitMs) { finish("tempo"); return; }
+  if (++ticksSinceSave >= 5) { ticksSinceSave = 0; persist(); }
+}
+
+function updateClock() {
+  const el = document.getElementById("clock");
+  if (!el) return;
+  if (!session.limitMs) { el.textContent = `${fmtClock(session.elapsedMs)} · sem limite`; return; }
+  const left = session.limitMs - session.elapsedMs;
+  el.textContent = fmtClock(left);
+  el.classList.toggle("low", left <= LOW_TIME_MS);
+}
+
+function saveIfActive() {
+  if (session && session.status === "active") persist();
+}
+document.addEventListener("visibilitychange", () => { if (document.hidden) saveIfActive(); });
+window.addEventListener("pagehide", saveIfActive);
+
+/* ---------- Início ---------- */
+
+function questionsInArea(a) {
+  return QUESTIONS.filter(q => q.area === a.id).length;
+}
+
+function resumeCard() {
+  if (!session || session.status !== "active") return "";
+  const time = session.limitMs
+    ? ` · restam ${fmtDuration(Math.max(0, session.limitMs - session.elapsedMs))}`
+    : ` · ${fmtDuration(session.elapsedMs)} usados`;
+  return `<div class="card accent">
+    <h2>Simulado em andamento</h2>
+    <p>${richText(session.title)}</p>
+    <p class="muted">Questão ${session.idx + 1} de ${session.order.length} · ${answeredCount()} respondida(s)${time}</p>
+    <button class="btn primary" id="resume">Continuar</button>
+    <button class="btn" id="discard">Descartar</button>
+  </div>`;
+}
+
+function renderPicker() {
+  stopTimer();
+  const ready = examReadiness(QUESTIONS, AREAS);
+  const historic = historicExams(QUESTIONS);
+  const authoredTotal = QUESTIONS.filter(isAuthored).length;
+  const missingLabels = ready.missingAreas.map(id => AREAS.find(a => a.id === id).label);
+  const pending = pendingErrorIds(wrongByArea(), QBYID);
+  app.innerHTML = `
+    <h1 id="screen-start" tabindex="-1">Simulado</h1>
+    ${linkNotice ? `<p class="muted" role="status">${richText(linkNotice)}</p>` : ""}
+    ${resumeCard()}
+    ${pending.length ? `<div class="card">
+      <h2>Refazer meus erros</h2>
+      <p class="muted">${pending.length} questão(ões) ainda sem acerto depois do último erro. Cada uma só sai da lista quando você acertar.</p>
+      <button class="btn primary" id="redo-errors">Refazer os erros (${pending.length})</button>
+    </div>` : ""}
+    <div class="card">
+      <h2>Prova completa</h2>
+      ${ready.complete ? "" : `<p class="notice-warn" role="alert">⚠ ${richText(ready.message)}</p>`}
+      ${ready.total && missingLabels.length ? `<p class="notice-warn">⚠ Sem nenhuma questão no banco: ${missingLabels.map(richText).join("; ")}. Estas áreas ficam fora da prova sorteada.</p>` : ""}
+      <p class="muted">Sem correção até entregar. Você navega à vontade, marca questões para voltar e pode continuar depois; o tempo só corre com esta página aberta e visível.</p>
+      <label class="field">Tempo de prova, em minutos (0 = sem limite)
+        <input type="number" id="minutes" min="0" max="600" step="1" inputmode="numeric" value="${picker.minutes}">
+      </label>
+      <p class="muted">A prova tem 4h30 (270 minutos), conforme o subitem 8.1 do edital.</p>
+      <button class="btn primary" id="start-exam" ${ready.total ? "" : "disabled"}>${ready.complete ? `Sortear prova de ${EXAM_TOTAL} questões` : `Sortear prova parcial (${ready.total} de ${EXAM_TOTAL} questões)`}</button>
+      <p class="muted">A prova real tem ${EXAM_SHAPE.portugues} de Português, ${EXAM_SHAPE.ingles} de Inglês e ${EXAM_SHAPE.especificas} específicas. O sorteio prioriza questões que você respondeu menos. A divisão das específicas por área é uma estimativa pelo banco, não uma previsão: o edital não informa essa distribuição.</p>
+      ${ready.authoredUsed ? `<p class="muted">O sorteio inclui ${ready.authoredUsed} questão(ões) autoral(is), só onde falta questão oficial.</p>` : ""}
+      ${historic.map((h, i) => `<button class="btn" data-historic="${i}">Fazer a prova ${richText(h.label)} (${h.order.length} questões)</button>
+      <p class="muted">Na ordem original.${h.missing.length ? ` Ficaram fora do banco as questões ${numberRanges(h.missing)}.` : ""}</p>`).join("")}
+    </div>
+    <div class="card">
+      <h2>Treino com correção imediata</h2>
+      <div>
+        ${AREAS.map(a => `<label class="chip"><input type="checkbox" data-area="${a.id}" ${picker.areas.has(a.id) ? "checked" : ""}> ${richText(a.label)} (${questionsInArea(a)})</label>`).join("")}
+      </div>
+      <label class="field">Assunto
+        <select id="subtopic"></select>
+      </label>
+      <label class="field">Prova de origem
+        <select id="source"></select>
+      </label>
+      <label class="field">Quantidade de questões
+        <input type="number" id="qty" min="1" step="1" inputmode="numeric" value="${picker.qty}">
+      </label>
+      <p class="muted" id="avail" role="status"></p>
+      <button class="btn primary" id="start"></button>
+    </div>
+    <div class="card" id="stats"></div>
+    <button class="btn" id="reset-stats">Limpar histórico de estatísticas</button>
+  `;
+
+  const source = document.getElementById("source");
+  source.add(new Option("Todas", ""));
+  for (const s of examSources(QUESTIONS)) source.add(new Option(`${s.label}: ${s.count} questões`, s.file));
+  if (authoredTotal) source.add(new Option(`Questões autorais: ${authoredTotal}`, AUTHORED_SOURCE));
+  source.value = picker.file;
+
+  app.querySelectorAll("input[data-area]").forEach(cb => {
+    cb.addEventListener("change", () => {
+      cb.checked ? picker.areas.add(cb.dataset.area) : picker.areas.delete(cb.dataset.area);
+      refreshTraining();
+    });
+  });
+  document.getElementById("subtopic").addEventListener("change", e => { picker.subtopic = e.target.value; refreshTraining(); });
+  source.addEventListener("change", e => { picker.file = e.target.value; refreshTraining(); });
+  document.getElementById("qty").addEventListener("input", refreshTraining);
+  document.getElementById("minutes").addEventListener("input", e => { picker.minutes = e.target.value; });
+  document.getElementById("start").addEventListener("click", startTraining);
+  document.getElementById("start-exam").addEventListener("click", startExam);
+  app.querySelectorAll("button[data-historic]").forEach(btn => {
+    btn.addEventListener("click", () => startHistoric(historic[Number(btn.dataset.historic)]));
+  });
+  const eb = document.getElementById("redo-errors");
+  if (eb) eb.addEventListener("click", () => {
+    if (confirmReplace()) beginSession("treino", `Refazer ${pending.length} erro(s)`, shuffle(pending), null);
+  });
+  const rb = document.getElementById("resume");
+  if (rb) rb.addEventListener("click", renderQuestion);
+  const db = document.getElementById("discard");
+  if (db) db.addEventListener("click", () => {
+    if (!confirm("Descartar o simulado em andamento?")) return;
+    session = null;
+    clearSession();
+    renderPicker();
+  });
+  document.getElementById("reset-stats").addEventListener("click", () => {
+    if (confirm("Limpar todo o histórico de respostas?")) { clearAttempts(); renderStats(); }
+  });
+  refreshTraining();
+  renderStats();
+}
+
+function trainingFilter() {
+  return { areaIds: [...picker.areas], subtopic: picker.subtopic, file: picker.file };
+}
+
+// Atualiza só os campos dependentes: redesenhar a tela tiraria o foco do que está sendo editado.
+function refreshTraining() {
+  const select = document.getElementById("subtopic");
+  const options = [...new Set(filterQuestions(QUESTIONS, { ...trainingFilter(), subtopic: "" }).map(q => q.subtopic).filter(Boolean))]
+    .sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
+  if (!options.includes(picker.subtopic)) picker.subtopic = "";
+  select.replaceChildren(new Option("Todos", ""), ...options.map(t => new Option(t, t)));
+  select.value = picker.subtopic;
+
+  const available = filterQuestions(QUESTIONS, trainingFilter()).length;
+  const raw = Number(document.getElementById("qty").value);
+  picker.qty = Number.isInteger(raw) && raw > 0 ? raw : "";
+  const n = picker.qty ? Math.min(picker.qty, available) : available;
+  document.getElementById("avail").textContent = available
+    ? `${available} questão(ões) disponível(is) com estes filtros.`
+    : "Nenhuma questão com estes filtros.";
+  const btn = document.getElementById("start");
+  btn.textContent = available ? `Iniciar treino (${n})` : "Iniciar treino";
+  btn.disabled = !available;
+}
+
+function renderStats() {
+  const el = document.getElementById("stats");
+  if (!el) return;
+  const stats = statsByArea(AREAS);
+  if (!stats.some(s => s.total > 0)) {
+    el.innerHTML = `<p class="muted">Sem histórico ainda. Responda um simulado para ver suas estatísticas por área.</p>`;
+    return;
+  }
+  el.innerHTML = `<h2>Desempenho por área</h2>` + stats.map(s => `
+    <div class="area-bar">
+      <span style="width:140px">${richText(s.label ?? s.id)}</span>
+      <div class="track"><div style="width:${s.pct ?? 0}%"></div></div>
+      <span class="pct">${s.pct === null ? "-" : s.pct + "%"}</span>
+    </div>`).join("");
+}
+
+/* ---------- Início de sessão ---------- */
+
+function confirmReplace() {
+  return !session || session.status !== "active" ||
+    confirm("Já existe um simulado em andamento. Descartá-lo para começar outro?");
+}
+
+function beginSession(kind, title, order, limitMs) {
+  session = {
+    version: 1, kind, title, status: "active", order, idx: 0,
+    answers: {}, flagged: {}, timeMs: {}, elapsedMs: 0, limitMs, endReason: null, recordFailed: false
+  };
+  passageSeen = null;
+  mapOpen = false;
+  persist();
+  renderQuestion();
+}
+
+function examLimitMs() {
+  const minutes = Number(document.getElementById("minutes").value);
+  if (!Number.isFinite(minutes) || minutes <= 0) return null;
+  return Math.min(minutes, 600) * 60000;
+}
+
+function startExam() {
+  if (!confirmReplace()) return;
+  const order = buildExam(QUESTIONS, AREAS, loadAttempts());
+  const authored = order.filter(id => isAuthored(QBYID[id])).length;
+  const title = (order.length >= EXAM_TOTAL ? `Prova sorteada de ${order.length} questões` : `Prova parcial sorteada: ${order.length} de ${EXAM_TOTAL} questões`) +
+    (authored ? `, com ${authored} autoral(is)` : "");
+  beginSession("prova", title, order, examLimitMs());
+}
+
+function startHistoric(exam) {
+  if (!confirmReplace()) return;
+  beginSession("prova", `Prova ${exam.label} (${exam.order.length} questões)`, exam.order, examLimitMs());
+}
+
+function startTraining() {
+  if (!confirmReplace()) return;
+  const pool = filterQuestions(QUESTIONS, trainingFilter());
+  const order = buildTraining(pool, Number(picker.qty) || 0);
+  if (order.length) beginSession("treino", `Treino de ${order.length} questão(ões)`, order, null);
+}
+
+/* ---------- Questão ---------- */
+
+function passageHtml(q) {
+  if (!q.passage) return "";
+  if (q.passage !== passageSeen) { passageSeen = q.passage; passageClosed = false; }
+  return `<details class="passage" id="passage" ${passageClosed ? "" : "open"}>
+    <summary>Texto-base</summary>
+    <div class="passage-card">${richText(q.passage)}</div>
+  </details>`;
+}
+
+function wirePassage() {
+  const el = document.getElementById("passage");
+  if (el) el.addEventListener("toggle", () => { passageClosed = !el.open; });
+}
+
+function renderQuestion() {
+  const q = QBYID[session.order[session.idx]];
+  if (session.kind === "prova") renderExamQuestion(q);
+  else renderTrainingQuestion(q);
+  wirePassage();
+  startTimer();
+  showAtTop();
+}
+
+function goTo(i) {
+  if (i < 0 || i >= session.order.length || i === session.idx) return;
+  session.idx = i;
+  persist();
+  renderQuestion();
+}
+
+function renderExamQuestion(q) {
+  const n = session.order.length;
+  app.innerHTML = `
+    <div class="exam-bar">
+      <span class="exam-clock" id="clock"></span>
+      <span class="muted" id="answered">${answeredCount()} de ${n} respondidas</span>
+    </div>
+    ${saveWarning()}
+    <p class="muted" id="screen-start" tabindex="-1">${richText(blockLabel(q.area))} · questão ${session.idx + 1} de ${n}</p>
+    ${passageHtml(q)}
+    <div class="stem-card">${stemHtml(q)}</div>
+    <div class="alt-list" id="alts">
+      ${q.alternatives.map(alt => `<button class="btn" data-key="${alt.key}"><span class="alt-key">${alt.key}</span><span class="alt-text">${richText(alt.text)}</span></button>`).join("")}
+    </div>
+    <div class="nav-row">
+      <button class="btn" id="prev" ${session.idx === 0 ? "disabled" : ""}>← Anterior</button>
+      <button class="btn" id="flag"></button>
+      <button class="btn" id="next-q" ${session.idx === n - 1 ? "disabled" : ""}>Próxima →</button>
+    </div>
+    <details class="explain" id="map-box" ${mapOpen ? "open" : ""}>
+      <summary>Mapa de questões</summary>
+      <div class="qmap" id="qmap"></div>
+    </details>
+    <p class="muted">No teclado: A a E respondem, ← e → navegam, M marca.</p>
+    <button class="btn primary" id="submit">Entregar prova</button>
+    <button class="btn" id="leave">Sair e continuar depois</button>
+  `;
+  updateClock();
+  refreshExamState(q);
+  app.querySelectorAll("#alts button").forEach(btn => {
+    btn.addEventListener("click", () => chooseExam(q, btn.dataset.key));
+  });
+  document.getElementById("prev").addEventListener("click", () => goTo(session.idx - 1));
+  document.getElementById("next-q").addEventListener("click", () => goTo(session.idx + 1));
+  document.getElementById("flag").addEventListener("click", () => toggleFlag(q));
+  document.getElementById("submit").addEventListener("click", confirmSubmit);
+  document.getElementById("leave").addEventListener("click", () => { persist(); renderPicker(); });
+  document.getElementById("qmap").addEventListener("click", e => {
+    const cell = e.target.closest("button[data-i]");
+    if (cell) goTo(Number(cell.dataset.i));
+  });
+  const box = document.getElementById("map-box");
+  box.addEventListener("toggle", () => { mapOpen = box.open; });
+}
+
+function refreshExamState(q) {
+  const chosen = session.answers[q.id];
+  app.querySelectorAll("#alts button").forEach(btn => {
+    const on = btn.dataset.key === chosen;
+    btn.classList.toggle("selected", on);
+    btn.setAttribute("aria-pressed", on ? "true" : "false");
+  });
+  const flag = document.getElementById("flag");
+  const flagged = !!session.flagged[q.id];
+  flag.textContent = flagged ? "⚑ Marcada" : "⚑ Marcar";
+  flag.classList.toggle("flagged", flagged);
+  flag.setAttribute("aria-pressed", flagged ? "true" : "false");
+  document.getElementById("answered").textContent = `${answeredCount()} de ${session.order.length} respondidas`;
+  document.getElementById("qmap").innerHTML = session.order.map((id, i) => {
+    const classes = [
+      session.answers[id] ? "answered" : "",
+      session.flagged[id] ? "flagged" : "",
+      i === session.idx ? "current" : ""
+    ].filter(Boolean).join(" ");
+    const status = `${session.answers[id] ? "respondida" : "em branco"}${session.flagged[id] ? ", marcada" : ""}`;
+    return `<button type="button" class="${classes}" data-i="${i}" aria-label="Questão ${i + 1}, ${status}" ${i === session.idx ? `aria-current="true"` : ""}>${i + 1}</button>`;
+  }).join("");
+}
+
+// Clicar de novo na alternativa escolhida deixa a questão em branco.
+function chooseExam(q, key) {
+  if (session.answers[q.id] === key) delete session.answers[q.id];
+  else session.answers[q.id] = key;
+  refreshExamState(q);
+  persist();
+}
+
+function toggleFlag(q) {
+  if (session.flagged[q.id]) delete session.flagged[q.id];
+  else session.flagged[q.id] = true;
+  refreshExamState(q);
+  persist();
+}
+
+function confirmSubmit() {
+  const blank = session.order.length - answeredCount();
+  const flagged = session.order.filter(id => session.flagged[id]).length;
+  const details = [
+    blank ? `${blank} em branco` : "",
+    flagged ? `${flagged} marcada(s) para revisar` : ""
+  ].filter(Boolean).join(" e ");
+  if (confirm(`Entregar a prova?${details ? `\n\nVocê tem ${details}.` : ""}`)) finish("entregue");
+}
+
+function renderTrainingQuestion(q) {
+  const answered = session.answers[q.id];
+  app.innerHTML = `
+    <div class="progressbar"><div style="width:${(100 * session.idx) / session.order.length}%"></div></div>
+    ${saveWarning()}
+    <p class="muted" id="screen-start" tabindex="-1">${richText((AREAS.find(a => a.id === q.area) || {}).label || q.area)} · questão ${session.idx + 1} de ${session.order.length} ${authoredBadge(q)}</p>
+    ${passageHtml(q)}
+    <div class="stem-card">${stemHtml(q)}</div>
+    <div class="alt-list" id="alts">
+      ${q.alternatives.map(alt => `<button class="btn" data-key="${alt.key}"><span class="alt-key">${alt.key}</span><span class="alt-text">${richText(alt.text)}</span></button>`).join("")}
+    </div>
+    <div id="feedback"></div>
+    <p class="muted">No teclado: A a E respondem, → avança.</p>
+    <button class="btn" id="end-training">Encerrar treino</button>
+    <button class="btn" id="leave">Sair e continuar depois</button>
+  `;
+  app.querySelectorAll("#alts button").forEach(btn => {
+    btn.addEventListener("click", () => answerTraining(q, btn.dataset.key));
+  });
+  document.getElementById("end-training").addEventListener("click", () => {
+    if (confirm("Encerrar o treino e ver o resultado do que já respondeu?")) finish("encerrado");
+  });
+  document.getElementById("leave").addEventListener("click", () => { persist(); renderPicker(); });
+  if (answered) showFeedback(q);
+}
+
+function answerTraining(q, chosenKey) {
+  if (session.answers[q.id]) return;
+  session.answers[q.id] = chosenKey;
+  const saved = recordAttempt({ questionId: q.id, area: q.area, chosenKey, correct: chosenKey === q.correctKey, mode: "treino" });
+  if (!saved) session.recordFailed = true;
+  persist();
+  showFeedback(q, !saved);
+}
+
+function showFeedback(q, notSaved = false) {
+  const chosenKey = session.answers[q.id];
+  const correct = chosenKey === q.correctKey;
+  app.querySelectorAll("#alts button").forEach(btn => {
+    btn.disabled = true;
+    if (btn.dataset.key === q.correctKey) btn.classList.add("correct");
+    else if (btn.dataset.key === chosenKey) btn.classList.add("incorrect");
+  });
+
+  const wrongExplain = q.alternatives
+    .filter(a => a.key !== q.correctKey && a.explanation)
+    .map(a => `<li><strong>(${a.key})</strong> ${richText(a.explanation)}</li>`).join("");
+
+  document.getElementById("feedback").innerHTML = `
+    <div class="card">
+      <p class="feedback-banner ${correct ? "correct" : "incorrect"}">${correct ? "✅ Certo!" : "❌ Errado."}</p>
+      ${notSaved ? `<p class="muted">⚠ Não foi possível salvar esta resposta no navegador, então ela não entra no histórico.</p>` : ""}
+      <p>${richText(q.explanationSummary)}</p>
+      ${authoredNote(q)}
+      ${noticesHtml(q)}
+      ${wrongExplain ? `<details class="explain"><summary>Por que as outras estão erradas</summary><ul>${wrongExplain}</ul></details>` : ""}
+      <button class="btn primary" id="next">${session.idx + 1 < session.order.length ? "Próxima" : "Ver resultado"}</button>
+    </div>`;
+  document.getElementById("next").addEventListener("click", nextTraining);
+}
+
+function nextTraining() {
+  if (session.idx + 1 < session.order.length) goTo(session.idx + 1);
+  else finish("fim");
+}
+
+document.addEventListener("keydown", e => {
+  if (!session || session.status !== "active" || !document.getElementById("alts")) return;
+  if (e.ctrlKey || e.metaKey || e.altKey || e.target.closest("input, select, textarea")) return;
+  const q = QBYID[session.order[session.idx]];
+  const key = e.key.toUpperCase();
+  if (q.alternatives.some(a => a.key === key)) {
+    if (session.kind === "prova") chooseExam(q, key);
+    else answerTraining(q, key);
+  } else if (e.key === "ArrowRight") {
+    if (session.kind === "prova") goTo(session.idx + 1);
+    else if (session.answers[q.id]) nextTraining();
+  } else if (e.key === "ArrowLeft" && session.kind === "prova") {
+    goTo(session.idx - 1);
+  } else if (key === "M" && session.kind === "prova") {
+    toggleFlag(q);
+  }
+});
+
+/* ---------- Resultado ---------- */
+
+// Na prova as respostas só viram tentativas aqui, na entrega, e em branco não conta como tentativa.
+function finish(reason) {
+  if (!session || session.status !== "active") return;
+  stopTimer();
+  session.status = "finished";
+  session.endReason = reason;
+  if (session.kind === "prova") {
+    for (const id of session.order) {
+      const chosenKey = session.answers[id];
+      if (!chosenKey) continue;
+      const q = QBYID[id];
+      if (!recordAttempt({ questionId: id, area: q.area, chosenKey, correct: chosenKey === q.correctKey, mode: "prova" })) session.recordFailed = true;
+    }
+  }
+  persist();
+  renderResult();
+}
+
+const resultBar = row => `
+  <div class="area-bar">
+    <span class="res-label">${richText(row.label)}</span>
+    <span class="track"><div style="width:${row.pct}%"></div></span>
+    <span class="pct">${row.correct}/${row.total}</span>
+  </div>`;
+
+function reviewAlt(alt, q, chosen) {
+  const isCorrect = alt.key === q.correctKey;
+  const isChosen = alt.key === chosen;
+  const cls = isCorrect ? " correct" : isChosen ? " incorrect" : "";
+  const tag = isCorrect ? ` <strong class="tag-ok">✓ gabarito</strong>` : isChosen ? ` <strong class="tag-no">✗ sua resposta</strong>` : "";
+  return `<div class="btn${cls}">
+      <span class="alt-key">${alt.key}</span>
+      <span class="alt-text">${richText(alt.text)}${tag}</span>
+    </div>`;
+}
+
+function reviewItem(id) {
+  const q = QBYID[id];
+  const chosen = session.answers[id];
+  const position = session.order.indexOf(id) + 1;
+  const plain = String(q.stem).replace(/\[\[fig:\d+\]\]/g, " ").replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+  const wrongWhy = q.alternatives
+    .filter(a => a.key !== q.correctKey && a.explanation)
+    .map(a => `<li><strong>(${a.key})</strong> ${richText(a.explanation)}</li>`).join("");
+  return `<details class="explain q-review">
+    <summary>Questão ${position}${chosen ? "" : " · em branco"}${session.timeMs[id] ? ` · ${fmtDuration(session.timeMs[id])}` : ""} ${authoredBadge(q)}<span class="muted block">${richText(plain.length > 110 ? plain.slice(0, 110) + "…" : plain)}</span></summary>
+    ${q.passage ? `<details class="passage"><summary>Texto-base</summary><div class="passage-card">${richText(q.passage)}</div></details>` : ""}
+    <div class="q-stem">${stemHtml(q)}</div>
+    <div class="alt-list review">${q.alternatives.map(a => reviewAlt(a, q, chosen)).join("")}</div>
+    <p class="review-h">Por que o gabarito é ${q.correctKey}</p>
+    <p>${richText(q.explanationSummary)}</p>
+    ${authoredNote(q)}
+    ${noticesHtml(q)}
+    ${wrongWhy ? `<p class="review-h">Por que as outras estão erradas</p><ul>${wrongWhy}</ul>` : ""}
+    ${q.subtopic ? `<p class="muted q-src">${richText(q.subtopic)}${!isAuthored(q) && q.source?.year ? ` · ${q.source.year}` : ""}</p>` : ""}
+  </details>`;
+}
+
+function cutHtml(r) {
+  const cut = editalCut(r);
+  if (!cut.evaluable) {
+    const absent = r.blocksMissing.join(", ");
+    return `<div class="card">
+      <h2>Critério de eliminação do edital</h2>
+      <p>Não dá para aplicar o critério a esta prova: ela não teve questões de ${absent}.</p>
+      <p class="muted">Subitem 7.1.4.3: o critério olha Específicos, Conhecimentos Gerais e cada língua.</p>
+    </div>`;
+  }
+  const line = (ok, text) => `<li>${ok ? "✅" : "❌"} ${text}</li>`;
+  const verdict = cut.passed ? "você não seria eliminado" : "você seria eliminado";
+  return `<div class="card">
+    <h2>Critério de eliminação do edital</h2>
+    <p>${cut.complete ? `Com este resultado, ${verdict}.` : `Esta prova teve ${r.total} de ${EXAM_TOTAL} questões, então vale só como referência: aplicando as mesmas regras, ${verdict}.`}</p>
+    <ul class="tight">
+      ${line(cut.specificOk, `Específicos: ${cut.specific.correct} de ${cut.specific.total}. Mínimo de 50%.`)}
+      ${line(cut.generalOk, `Conhecimentos Gerais: ${cut.general.correct} de ${cut.general.total}. Mínimo de 50%.`)}
+      ${line(cut.noZero, `Português: ${cut.portuguese} acerto(s). Inglês: ${cut.english} acerto(s). Nenhum dos dois pode zerar.`)}
+    </ul>
+    <p class="muted">Subitem 7.1.4.3. Não ser eliminado não garante classificação: a ordem inicial é pela nota de Específicos, até 2 vezes o número de vagas mais cadastro de reserva.</p>
+  </div>`;
+}
+
+function renderResult() {
+  stopTimer();
+  const r = summarize(session, QBYID, AREAS);
+  r.blocksMissing = ["portugues", "ingles", "especificas"]
+    .filter(k => !r.blocks.some(b => b.key === k))
+    .map(k => ({ portugues: "Língua Portuguesa", ingles: "Língua Inglesa", especificas: "Conhecimentos Específicos" }[k]));
+  const notes = [
+    r.authored ? `<span class="badge-authored">Questão autoral</span> Questões autorais nesta conta: ${r.authored}. Elas não vieram de prova oficial.` : "",
+    session.endReason === "tempo" ? "O tempo acabou e a prova foi entregue automaticamente." : "",
+    r.notReached ? `O treino foi encerrado com ${r.notReached} questão(ões) sem responder, fora desta conta.` : "",
+    session.recordFailed ? "⚠ O navegador recusou a gravação de parte das respostas, então elas não entram no histórico." : "",
+    storageFailed ? "⚠ Este resultado não foi salvo e se perde ao fechar a página." : ""
+  ].filter(Boolean);
+
+  app.innerHTML = `
+    <div class="card">
+      <h1 id="screen-start" tabindex="-1">Resultado</h1>
+      <p class="muted">${richText(session.title)}</p>
+      ${r.total
+        ? `<p class="score">${r.correct} de ${r.total}</p>
+           <p>${r.pct}% de acertos${r.blank ? ` · ${r.blank} em branco` : ""}</p>
+           <p class="muted">Tempo usado: ${fmtDuration(r.elapsedMs)} · média de ${fmtDuration(r.avgMs)} por questão</p>`
+        : `<p>Nenhuma questão respondida.</p>`}
+      ${notes.map(n => `<p class="muted">${n}</p>`).join("")}
+      <button class="btn primary" id="back">Novo simulado</button>
+      ${r.review.length ? `<button class="btn" id="redo-result">Refazer os erros e questões em branco (${r.review.length})</button>` : ""}
+    </div>
+    ${session.kind === "prova" && r.total ? cutHtml(r) : ""}
+    ${r.total ? `
+    <div class="card">
+      <h2>Por bloco</h2>
+      ${r.blocks.map(resultBar).join("")}
+      <p class="muted">${r.blocks.map(b => `${richText(b.label)}: ${fmtDuration(b.timeMs)}`).join(" · ")}</p>
+    </div>
+    <div class="card">
+      <h2>Por área</h2>
+      ${r.areas.map(resultBar).join("")}
+    </div>
+    <div class="card">
+      <h2>Por assunto</h2>
+      <p class="muted">Do menor para o maior aproveitamento. Com poucas questões em um assunto, trate como indício, não como medida.</p>
+      <details class="explain" open>
+        <summary>${r.subtopics.length} assunto(s)</summary>
+        ${r.subtopics.map(resultBar).join("")}
+      </details>
+    </div>
+    <div class="card">
+      <h2>Erros e questões em branco (${r.review.length})</h2>
+      ${r.review.length ? r.review.map(reviewItem).join("") : `<p class="muted">Nenhum. Você acertou todas.</p>`}
+    </div>` : ""}
+  `;
+  document.getElementById("back").addEventListener("click", () => {
+    session = null;
+    clearSession();
+    renderPicker();
+  });
+  const redo = document.getElementById("redo-result");
+  if (redo) redo.addEventListener("click", () => {
+    if (confirm("Este resultado sai da tela ao começar. As respostas continuam no histórico.")) {
+      beginSession("treino", `Refazer ${r.review.length} questão(ões)`, shuffle(r.review), null);
+    }
+  });
+  showAtTop();
+}
+
+init();
+</script>
+</body>
+</html>

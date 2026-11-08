@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "source": "Edital nº 04/2026 TRANSPETRO/PSP/TERRA/NÍVEL SUPERIOR, Anexo IV, Ênfase 31: Psicologia",
+  "areas": [
+    {
+      "id": "etica",
+      "num": 1,
+      "label": "Código de Ética Profissional",
+      "topics": [
+        "1 Código de Ética profissional do psicólogo"
+      ]
+    },
+    {
+      "id": "resolucoes",
+      "num": 2,
+      "label": "Resoluções do CFP",
+      "topics": [
+        "2.1 Resolução CFP 01/1999 (orientação sexual)",
+        "2.2 Resolução CFP 18/2002 (preconceito e discriminação racial)",
+        "2.3 Resolução CFP 8/2020 (violências de gênero)",
+        "2.4 Resolução CFP 8/2025 (avaliação psicológica em concurso público e processos seletivos públicos)",
+        "2.5 Resolução CFP 6/2019 (documentos escritos)",
+        "2.6 Resolução CFP 31/2022 (avaliação psicológica e SATEPSI)",
+        "2.7 Resolução CFP 14/2023 (riscos psicossociais relacionados ao trabalho)",
+        "2.8 Resolução CFP 09/2024 (exercício mediado por TDICs)"
+      ]
+    },
+    {
+      "id": "psi-org",
+      "num": 3,
+      "label": "Psicologia Organizacional",
+      "topics": [
+        "3.1 Transformações no mundo do trabalho e mudanças nas organizações",
+        "3.1.1 Gestão de mudanças",
+        "3.2 Gestão estratégica de pessoas",
+        "3.2.1 Gestão por competências",
+        "3.2.2 Gestão de desempenho",
+        "3.3 Gestão de conflitos",
+        "3.4 Análise e desenvolvimento organizacional"
+      ]
+    },
+    {
+      "id": "diag-org",
+      "num": 4,
+      "label": "Diagnóstico e Intervenção em Psicologia Organizacional",
+      "topics": [
+        "4.1 Pesquisa e intervenções nas organizações",
+        "4.2 Processo de Recrutamento e Seleção",
+        "4.3 Processo de desligamento",
+        "4.4 Preparação para aposentadoria",
+        "4.5 Treinamento e Desenvolvimento de Pessoas",
+        "4.6 Cultura e clima organizacional",
+        "4.7 Motivação no trabalho",
+        "4.8 Tomada de decisão",
+        "4.9 Diversidade e políticas afirmativas nas organizações"
+      ]
+    },
+    {
+      "id": "psi-social",
+      "num": 5,
+      "label": "Psicologia Social e Trabalho",
+      "topics": [
+        "5.1 Processos Grupais",
+        "5.1.1 Liderança",
+        "5.1.2 Comunicação",
+        "5.1.3 Equipes de Trabalho",
+        "5.2 Modelos de intervenções psicossociais em crise, emergência e catástrofe"
+      ]
+    },
+    {
+      "id": "saude-trab",
+      "num": 6,
+      "label": "Saúde da Trabalhadora e do Trabalhador e Saúde Mental relacionada ao Trabalho",
+      "topics": [
+        "6.1 Processo saúde-doença",
+        "6.2 Normas Regulamentadoras: NR-1, NR-4, NR-5, NR-7, NR-17, NR-20, NR-37",
+        "6.3 Lista de Doenças relacionadas ao Trabalho (Portaria GM/MS 1.999/2023)",
+        "6.4 Nexo Causal",
+        "6.5 Atuação da(o) psicóloga(o) em equipes multi e interdisciplinares",
+        "6.6 Teoria do Estresse",
+        "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+        "6.8 Violência, discriminação e assédio no ambiente de trabalho",
+        "6.9 Acidente de trabalho e implicações psicossociais",
+        "6.10 Qualidade de Vida e Bem-Estar no Trabalho"
+      ]
+    },
+    {
+      "id": "portugues",
+      "num": 9,
+      "label": "Língua Portuguesa",
+      "sourceNote": "Conhecimentos Gerais (Fase 2), 10 questões, comum a todas as ênfases do Edital nº 04/2026 (subitem 7.1.1); não faz parte do Anexo IV da Ênfase 31.",
+      "topics": [
+        "P.1 Compreensão de textos",
+        "P.2 Ortografia oficial",
+        "P.3 Mecanismos de coesão textual",
+        "P.4 Significação das palavras",
+        "P.5 Emprego de tempos e modos verbais",
+        "P.6 Emprego das classes de palavras",
+        "P.7 Coordenação e subordinação",
+        "P.8 Emprego dos sinais de pontuação",
+        "P.9 Concordância verbal e nominal",
+        "P.10 Regência verbal e nominal",
+        "P.11 Emprego do sinal indicativo de crase",
+        "P.12 Colocação dos pronomes átonos"
+      ]
+    },
+    {
+      "id": "ingles",
+      "num": 10,
+      "label": "Língua Inglesa",
+      "sourceNote": "Conhecimentos Gerais (Fase 2), 10 questões, comum a todas as ênfases do Edital nº 04/2026 (subitem 7.1.1); não faz parte do Anexo IV da Ênfase 31.",
+      "topics": [
+        "I.1 Compreensão de texto escrito em língua inglesa",
+        "I.2 Itens gramaticais relevantes para a compreensão dos conteúdos semânticos"
+      ]
+    }
+  ]
+}

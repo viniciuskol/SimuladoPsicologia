@@ -1,0 +1,3335 @@
+{
+ "concurso": "petrobras-2008-psicologo-junior",
+ "questions": [
+  {
+   "id": "petrobras-2008-psicologo-junior-q1",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 1,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "De acordo com o texto, uma característica apresentada pela vida, que NÃO é justificativa para a necessidade de se fazer escolhas, é",
+   "passage": "TEMPO DE ESCOLHER<br>“Um homem não é grande pelo que faz, mas pelo que renuncia.”<br><b>(Albert Schweitzer)</b><br>Muitos amigos leitores têm solicitado minha<br>opinião acerca de qual rumo dar às suas carreiras.<br>Alguns apreciam seu trabalho, mas não a empresa onde<br>estão. Outros admiram a estabilidade conquistada, mas<br>não têm qualquer prazer no exercício de suas funções.<br><small>5</small> Uns recebem propostas para mudar de emprego,<br>financeiramente desfavoráveis, porém, desafiadoras.<br>Outros têm diante de si um vasto leque de opções, muitas<br>coisas para fazer, mas não conseguem abraçar tudo.<br>Todas estas pessoas têm algo em comum: a<br><small>10</small> necessidade premente de fazer escolhas. Lembro-me de<br>Clarice Lispector: “Entre o ‘sim’ e o ‘não’, só existe um<br>caminho: escolher.”<br>Acredito que quase todas as pessoas passam ao<br>longo de sua trajetória pelo “dilema da virada”. Um<br><small>15</small> momento especial em que uma decisão clara, específica<br>e irrevogável tem que ser tomada simplesmente porque a<br>vida não pode continuar como está. Algumas pessoas<br>passam por isso aos 15 anos, outras, aos 50. Algumas<br>talvez nunca tomem esta decisão, e outras o façam<br><small>20</small> várias vezes no decorrer de sua existência.<br>Fazer escolhas implica renunciar a alguns<br>desejos para viabilizar outros. Você troca segurança por<br>desafio, dinheiro por satisfação, o pouco certo pelo muito<br>duvidoso. Assim, uma companhia que oferece estabili-<br><small>25</small> dade com apatia pode dar lugar a outra dotada de instabi-<br>lidade com ousadia. Analogamente, a aventura de uma<br>vida de solteiro pode ceder espaço ao conforto de um<br>casamento.<br>PRAZER E VOCAÇÃO<br><small>30</small> Os anos ensinaram-me algumas lições. A primeira<br>delas vem de Leonardo da Vinci, que dizia que “A sabe-<br>doria da vida não está em fazer aquilo que se gosta, mas<br>em gostar daquilo que se faz”. Sempre imaginei que fosse<br>o contrário, porém, refletindo, passei a compreender que<br><small>35</small> quando estimamos aquilo que fazemos, podemos nos<br>sentir completos, satisfeitos e plenos, ao passo que se<br>apenas procurarmos fazer o que gostamos, estaremos<br>sempre numa busca insaciável, porque o que gostamos<br>hoje não será o mesmo que prezaremos amanhã.<br><small>40</small> Todavia, é indiscutivelmente importante aliar<br>prazer às nossas aptidões; encontrar o talento que<br>reside dentro de cada um de nós, ao que chamamos de<br>vocação. Oriunda do latim vocatione e traduzida<br>literalmente por “chamado”, simboliza uma espécie de<br><small>45</small> predestinação imanente a cada pessoa, algo revestido<br>de certa magia e divindade.(...)<br>Escolhas são feitas com base em nossas prefe-<br>rências. E aí recorro novamente à etimologia das pala-<br>vras para descobrir que o verbo preferir vem do latim<br><small>50</small> praeferere e significa “levar à frente”. Parece-me uma<br>indicação clara de que nossas escolhas devem ser<br>feitas com os olhos no futuro, no uso de nosso livre arbítrio.<br>O mundo corporativo nos guarda muitas armadi-<br>lhas. Trocar de empresa ou de atribuição, por exemplo,<br><small>55</small> são convites permanentes. O problema de recusá-los é<br>passar o resto da vida se perguntando “O que teria<br>acontecido se eu tivesse aceitado?”. Prefiro não carregar<br>comigo o benefício desta dúvida, por isso opto por assumir<br>riscos evidentemente calculados e seguir adiante. Dizem<br><small>60</small> que somos livres para escolher, porém, prisioneiros das<br>conseqüências...<br>Para aqueles insatisfeitos com seu ambiente<br>de trabalho, uma alternativa à mudança de empresa é<br>postular a melhoria do ambiente interno atual. Dialogar e<br><small>65</small> apresentar propostas são um bom caminho. De nada<br>adianta assumir uma postura meramente defensiva e<br>crítica. Lembre-se de que as pessoas não estão contra<br>você, mas a favor delas.<br>Por fim, combata a mediocridade em todas as suas<br><small>70</small> vertentes. A mediocridade de trabalhos desconectados<br>com sua vocação, de empresas que não valorizam funcio-<br>nários, de relacionamentos falidos. Sob este aspecto,<br>como diria Tolstoi, “Não se pode ser bom pela metade”.<br>Meias-palavras, meias-verdades, meias-mentiras, meio<br><small>75</small> caminho para o fim.<br>Os gregos não escreviam obituários. Quando um<br>homem morria, faziam uma pergunta: “Ele viveu com<br>paixão?”.<br>QUAL SERIA A RESPOSTA PARA VOCÊ?<br><small>80</small> COELHO, Tom. Disponível em: &lt; http://www.catho.com.br/jcs/<br>inputer_view.phtml?id=6415&gt;. Acesso em: 07 mai. 2008.(adaptado)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "irreversibilidade."
+    },
+    {
+     "key": "B",
+     "text": "irregularidade.",
+     "explanation": "A irregularidade (instabilidade) da vida aparece como motivo para escolher."
+    },
+    {
+     "key": "C",
+     "text": "instabilidade.",
+     "explanation": "A instabilidade aparece: a vida “não pode continuar como está”."
+    },
+    {
+     "key": "D",
+     "text": "imprevisibilidade.",
+     "explanation": "A imprevisibilidade aparece no “muito duvidoso” e nas consequências incertas."
+    },
+    {
+     "key": "E",
+     "text": "mutabilidade.",
+     "explanation": "A mutabilidade aparece: gostos e situações mudam."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O texto justifica a necessidade de escolher pela instabilidade, imprevisibilidade e mutabilidade da vida (“a vida não pode continuar como está”, “o que gostamos hoje não será o mesmo amanhã”). A irreversibilidade é atributo da decisão (“irrevogável”), não da vida.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q2",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 2,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Semanticamente, o pensamento de Albert Schweitzer está ratificado no",
+   "passage": "TEMPO DE ESCOLHER<br>“Um homem não é grande pelo que faz, mas pelo que renuncia.”<br><b>(Albert Schweitzer)</b><br>Muitos amigos leitores têm solicitado minha<br>opinião acerca de qual rumo dar às suas carreiras.<br>Alguns apreciam seu trabalho, mas não a empresa onde<br>estão. Outros admiram a estabilidade conquistada, mas<br>não têm qualquer prazer no exercício de suas funções.<br><small>5</small> Uns recebem propostas para mudar de emprego,<br>financeiramente desfavoráveis, porém, desafiadoras.<br>Outros têm diante de si um vasto leque de opções, muitas<br>coisas para fazer, mas não conseguem abraçar tudo.<br>Todas estas pessoas têm algo em comum: a<br><small>10</small> necessidade premente de fazer escolhas. Lembro-me de<br>Clarice Lispector: “Entre o ‘sim’ e o ‘não’, só existe um<br>caminho: escolher.”<br>Acredito que quase todas as pessoas passam ao<br>longo de sua trajetória pelo “dilema da virada”. Um<br><small>15</small> momento especial em que uma decisão clara, específica<br>e irrevogável tem que ser tomada simplesmente porque a<br>vida não pode continuar como está. Algumas pessoas<br>passam por isso aos 15 anos, outras, aos 50. Algumas<br>talvez nunca tomem esta decisão, e outras o façam<br><small>20</small> várias vezes no decorrer de sua existência.<br>Fazer escolhas implica renunciar a alguns<br>desejos para viabilizar outros. Você troca segurança por<br>desafio, dinheiro por satisfação, o pouco certo pelo muito<br>duvidoso. Assim, uma companhia que oferece estabili-<br><small>25</small> dade com apatia pode dar lugar a outra dotada de instabi-<br>lidade com ousadia. Analogamente, a aventura de uma<br>vida de solteiro pode ceder espaço ao conforto de um<br>casamento.<br>PRAZER E VOCAÇÃO<br><small>30</small> Os anos ensinaram-me algumas lições. A primeira<br>delas vem de Leonardo da Vinci, que dizia que “A sabe-<br>doria da vida não está em fazer aquilo que se gosta, mas<br>em gostar daquilo que se faz”. Sempre imaginei que fosse<br>o contrário, porém, refletindo, passei a compreender que<br><small>35</small> quando estimamos aquilo que fazemos, podemos nos<br>sentir completos, satisfeitos e plenos, ao passo que se<br>apenas procurarmos fazer o que gostamos, estaremos<br>sempre numa busca insaciável, porque o que gostamos<br>hoje não será o mesmo que prezaremos amanhã.<br><small>40</small> Todavia, é indiscutivelmente importante aliar<br>prazer às nossas aptidões; encontrar o talento que<br>reside dentro de cada um de nós, ao que chamamos de<br>vocação. Oriunda do latim vocatione e traduzida<br>literalmente por “chamado”, simboliza uma espécie de<br><small>45</small> predestinação imanente a cada pessoa, algo revestido<br>de certa magia e divindade.(...)<br>Escolhas são feitas com base em nossas prefe-<br>rências. E aí recorro novamente à etimologia das pala-<br>vras para descobrir que o verbo preferir vem do latim<br><small>50</small> praeferere e significa “levar à frente”. Parece-me uma<br>indicação clara de que nossas escolhas devem ser<br>feitas com os olhos no futuro, no uso de nosso livre arbítrio.<br>O mundo corporativo nos guarda muitas armadi-<br>lhas. Trocar de empresa ou de atribuição, por exemplo,<br><small>55</small> são convites permanentes. O problema de recusá-los é<br>passar o resto da vida se perguntando “O que teria<br>acontecido se eu tivesse aceitado?”. Prefiro não carregar<br>comigo o benefício desta dúvida, por isso opto por assumir<br>riscos evidentemente calculados e seguir adiante. Dizem<br><small>60</small> que somos livres para escolher, porém, prisioneiros das<br>conseqüências...<br>Para aqueles insatisfeitos com seu ambiente<br>de trabalho, uma alternativa à mudança de empresa é<br>postular a melhoria do ambiente interno atual. Dialogar e<br><small>65</small> apresentar propostas são um bom caminho. De nada<br>adianta assumir uma postura meramente defensiva e<br>crítica. Lembre-se de que as pessoas não estão contra<br>você, mas a favor delas.<br>Por fim, combata a mediocridade em todas as suas<br><small>70</small> vertentes. A mediocridade de trabalhos desconectados<br>com sua vocação, de empresas que não valorizam funcio-<br>nários, de relacionamentos falidos. Sob este aspecto,<br>como diria Tolstoi, “Não se pode ser bom pela metade”.<br>Meias-palavras, meias-verdades, meias-mentiras, meio<br><small>75</small> caminho para o fim.<br>Os gregos não escreviam obituários. Quando um<br>homem morria, faziam uma pergunta: “Ele viveu com<br>paixão?”.<br>QUAL SERIA A RESPOSTA PARA VOCÊ?<br><small>80</small> COELHO, Tom. Disponível em: &lt; http://www.catho.com.br/jcs/<br>inputer_view.phtml?id=6415&gt;. Acesso em: 07 mai. 2008.(adaptado)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "1o parágrafo - 1o período.",
+     "explanation": "O 1º período do 1º parágrafo apresenta a demanda dos leitores."
+    },
+    {
+     "key": "B",
+     "text": "1o parágrafo - 2o período.",
+     "explanation": "O 2º período do 1º parágrafo descreve insatisfações, sem a ideia de renúncia."
+    },
+    {
+     "key": "C",
+     "text": "2o parágrafo - 1o período.",
+     "explanation": "O 2º parágrafo fala da necessidade de escolher, não de renunciar."
+    },
+    {
+     "key": "D",
+     "text": "3o parágrafo - 1o período.",
+     "explanation": "O 3º parágrafo trata do “dilema da virada”."
+    },
+    {
+     "key": "E",
+     "text": "4o parágrafo - 2o período."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A ideia de que a grandeza está na renúncia é retomada no 4º parágrafo, que trata de renunciar a desejos; o 2º período exemplifica a renúncia: “Você troca segurança por desafio, dinheiro por satisfação…”.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q3",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 3,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "O substantivo abstrato cujo sentido NÃO caracteriza a atitude do profissional num momento crucial de decisão é",
+   "passage": "TEMPO DE ESCOLHER<br>“Um homem não é grande pelo que faz, mas pelo que renuncia.”<br><b>(Albert Schweitzer)</b><br>Muitos amigos leitores têm solicitado minha<br>opinião acerca de qual rumo dar às suas carreiras.<br>Alguns apreciam seu trabalho, mas não a empresa onde<br>estão. Outros admiram a estabilidade conquistada, mas<br>não têm qualquer prazer no exercício de suas funções.<br><small>5</small> Uns recebem propostas para mudar de emprego,<br>financeiramente desfavoráveis, porém, desafiadoras.<br>Outros têm diante de si um vasto leque de opções, muitas<br>coisas para fazer, mas não conseguem abraçar tudo.<br>Todas estas pessoas têm algo em comum: a<br><small>10</small> necessidade premente de fazer escolhas. Lembro-me de<br>Clarice Lispector: “Entre o ‘sim’ e o ‘não’, só existe um<br>caminho: escolher.”<br>Acredito que quase todas as pessoas passam ao<br>longo de sua trajetória pelo “dilema da virada”. Um<br><small>15</small> momento especial em que uma decisão clara, específica<br>e irrevogável tem que ser tomada simplesmente porque a<br>vida não pode continuar como está. Algumas pessoas<br>passam por isso aos 15 anos, outras, aos 50. Algumas<br>talvez nunca tomem esta decisão, e outras o façam<br><small>20</small> várias vezes no decorrer de sua existência.<br>Fazer escolhas implica renunciar a alguns<br>desejos para viabilizar outros. Você troca segurança por<br>desafio, dinheiro por satisfação, o pouco certo pelo muito<br>duvidoso. Assim, uma companhia que oferece estabili-<br><small>25</small> dade com apatia pode dar lugar a outra dotada de instabi-<br>lidade com ousadia. Analogamente, a aventura de uma<br>vida de solteiro pode ceder espaço ao conforto de um<br>casamento.<br>PRAZER E VOCAÇÃO<br><small>30</small> Os anos ensinaram-me algumas lições. A primeira<br>delas vem de Leonardo da Vinci, que dizia que “A sabe-<br>doria da vida não está em fazer aquilo que se gosta, mas<br>em gostar daquilo que se faz”. Sempre imaginei que fosse<br>o contrário, porém, refletindo, passei a compreender que<br><small>35</small> quando estimamos aquilo que fazemos, podemos nos<br>sentir completos, satisfeitos e plenos, ao passo que se<br>apenas procurarmos fazer o que gostamos, estaremos<br>sempre numa busca insaciável, porque o que gostamos<br>hoje não será o mesmo que prezaremos amanhã.<br><small>40</small> Todavia, é indiscutivelmente importante aliar<br>prazer às nossas aptidões; encontrar o talento que<br>reside dentro de cada um de nós, ao que chamamos de<br>vocação. Oriunda do latim vocatione e traduzida<br>literalmente por “chamado”, simboliza uma espécie de<br><small>45</small> predestinação imanente a cada pessoa, algo revestido<br>de certa magia e divindade.(...)<br>Escolhas são feitas com base em nossas prefe-<br>rências. E aí recorro novamente à etimologia das pala-<br>vras para descobrir que o verbo preferir vem do latim<br><small>50</small> praeferere e significa “levar à frente”. Parece-me uma<br>indicação clara de que nossas escolhas devem ser<br>feitas com os olhos no futuro, no uso de nosso livre arbítrio.<br>O mundo corporativo nos guarda muitas armadi-<br>lhas. Trocar de empresa ou de atribuição, por exemplo,<br><small>55</small> são convites permanentes. O problema de recusá-los é<br>passar o resto da vida se perguntando “O que teria<br>acontecido se eu tivesse aceitado?”. Prefiro não carregar<br>comigo o benefício desta dúvida, por isso opto por assumir<br>riscos evidentemente calculados e seguir adiante. Dizem<br><small>60</small> que somos livres para escolher, porém, prisioneiros das<br>conseqüências...<br>Para aqueles insatisfeitos com seu ambiente<br>de trabalho, uma alternativa à mudança de empresa é<br>postular a melhoria do ambiente interno atual. Dialogar e<br><small>65</small> apresentar propostas são um bom caminho. De nada<br>adianta assumir uma postura meramente defensiva e<br>crítica. Lembre-se de que as pessoas não estão contra<br>você, mas a favor delas.<br>Por fim, combata a mediocridade em todas as suas<br><small>70</small> vertentes. A mediocridade de trabalhos desconectados<br>com sua vocação, de empresas que não valorizam funcio-<br>nários, de relacionamentos falidos. Sob este aspecto,<br>como diria Tolstoi, “Não se pode ser bom pela metade”.<br>Meias-palavras, meias-verdades, meias-mentiras, meio<br><small>75</small> caminho para o fim.<br>Os gregos não escreviam obituários. Quando um<br>homem morria, faziam uma pergunta: “Ele viveu com<br>paixão?”.<br>QUAL SERIA A RESPOSTA PARA VOCÊ?<br><small>80</small> COELHO, Tom. Disponível em: &lt; http://www.catho.com.br/jcs/<br>inputer_view.phtml?id=6415&gt;. Acesso em: 07 mai. 2008.(adaptado)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "flexibilidade.",
+     "explanation": "Flexibilidade aparece na disposição de trocar de empresa ou atribuição."
+    },
+    {
+     "key": "B",
+     "text": "transigência.",
+     "explanation": "Transigência (ceder em algo) aparece na ideia de renunciar."
+    },
+    {
+     "key": "C",
+     "text": "determinação.",
+     "explanation": "Determinação aparece em “decisão clara, específica e irrevogável”."
+    },
+    {
+     "key": "D",
+     "text": "arrojo.",
+     "explanation": "Arrojo aparece em “assumir riscos… e seguir adiante”."
+    },
+    {
+     "key": "E",
+     "text": "retroação."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Retroação (recuo, retrocesso) não caracteriza quem decide e segue adiante; flexibilidade, transigência, determinação e arrojo descrevem atitudes do profissional diante da decisão.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q4",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 4,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "No oitavo parágrafo do texto, os sentidos de “armadilhas” (l. 54-55) e de “benefício” (l. 59), respectivamente, no contexto em que se inserem, são",
+   "passage": "TEMPO DE ESCOLHER<br>“Um homem não é grande pelo que faz, mas pelo que renuncia.”<br><b>(Albert Schweitzer)</b><br>Muitos amigos leitores têm solicitado minha<br>opinião acerca de qual rumo dar às suas carreiras.<br>Alguns apreciam seu trabalho, mas não a empresa onde<br>estão. Outros admiram a estabilidade conquistada, mas<br>não têm qualquer prazer no exercício de suas funções.<br><small>5</small> Uns recebem propostas para mudar de emprego,<br>financeiramente desfavoráveis, porém, desafiadoras.<br>Outros têm diante de si um vasto leque de opções, muitas<br>coisas para fazer, mas não conseguem abraçar tudo.<br>Todas estas pessoas têm algo em comum: a<br><small>10</small> necessidade premente de fazer escolhas. Lembro-me de<br>Clarice Lispector: “Entre o ‘sim’ e o ‘não’, só existe um<br>caminho: escolher.”<br>Acredito que quase todas as pessoas passam ao<br>longo de sua trajetória pelo “dilema da virada”. Um<br><small>15</small> momento especial em que uma decisão clara, específica<br>e irrevogável tem que ser tomada simplesmente porque a<br>vida não pode continuar como está. Algumas pessoas<br>passam por isso aos 15 anos, outras, aos 50. Algumas<br>talvez nunca tomem esta decisão, e outras o façam<br><small>20</small> várias vezes no decorrer de sua existência.<br>Fazer escolhas implica renunciar a alguns<br>desejos para viabilizar outros. Você troca segurança por<br>desafio, dinheiro por satisfação, o pouco certo pelo muito<br>duvidoso. Assim, uma companhia que oferece estabili-<br><small>25</small> dade com apatia pode dar lugar a outra dotada de instabi-<br>lidade com ousadia. Analogamente, a aventura de uma<br>vida de solteiro pode ceder espaço ao conforto de um<br>casamento.<br>PRAZER E VOCAÇÃO<br><small>30</small> Os anos ensinaram-me algumas lições. A primeira<br>delas vem de Leonardo da Vinci, que dizia que “A sabe-<br>doria da vida não está em fazer aquilo que se gosta, mas<br>em gostar daquilo que se faz”. Sempre imaginei que fosse<br>o contrário, porém, refletindo, passei a compreender que<br><small>35</small> quando estimamos aquilo que fazemos, podemos nos<br>sentir completos, satisfeitos e plenos, ao passo que se<br>apenas procurarmos fazer o que gostamos, estaremos<br>sempre numa busca insaciável, porque o que gostamos<br>hoje não será o mesmo que prezaremos amanhã.<br><small>40</small> Todavia, é indiscutivelmente importante aliar<br>prazer às nossas aptidões; encontrar o talento que<br>reside dentro de cada um de nós, ao que chamamos de<br>vocação. Oriunda do latim vocatione e traduzida<br>literalmente por “chamado”, simboliza uma espécie de<br><small>45</small> predestinação imanente a cada pessoa, algo revestido<br>de certa magia e divindade.(...)<br>Escolhas são feitas com base em nossas prefe-<br>rências. E aí recorro novamente à etimologia das pala-<br>vras para descobrir que o verbo preferir vem do latim<br><small>50</small> praeferere e significa “levar à frente”. Parece-me uma<br>indicação clara de que nossas escolhas devem ser<br>feitas com os olhos no futuro, no uso de nosso livre arbítrio.<br>O mundo corporativo nos guarda muitas armadi-<br>lhas. Trocar de empresa ou de atribuição, por exemplo,<br><small>55</small> são convites permanentes. O problema de recusá-los é<br>passar o resto da vida se perguntando “O que teria<br>acontecido se eu tivesse aceitado?”. Prefiro não carregar<br>comigo o benefício desta dúvida, por isso opto por assumir<br>riscos evidentemente calculados e seguir adiante. Dizem<br><small>60</small> que somos livres para escolher, porém, prisioneiros das<br>conseqüências...<br>Para aqueles insatisfeitos com seu ambiente<br>de trabalho, uma alternativa à mudança de empresa é<br>postular a melhoria do ambiente interno atual. Dialogar e<br><small>65</small> apresentar propostas são um bom caminho. De nada<br>adianta assumir uma postura meramente defensiva e<br>crítica. Lembre-se de que as pessoas não estão contra<br>você, mas a favor delas.<br>Por fim, combata a mediocridade em todas as suas<br><small>70</small> vertentes. A mediocridade de trabalhos desconectados<br>com sua vocação, de empresas que não valorizam funcio-<br>nários, de relacionamentos falidos. Sob este aspecto,<br>como diria Tolstoi, “Não se pode ser bom pela metade”.<br>Meias-palavras, meias-verdades, meias-mentiras, meio<br><small>75</small> caminho para o fim.<br>Os gregos não escreviam obituários. Quando um<br>homem morria, faziam uma pergunta: “Ele viveu com<br>paixão?”.<br>QUAL SERIA A RESPOSTA PARA VOCÊ?<br><small>80</small> COELHO, Tom. Disponível em: &lt; http://www.catho.com.br/jcs/<br>inputer_view.phtml?id=6415&gt;. Acesso em: 07 mai. 2008.(adaptado)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "enganos e risco.",
+     "explanation": "“Benefício” não significa risco."
+    },
+    {
+     "key": "B",
+     "text": "impasses e proteção."
+    },
+    {
+     "key": "C",
+     "text": "dificuldades e conhecimento.",
+     "explanation": "“Benefício” não significa conhecimento."
+    },
+    {
+     "key": "D",
+     "text": "certezas e sucesso.",
+     "explanation": "“Armadilhas” não são certezas."
+    },
+    {
+     "key": "E",
+     "text": "dúvidas e prazer.",
+     "explanation": "“Benefício” não é prazer."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "No contexto, “armadilhas” são impasses (convites que geram dúvida), e o “benefício desta dúvida” é ironicamente a proteção de quem não arrisca.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q5",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 5,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Quanto ao tipo, o texto classifica-se predominantemente, como",
+   "passage": "TEMPO DE ESCOLHER<br>“Um homem não é grande pelo que faz, mas pelo que renuncia.”<br><b>(Albert Schweitzer)</b><br>Muitos amigos leitores têm solicitado minha<br>opinião acerca de qual rumo dar às suas carreiras.<br>Alguns apreciam seu trabalho, mas não a empresa onde<br>estão. Outros admiram a estabilidade conquistada, mas<br>não têm qualquer prazer no exercício de suas funções.<br><small>5</small> Uns recebem propostas para mudar de emprego,<br>financeiramente desfavoráveis, porém, desafiadoras.<br>Outros têm diante de si um vasto leque de opções, muitas<br>coisas para fazer, mas não conseguem abraçar tudo.<br>Todas estas pessoas têm algo em comum: a<br><small>10</small> necessidade premente de fazer escolhas. Lembro-me de<br>Clarice Lispector: “Entre o ‘sim’ e o ‘não’, só existe um<br>caminho: escolher.”<br>Acredito que quase todas as pessoas passam ao<br>longo de sua trajetória pelo “dilema da virada”. Um<br><small>15</small> momento especial em que uma decisão clara, específica<br>e irrevogável tem que ser tomada simplesmente porque a<br>vida não pode continuar como está. Algumas pessoas<br>passam por isso aos 15 anos, outras, aos 50. Algumas<br>talvez nunca tomem esta decisão, e outras o façam<br><small>20</small> várias vezes no decorrer de sua existência.<br>Fazer escolhas implica renunciar a alguns<br>desejos para viabilizar outros. Você troca segurança por<br>desafio, dinheiro por satisfação, o pouco certo pelo muito<br>duvidoso. Assim, uma companhia que oferece estabili-<br><small>25</small> dade com apatia pode dar lugar a outra dotada de instabi-<br>lidade com ousadia. Analogamente, a aventura de uma<br>vida de solteiro pode ceder espaço ao conforto de um<br>casamento.<br>PRAZER E VOCAÇÃO<br><small>30</small> Os anos ensinaram-me algumas lições. A primeira<br>delas vem de Leonardo da Vinci, que dizia que “A sabe-<br>doria da vida não está em fazer aquilo que se gosta, mas<br>em gostar daquilo que se faz”. Sempre imaginei que fosse<br>o contrário, porém, refletindo, passei a compreender que<br><small>35</small> quando estimamos aquilo que fazemos, podemos nos<br>sentir completos, satisfeitos e plenos, ao passo que se<br>apenas procurarmos fazer o que gostamos, estaremos<br>sempre numa busca insaciável, porque o que gostamos<br>hoje não será o mesmo que prezaremos amanhã.<br><small>40</small> Todavia, é indiscutivelmente importante aliar<br>prazer às nossas aptidões; encontrar o talento que<br>reside dentro de cada um de nós, ao que chamamos de<br>vocação. Oriunda do latim vocatione e traduzida<br>literalmente por “chamado”, simboliza uma espécie de<br><small>45</small> predestinação imanente a cada pessoa, algo revestido<br>de certa magia e divindade.(...)<br>Escolhas são feitas com base em nossas prefe-<br>rências. E aí recorro novamente à etimologia das pala-<br>vras para descobrir que o verbo preferir vem do latim<br><small>50</small> praeferere e significa “levar à frente”. Parece-me uma<br>indicação clara de que nossas escolhas devem ser<br>feitas com os olhos no futuro, no uso de nosso livre arbítrio.<br>O mundo corporativo nos guarda muitas armadi-<br>lhas. Trocar de empresa ou de atribuição, por exemplo,<br><small>55</small> são convites permanentes. O problema de recusá-los é<br>passar o resto da vida se perguntando “O que teria<br>acontecido se eu tivesse aceitado?”. Prefiro não carregar<br>comigo o benefício desta dúvida, por isso opto por assumir<br>riscos evidentemente calculados e seguir adiante. Dizem<br><small>60</small> que somos livres para escolher, porém, prisioneiros das<br>conseqüências...<br>Para aqueles insatisfeitos com seu ambiente<br>de trabalho, uma alternativa à mudança de empresa é<br>postular a melhoria do ambiente interno atual. Dialogar e<br><small>65</small> apresentar propostas são um bom caminho. De nada<br>adianta assumir uma postura meramente defensiva e<br>crítica. Lembre-se de que as pessoas não estão contra<br>você, mas a favor delas.<br>Por fim, combata a mediocridade em todas as suas<br><small>70</small> vertentes. A mediocridade de trabalhos desconectados<br>com sua vocação, de empresas que não valorizam funcio-<br>nários, de relacionamentos falidos. Sob este aspecto,<br>como diria Tolstoi, “Não se pode ser bom pela metade”.<br>Meias-palavras, meias-verdades, meias-mentiras, meio<br><small>75</small> caminho para o fim.<br>Os gregos não escreviam obituários. Quando um<br>homem morria, faziam uma pergunta: “Ele viveu com<br>paixão?”.<br>QUAL SERIA A RESPOSTA PARA VOCÊ?<br><small>80</small> COELHO, Tom. Disponível em: &lt; http://www.catho.com.br/jcs/<br>inputer_view.phtml?id=6415&gt;. Acesso em: 07 mai. 2008.(adaptado)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "expositivo.",
+     "explanation": "Há exposição, mas a finalidade é convencer."
+    },
+    {
+     "key": "B",
+     "text": "injuntivo.",
+     "explanation": "Há conselhos, mas o tipo predominante não é injuntivo."
+    },
+    {
+     "key": "C",
+     "text": "descritivo.",
+     "explanation": "Não é predominantemente descritivo."
+    },
+    {
+     "key": "D",
+     "text": "narrativo.",
+     "explanation": "Não há narrativa predominante."
+    },
+    {
+     "key": "E",
+     "text": "argumentativo."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "O texto defende uma tese (escolher, renunciar, combater a mediocridade) com argumentos e citações de autoridade: é predominantemente argumentativo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q6",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 6,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Com base nas idéias apresentadas no oitavo parágrafo, qual interpretação está correta?",
+   "passage": "TEMPO DE ESCOLHER<br>“Um homem não é grande pelo que faz, mas pelo que renuncia.”<br><b>(Albert Schweitzer)</b><br>Muitos amigos leitores têm solicitado minha<br>opinião acerca de qual rumo dar às suas carreiras.<br>Alguns apreciam seu trabalho, mas não a empresa onde<br>estão. Outros admiram a estabilidade conquistada, mas<br>não têm qualquer prazer no exercício de suas funções.<br><small>5</small> Uns recebem propostas para mudar de emprego,<br>financeiramente desfavoráveis, porém, desafiadoras.<br>Outros têm diante de si um vasto leque de opções, muitas<br>coisas para fazer, mas não conseguem abraçar tudo.<br>Todas estas pessoas têm algo em comum: a<br><small>10</small> necessidade premente de fazer escolhas. Lembro-me de<br>Clarice Lispector: “Entre o ‘sim’ e o ‘não’, só existe um<br>caminho: escolher.”<br>Acredito que quase todas as pessoas passam ao<br>longo de sua trajetória pelo “dilema da virada”. Um<br><small>15</small> momento especial em que uma decisão clara, específica<br>e irrevogável tem que ser tomada simplesmente porque a<br>vida não pode continuar como está. Algumas pessoas<br>passam por isso aos 15 anos, outras, aos 50. Algumas<br>talvez nunca tomem esta decisão, e outras o façam<br><small>20</small> várias vezes no decorrer de sua existência.<br>Fazer escolhas implica renunciar a alguns<br>desejos para viabilizar outros. Você troca segurança por<br>desafio, dinheiro por satisfação, o pouco certo pelo muito<br>duvidoso. Assim, uma companhia que oferece estabili-<br><small>25</small> dade com apatia pode dar lugar a outra dotada de instabi-<br>lidade com ousadia. Analogamente, a aventura de uma<br>vida de solteiro pode ceder espaço ao conforto de um<br>casamento.<br>PRAZER E VOCAÇÃO<br><small>30</small> Os anos ensinaram-me algumas lições. A primeira<br>delas vem de Leonardo da Vinci, que dizia que “A sabe-<br>doria da vida não está em fazer aquilo que se gosta, mas<br>em gostar daquilo que se faz”. Sempre imaginei que fosse<br>o contrário, porém, refletindo, passei a compreender que<br><small>35</small> quando estimamos aquilo que fazemos, podemos nos<br>sentir completos, satisfeitos e plenos, ao passo que se<br>apenas procurarmos fazer o que gostamos, estaremos<br>sempre numa busca insaciável, porque o que gostamos<br>hoje não será o mesmo que prezaremos amanhã.<br><small>40</small> Todavia, é indiscutivelmente importante aliar<br>prazer às nossas aptidões; encontrar o talento que<br>reside dentro de cada um de nós, ao que chamamos de<br>vocação. Oriunda do latim vocatione e traduzida<br>literalmente por “chamado”, simboliza uma espécie de<br><small>45</small> predestinação imanente a cada pessoa, algo revestido<br>de certa magia e divindade.(...)<br>Escolhas são feitas com base em nossas prefe-<br>rências. E aí recorro novamente à etimologia das pala-<br>vras para descobrir que o verbo preferir vem do latim<br><small>50</small> praeferere e significa “levar à frente”. Parece-me uma<br>indicação clara de que nossas escolhas devem ser<br>feitas com os olhos no futuro, no uso de nosso livre arbítrio.<br>O mundo corporativo nos guarda muitas armadi-<br>lhas. Trocar de empresa ou de atribuição, por exemplo,<br><small>55</small> são convites permanentes. O problema de recusá-los é<br>passar o resto da vida se perguntando “O que teria<br>acontecido se eu tivesse aceitado?”. Prefiro não carregar<br>comigo o benefício desta dúvida, por isso opto por assumir<br>riscos evidentemente calculados e seguir adiante. Dizem<br><small>60</small> que somos livres para escolher, porém, prisioneiros das<br>conseqüências...<br>Para aqueles insatisfeitos com seu ambiente<br>de trabalho, uma alternativa à mudança de empresa é<br>postular a melhoria do ambiente interno atual. Dialogar e<br><small>65</small> apresentar propostas são um bom caminho. De nada<br>adianta assumir uma postura meramente defensiva e<br>crítica. Lembre-se de que as pessoas não estão contra<br>você, mas a favor delas.<br>Por fim, combata a mediocridade em todas as suas<br><small>70</small> vertentes. A mediocridade de trabalhos desconectados<br>com sua vocação, de empresas que não valorizam funcio-<br>nários, de relacionamentos falidos. Sob este aspecto,<br>como diria Tolstoi, “Não se pode ser bom pela metade”.<br>Meias-palavras, meias-verdades, meias-mentiras, meio<br><small>75</small> caminho para o fim.<br>Os gregos não escreviam obituários. Quando um<br>homem morria, faziam uma pergunta: “Ele viveu com<br>paixão?”.<br>QUAL SERIA A RESPOSTA PARA VOCÊ?<br><small>80</small> COELHO, Tom. Disponível em: &lt; http://www.catho.com.br/jcs/<br>inputer_view.phtml?id=6415&gt;. Acesso em: 07 mai. 2008.(adaptado)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "As armadilhas levam às escolhas cujas conseqüências dependem das ponderações feitas anteriormente às decisões."
+    },
+    {
+     "key": "B",
+     "text": "As armadilhas geradas pelas escolhas traduzem as ponderações exigidas pelas conseqüências das decisões.",
+     "explanation": "As armadilhas não “traduzem ponderações”."
+    },
+    {
+     "key": "C",
+     "text": "As decisões originam as ponderações feitas para as escolhas cujas armadilhas se traduzem pelas conseqüências.",
+     "explanation": "Inverte a relação entre decisões e ponderações."
+    },
+    {
+     "key": "D",
+     "text": "As conseqüências das decisões tomadas retratam as ponderações estabelecidas pelas armadilhas impostas pelas escolhas.",
+     "explanation": "As consequências não retratam ponderações impostas pelas armadilhas."
+    },
+    {
+     "key": "E",
+     "text": "As ponderações sobre as escolhas feitas geram as armadilhas que traduzem as conseqüências das decisões.",
+     "explanation": "As ponderações não geram armadilhas."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O 8º parágrafo diz que o mundo corporativo tem armadilhas (convites a mudar), que levam a escolhas; as consequências dependem do que se ponderou antes (“riscos calculados”; “prisioneiros das consequências”).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q7",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 7,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Em relação às idéias apresentadas no fragmento “Prazer e Vocação”, assinale a afirmativa IMPROCEDENTE.",
+   "passage": "TEMPO DE ESCOLHER<br>“Um homem não é grande pelo que faz, mas pelo que renuncia.”<br><b>(Albert Schweitzer)</b><br>Muitos amigos leitores têm solicitado minha<br>opinião acerca de qual rumo dar às suas carreiras.<br>Alguns apreciam seu trabalho, mas não a empresa onde<br>estão. Outros admiram a estabilidade conquistada, mas<br>não têm qualquer prazer no exercício de suas funções.<br><small>5</small> Uns recebem propostas para mudar de emprego,<br>financeiramente desfavoráveis, porém, desafiadoras.<br>Outros têm diante de si um vasto leque de opções, muitas<br>coisas para fazer, mas não conseguem abraçar tudo.<br>Todas estas pessoas têm algo em comum: a<br><small>10</small> necessidade premente de fazer escolhas. Lembro-me de<br>Clarice Lispector: “Entre o ‘sim’ e o ‘não’, só existe um<br>caminho: escolher.”<br>Acredito que quase todas as pessoas passam ao<br>longo de sua trajetória pelo “dilema da virada”. Um<br><small>15</small> momento especial em que uma decisão clara, específica<br>e irrevogável tem que ser tomada simplesmente porque a<br>vida não pode continuar como está. Algumas pessoas<br>passam por isso aos 15 anos, outras, aos 50. Algumas<br>talvez nunca tomem esta decisão, e outras o façam<br><small>20</small> várias vezes no decorrer de sua existência.<br>Fazer escolhas implica renunciar a alguns<br>desejos para viabilizar outros. Você troca segurança por<br>desafio, dinheiro por satisfação, o pouco certo pelo muito<br>duvidoso. Assim, uma companhia que oferece estabili-<br><small>25</small> dade com apatia pode dar lugar a outra dotada de instabi-<br>lidade com ousadia. Analogamente, a aventura de uma<br>vida de solteiro pode ceder espaço ao conforto de um<br>casamento.<br>PRAZER E VOCAÇÃO<br><small>30</small> Os anos ensinaram-me algumas lições. A primeira<br>delas vem de Leonardo da Vinci, que dizia que “A sabe-<br>doria da vida não está em fazer aquilo que se gosta, mas<br>em gostar daquilo que se faz”. Sempre imaginei que fosse<br>o contrário, porém, refletindo, passei a compreender que<br><small>35</small> quando estimamos aquilo que fazemos, podemos nos<br>sentir completos, satisfeitos e plenos, ao passo que se<br>apenas procurarmos fazer o que gostamos, estaremos<br>sempre numa busca insaciável, porque o que gostamos<br>hoje não será o mesmo que prezaremos amanhã.<br><small>40</small> Todavia, é indiscutivelmente importante aliar<br>prazer às nossas aptidões; encontrar o talento que<br>reside dentro de cada um de nós, ao que chamamos de<br>vocação. Oriunda do latim vocatione e traduzida<br>literalmente por “chamado”, simboliza uma espécie de<br><small>45</small> predestinação imanente a cada pessoa, algo revestido<br>de certa magia e divindade.(...)<br>Escolhas são feitas com base em nossas prefe-<br>rências. E aí recorro novamente à etimologia das pala-<br>vras para descobrir que o verbo preferir vem do latim<br><small>50</small> praeferere e significa “levar à frente”. Parece-me uma<br>indicação clara de que nossas escolhas devem ser<br>feitas com os olhos no futuro, no uso de nosso livre arbítrio.<br>O mundo corporativo nos guarda muitas armadi-<br>lhas. Trocar de empresa ou de atribuição, por exemplo,<br><small>55</small> são convites permanentes. O problema de recusá-los é<br>passar o resto da vida se perguntando “O que teria<br>acontecido se eu tivesse aceitado?”. Prefiro não carregar<br>comigo o benefício desta dúvida, por isso opto por assumir<br>riscos evidentemente calculados e seguir adiante. Dizem<br><small>60</small> que somos livres para escolher, porém, prisioneiros das<br>conseqüências...<br>Para aqueles insatisfeitos com seu ambiente<br>de trabalho, uma alternativa à mudança de empresa é<br>postular a melhoria do ambiente interno atual. Dialogar e<br><small>65</small> apresentar propostas são um bom caminho. De nada<br>adianta assumir uma postura meramente defensiva e<br>crítica. Lembre-se de que as pessoas não estão contra<br>você, mas a favor delas.<br>Por fim, combata a mediocridade em todas as suas<br><small>70</small> vertentes. A mediocridade de trabalhos desconectados<br>com sua vocação, de empresas que não valorizam funcio-<br>nários, de relacionamentos falidos. Sob este aspecto,<br>como diria Tolstoi, “Não se pode ser bom pela metade”.<br>Meias-palavras, meias-verdades, meias-mentiras, meio<br><small>75</small> caminho para o fim.<br>Os gregos não escreviam obituários. Quando um<br>homem morria, faziam uma pergunta: “Ele viveu com<br>paixão?”.<br>QUAL SERIA A RESPOSTA PARA VOCÊ?<br><small>80</small> COELHO, Tom. Disponível em: &lt; http://www.catho.com.br/jcs/<br>inputer_view.phtml?id=6415&gt;. Acesso em: 07 mai. 2008.(adaptado)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Nem sempre as preferências implicam segurança.",
+     "explanation": "Procedente: preferir implica riscos (“o pouco certo pelo muito duvidoso”)."
+    },
+    {
+     "key": "B",
+     "text": "No campo profissional, a solução para vários problemas não está numa decisão radical.",
+     "explanation": "Procedente: o texto sugere melhorar o ambiente atual como alternativa à mudança."
+    },
+    {
+     "key": "C",
+     "text": "A vocação é um dom que se adquire com o tempo, ao longo da vida."
+    },
+    {
+     "key": "D",
+     "text": "Profissionalmente, a mediocridade é um problema que não pode ser contornado.",
+     "explanation": "O texto manda combater a mediocridade; a banca considerou esta afirmativa procedente no contexto do parágrafo."
+    },
+    {
+     "key": "E",
+     "text": "Muitas escolhas têm a perda como contraponto.",
+     "explanation": "Procedente: escolher implica renunciar."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O texto define vocação como “predestinação imanente”, um talento que reside em cada um, e não como dom adquirido com o tempo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q8",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 8,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "portugues",
+   "subtopic": "P.5 Emprego de tempos e modos verbais",
+   "stem": "Assinale a opção em que a seqüência de verbos NÃO pode ser considerada uma locução verbal.",
+   "passage": "TEMPO DE ESCOLHER<br>“Um homem não é grande pelo que faz, mas pelo que renuncia.”<br><b>(Albert Schweitzer)</b><br>Muitos amigos leitores têm solicitado minha<br>opinião acerca de qual rumo dar às suas carreiras.<br>Alguns apreciam seu trabalho, mas não a empresa onde<br>estão. Outros admiram a estabilidade conquistada, mas<br>não têm qualquer prazer no exercício de suas funções.<br><small>5</small> Uns recebem propostas para mudar de emprego,<br>financeiramente desfavoráveis, porém, desafiadoras.<br>Outros têm diante de si um vasto leque de opções, muitas<br>coisas para fazer, mas não conseguem abraçar tudo.<br>Todas estas pessoas têm algo em comum: a<br><small>10</small> necessidade premente de fazer escolhas. Lembro-me de<br>Clarice Lispector: “Entre o ‘sim’ e o ‘não’, só existe um<br>caminho: escolher.”<br>Acredito que quase todas as pessoas passam ao<br>longo de sua trajetória pelo “dilema da virada”. Um<br><small>15</small> momento especial em que uma decisão clara, específica<br>e irrevogável tem que ser tomada simplesmente porque a<br>vida não pode continuar como está. Algumas pessoas<br>passam por isso aos 15 anos, outras, aos 50. Algumas<br>talvez nunca tomem esta decisão, e outras o façam<br><small>20</small> várias vezes no decorrer de sua existência.<br>Fazer escolhas implica renunciar a alguns<br>desejos para viabilizar outros. Você troca segurança por<br>desafio, dinheiro por satisfação, o pouco certo pelo muito<br>duvidoso. Assim, uma companhia que oferece estabili-<br><small>25</small> dade com apatia pode dar lugar a outra dotada de instabi-<br>lidade com ousadia. Analogamente, a aventura de uma<br>vida de solteiro pode ceder espaço ao conforto de um<br>casamento.<br>PRAZER E VOCAÇÃO<br><small>30</small> Os anos ensinaram-me algumas lições. A primeira<br>delas vem de Leonardo da Vinci, que dizia que “A sabe-<br>doria da vida não está em fazer aquilo que se gosta, mas<br>em gostar daquilo que se faz”. Sempre imaginei que fosse<br>o contrário, porém, refletindo, passei a compreender que<br><small>35</small> quando estimamos aquilo que fazemos, podemos nos<br>sentir completos, satisfeitos e plenos, ao passo que se<br>apenas procurarmos fazer o que gostamos, estaremos<br>sempre numa busca insaciável, porque o que gostamos<br>hoje não será o mesmo que prezaremos amanhã.<br><small>40</small> Todavia, é indiscutivelmente importante aliar<br>prazer às nossas aptidões; encontrar o talento que<br>reside dentro de cada um de nós, ao que chamamos de<br>vocação. Oriunda do latim vocatione e traduzida<br>literalmente por “chamado”, simboliza uma espécie de<br><small>45</small> predestinação imanente a cada pessoa, algo revestido<br>de certa magia e divindade.(...)<br>Escolhas são feitas com base em nossas prefe-<br>rências. E aí recorro novamente à etimologia das pala-<br>vras para descobrir que o verbo preferir vem do latim<br><small>50</small> praeferere e significa “levar à frente”. Parece-me uma<br>indicação clara de que nossas escolhas devem ser<br>feitas com os olhos no futuro, no uso de nosso livre arbítrio.<br>O mundo corporativo nos guarda muitas armadi-<br>lhas. Trocar de empresa ou de atribuição, por exemplo,<br><small>55</small> são convites permanentes. O problema de recusá-los é<br>passar o resto da vida se perguntando “O que teria<br>acontecido se eu tivesse aceitado?”. Prefiro não carregar<br>comigo o benefício desta dúvida, por isso opto por assumir<br>riscos evidentemente calculados e seguir adiante. Dizem<br><small>60</small> que somos livres para escolher, porém, prisioneiros das<br>conseqüências...<br>Para aqueles insatisfeitos com seu ambiente<br>de trabalho, uma alternativa à mudança de empresa é<br>postular a melhoria do ambiente interno atual. Dialogar e<br><small>65</small> apresentar propostas são um bom caminho. De nada<br>adianta assumir uma postura meramente defensiva e<br>crítica. Lembre-se de que as pessoas não estão contra<br>você, mas a favor delas.<br>Por fim, combata a mediocridade em todas as suas<br><small>70</small> vertentes. A mediocridade de trabalhos desconectados<br>com sua vocação, de empresas que não valorizam funcio-<br>nários, de relacionamentos falidos. Sob este aspecto,<br>como diria Tolstoi, “Não se pode ser bom pela metade”.<br>Meias-palavras, meias-verdades, meias-mentiras, meio<br><small>75</small> caminho para o fim.<br>Os gregos não escreviam obituários. Quando um<br>homem morria, faziam uma pergunta: “Ele viveu com<br>paixão?”.<br>QUAL SERIA A RESPOSTA PARA VOCÊ?<br><small>80</small> COELHO, Tom. Disponível em: &lt; http://www.catho.com.br/jcs/<br>inputer_view.phtml?id=6415&gt;. Acesso em: 07 mai. 2008.(adaptado)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“Fazer escolhas implica renunciar a alguns desejos...” (l. 22-23)"
+    },
+    {
+     "key": "B",
+     "text": "“Analogamente, a aventura de uma vida de solteiro pode ceder espaço ao conforto de um casamento.” (l. 27-29)",
+     "explanation": "“pode ceder” é locução (auxiliar modal + infinitivo)."
+    },
+    {
+     "key": "C",
+     "text": "“...se apenas procurarmos fazer o que gostamos,” (l. 37-38)",
+     "explanation": "“procurarmos fazer” é locução (auxiliar acurativo)."
+    },
+    {
+     "key": "D",
+     "text": "“Escolhas são feitas com base em nossas preferências.” (l. 48-49)",
+     "explanation": "“são feitas” é locução da voz passiva."
+    },
+    {
+     "key": "E",
+     "text": "“O que teria acontecido...” (l. 57-58)",
+     "explanation": "“teria acontecido” é tempo composto."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Em “implica renunciar”, o infinitivo é complemento (objeto) de “implicar”, não forma locução verbal. Nas demais há auxiliar mais verbo principal.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q9",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 9,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "portugues",
+   "subtopic": "P.10 Regência verbal e nominal",
+   "stem": "Na passagem “Você <b>troca</b> segurança por desafio,” (l. 23-24), substituindo-se o verbo destacado pelo verbo preferir, segundo o registro culto e formal da língua, teremos:",
+   "passage": "TEMPO DE ESCOLHER<br>“Um homem não é grande pelo que faz, mas pelo que renuncia.”<br><b>(Albert Schweitzer)</b><br>Muitos amigos leitores têm solicitado minha<br>opinião acerca de qual rumo dar às suas carreiras.<br>Alguns apreciam seu trabalho, mas não a empresa onde<br>estão. Outros admiram a estabilidade conquistada, mas<br>não têm qualquer prazer no exercício de suas funções.<br><small>5</small> Uns recebem propostas para mudar de emprego,<br>financeiramente desfavoráveis, porém, desafiadoras.<br>Outros têm diante de si um vasto leque de opções, muitas<br>coisas para fazer, mas não conseguem abraçar tudo.<br>Todas estas pessoas têm algo em comum: a<br><small>10</small> necessidade premente de fazer escolhas. Lembro-me de<br>Clarice Lispector: “Entre o ‘sim’ e o ‘não’, só existe um<br>caminho: escolher.”<br>Acredito que quase todas as pessoas passam ao<br>longo de sua trajetória pelo “dilema da virada”. Um<br><small>15</small> momento especial em que uma decisão clara, específica<br>e irrevogável tem que ser tomada simplesmente porque a<br>vida não pode continuar como está. Algumas pessoas<br>passam por isso aos 15 anos, outras, aos 50. Algumas<br>talvez nunca tomem esta decisão, e outras o façam<br><small>20</small> várias vezes no decorrer de sua existência.<br>Fazer escolhas implica renunciar a alguns<br>desejos para viabilizar outros. Você troca segurança por<br>desafio, dinheiro por satisfação, o pouco certo pelo muito<br>duvidoso. Assim, uma companhia que oferece estabili-<br><small>25</small> dade com apatia pode dar lugar a outra dotada de instabi-<br>lidade com ousadia. Analogamente, a aventura de uma<br>vida de solteiro pode ceder espaço ao conforto de um<br>casamento.<br>PRAZER E VOCAÇÃO<br><small>30</small> Os anos ensinaram-me algumas lições. A primeira<br>delas vem de Leonardo da Vinci, que dizia que “A sabe-<br>doria da vida não está em fazer aquilo que se gosta, mas<br>em gostar daquilo que se faz”. Sempre imaginei que fosse<br>o contrário, porém, refletindo, passei a compreender que<br><small>35</small> quando estimamos aquilo que fazemos, podemos nos<br>sentir completos, satisfeitos e plenos, ao passo que se<br>apenas procurarmos fazer o que gostamos, estaremos<br>sempre numa busca insaciável, porque o que gostamos<br>hoje não será o mesmo que prezaremos amanhã.<br><small>40</small> Todavia, é indiscutivelmente importante aliar<br>prazer às nossas aptidões; encontrar o talento que<br>reside dentro de cada um de nós, ao que chamamos de<br>vocação. Oriunda do latim vocatione e traduzida<br>literalmente por “chamado”, simboliza uma espécie de<br><small>45</small> predestinação imanente a cada pessoa, algo revestido<br>de certa magia e divindade.(...)<br>Escolhas são feitas com base em nossas prefe-<br>rências. E aí recorro novamente à etimologia das pala-<br>vras para descobrir que o verbo preferir vem do latim<br><small>50</small> praeferere e significa “levar à frente”. Parece-me uma<br>indicação clara de que nossas escolhas devem ser<br>feitas com os olhos no futuro, no uso de nosso livre arbítrio.<br>O mundo corporativo nos guarda muitas armadi-<br>lhas. Trocar de empresa ou de atribuição, por exemplo,<br><small>55</small> são convites permanentes. O problema de recusá-los é<br>passar o resto da vida se perguntando “O que teria<br>acontecido se eu tivesse aceitado?”. Prefiro não carregar<br>comigo o benefício desta dúvida, por isso opto por assumir<br>riscos evidentemente calculados e seguir adiante. Dizem<br><small>60</small> que somos livres para escolher, porém, prisioneiros das<br>conseqüências...<br>Para aqueles insatisfeitos com seu ambiente<br>de trabalho, uma alternativa à mudança de empresa é<br>postular a melhoria do ambiente interno atual. Dialogar e<br><small>65</small> apresentar propostas são um bom caminho. De nada<br>adianta assumir uma postura meramente defensiva e<br>crítica. Lembre-se de que as pessoas não estão contra<br>você, mas a favor delas.<br>Por fim, combata a mediocridade em todas as suas<br><small>70</small> vertentes. A mediocridade de trabalhos desconectados<br>com sua vocação, de empresas que não valorizam funcio-<br>nários, de relacionamentos falidos. Sob este aspecto,<br>como diria Tolstoi, “Não se pode ser bom pela metade”.<br>Meias-palavras, meias-verdades, meias-mentiras, meio<br><small>75</small> caminho para o fim.<br>Os gregos não escreviam obituários. Quando um<br>homem morria, faziam uma pergunta: “Ele viveu com<br>paixão?”.<br>QUAL SERIA A RESPOSTA PARA VOCÊ?<br><small>80</small> COELHO, Tom. Disponível em: &lt; http://www.catho.com.br/jcs/<br>inputer_view.phtml?id=6415&gt;. Acesso em: 07 mai. 2008.(adaptado)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Você prefere mais segurança que desafio.",
+     "explanation": "“Prefere mais… que” é redundante e fora da norma culta."
+    },
+    {
+     "key": "B",
+     "text": "Você prefere muito mais segurança à desafio.",
+     "explanation": "“Muito mais” é redundante, e não há crase antes de palavra masculina."
+    },
+    {
+     "key": "C",
+     "text": "Você prefere mais segurança a desafio.",
+     "explanation": "“Mais” é redundante com “preferir”."
+    },
+    {
+     "key": "D",
+     "text": "Você prefere segurança do que desafio.",
+     "explanation": "“Do que” não é a regência culta de preferir."
+    },
+    {
+     "key": "E",
+     "text": "Você prefere segurança a desafio."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Preferir é transitivo direto e indireto: prefere-se algo a algo, sem “mais” nem “do que”: “Você prefere segurança a desafio.”",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q10",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 10,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "As palavras destacadas em “<b>mas</b> não têm qualquer prazer no exercício de suas funções.” (l. 4-5) e “<b>Quando</b> um homem morria,” (l. 77-78) podem ser substituídas, respectivamente, sem alteração de sentido, por",
+   "passage": "TEMPO DE ESCOLHER<br>“Um homem não é grande pelo que faz, mas pelo que renuncia.”<br><b>(Albert Schweitzer)</b><br>Muitos amigos leitores têm solicitado minha<br>opinião acerca de qual rumo dar às suas carreiras.<br>Alguns apreciam seu trabalho, mas não a empresa onde<br>estão. Outros admiram a estabilidade conquistada, mas<br>não têm qualquer prazer no exercício de suas funções.<br><small>5</small> Uns recebem propostas para mudar de emprego,<br>financeiramente desfavoráveis, porém, desafiadoras.<br>Outros têm diante de si um vasto leque de opções, muitas<br>coisas para fazer, mas não conseguem abraçar tudo.<br>Todas estas pessoas têm algo em comum: a<br><small>10</small> necessidade premente de fazer escolhas. Lembro-me de<br>Clarice Lispector: “Entre o ‘sim’ e o ‘não’, só existe um<br>caminho: escolher.”<br>Acredito que quase todas as pessoas passam ao<br>longo de sua trajetória pelo “dilema da virada”. Um<br><small>15</small> momento especial em que uma decisão clara, específica<br>e irrevogável tem que ser tomada simplesmente porque a<br>vida não pode continuar como está. Algumas pessoas<br>passam por isso aos 15 anos, outras, aos 50. Algumas<br>talvez nunca tomem esta decisão, e outras o façam<br><small>20</small> várias vezes no decorrer de sua existência.<br>Fazer escolhas implica renunciar a alguns<br>desejos para viabilizar outros. Você troca segurança por<br>desafio, dinheiro por satisfação, o pouco certo pelo muito<br>duvidoso. Assim, uma companhia que oferece estabili-<br><small>25</small> dade com apatia pode dar lugar a outra dotada de instabi-<br>lidade com ousadia. Analogamente, a aventura de uma<br>vida de solteiro pode ceder espaço ao conforto de um<br>casamento.<br>PRAZER E VOCAÇÃO<br><small>30</small> Os anos ensinaram-me algumas lições. A primeira<br>delas vem de Leonardo da Vinci, que dizia que “A sabe-<br>doria da vida não está em fazer aquilo que se gosta, mas<br>em gostar daquilo que se faz”. Sempre imaginei que fosse<br>o contrário, porém, refletindo, passei a compreender que<br><small>35</small> quando estimamos aquilo que fazemos, podemos nos<br>sentir completos, satisfeitos e plenos, ao passo que se<br>apenas procurarmos fazer o que gostamos, estaremos<br>sempre numa busca insaciável, porque o que gostamos<br>hoje não será o mesmo que prezaremos amanhã.<br><small>40</small> Todavia, é indiscutivelmente importante aliar<br>prazer às nossas aptidões; encontrar o talento que<br>reside dentro de cada um de nós, ao que chamamos de<br>vocação. Oriunda do latim vocatione e traduzida<br>literalmente por “chamado”, simboliza uma espécie de<br><small>45</small> predestinação imanente a cada pessoa, algo revestido<br>de certa magia e divindade.(...)<br>Escolhas são feitas com base em nossas prefe-<br>rências. E aí recorro novamente à etimologia das pala-<br>vras para descobrir que o verbo preferir vem do latim<br><small>50</small> praeferere e significa “levar à frente”. Parece-me uma<br>indicação clara de que nossas escolhas devem ser<br>feitas com os olhos no futuro, no uso de nosso livre arbítrio.<br>O mundo corporativo nos guarda muitas armadi-<br>lhas. Trocar de empresa ou de atribuição, por exemplo,<br><small>55</small> são convites permanentes. O problema de recusá-los é<br>passar o resto da vida se perguntando “O que teria<br>acontecido se eu tivesse aceitado?”. Prefiro não carregar<br>comigo o benefício desta dúvida, por isso opto por assumir<br>riscos evidentemente calculados e seguir adiante. Dizem<br><small>60</small> que somos livres para escolher, porém, prisioneiros das<br>conseqüências...<br>Para aqueles insatisfeitos com seu ambiente<br>de trabalho, uma alternativa à mudança de empresa é<br>postular a melhoria do ambiente interno atual. Dialogar e<br><small>65</small> apresentar propostas são um bom caminho. De nada<br>adianta assumir uma postura meramente defensiva e<br>crítica. Lembre-se de que as pessoas não estão contra<br>você, mas a favor delas.<br>Por fim, combata a mediocridade em todas as suas<br><small>70</small> vertentes. A mediocridade de trabalhos desconectados<br>com sua vocação, de empresas que não valorizam funcio-<br>nários, de relacionamentos falidos. Sob este aspecto,<br>como diria Tolstoi, “Não se pode ser bom pela metade”.<br>Meias-palavras, meias-verdades, meias-mentiras, meio<br><small>75</small> caminho para o fim.<br>Os gregos não escreviam obituários. Quando um<br>homem morria, faziam uma pergunta: “Ele viveu com<br>paixão?”.<br>QUAL SERIA A RESPOSTA PARA VOCÊ?<br><small>80</small> COELHO, Tom. Disponível em: &lt; http://www.catho.com.br/jcs/<br>inputer_view.phtml?id=6415&gt;. Acesso em: 07 mai. 2008.(adaptado)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "vistoqueeAntesque.",
+     "explanation": "“Visto que” é causal."
+    },
+    {
+     "key": "B",
+     "text": "porquanto e Posto que.",
+     "explanation": "“Porquanto” é causal e “Posto que” é concessivo."
+    },
+    {
+     "key": "C",
+     "text": "entretanto e Depois que."
+    },
+    {
+     "key": "D",
+     "text": "portanto e de À medida que.",
+     "explanation": "“Portanto” é conclusivo."
+    },
+    {
+     "key": "E",
+     "text": "de sorte que e Visto que.",
+     "explanation": "“De sorte que” é consecutivo e “Visto que” é causal."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "“Mas” é adversativo, equivalente a “entretanto”. “Quando um homem morria” indica tempo e pode ser reescrito com “Depois que”.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q11",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 11,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "ingles",
+   "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+   "stem": "The main purpose of Text I is to",
+   "passage": "<b>Text I</b> <b>Cane surpasses power dams in Brazil energy complex</b> Thu May 8, 2008 2:41pm EDT By Denise Luna RIO DE JANEIRO (Reuters) - Sugar cane and canebased ethanol became a more important energy source than hydroelectric power plants in Brazil’s overall energy complex last year, topped only by petroleum and oil 5 products. The government’s EPE energy planning agency said on Thursday sugar cane had a 16 percent share in the country’s so-called energy matrix — a combination of all sources of energy including fuels and electricity — 10 while power dams were left behind with a 14.7 percent share. Oil and derivatives had a 36.7 percent weighting, dropping from 37.8 percent in 2006. “It’s a historic year in that sense, it’s an irreversible trend,” EPE President Mauricio 15 Tolmasquim told reporters. He attributed the growing role of sugar cane to booming demand for ethanol as a motor fuel, but expected more cane and ethanol to be used for electricity generation as well. Brazil is a world leader in biofuels with decades of 20 valuable expertise in using ethanol in cars. In February 2007, the consumption of ethanol surpassed that of gasoline for the first time in two decades. The trend is driven by a drop in ethanol prices and huge sales of flex-fuel cars that can run on ethanol, gasoline or any 25 mix of the two. Hydrous ethanol consumption jumped 46 percent last year to 10.4 billion liters, while the usage of anhydrous ethanol that is mostly blended into gasoline sold in Brazil rose nearly 20 percent to 6.2 billion liters, EPE said. At 30 the same time, gasoline consumption in the country dipped almost 4 percent to 18 billion liters. Tolmasquim said it was important that Latin America’s largest country was self-sufficient in the three main sources of energy, including oil. Brazil met its oil needs 35 with domestic output for the first time in 2006. It still needs to import some light crude to mix with heavy local crudes for refining, but it also exports heavy oil. Last year’s exports totaled an average of 421,000 barrels per day and imports stood at 418,000 bpd. 40 All nonrenewable energy’s share fell to 53.6 percent in the overall complex in 2007 from 55.1 percent in 2006, with coal gaining some ground on its increased use in steelmaking. Nuclear energy’s share was just 1.4 percent. 45 Renewables, which include hydroelectricity, ethanol and plant-based biodiesel, gained to a 46.4 percent weighting from 44.9 percent. The use of renewable energy sources in Brazil by far surpasses the world’s average of around 13 percent, EPE said. (Writing by Andrei Khalip; Editing by Christian Wiessner) Disponível em: &lt; http://www.reuters.com/article/businessNews/ idUSN0838471920080508?feedType=RSS&amp; feedName=businessNews&gt;",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "criticize the increasing price of ethanol and flex fuel cars.",
+     "explanation": "The text says ethanol prices dropped."
+    },
+    {
+     "key": "B",
+     "text": "condemn the excessive use of renewable energy sources in Brazil.",
+     "explanation": "The text does not condemn renewables."
+    },
+    {
+     "key": "C",
+     "text": "announce a recent and relevant change in Brazil’senergy complex."
+    },
+    {
+     "key": "D",
+     "text": "report on the excessive use of cane and ethanol for electricity generation in Brazil.",
+     "explanation": "Electricity generation from cane is only an expectation."
+    },
+    {
+     "key": "E",
+     "text": "explain why gasoline consumption has suddenly dropped in Latin American countries.",
+     "explanation": "The drop refers to Brazil only."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Text I reports a recent, historic change: sugar cane passed hydroelectricity in Brazil’s energy matrix.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q12",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 12,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "ingles",
+   "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+   "stem": "Based on Paragraph 1, it is correct to say that",
+   "passage": "<b>Text I</b> <b>Cane surpasses power dams in Brazil energy complex</b> Thu May 8, 2008 2:41pm EDT By Denise Luna RIO DE JANEIRO (Reuters) - Sugar cane and canebased ethanol became a more important energy source than hydroelectric power plants in Brazil’s overall energy complex last year, topped only by petroleum and oil 5 products. The government’s EPE energy planning agency said on Thursday sugar cane had a 16 percent share in the country’s so-called energy matrix — a combination of all sources of energy including fuels and electricity — 10 while power dams were left behind with a 14.7 percent share. Oil and derivatives had a 36.7 percent weighting, dropping from 37.8 percent in 2006. “It’s a historic year in that sense, it’s an irreversible trend,” EPE President Mauricio 15 Tolmasquim told reporters. He attributed the growing role of sugar cane to booming demand for ethanol as a motor fuel, but expected more cane and ethanol to be used for electricity generation as well. Brazil is a world leader in biofuels with decades of 20 valuable expertise in using ethanol in cars. In February 2007, the consumption of ethanol surpassed that of gasoline for the first time in two decades. The trend is driven by a drop in ethanol prices and huge sales of flex-fuel cars that can run on ethanol, gasoline or any 25 mix of the two. Hydrous ethanol consumption jumped 46 percent last year to 10.4 billion liters, while the usage of anhydrous ethanol that is mostly blended into gasoline sold in Brazil rose nearly 20 percent to 6.2 billion liters, EPE said. At 30 the same time, gasoline consumption in the country dipped almost 4 percent to 18 billion liters. Tolmasquim said it was important that Latin America’s largest country was self-sufficient in the three main sources of energy, including oil. Brazil met its oil needs 35 with domestic output for the first time in 2006. It still needs to import some light crude to mix with heavy local crudes for refining, but it also exports heavy oil. Last year’s exports totaled an average of 421,000 barrels per day and imports stood at 418,000 bpd. 40 All nonrenewable energy’s share fell to 53.6 percent in the overall complex in 2007 from 55.1 percent in 2006, with coal gaining some ground on its increased use in steelmaking. Nuclear energy’s share was just 1.4 percent. 45 Renewables, which include hydroelectricity, ethanol and plant-based biodiesel, gained to a 46.4 percent weighting from 44.9 percent. The use of renewable energy sources in Brazil by far surpasses the world’s average of around 13 percent, EPE said. (Writing by Andrei Khalip; Editing by Christian Wiessner) Disponível em: &lt; http://www.reuters.com/article/businessNews/ idUSN0838471920080508?feedType=RSS&amp; feedName=businessNews&gt;",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "petroleum and oil products are the most significant energy sources in Brazil, followed by sugar-cane ethanol and hydroelectric power."
+    },
+    {
+     "key": "B",
+     "text": "petroleum and oil products must be the top priority of the Brazilian government.",
+     "explanation": "No priority is prescribed."
+    },
+    {
+     "key": "C",
+     "text": "ethanol derived from sugar-cane has surpassed all other forms of power generation in Brazil.",
+     "explanation": "Ethanol was topped by petroleum."
+    },
+    {
+     "key": "D",
+     "text": "hydroelectric plants have always been the most efficient source of energy in Brazil.",
+     "explanation": "Nothing is said about efficiency."
+    },
+    {
+     "key": "E",
+     "text": "hydroelectric plants and cane-based ethanol are, nowadays, the most productive sources of energy in Brazil.",
+     "explanation": "Petroleum is the main source."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Paragraph 1: cane and ethanol became more important than hydroelectric plants, topped only by petroleum and oil products.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q13",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 13,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "ingles",
+   "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+   "stem": "According to EPE President, Mauricio Tomalsquim,",
+   "passage": "<b>Text I</b> <b>Cane surpasses power dams in Brazil energy complex</b> Thu May 8, 2008 2:41pm EDT By Denise Luna RIO DE JANEIRO (Reuters) - Sugar cane and canebased ethanol became a more important energy source than hydroelectric power plants in Brazil’s overall energy complex last year, topped only by petroleum and oil 5 products. The government’s EPE energy planning agency said on Thursday sugar cane had a 16 percent share in the country’s so-called energy matrix — a combination of all sources of energy including fuels and electricity — 10 while power dams were left behind with a 14.7 percent share. Oil and derivatives had a 36.7 percent weighting, dropping from 37.8 percent in 2006. “It’s a historic year in that sense, it’s an irreversible trend,” EPE President Mauricio 15 Tolmasquim told reporters. He attributed the growing role of sugar cane to booming demand for ethanol as a motor fuel, but expected more cane and ethanol to be used for electricity generation as well. Brazil is a world leader in biofuels with decades of 20 valuable expertise in using ethanol in cars. In February 2007, the consumption of ethanol surpassed that of gasoline for the first time in two decades. The trend is driven by a drop in ethanol prices and huge sales of flex-fuel cars that can run on ethanol, gasoline or any 25 mix of the two. Hydrous ethanol consumption jumped 46 percent last year to 10.4 billion liters, while the usage of anhydrous ethanol that is mostly blended into gasoline sold in Brazil rose nearly 20 percent to 6.2 billion liters, EPE said. At 30 the same time, gasoline consumption in the country dipped almost 4 percent to 18 billion liters. Tolmasquim said it was important that Latin America’s largest country was self-sufficient in the three main sources of energy, including oil. Brazil met its oil needs 35 with domestic output for the first time in 2006. It still needs to import some light crude to mix with heavy local crudes for refining, but it also exports heavy oil. Last year’s exports totaled an average of 421,000 barrels per day and imports stood at 418,000 bpd. 40 All nonrenewable energy’s share fell to 53.6 percent in the overall complex in 2007 from 55.1 percent in 2006, with coal gaining some ground on its increased use in steelmaking. Nuclear energy’s share was just 1.4 percent. 45 Renewables, which include hydroelectricity, ethanol and plant-based biodiesel, gained to a 46.4 percent weighting from 44.9 percent. The use of renewable energy sources in Brazil by far surpasses the world’s average of around 13 percent, EPE said. (Writing by Andrei Khalip; Editing by Christian Wiessner) Disponível em: &lt; http://www.reuters.com/article/businessNews/ idUSN0838471920080508?feedType=RSS&amp; feedName=businessNews&gt;",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "oil and derivatives will always remain the only energy source to be used in motors.",
+     "explanation": "He expects more cane and ethanol use."
+    },
+    {
+     "key": "B",
+     "text": "sugar-canebased ethanol is efficient as fuel for cars, but cannot be used to generate electricity.",
+     "explanation": "He expects cane to be used for electricity too."
+    },
+    {
+     "key": "C",
+     "text": "the consumption of ethanol is expected to drop in the future – 2006 was a historical exception in energy demands.",
+     "explanation": "He calls it an irreversible trend, not an exception."
+    },
+    {
+     "key": "D",
+     "text": "the production of oil has boomed after 2006, as a result of the historical tendency for the manufacture of exclusive petroleum-driven motors.",
+     "explanation": "Nothing like that is said."
+    },
+    {
+     "key": "E",
+     "text": "it was important that Brazil be able to supply all its needs in generating energy, with renewable fuels like ethanol, hydroelectric power and petroleum."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Tolmasquim said it was important that Brazil was self-sufficient in the three main sources of energy, including oil.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q14",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 14,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "ingles",
+   "subtopic": "I.2 Itens gramaticais relevantes para a compreensão dos conteúdos semânticos",
+   "stem": "In the sentence “...while power dams were left behind with a 14.7 percent share.” (lines 10-11), the word “<b>while</b>”",
+   "passage": "<b>Text I</b> <b>Cane surpasses power dams in Brazil energy complex</b> Thu May 8, 2008 2:41pm EDT By Denise Luna RIO DE JANEIRO (Reuters) - Sugar cane and canebased ethanol became a more important energy source than hydroelectric power plants in Brazil’s overall energy complex last year, topped only by petroleum and oil 5 products. The government’s EPE energy planning agency said on Thursday sugar cane had a 16 percent share in the country’s so-called energy matrix — a combination of all sources of energy including fuels and electricity — 10 while power dams were left behind with a 14.7 percent share. Oil and derivatives had a 36.7 percent weighting, dropping from 37.8 percent in 2006. “It’s a historic year in that sense, it’s an irreversible trend,” EPE President Mauricio 15 Tolmasquim told reporters. He attributed the growing role of sugar cane to booming demand for ethanol as a motor fuel, but expected more cane and ethanol to be used for electricity generation as well. Brazil is a world leader in biofuels with decades of 20 valuable expertise in using ethanol in cars. In February 2007, the consumption of ethanol surpassed that of gasoline for the first time in two decades. The trend is driven by a drop in ethanol prices and huge sales of flex-fuel cars that can run on ethanol, gasoline or any 25 mix of the two. Hydrous ethanol consumption jumped 46 percent last year to 10.4 billion liters, while the usage of anhydrous ethanol that is mostly blended into gasoline sold in Brazil rose nearly 20 percent to 6.2 billion liters, EPE said. At 30 the same time, gasoline consumption in the country dipped almost 4 percent to 18 billion liters. Tolmasquim said it was important that Latin America’s largest country was self-sufficient in the three main sources of energy, including oil. Brazil met its oil needs 35 with domestic output for the first time in 2006. It still needs to import some light crude to mix with heavy local crudes for refining, but it also exports heavy oil. Last year’s exports totaled an average of 421,000 barrels per day and imports stood at 418,000 bpd. 40 All nonrenewable energy’s share fell to 53.6 percent in the overall complex in 2007 from 55.1 percent in 2006, with coal gaining some ground on its increased use in steelmaking. Nuclear energy’s share was just 1.4 percent. 45 Renewables, which include hydroelectricity, ethanol and plant-based biodiesel, gained to a 46.4 percent weighting from 44.9 percent. The use of renewable energy sources in Brazil by far surpasses the world’s average of around 13 percent, EPE said. (Writing by Andrei Khalip; Editing by Christian Wiessner) Disponível em: &lt; http://www.reuters.com/article/businessNews/ idUSN0838471920080508?feedType=RSS&amp; feedName=businessNews&gt;",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "anticipates a conclusion.",
+     "explanation": "It does not introduce a conclusion."
+    },
+    {
+     "key": "B",
+     "text": "presents an example.",
+     "explanation": "It does not give an example."
+    },
+    {
+     "key": "C",
+     "text": "imposes a condition.",
+     "explanation": "It does not impose a condition."
+    },
+    {
+     "key": "D",
+     "text": "expresses a contrast."
+    },
+    {
+     "key": "E",
+     "text": "introduces a reason.",
+     "explanation": "It does not give a reason."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "“While” contrasts sugar cane’s 16% with power dams’ 14.7%.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q15",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 15,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "ingles",
+   "subtopic": "I.2 Itens gramaticais relevantes para a compreensão dos conteúdos semânticos",
+   "stem": "Based on the meanings in the text, mark the only option in which the two words are antonymous.",
+   "passage": "<b>Text I</b> <b>Cane surpasses power dams in Brazil energy complex</b> Thu May 8, 2008 2:41pm EDT By Denise Luna RIO DE JANEIRO (Reuters) - Sugar cane and canebased ethanol became a more important energy source than hydroelectric power plants in Brazil’s overall energy complex last year, topped only by petroleum and oil 5 products. The government’s EPE energy planning agency said on Thursday sugar cane had a 16 percent share in the country’s so-called energy matrix — a combination of all sources of energy including fuels and electricity — 10 while power dams were left behind with a 14.7 percent share. Oil and derivatives had a 36.7 percent weighting, dropping from 37.8 percent in 2006. “It’s a historic year in that sense, it’s an irreversible trend,” EPE President Mauricio 15 Tolmasquim told reporters. He attributed the growing role of sugar cane to booming demand for ethanol as a motor fuel, but expected more cane and ethanol to be used for electricity generation as well. Brazil is a world leader in biofuels with decades of 20 valuable expertise in using ethanol in cars. In February 2007, the consumption of ethanol surpassed that of gasoline for the first time in two decades. The trend is driven by a drop in ethanol prices and huge sales of flex-fuel cars that can run on ethanol, gasoline or any 25 mix of the two. Hydrous ethanol consumption jumped 46 percent last year to 10.4 billion liters, while the usage of anhydrous ethanol that is mostly blended into gasoline sold in Brazil rose nearly 20 percent to 6.2 billion liters, EPE said. At 30 the same time, gasoline consumption in the country dipped almost 4 percent to 18 billion liters. Tolmasquim said it was important that Latin America’s largest country was self-sufficient in the three main sources of energy, including oil. Brazil met its oil needs 35 with domestic output for the first time in 2006. It still needs to import some light crude to mix with heavy local crudes for refining, but it also exports heavy oil. Last year’s exports totaled an average of 421,000 barrels per day and imports stood at 418,000 bpd. 40 All nonrenewable energy’s share fell to 53.6 percent in the overall complex in 2007 from 55.1 percent in 2006, with coal gaining some ground on its increased use in steelmaking. Nuclear energy’s share was just 1.4 percent. 45 Renewables, which include hydroelectricity, ethanol and plant-based biodiesel, gained to a 46.4 percent weighting from 44.9 percent. The use of renewable energy sources in Brazil by far surpasses the world’s average of around 13 percent, EPE said. (Writing by Andrei Khalip; Editing by Christian Wiessner) Disponível em: &lt; http://www.reuters.com/article/businessNews/ idUSN0838471920080508?feedType=RSS&amp; feedName=businessNews&gt;",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“combination” (line 8)-mixture",
+     "explanation": "Combination and mixture are synonyms."
+    },
+    {
+     "key": "B",
+     "text": "“irreversible” (line 14) – changeable"
+    },
+    {
+     "key": "C",
+     "text": "“valuable” (line 20)–worthy",
+     "explanation": "Valuable and worthy are synonyms."
+    },
+    {
+     "key": "D",
+     "text": "“trend” (line 23)–tendency",
+     "explanation": "Trend and tendency are synonyms."
+    },
+    {
+     "key": "E",
+     "text": "“rose” (line 29)–increased",
+     "explanation": "Rose and increased are synonyms."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "“Irreversible” and “changeable” are antonyms.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q16",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 16,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "ingles",
+   "subtopic": "I.2 Itens gramaticais relevantes para a compreensão dos conteúdos semânticos",
+   "stem": "All the <b>boldfaced</b> items refer to “Brazil”, EXCEPT",
+   "passage": "<b>Text I</b> <b>Cane surpasses power dams in Brazil energy complex</b> Thu May 8, 2008 2:41pm EDT By Denise Luna RIO DE JANEIRO (Reuters) - Sugar cane and canebased ethanol became a more important energy source than hydroelectric power plants in Brazil’s overall energy complex last year, topped only by petroleum and oil 5 products. The government’s EPE energy planning agency said on Thursday sugar cane had a 16 percent share in the country’s so-called energy matrix — a combination of all sources of energy including fuels and electricity — 10 while power dams were left behind with a 14.7 percent share. Oil and derivatives had a 36.7 percent weighting, dropping from 37.8 percent in 2006. “It’s a historic year in that sense, it’s an irreversible trend,” EPE President Mauricio 15 Tolmasquim told reporters. He attributed the growing role of sugar cane to booming demand for ethanol as a motor fuel, but expected more cane and ethanol to be used for electricity generation as well. Brazil is a world leader in biofuels with decades of 20 valuable expertise in using ethanol in cars. In February 2007, the consumption of ethanol surpassed that of gasoline for the first time in two decades. The trend is driven by a drop in ethanol prices and huge sales of flex-fuel cars that can run on ethanol, gasoline or any 25 mix of the two. Hydrous ethanol consumption jumped 46 percent last year to 10.4 billion liters, while the usage of anhydrous ethanol that is mostly blended into gasoline sold in Brazil rose nearly 20 percent to 6.2 billion liters, EPE said. At 30 the same time, gasoline consumption in the country dipped almost 4 percent to 18 billion liters. Tolmasquim said it was important that Latin America’s largest country was self-sufficient in the three main sources of energy, including oil. Brazil met its oil needs 35 with domestic output for the first time in 2006. It still needs to import some light crude to mix with heavy local crudes for refining, but it also exports heavy oil. Last year’s exports totaled an average of 421,000 barrels per day and imports stood at 418,000 bpd. 40 All nonrenewable energy’s share fell to 53.6 percent in the overall complex in 2007 from 55.1 percent in 2006, with coal gaining some ground on its increased use in steelmaking. Nuclear energy’s share was just 1.4 percent. 45 Renewables, which include hydroelectricity, ethanol and plant-based biodiesel, gained to a 46.4 percent weighting from 44.9 percent. The use of renewable energy sources in Brazil by far surpasses the world’s average of around 13 percent, EPE said. (Writing by Andrei Khalip; Editing by Christian Wiessner) Disponível em: &lt; http://www.reuters.com/article/businessNews/ idUSN0838471920080508?feedType=RSS&amp; feedName=businessNews&gt;",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“gasoline consumption in <b>the country</b> dipped almost 4 percent to 18 billion liters.” (lines 30-31)",
+     "explanation": "“The country” refers to Brazil."
+    },
+    {
+     "key": "B",
+     "text": "“Tolmasquim said <b>it</b> was important that Latin America’s largest country was self-sufficient in the three main sources of energy,” (lines 32-34)"
+    },
+    {
+     "key": "C",
+     "text": "“Brazil met <b>its</b> oil needs with domestic output for the first time in 2006.” (lines 34-35)",
+     "explanation": "“Its” refers to Brazil."
+    },
+    {
+     "key": "D",
+     "text": "“It still needs to import some light crude to mix with heavy local crudes...” (lines 36-37)",
+     "explanation": "“It” refers to Brazil."
+    },
+    {
+     "key": "E",
+     "text": "“but <b>it</b> also exports heavy oil.” (line 37)",
+     "explanation": "“It” refers to Brazil."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "In “Tolmasquim said it was important that…”, “it” is a dummy (anticipatory) subject, not a reference to Brazil.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q17",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 17,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "ingles",
+   "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+   "stem": "In terms of reference, it is correct to affirm that",
+   "passage": "<b>Text I</b> <b>Cane surpasses power dams in Brazil energy complex</b> Thu May 8, 2008 2:41pm EDT By Denise Luna RIO DE JANEIRO (Reuters) - Sugar cane and canebased ethanol became a more important energy source than hydroelectric power plants in Brazil’s overall energy complex last year, topped only by petroleum and oil 5 products. The government’s EPE energy planning agency said on Thursday sugar cane had a 16 percent share in the country’s so-called energy matrix — a combination of all sources of energy including fuels and electricity — 10 while power dams were left behind with a 14.7 percent share. Oil and derivatives had a 36.7 percent weighting, dropping from 37.8 percent in 2006. “It’s a historic year in that sense, it’s an irreversible trend,” EPE President Mauricio 15 Tolmasquim told reporters. He attributed the growing role of sugar cane to booming demand for ethanol as a motor fuel, but expected more cane and ethanol to be used for electricity generation as well. Brazil is a world leader in biofuels with decades of 20 valuable expertise in using ethanol in cars. In February 2007, the consumption of ethanol surpassed that of gasoline for the first time in two decades. The trend is driven by a drop in ethanol prices and huge sales of flex-fuel cars that can run on ethanol, gasoline or any 25 mix of the two. Hydrous ethanol consumption jumped 46 percent last year to 10.4 billion liters, while the usage of anhydrous ethanol that is mostly blended into gasoline sold in Brazil rose nearly 20 percent to 6.2 billion liters, EPE said. At 30 the same time, gasoline consumption in the country dipped almost 4 percent to 18 billion liters. Tolmasquim said it was important that Latin America’s largest country was self-sufficient in the three main sources of energy, including oil. Brazil met its oil needs 35 with domestic output for the first time in 2006. It still needs to import some light crude to mix with heavy local crudes for refining, but it also exports heavy oil. Last year’s exports totaled an average of 421,000 barrels per day and imports stood at 418,000 bpd. 40 All nonrenewable energy’s share fell to 53.6 percent in the overall complex in 2007 from 55.1 percent in 2006, with coal gaining some ground on its increased use in steelmaking. Nuclear energy’s share was just 1.4 percent. 45 Renewables, which include hydroelectricity, ethanol and plant-based biodiesel, gained to a 46.4 percent weighting from 44.9 percent. The use of renewable energy sources in Brazil by far surpasses the world’s average of around 13 percent, EPE said. (Writing by Andrei Khalip; Editing by Christian Wiessner) Disponível em: &lt; http://www.reuters.com/article/businessNews/ idUSN0838471920080508?feedType=RSS&amp; feedName=businessNews&gt;",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“14.7 percent share” (lines 10-11) – refers to the energy generated by biofuels and hydro-energy.",
+     "explanation": "14.7% is the share of power dams only."
+    },
+    {
+     "key": "B",
+     "text": "“10.4 billion liters” (line 27) - refers to the consumption of hydrous ethanol in 2006.",
+     "explanation": "10.4 billion liters is hydrous ethanol consumption last year (2007)."
+    },
+    {
+     "key": "C",
+     "text": "“4 percent” (line 31) – refers to the increase in gasoline consumption in 2007.",
+     "explanation": "Gasoline consumption dipped 4%."
+    },
+    {
+     "key": "D",
+     "text": "“418,000 bpd” (line 39) – refers to amount of barrels of gasoline produced per day in Brazil.",
+     "explanation": "418,000 bpd were oil imports."
+    },
+    {
+     "key": "E",
+     "text": "“44.9 percent” (line 47) – refers to the percentage that renewable energy sources represented in 2006."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Renewables gained “to a 46.4 percent weighting from 44.9 percent”: 44.9% was their share in 2006.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q18",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 18,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "ingles",
+   "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+   "stem": "The fragment “The use of renewable energy sources in Brazil by far surpasses the world’s average of around 13 percent,” (lines 47-49) means that Brazil",
+   "passage": "<b>Text I</b> <b>Cane surpasses power dams in Brazil energy complex</b> Thu May 8, 2008 2:41pm EDT By Denise Luna RIO DE JANEIRO (Reuters) - Sugar cane and canebased ethanol became a more important energy source than hydroelectric power plants in Brazil’s overall energy complex last year, topped only by petroleum and oil 5 products. The government’s EPE energy planning agency said on Thursday sugar cane had a 16 percent share in the country’s so-called energy matrix — a combination of all sources of energy including fuels and electricity — 10 while power dams were left behind with a 14.7 percent share. Oil and derivatives had a 36.7 percent weighting, dropping from 37.8 percent in 2006. “It’s a historic year in that sense, it’s an irreversible trend,” EPE President Mauricio 15 Tolmasquim told reporters. He attributed the growing role of sugar cane to booming demand for ethanol as a motor fuel, but expected more cane and ethanol to be used for electricity generation as well. Brazil is a world leader in biofuels with decades of 20 valuable expertise in using ethanol in cars. In February 2007, the consumption of ethanol surpassed that of gasoline for the first time in two decades. The trend is driven by a drop in ethanol prices and huge sales of flex-fuel cars that can run on ethanol, gasoline or any 25 mix of the two. Hydrous ethanol consumption jumped 46 percent last year to 10.4 billion liters, while the usage of anhydrous ethanol that is mostly blended into gasoline sold in Brazil rose nearly 20 percent to 6.2 billion liters, EPE said. At 30 the same time, gasoline consumption in the country dipped almost 4 percent to 18 billion liters. Tolmasquim said it was important that Latin America’s largest country was self-sufficient in the three main sources of energy, including oil. Brazil met its oil needs 35 with domestic output for the first time in 2006. It still needs to import some light crude to mix with heavy local crudes for refining, but it also exports heavy oil. Last year’s exports totaled an average of 421,000 barrels per day and imports stood at 418,000 bpd. 40 All nonrenewable energy’s share fell to 53.6 percent in the overall complex in 2007 from 55.1 percent in 2006, with coal gaining some ground on its increased use in steelmaking. Nuclear energy’s share was just 1.4 percent. 45 Renewables, which include hydroelectricity, ethanol and plant-based biodiesel, gained to a 46.4 percent weighting from 44.9 percent. The use of renewable energy sources in Brazil by far surpasses the world’s average of around 13 percent, EPE said. (Writing by Andrei Khalip; Editing by Christian Wiessner) Disponível em: &lt; http://www.reuters.com/article/businessNews/ idUSN0838471920080508?feedType=RSS&amp; feedName=businessNews&gt;",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "uses much more renewable energy than other countries in the world."
+    },
+    {
+     "key": "B",
+     "text": "uses just 13 percent of the renewable energy sources produced around the world.",
+     "explanation": "13% is the world average, not Brazil’s share."
+    },
+    {
+     "key": "C",
+     "text": "still has to go a long way to reach the global levels of renewable energy use.",
+     "explanation": "Brazil is far above the global level."
+    },
+    {
+     "key": "D",
+     "text": "does not consume as much ethanol and plant-based biodiesel as other nations.",
+     "explanation": "Contradicts the text."
+    },
+    {
+     "key": "E",
+     "text": "cannot compete with the international production of eco-friendly fuels.",
+     "explanation": "The text does not deal with competition."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "“By far surpasses the world’s average of around 13 percent” means Brazil uses much more renewable energy than the world average.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q19",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 19,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "ingles",
+   "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+   "stem": "According to Paragraph 2 in Text II, Brazilian exports of canebased ethanol",
+   "passage": "<b>Text II</b> Brazil is one of the largest producers of ethanol in the world and is the largest exporter of the fuel. In 2006, Brazil produced 308,000 bbl/d of ethanol. It is predicted that Brazil’s ethanol production will reach 329,000 bbl/d 5 in 2007 and 365,000 bbl/d in 2008, as over half of all cars in the country are of the flex-fuel variety and all gasoline in Brazil contains ethanol. Ethanol in Brazil comes from sugar cane, which prospers in the country’s tropical climate. 10 In recent years, Brazil has tried to increase ethanol exports, especially to the United States. In 2006, Brazil exported 29,600 bbl/d of ethanol to the United States, quadruple the amount exported to the U.S. in 2005. To help facilitate additional exports, Petrobras announced 15 a plan in early 2006 to build an ethanol pipeline from Goias, an interior area at the center of Brazil’s sugarcane production, to Sao Paulo. However, increasing domestic demand and high domestic prices may limit export growth. In addition, Brazil’s ethanol exports face high 20 tariffs in some markets, such as the 54 cent per gallon tariff in the United States. Energy Information Administration extracted from: http://www.eia.doe.gov/emeu/cabs/Brazil/Oil.html",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "was four times greater in 2005, considering only the US market.",
+     "explanation": "Exports in 2006 were four times those of 2005, not the reverse."
+    },
+    {
+     "key": "B",
+     "text": "might be positively affected by the increase in domestic demand.",
+     "explanation": "Increasing domestic demand may limit exports."
+    },
+    {
+     "key": "C",
+     "text": "can be influenced by the heavy taxation imposed by foreign countries."
+    },
+    {
+     "key": "D",
+     "text": "will be extended to other markets that will cover the price of 54 cents per gallon.",
+     "explanation": "The tariff is a barrier, not a price to cover."
+    },
+    {
+     "key": "E",
+     "text": "will stimulate Petrobras to plan more oil production in Goias as well as in Sao Paulo.",
+     "explanation": "The pipeline is for ethanol, not oil."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Text II: exports face high tariffs in some markets, such as 54 cents per gallon in the US.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q20",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 20,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "ingles",
+   "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+   "stem": "Comparing Text I and Text II, it is correct to say that",
+   "passage": "<b>Text I</b> <b>Cane surpasses power dams in Brazil energy complex</b> Thu May 8, 2008 2:41pm EDT By Denise Luna RIO DE JANEIRO (Reuters) - Sugar cane and canebased ethanol became a more important energy source than hydroelectric power plants in Brazil’s overall energy complex last year, topped only by petroleum and oil 5 products. The government’s EPE energy planning agency said on Thursday sugar cane had a 16 percent share in the country’s so-called energy matrix — a combination of all sources of energy including fuels and electricity — 10 while power dams were left behind with a 14.7 percent share. Oil and derivatives had a 36.7 percent weighting, dropping from 37.8 percent in 2006. “It’s a historic year in that sense, it’s an irreversible trend,” EPE President Mauricio 15 Tolmasquim told reporters. He attributed the growing role of sugar cane to booming demand for ethanol as a motor fuel, but expected more cane and ethanol to be used for electricity generation as well. Brazil is a world leader in biofuels with decades of 20 valuable expertise in using ethanol in cars. In February 2007, the consumption of ethanol surpassed that of gasoline for the first time in two decades. The trend is driven by a drop in ethanol prices and huge sales of flex-fuel cars that can run on ethanol, gasoline or any 25 mix of the two. Hydrous ethanol consumption jumped 46 percent last year to 10.4 billion liters, while the usage of anhydrous ethanol that is mostly blended into gasoline sold in Brazil rose nearly 20 percent to 6.2 billion liters, EPE said. At 30 the same time, gasoline consumption in the country dipped almost 4 percent to 18 billion liters. Tolmasquim said it was important that Latin America’s largest country was self-sufficient in the three main sources of energy, including oil. Brazil met its oil needs 35 with domestic output for the first time in 2006. It still needs to import some light crude to mix with heavy local crudes for refining, but it also exports heavy oil. Last year’s exports totaled an average of 421,000 barrels per day and imports stood at 418,000 bpd. 40 All nonrenewable energy’s share fell to 53.6 percent in the overall complex in 2007 from 55.1 percent in 2006, with coal gaining some ground on its increased use in steelmaking. Nuclear energy’s share was just 1.4 percent. 45 Renewables, which include hydroelectricity, ethanol and plant-based biodiesel, gained to a 46.4 percent weighting from 44.9 percent. The use of renewable energy sources in Brazil by far surpasses the world’s average of around 13 percent, EPE said. (Writing by Andrei Khalip; Editing by Christian Wiessner) Disponível em: &lt; http://www.reuters.com/article/businessNews/ idUSN0838471920080508?feedType=RSS&amp; feedName=businessNews&gt;<br><br><b>Text II</b> Brazil is one of the largest producers of ethanol in the world and is the largest exporter of the fuel. In 2006, Brazil produced 308,000 bbl/d of ethanol. It is predicted that Brazil’s ethanol production will reach 329,000 bbl/d 5 in 2007 and 365,000 bbl/d in 2008, as over half of all cars in the country are of the flex-fuel variety and all gasoline in Brazil contains ethanol. Ethanol in Brazil comes from sugar cane, which prospers in the country’s tropical climate. 10 In recent years, Brazil has tried to increase ethanol exports, especially to the United States. In 2006, Brazil exported 29,600 bbl/d of ethanol to the United States, quadruple the amount exported to the U.S. in 2005. To help facilitate additional exports, Petrobras announced 15 a plan in early 2006 to build an ethanol pipeline from Goias, an interior area at the center of Brazil’s sugarcane production, to Sao Paulo. However, increasing domestic demand and high domestic prices may limit export growth. In addition, Brazil’s ethanol exports face high 20 tariffs in some markets, such as the 54 cent per gallon tariff in the United States. Energy Information Administration extracted from: http://www.eia.doe.gov/emeu/cabs/Brazil/Oil.html",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "both texts emphasize the importance of ethanol production and its expanding use as energy source in Brazil."
+    },
+    {
+     "key": "B",
+     "text": "both texts mention the low involvement of the Brazilian government in the production of sugar cane-based ethanol.",
+     "explanation": "Neither text says the government is little involved."
+    },
+    {
+     "key": "C",
+     "text": "both texts discuss the increasing consumption of ethanol in Brazil, but the second text has a very negative outlook on the production of ethanol in 2008.",
+     "explanation": "Text II is not negative about 2008 production."
+    },
+    {
+     "key": "D",
+     "text": "only the first text comments on the increase of ethanol exports, but Text I says 421, 000 bpd were daily exported, in 2006, and Text II mentions 29,600 bpd of global exports.",
+     "explanation": "421,000 bpd in Text I refers to oil exports."
+    },
+    {
+     "key": "E",
+     "text": "only the second text mentions the significant demand for ethanol as a fuel for cars produced in Brazil over the last few years.",
+     "explanation": "Text I also mentions the demand for ethanol as motor fuel."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Both texts stress ethanol production and its growing use as an energy source in Brazil.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q26",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 26,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "Em qualquer organização, admitir que, independente do modo de produção ou da tarefa executada, existe sempre uma transferência de subjetividade ao produto significa dizer que trabalhar é",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "uma fonte de realização pessoal.",
+     "explanation": "Realização pessoal é efeito possível, não o que a transferência define."
+    },
+    {
+     "key": "B",
+     "text": "uma manifestação instintiva do id.",
+     "explanation": "Não se trata de manifestação instintiva do id."
+    },
+    {
+     "key": "C",
+     "text": "identificar-se com a natureza.",
+     "explanation": "Trabalhar é transformar a natureza, não identificar-se com ela."
+    },
+    {
+     "key": "D",
+     "text": "impor à natureza o nosso modo de ser."
+    },
+    {
+     "key": "E",
+     "text": "reassumir o controle sobre a natureza.",
+     "explanation": "A ideia não é retomar controle, mas imprimir subjetividade."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Se em todo trabalho há transferência de subjetividade ao produto, trabalhar é imprimir na natureza (no objeto) o próprio modo de ser do sujeito.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q27",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 27,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "A Psicodinâmica do Trabalho tem como objetivo",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "compreender as estratégias às quais o trabalhador recorre para manter-se saudável, apesar de certos modos patologizantes de organização do trabalho."
+    },
+    {
+     "key": "B",
+     "text": "conhecer os distintos processos de trabalho, a fim de eliminar os modos de organização estressantes e o sofrimento do trabalhador.",
+     "explanation": "Eliminar o sofrimento não é objetivo: ele é inerente ao trabalho."
+    },
+    {
+     "key": "C",
+     "text": "identificar quais condições e características do trabalho ou das organizações concorrem para a produção do estresse do trabalhador.",
+     "explanation": "Identificar estressores é da abordagem do estresse."
+    },
+    {
+     "key": "D",
+     "text": "identificar as estratégias coletivas de defesa que transformam a percepção da realidade, impedindo as pressões patogênicas do trabalho e o estresse.",
+     "explanation": "As defesas não “impedem” as pressões; atenuam a percepção do sofrimento."
+    },
+    {
+     "key": "E",
+     "text": "produzir conhecimento sobre processo de saúde-doença, planejamento de ações de políticas de saúde e prevenção de doenças.",
+     "explanation": "Planejar políticas de saúde é da epidemiologia e saúde coletiva."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "A psicodinâmica do trabalho (Dejours) estuda a normalidade: as estratégias pelas quais os trabalhadores se mantêm saudáveis apesar de organizações do trabalho patogênicas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q30",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 30,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "Segundo Selye (1959), Síndrome Geral de Adaptação (SGA) consiste",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "em uma série de modificações na composição química do organismo, nos mecanismos de defesa de certos órgãos e outras alterações comportamentais."
+    },
+    {
+     "key": "B",
+     "text": "na tensão experimentada pelo indivíduo, decorrente de um esforço para responder às exigências externas de vida.",
+     "explanation": "Tensão por exigências externas é definição psicológica de estresse, não a SGA."
+    },
+    {
+     "key": "C",
+     "text": "no aparecimento concomitante das vivências de desgaste e de insegurança experimentados pelo trabalhador face ao trabalho realizado.",
+     "explanation": "Desgaste e insegurança no trabalho não definem a SGA."
+    },
+    {
+     "key": "D",
+     "text": "no surgimento do sentimento de insegurança, ansiedade e diminuição da auto-estima do sujeito frente à atividade de trabalho.",
+     "explanation": "Insegurança e baixa autoestima não definem a SGA."
+    },
+    {
+     "key": "E",
+     "text": "no esgotamento do indivíduo, decorrente do estresse laboral crônico que afeta o profissional e sua relação com o trabalho.",
+     "explanation": "Esgotamento por estresse laboral crônico é burnout."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Selye definiu a Síndrome Geral de Adaptação como o conjunto de modificações inespecíficas do organismo (químicas, nos mecanismos de defesa de órgãos e comportamentais) diante de estressores, em três fases: alarme, resistência e exaustão.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q31",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 31,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "Na visão dos ergonomistas, categorias conceituais como Cultura, Trabalho Prescrito e Trabalho Real são relevantes. A cultura do Trabalho Real visa a",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "identificar o conjunto de pressupostos básicos eficazes, inventados, descobertos ou elaborados por um grupo, que resultam do aprendizado ao lidar com problemas de adaptação externa ou integração interna.",
+     "explanation": "Pressupostos básicos aprendidos pelo grupo definem cultura organizacional (Schein)."
+    },
+    {
+     "key": "B",
+     "text": "mostrar que o paradigma da racionalização do trabalho permanece atual, hegemônico e presente nos modelos de gestão organizacional orientando concepções e práticas que, através das tarefas, tentam controlar os modos de pensar e fazer dos trabalhadores.",
+     "explanation": "Descreve a lógica do trabalho prescrito, a racionalização."
+    },
+    {
+     "key": "C",
+     "text": "compatibilizar os produtos e as tecnologias às características dos usuários, bem como humanizar o contexto sociotécnico do trabalho, adaptando-o tanto aos objetos do sujeito/grupo quanto às exigências das tarefas.",
+     "explanation": "Descreve o objetivo geral da ergonomia, não o trabalho real."
+    },
+    {
+     "key": "D",
+     "text": "evidenciar o papel fundamental da atividade dos trabalhadores que, por meio de seus modos operatórios, forjam saberes tácitos para preencher lacunas do trabalho, a fim de garantir o próprio bem-estar, bem como a eficiência e a eficácia na produção de bens e serviços."
+    },
+    {
+     "key": "E",
+     "text": "evidenciar o conjunto de valores expressos em elementos simbólicos que, em sua capacidade de ordenar, atribuir significações e construir a identidade organizacional, tanto agem como elemento de comunicação e consenso, como instrumentalizam as relações de dominação.",
+     "explanation": "Descreve a cultura como sistema simbólico."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Para a ergonomia da atividade, o trabalho real mostra o papel da atividade: com seus modos operatórios, os trabalhadores constroem saberes tácitos para preencher as lacunas do prescrito, garantindo bem-estar e eficácia.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q32",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 32,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "No Brasil existem tratamentos para doenças como Psoríase e Hipertensão Arterial, cuja ontogênese tem o estresse como fator contribuinte. O tratamento comportamental para o estresse (TCS) proposto por Lipp consiste em uma",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "terapia breve focal, composta de quatro pilares: alimentação, relaxamento, exercício físico e tratamento comportamental."
+    },
+    {
+     "key": "B",
+     "text": "terapia breve focal, composta por três pilares: alimentação, relaxamento e exercícios físicos.",
+     "explanation": "Omite o quarto pilar, o comportamental e cognitivo."
+    },
+    {
+     "key": "C",
+     "text": "terapia de apoio, composta por três pilares: alimentação, exercício físico e tratamento médico.",
+     "explanation": "Não é terapia de apoio, e o tratamento médico não é pilar."
+    },
+    {
+     "key": "D",
+     "text": "psicoterapia breve composta de quatro pilares: relaxamento, alimentação, exercício físico e terapia gestáltica.",
+     "explanation": "O quarto pilar não é terapia gestáltica."
+    },
+    {
+     "key": "E",
+     "text": "psicoterapia de base analítica composta por três pilares: alimentação, exercícios de relaxamento e exercício físico.",
+     "explanation": "Não tem base analítica."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O Treinamento de Controle do Stress de Lipp é uma intervenção breve e focal apoiada em quatro pilares: alimentação, relaxamento, exercício físico e mudança comportamental e cognitiva (estabilidade emocional).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q33",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 33,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "Certas características de personalidade são apontadas como mediadoras das diferenças individuais de resistência ao estresse. O constructo de personalidade que descreve indivíduos que tendem a não serem competitivos, agressivos ou a não se sentirem pressionados pelo tempo é denominado",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tipo A.",
+     "explanation": "O tipo A é competitivo, hostil e sente urgência de tempo."
+    },
+    {
+     "key": "B",
+     "text": "tipo B."
+    },
+    {
+     "key": "C",
+     "text": "egoflexível.",
+     "explanation": "Ego-flexibilidade é capacidade de adaptação, outro constructo."
+    },
+    {
+     "key": "D",
+     "text": "locus de controle interno.",
+     "explanation": "Locus interno é a crença de controlar os resultados."
+    },
+    {
+     "key": "E",
+     "text": "locus de controle externo.",
+     "explanation": "Locus externo é atribuir os resultados a fatores externos."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Tipo B (Friedman e Rosenman): pessoas pouco competitivas e agressivas, sem pressa constante.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q34",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 34,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.1 Processo saúde-doença",
+   "stem": "Qual o principal problema de saúde apontado pelos especialistas, relacionado aos trabalhos realizados à noite?",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Fadiga",
+     "explanation": "A fadiga decorre sobretudo do sono perturbado."
+    },
+    {
+     "key": "B",
+     "text": "Depressão",
+     "explanation": "A depressão pode ocorrer, mas não é o principal problema."
+    },
+    {
+     "key": "C",
+     "text": "Dor de estômago",
+     "explanation": "Problemas gástricos ocorrem, mas são secundários."
+    },
+    {
+     "key": "D",
+     "text": "Distúrbio do sono"
+    },
+    {
+     "key": "E",
+     "text": "Mudança nos níveis de hormônios na corrente sangüínea",
+     "explanation": "Alterações hormonais acompanham o problema, mas não são o principal apontado."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O trabalho noturno e em turnos desregula os ritmos circadianos; o principal problema apontado são os distúrbios do sono.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q36",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 36,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "Para estudiosos como Dejours, na prática, o desafio real para a Psicopatologia do Trabalho é",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "definir as ações susceptíveis de modificar o destino do sofrimento e favorecer sua transformação."
+    },
+    {
+     "key": "B",
+     "text": "definir as ações susceptíveis de identificar o destino do sofrimento e proceder a sua eliminação.",
+     "explanation": "O sofrimento não pode ser eliminado."
+    },
+    {
+     "key": "C",
+     "text": "conhecer as condições sociais e psicológicas que geram o sofrimento e implementar ações para eliminá-lo.",
+     "explanation": "Mesmo erro: eliminar o sofrimento."
+    },
+    {
+     "key": "D",
+     "text": "conhecer as condições psicossociais que geram sofrimento, para aumentar a resistência do sujeito ao risco de desestabilização.",
+     "explanation": "O objetivo não é aumentar a resistência do sujeito."
+    },
+    {
+     "key": "E",
+     "text": "identificar a resistência do sujeito ao risco de somatização, para implementar ações visando a eliminar o sofrimento.",
+     "explanation": "O objetivo não é eliminar o sofrimento."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Dejours: o desafio da psicopatologia do trabalho é definir ações capazes de mudar o destino do sofrimento e favorecer sua transformação em prazer, não eliminá-lo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q37",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 37,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.9 Acidente de trabalho e implicações psicossociais",
+   "stem": "Condições Inseguras e Atos Inseguros costumam caracterizar as duas causas básicas de acidentes nos locais de trabalho. Três condições inseguras são:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "trabalho em velocidade alta, aeração insuficiente e uso inadequado de equipamento.",
+     "explanation": "Uso inadequado de equipamento é ato inseguro."
+    },
+    {
+     "key": "B",
+     "text": "trabalho em velocidade insegura, equipamento usado inadequadamente e adoção de posições inseguras.",
+     "explanation": "As três são atos inseguros."
+    },
+    {
+     "key": "C",
+     "text": "equipamento sem proteção, procedimentos arriscados em máquinas ou equipamentos e temperatura inadequada no local de trabalho."
+    },
+    {
+     "key": "D",
+     "text": "armazenamento inseguro, utilização de equipamento inseguro e adoção de posição insegura.",
+     "explanation": "Adoção de posição insegura é ato inseguro."
+    },
+    {
+     "key": "E",
+     "text": "adoção de iluminação deficiente, postura insegura e temperatura elevada no local de trabalho.",
+     "explanation": "Postura insegura é ato inseguro."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Condições inseguras são do ambiente: equipamento sem proteção, procedimentos arriscados em máquinas, temperatura inadequada. Atos inseguros são do trabalhador (velocidade insegura, posições inseguras, uso inadequado).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q38",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 38,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "Dentre as teorias sobre Motivação no Trabalho, a que se baseia no grau percebido de relação entre a quantidade de esforço que uma pessoa faz e o desempenho resultante deste esforço é a Teoria da(o)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Eqüidade.",
+     "explanation": "A equidade compara razões contribuição/resultado."
+    },
+    {
+     "key": "B",
+     "text": "Expectância."
+    },
+    {
+     "key": "C",
+     "text": "Auto-regulação.",
+     "explanation": "A autorregulação trata do controle do próprio comportamento."
+    },
+    {
+     "key": "D",
+     "text": "Fixação de Objetivos.",
+     "explanation": "A fixação de objetivos trata de metas."
+    },
+    {
+     "key": "E",
+     "text": "Reforço.",
+     "explanation": "O reforço trata das consequências do comportamento."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na teoria da expectância (Vroom), a expectativa é a relação percebida entre esforço e desempenho.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q39",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 39,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "Em um grupo ou equipe de trabalho, as regras de comportamento aceitas pelos seus membros constituem os(as)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "papéis.",
+     "explanation": "Papéis são comportamentos esperados de quem ocupa uma posição."
+    },
+    {
+     "key": "B",
+     "text": "costumes.",
+     "explanation": "Costumes não é o termo técnico."
+    },
+    {
+     "key": "C",
+     "text": "normas."
+    },
+    {
+     "key": "D",
+     "text": "atribuições.",
+     "explanation": "Atribuições são tarefas."
+    },
+    {
+     "key": "E",
+     "text": "responsabilidades compartilhadas.",
+     "explanation": "Responsabilidades compartilhadas não são regras de comportamento."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Normas são padrões de comportamento aceitáveis, partilhados pelos membros do grupo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q40",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 40,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "Entre as atitudes relacionada ao trabalho, freqüentemente estudadas em pesquisas sobre comportamento organizacional, encontram-se as manifestações de",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "injustiça organizacional.",
+     "explanation": "Injustiça é percepção, não atitude clássica."
+    },
+    {
+     "key": "B",
+     "text": "violação do contrato psicológico.",
+     "explanation": "Violação do contrato psicológico é evento, não atitude."
+    },
+    {
+     "key": "C",
+     "text": "enriquecimento do trabalho.",
+     "explanation": "Enriquecimento é técnica de desenho de cargos."
+    },
+    {
+     "key": "D",
+     "text": "natureza afetiva no trabalho.",
+     "explanation": "Não é atitude classicamente estudada."
+    },
+    {
+     "key": "E",
+     "text": "comprometimento organizacional."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Atitudes no trabalho mais estudadas: satisfação, envolvimento e comprometimento organizacional.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q41",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 41,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "Os conflitos resultantes das diferenças de percepções entre “novos” e “antigos” funcionários é um dos fatores que recrudescem os preconceitos e dificultam a integração organizacional. Estudo deste fenômeno poderá ser realizado através do levantamento de",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "manifestações de individualismo e coletivismo.",
+     "explanation": "Individualismo e coletivismo é dimensão cultural nacional."
+    },
+    {
+     "key": "B",
+     "text": "valores instrumentais e finais."
+    },
+    {
+     "key": "C",
+     "text": "índices de absenteísmo.",
+     "explanation": "Absenteísmo é indicador, não explica percepções."
+    },
+    {
+     "key": "D",
+     "text": "índices de rotatividade.",
+     "explanation": "Rotatividade é indicador, não explica percepções."
+    },
+    {
+     "key": "E",
+     "text": "mudanças na cultura da organização.",
+     "explanation": "Mudanças culturais não medem diferenças de percepção entre grupos."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Diferenças de percepção entre funcionários novos e antigos refletem diferenças de valores; o levantamento de valores instrumentais e terminais (Rokeach) permite estudá-las.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q42",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 42,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.1 Pesquisa e intervenções nas organizações",
+   "stem": "No levantamento de informações sobre o nível de satisfação vigente numa organização, o tipo de abordagem que pode comprometer a expressão dos reais sentimentos dos funcionários é a pesquisa",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "empírica.",
+     "explanation": "Toda pesquisa de clima é empírica."
+    },
+    {
+     "key": "B",
+     "text": "aberta.",
+     "explanation": "Pesquisa aberta favorece a expressão."
+    },
+    {
+     "key": "C",
+     "text": "qualitativa.",
+     "explanation": "A qualitativa favorece a expressão de sentimentos."
+    },
+    {
+     "key": "D",
+     "text": "participativa.",
+     "explanation": "A participativa favorece a expressão."
+    },
+    {
+     "key": "E",
+     "text": "quantitativa."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Questionários quantitativos fechados limitam as respostas a categorias predefinidas e podem impedir a expressão dos reais sentimentos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q44",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 44,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "Embora hoje em dia cada vez se mais se difunda a crença entre os estudiosos de que “ninguém motiva o outro”, uma maneira considerada adequada de se lidar com o conceito de motivação no trabalho é a de se vincular o trabalho realizado por cada pessoa à oportunidade de",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "criar novas necessidades.",
+     "explanation": "Criar necessidades não é estratégia adequada."
+    },
+    {
+     "key": "B",
+     "text": "resgatar sentimentos de injustiça.",
+     "explanation": "Resgatar injustiças desmotiva."
+    },
+    {
+     "key": "C",
+     "text": "aumentar o seu patrimônio material.",
+     "explanation": "Patrimônio material é motivação extrínseca."
+    },
+    {
+     "key": "D",
+     "text": "realizar as suas potencialidades."
+    },
+    {
+     "key": "E",
+     "text": "anular o seu nível de insatisfação.",
+     "explanation": "Anular insatisfação (higiene) não gera motivação."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Se ninguém motiva o outro, cabe vincular o trabalho à oportunidade de cada um realizar suas potencialidades (motivação intrínseca).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q45",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 45,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "Uma das características dos integrantes de grupos eficazes, apontada pelos estudiosos, é",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "cumprir as obrigações do seu papel.",
+     "explanation": "Cumprir o papel é necessário, mas não é o diferencial apontado."
+    },
+    {
+     "key": "B",
+     "text": "desenvolver uma competição amigável.",
+     "explanation": "Competição pode prejudicar a cooperação."
+    },
+    {
+     "key": "C",
+     "text": "valorizar as diferenças individuais."
+    },
+    {
+     "key": "D",
+     "text": "participar de todas as decisões de grupo.",
+     "explanation": "Não é preciso participar de todas as decisões."
+    },
+    {
+     "key": "E",
+     "text": "priorizar a conformidade em vez dos resultados.",
+     "explanation": "Priorizar a conformidade prejudica a eficácia."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Integrantes de grupos eficazes valorizam as diferenças individuais, que enriquecem as soluções.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q46",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 46,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "É dispensável trabalhar em grupo quando",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "as decisões são predeterminadas."
+    },
+    {
+     "key": "B",
+     "text": "o desejável é a quantidade de informações.",
+     "explanation": "Quando se quer mais informação, o grupo é vantajoso."
+    },
+    {
+     "key": "C",
+     "text": "todos cumprem as obrigações do seu papel.",
+     "explanation": "Cumprir papéis não dispensa o trabalho em grupo."
+    },
+    {
+     "key": "D",
+     "text": "cada um decide sobre o seu papel.",
+     "explanation": "Decidir cada um seu papel não dispensa o grupo."
+    },
+    {
+     "key": "E",
+     "text": "busca-se a conformidade em vez dos resultados.",
+     "explanation": "Buscar conformidade é disfunção do grupo, não critério."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Se as decisões já estão predeterminadas, não há ganho em trabalhar em grupo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q51",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 51,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "Para a maioria dos estudiosos, a eficácia da liderança repousa na capacidade de um dirigente",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "usar adequadamente a razão.",
+     "explanation": "Razão é útil, mas não é a base."
+    },
+    {
+     "key": "B",
+     "text": "estabelecer um bom relacionamento com todos.",
+     "explanation": "Relacionamento com todos não é o fundamento."
+    },
+    {
+     "key": "C",
+     "text": "agir sempre profissionalmente no desempenho de seu papel.",
+     "explanation": "Profissionalismo não basta."
+    },
+    {
+     "key": "D",
+     "text": "acumular um conhecimento generalizado sobre a organização.",
+     "explanation": "Conhecimento geral não basta."
+    },
+    {
+     "key": "E",
+     "text": "conquistar a confiança de seus liderados."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A eficácia da liderança depende sobretudo de conquistar a confiança dos liderados.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q52",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 52,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "O modelo teórico explicativo da cultura organizacional proposto por Schein ressalta a importância dos pressupostos básicos que resultam de comportamentos compartilhados pelos membros da organização e que são considerados",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "verdades inquestionáveis."
+    },
+    {
+     "key": "B",
+     "text": "orientadores do desempenho dos papéis.",
+     "explanation": "Orientar papéis é função das normas."
+    },
+    {
+     "key": "C",
+     "text": "responsáveis pela imagem externa da organização.",
+     "explanation": "Imagem externa não define pressupostos."
+    },
+    {
+     "key": "D",
+     "text": "elementos significativos dos rituais da organização.",
+     "explanation": "Rituais são artefatos."
+    },
+    {
+     "key": "E",
+     "text": "componentes dos mitos da organização.",
+     "explanation": "Mitos são outro elemento da cultura."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Schein: os pressupostos básicos são tidos como verdades inquestionáveis e inconscientes.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q53",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 53,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "As descobertas de Hofstede apontam para a influência que a cultura nacional exerce sobre a cultura das organizações. Após a análise de pesquisas transnacionais, propôs algumas dimensões culturais consideradas fundamentais para explicar as diferenças culturais, entre as quais encontra-se a",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "dinâmica de esquemas explicativos de conduta.",
+     "explanation": "Não é dimensão de Hofstede."
+    },
+    {
+     "key": "B",
+     "text": "necessidade de compreensão mútua.",
+     "explanation": "Não é dimensão de Hofstede."
+    },
+    {
+     "key": "C",
+     "text": "capacidade de lidar com as incertezas."
+    },
+    {
+     "key": "D",
+     "text": "sensibilidade para incorporar os comportamentos desejáveis e/ou indesejáveis.",
+     "explanation": "Não é dimensão de Hofstede."
+    },
+    {
+     "key": "E",
+     "text": "natureza diversificada dos relacionamentos humanos.",
+     "explanation": "Não é dimensão de Hofstede."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Hofstede: aversão à incerteza (capacidade de lidar com incertezas) é uma das dimensões, ao lado de distância do poder, individualismo e masculinidade.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q54",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 54,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "As pesquisas de clima organizacional são instrumentos de que a administração dispõe para atender, de uma forma direta, as demandas oriundas da(s)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "ausência de prioridades nas políticas de RH.",
+     "explanation": "É resultado possível, não a demanda que a pesquisa atende."
+    },
+    {
+     "key": "B",
+     "text": "desmotivação e da falta de envolvimento no trabalho.",
+     "explanation": "É um dos aspectos, não o todo."
+    },
+    {
+     "key": "C",
+     "text": "falta de comprometimento organizacional.",
+     "explanation": "É um dos aspectos, não o todo."
+    },
+    {
+     "key": "D",
+     "text": "necessidades da organização e dos seus integrantes."
+    },
+    {
+     "key": "E",
+     "text": "necessidades de desenvolvimento tecnológico e humano.",
+     "explanation": "Não se restringe a desenvolvimento tecnológico."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A pesquisa de clima identifica percepções e necessidades da organização e de seus integrantes, orientando ações.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q56",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 56,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "As pesquisas de Weiner e cols. sobre atribuição de sucesso e fracasso indicam que, quando nos deparamos com um desempenho excepcional de um funcionário, comparado com os demais, a tendência é considerar que o bom resultado é fruto da influência dos seguintes fatores:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "dificuldade da tarefa e habilidade.",
+     "explanation": "Dificuldade da tarefa é externa."
+    },
+    {
+     "key": "B",
+     "text": "habilidade e esforço."
+    },
+    {
+     "key": "C",
+     "text": "sorte e dificuldade da tarefa.",
+     "explanation": "Sorte e dificuldade são externas."
+    },
+    {
+     "key": "D",
+     "text": "esforço e dificuldade da tarefa.",
+     "explanation": "Dificuldade é externa."
+    },
+    {
+     "key": "E",
+     "text": "sorte e esforço.",
+     "explanation": "Sorte é externa."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Weiner: desempenho excepcional comparado aos demais tende a ser atribuído a causas internas, a habilidade e o esforço.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q57",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 57,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "Estudos realizados apontam para evidências empíricas ligando algumas práticas gerenciais à emergência de um clima de confiança, entre as quais observa(m)-se a(s)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "predisposição a confiar.",
+     "explanation": "Predisposição a confiar é traço individual, não prática gerencial."
+    },
+    {
+     "key": "B",
+     "text": "capacidadedeensinar.",
+     "explanation": "Capacidade de ensinar não é a evidência apontada."
+    },
+    {
+     "key": "C",
+     "text": "adoção de procedimentos justos."
+    },
+    {
+     "key": "D",
+     "text": "ausência de limites.",
+     "explanation": "Ausência de limites não gera confiança."
+    },
+    {
+     "key": "E",
+     "text": "relações afetivas intensas.",
+     "explanation": "Relações afetivas intensas não são prática gerencial."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Pesquisas associam a confiança organizacional à justiça de procedimentos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q58",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 58,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Um funcionário responsável por um dado setor precisa, urgentemente, recompletar uma vaga decorrente de desligamento. Em entrevista realizada com o Setor de RH, descreveu com clareza e objetividade os atributos que considera indispensáveis ao desempenho do cargo a ser recompletado. Solicitou ainda que a vaga fosse preenchida por alguém externo ao seu setor, devido ao deficit de pessoal existente. Segundo os teóricos cognitivistas, deve-se analisar com cuidado a forma cognitiva pela qual o funcionário estruturou a sua demanda, em virtude da(o)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tendenciosidade em estabelecer o que é significativo para si."
+    },
+    {
+     "key": "B",
+     "text": "utilização de esquemas de interação destituídos de coerência cognitiva.",
+     "explanation": "Nada indica esquemas incoerentes; a descrição foi clara."
+    },
+    {
+     "key": "C",
+     "text": "não-consideração com as formas que regulam o interacionismo simbólico.",
+     "explanation": "Interacionismo simbólico não é referência cognitivista aqui."
+    },
+    {
+     "key": "D",
+     "text": "desconhecimento do que vem a ser a complexidade de um processo de seleção psicológica.",
+     "explanation": "Não se trata de desconhecer o processo seletivo."
+    },
+    {
+     "key": "E",
+     "text": "desconhecimento dos requisitos estabelecidos para o desempenho do cargo.",
+     "explanation": "Ele descreveu os requisitos com clareza."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Para os cognitivistas, a descrição do requisitante reflete seus esquemas: ele tende a selecionar o que é significativo para si, o que pode enviesar o perfil do cargo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q59",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 59,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2 Gestão estratégica de pessoas",
+   "stem": "No planejamento de RH, a abordagem quantitativa para prever a demanda de mão-de-obra com base em índices organizacionais, corresponde à",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Técnica Delphi.",
+     "explanation": "A Delphi é técnica qualitativa (consulta a especialistas)."
+    },
+    {
+     "key": "B",
+     "text": "previsão gerencial.",
+     "explanation": "A previsão gerencial é julgamento qualitativo."
+    },
+    {
+     "key": "C",
+     "text": "Análise de Markov.",
+     "explanation": "Markov prevê a oferta interna (fluxos)."
+    },
+    {
+     "key": "D",
+     "text": "análise de tendências."
+    },
+    {
+     "key": "E",
+     "text": "análise da oferta interna.",
+     "explanation": "Trata da oferta, não da demanda."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A análise de tendências é técnica quantitativa que projeta a demanda de pessoal a partir de índices organizacionais (vendas, produção).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q60",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 60,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Em Seleção de Pessoal, o grau em que entrevistas, testes e outros procedimentos de seleção geram dados comparáveis ao longo do tempo define a",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "validação cruzada.",
+     "explanation": "Validação cruzada testa a validade em outra amostra."
+    },
+    {
+     "key": "B",
+     "text": "validade de conteúdo.",
+     "explanation": "Validade de conteúdo é a representatividade dos itens."
+    },
+    {
+     "key": "C",
+     "text": "validade de predição.",
+     "explanation": "Validade preditiva é a capacidade de prever o desempenho."
+    },
+    {
+     "key": "D",
+     "text": "generalização da validade.",
+     "explanation": "Generalização da validade é estender a validade a outros contextos."
+    },
+    {
+     "key": "E",
+     "text": "confiabilidade."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Confiabilidade é a consistência dos resultados ao longo do tempo e entre aplicações.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q61",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 61,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "O método de treinamento em que os aspectos selecionados do ambiente de trabalho são replicados ou modificados em um ambiente de treinamento constitui a(o)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "dramatização.",
+     "explanation": "Dramatização é desempenho de papéis."
+    },
+    {
+     "key": "B",
+     "text": "simulação."
+    },
+    {
+     "key": "C",
+     "text": "rodízio de cargos.",
+     "explanation": "Rodízio é passar por cargos reais."
+    },
+    {
+     "key": "D",
+     "text": "sistema de aprendiz.",
+     "explanation": "Aprendizagem é trabalhar com um mestre."
+    },
+    {
+     "key": "E",
+     "text": "método audiovisual.",
+     "explanation": "Audiovisual é apresentar conteúdos em mídia."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Na simulação, aspectos do ambiente de trabalho são reproduzidos ou modificados no ambiente de treinamento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q62",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 62,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.1 Transformações no mundo do trabalho e mudanças nas organizações",
+   "stem": "Em Psicologia Organizacional, temas e técnicas foram superadas e algumas tendências vêm-se consolidando. Três tendências atuais são:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "maior preocupação com fenômenos grupais e organizacionais; maior peso de conceitos e técnicas cognitivas e comportamentais e maior reconhecimento da complexidade e multideterminação de atitudes e comportamento no trabalho."
+    },
+    {
+     "key": "B",
+     "text": "maior preocupação com fenômenos individuais e grupais; maior atenção aos produtos da vida laboral e maior atenção ao nível de supervisão de pessoas e seus impactos.",
+     "explanation": "Foco individual é a tradição superada."
+    },
+    {
+     "key": "C",
+     "text": "maior preocupação com fenômenos grupais e do trabalho; maior atenção à vida laboral e seus impactos fora do trabalho, e interesse por processos decisórios e de gestão de pessoas.",
+     "explanation": "Mistura tendências não apontadas."
+    },
+    {
+     "key": "D",
+     "text": "maior ênfase nas variáveis individuais e do trabalho; ênfase nas variáveis afetivas e motivacionais e maior atenção ao nível de supervisão e gestão de pessoas.",
+     "explanation": "Ênfase individual é superada."
+    },
+    {
+     "key": "E",
+     "text": "maior peso em conceitos e técnicas psicanalíticas; maior atenção às variáveis afetivas e motivacionais e interesse por tópicos relativos a alto nível de gestão.",
+     "explanation": "Não há maior peso psicanalítico."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Tendências da psicologia organizacional (Zanelli, Bastos): foco em fenômenos grupais e organizacionais, maior peso de conceitos cognitivos e comportamentais e reconhecimento da multideterminação do comportamento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q63",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 63,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.1.1 Gestão de mudanças",
+   "stem": "Segundo alguns autores, a teoria das organizações, até a década de 70, estava sustentada por um paradigma explicativo da estrutura e funcionamento das organizações, que preconizava sua estabilidade. Este paradigma cedeu espaço ao da transformação organizacional, o qual pressupõe que as(o)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "transformações em larga escala que abranjam diversos espaços da organização afetando as pessoas e suas relações gerem crises de alto risco, e quando uma crise for inevitável, a função do gestor é circunscrevê-la ao mínimo espaço organizacional.",
+     "explanation": "Circunscrever crises reflete o paradigma da estabilidade."
+    },
+    {
+     "key": "B",
+     "text": "alterações organizacionais sejam harmônicas e sutis para evitar rupturas bruscas, devendo o gestor funcionar como administrador de conflitos.",
+     "explanation": "Mudanças sutis para evitar rupturas reflete a estabilidade."
+    },
+    {
+     "key": "C",
+     "text": "modificações organizacionais sejam incrementadas de modo a não desestabilizar o desempenho organizacional, sendo a função do gestor direcionar as mudanças contínuas.",
+     "explanation": "Evitar desestabilizar reflete a estabilidade."
+    },
+    {
+     "key": "D",
+     "text": "esforço de direcionamento de uma organização esteja voltado para o aperfeiçoamento contínuo, devendo o gestor funcionar como facilitador de condições e recursos que propiciem o desenvolvimento permanente."
+    },
+    {
+     "key": "E",
+     "text": "esforço de direcionamento de uma organização esteja voltado constantemente para o aperfeiçoamento de normas, padrões e regras instauradas, cabendo ao gestor centralizar as informações e orientar o processo de mudança.",
+     "explanation": "Centralizar e aperfeiçoar normas é lógica burocrática."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O paradigma da transformação organizacional pressupõe aperfeiçoamento contínuo, com o gestor como facilitador de condições para o desenvolvimento permanente.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q65",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 65,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "Pesquisadores observaram que os resultados ou objetivos da aprendizagem podem ser divididos em categorias ou domínios, embora não excludentes. Os objetivos que enfatizam a recordação ou a resolução de alguma tarefa como, por exemplo, apresentar uma proposta inovadora para o marketing da empresa são classificados como",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "afetivos.",
+     "explanation": "Afetivos envolvem atitudes e valores."
+    },
+    {
+     "key": "B",
+     "text": "cognitivos."
+    },
+    {
+     "key": "C",
+     "text": "psicomotores.",
+     "explanation": "Psicomotores envolvem habilidades motoras."
+    },
+    {
+     "key": "D",
+     "text": "valorativos.",
+     "explanation": "Não é domínio de Bloom."
+    },
+    {
+     "key": "E",
+     "text": "psicossociais.",
+     "explanation": "Não é domínio de Bloom."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Bloom: objetivos cognitivos envolvem recordar conhecimentos e resolver problemas intelectuais, como elaborar uma proposta.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q66",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 66,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Numa avaliação psicológica empregam-se preditores com o intuito de levantar informações sobre a pessoa avaliada. Na análise das informações provenientes de um curriculum vitae utiliza-se um preditor relativo à(ao)",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "qualificação.",
+     "explanation": "Qualificação é conteúdo, não o tipo de preditor."
+    },
+    {
+     "key": "B",
+     "text": "realidade.",
+     "explanation": "Não é categoria de preditor."
+    },
+    {
+     "key": "C",
+     "text": "desempenho.",
+     "explanation": "Desempenho atual se mede por amostras de trabalho."
+    },
+    {
+     "key": "D",
+     "text": "passado."
+    },
+    {
+     "key": "E",
+     "text": "desenvolvimento.",
+     "explanation": "Desenvolvimento não é a categoria."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O currículo traz informações sobre o histórico da pessoa: é preditor do passado (dados biográficos).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q67",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 67,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "Os programas de Treinamento e Desenvolvimento fazem parte de um conjunto de investimentos estratégicos da organização cujos benefícios organizacionais necessitam ser avaliados através de indicadores. Três indicadores de Melhora de Qualidade são:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "quantidade de trabalho em carteira; mudança na motivação do colaborador; e número de processos concluídos.",
+     "explanation": "Trabalho em carteira e processos concluídos medem produtividade."
+    },
+    {
+     "key": "B",
+     "text": "quantidade de resultados positivos versus negativos de auditores externos; número de processos concluídos; e quantidade de tempo não produtivo.",
+     "explanation": "Processos concluídos e tempo não produtivo medem produtividade."
+    },
+    {
+     "key": "C",
+     "text": "quantidade de feedback positivo versus negativo dos clientes; volume de retrabalho requerido; e número de soluções inovadoras ou produtos desenvolvidos."
+    },
+    {
+     "key": "D",
+     "text": "volume de envolvimento do funcionário na tomada de decisões; freqüência de comunicação dentro da empresa; e número de produtos produzidos.",
+     "explanation": "Envolvimento e comunicação medem clima."
+    },
+    {
+     "key": "E",
+     "text": "número de queixas relativas a segurança de funcionários e clientes; número de processos concluídos; e quantidade de tempo de adaptação de novos funcionários.",
+     "explanation": "Processos concluídos e tempo de adaptação não medem qualidade."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Indicadores de melhora de qualidade: feedback de clientes, volume de retrabalho e soluções inovadoras.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q68",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 68,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "A Universidade Corporativa, como uma estratégia para valorização do capital intelectual e da gestão do conhecimento, representa uma mudança de paradigma em relação às atividades de treinamento e desenvolvimento tradicionais. Entre os principais posicionamentos da Educação Corporativa, encontra-se o de estar voltada",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "ao negócio via processos educacionais contínuos; ser direcionada a toda a cadeia de produção; ter enfoque competitivo; e ser centro de resultados."
+    },
+    {
+     "key": "B",
+     "text": "ao negócio via processos educacionais contínuos; ser direcionada a funcionários e clientes; ter enfoque burocrático; e ser unidade de resultados.",
+     "explanation": "Enfoque burocrático é do T&D tradicional."
+    },
+    {
+     "key": "C",
+     "text": "ao treinamento dos funcionários da organização; contabilizar as horas de treinamento; ter enfoque burocrático; e ser centro de custos.",
+     "explanation": "É o modelo tradicional de T&D."
+    },
+    {
+     "key": "D",
+     "text": "ao treinamento contínuo de funcionários; ser direcionada a toda a cadeia de produção da organização; ter enfoque competitivo; e ser centro de negócios.",
+     "explanation": "O foco não é apenas treinar funcionários."
+    },
+    {
+     "key": "E",
+     "text": "aos funcionários e fornecedores da organização; contabilizar as horas de treinamento por ano; ter enfoque competitivo; e ser unidade de negócios.",
+     "explanation": "Contabilizar horas é lógica tradicional."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "A educação corporativa é voltada ao negócio, contínua, dirigida a toda a cadeia de valor, com enfoque competitivo e como centro de resultados (Meister; Eboli).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q69",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 69,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.1 Pesquisa e intervenções nas organizações",
+   "stem": "Estudos realizados sobre pesquisa-ação sustentam que uma de suas características é a sua praticidade focada na intervenção organizacional. Isto implica no compromisso, por parte da equipe responsável, em desenvolver insights sobre as razões pelas quais algumas coisas na dinâmica organizacional deram errado, bem como as respectivas sugestões de ações que evitem que situações análogas venham a ocorrer. Diante destes pressupostos, ao realizar o seu planejamento do processo, o pesquisador-consultor deve",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "incluir alguns meios que permitam tanto o registro das reflexões quanto dos métodos de reflexão adotados."
+    },
+    {
+     "key": "B",
+     "text": "ter uma idéia precisa dos fundamentos teóricos e dos resultados a serem obtidos ao longo de todo o processo.",
+     "explanation": "Os resultados não são conhecidos de antemão; o processo é emergente."
+    },
+    {
+     "key": "C",
+     "text": "inserir em todas as etapas os procedimentos que sejam capazes de reproduzir experiências em intervenções anteriores.",
+     "explanation": "Não se busca reproduzir intervenções anteriores."
+    },
+    {
+     "key": "D",
+     "text": "considerar as políticas de mudança organizacional como elementos fundamentais na obtenção de dados confiáveis e unânimes.",
+     "explanation": "Não se buscam dados unânimes."
+    },
+    {
+     "key": "E",
+     "text": "procurar justificar os principais aspectos relevantes obtidos pela pesquisa, comparando-os com situações idênticas vivenciadas pela organização.",
+     "explanation": "Não se trata de comparar com situações idênticas."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Na pesquisa-ação, o planejamento deve prever meios de registrar as reflexões e os métodos de reflexão, para aprender com o processo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q70",
+   "source": {
+    "file": "petrobras-2008-psicologo-junior/prova.pdf",
+    "year": 2008,
+    "originalNumber": 70,
+    "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.1 Pesquisa e intervenções nas organizações",
+   "stem": "A instância política é um dos grandes desafios nos processos de intervenção psicossociológica nas organizações, tendo em vista que o solicitante da intervenção geralmente tem como propósito fazer com que o poder seja",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "distribuído.",
+     "explanation": "Distribuir poder não é o propósito usual do solicitante."
+    },
+    {
+     "key": "B",
+     "text": "estratégico.",
+     "explanation": "“Estratégico” não descreve a demanda."
+    },
+    {
+     "key": "C",
+     "text": "controlado.",
+     "explanation": "Controlado não descreve a demanda."
+    },
+    {
+     "key": "D",
+     "text": "questionado.",
+     "explanation": "O solicitante raramente quer questionar o poder."
+    },
+    {
+     "key": "E",
+     "text": "reforçado."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Na intervenção psicossociológica, o solicitante frequentemente quer que a intervenção reforce seu poder; o interventor precisa lidar com essa demanda política.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "petrobras-2008-psicologo-junior-q28",
+   "motivo": "Derivação incerta: a definição (capacidade de construir e reproduzir a si próprio e à espécie) não foi reconhecida com segurança como de “Saúde Mental”, o gabarito E. Fonte provável é um autor da saúde do trabalhador, não identificado.",
+   "gabaritoOficial": "E",
+   "derivada": "incerta",
+   "questao": {
+    "id": "petrobras-2008-psicologo-junior-q28",
+    "source": {
+     "file": "petrobras-2008-psicologo-junior/prova.pdf",
+     "year": 2008,
+     "originalNumber": 28,
+     "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "saude-trab",
+    "subtopic": "6.1 Processo saúde-doença",
+    "stem": "A capacidade de construir a si próprio e à espécie, produzindo e reproduzindo a si próprio e à espécie, define a Saúde",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "Organizacional."
+     },
+     {
+      "key": "B",
+      "text": "Psicossocial."
+     },
+     {
+      "key": "C",
+      "text": "Reprodutiva."
+     },
+     {
+      "key": "D",
+      "text": "Coletiva."
+     },
+     {
+      "key": "E",
+      "text": "Mental."
+     }
+    ],
+    "correctKey": "E",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "E",
+     "independentlyDerivedAnswer": "E?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q29",
+   "motivo": "Questão anulada após recursos (recursos.pdf oficial). O gabarito preliminar trazia C.",
+   "gabaritoOficial": "anulada (preliminar: C)",
+   "derivada": "—",
+   "questao": {
+    "id": "petrobras-2008-psicologo-junior-q29",
+    "source": {
+     "file": "petrobras-2008-psicologo-junior/prova.pdf",
+     "year": 2008,
+     "originalNumber": 29,
+     "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "saude-trab",
+    "subtopic": "6.1 Processo saúde-doença",
+    "stem": "Os oito critérios de Qualidade de Vida no Trabalho (QVT) propostos por Walton têm sido dos mais utilizados em Psicologia Organizacional no Brasil. Dentre eles, o critério Trabalho e Espaço Total de Vida está composto pelos seguintes indicadores:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "desenvolvimento pessoal, habilidade social e direitos garantidos."
+     },
+     {
+      "key": "B",
+      "text": "autonomia, capacitação múltipla e informações sobre o trabalho."
+     },
+     {
+      "key": "C",
+      "text": "liberdade de expressão, vida pessoal preservada e horários previsíveis."
+     },
+     {
+      "key": "D",
+      "text": "ausência de preconceitos, estabilidade no emprego e valores comunitários."
+     },
+     {
+      "key": "E",
+      "text": "informações sobre o trabalho, liberdade de expressão e direitos garantidos."
+     }
+    ],
+    "correctKey": "anulada (preliminar: C)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "C",
+     "independentlyDerivedAnswer": "—",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q35",
+   "motivo": "Ambiguidade: a descrição é de burnout (C), mas a literatura brasileira usa “estafa” como sinônimo (a própria Petrobras 2012 escreve “estafa ou síndrome de Burnout”). A derivação deu C; o gabarito oficial é B (estafa).",
+   "gabaritoOficial": "B",
+   "derivada": "C",
+   "questao": {
+    "id": "petrobras-2008-psicologo-junior-q35",
+    "source": {
+     "file": "petrobras-2008-psicologo-junior/prova.pdf",
+     "year": 2008,
+     "originalNumber": 35,
+     "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "saude-trab",
+    "subtopic": "6.6 Teoria do Estresse",
+    "stem": "O estado de desgaste psicológico, envolvendo exaustão emocional e baixa motivação para o trabalho, que um funcionário pode experimentar depois de estar no trabalho por um longo período de tempo é chamado",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "fadiga.",
+      "explanation": "Fadiga é cansaço, reversível com repouso."
+     },
+     {
+      "key": "B",
+      "text": "estafa."
+     },
+     {
+      "key": "C",
+      "text": "burnout."
+     },
+     {
+      "key": "D",
+      "text": "despersonalização.",
+      "explanation": "Despersonalização é uma dimensão do burnout."
+     },
+     {
+      "key": "E",
+      "text": "descontrole emocional.",
+      "explanation": "Descontrole emocional não é síndrome descrita."
+     }
+    ],
+    "correctKey": "B",
+    "explanationSummary": "Burnout: desgaste psicológico após longa exposição ao trabalho, com exaustão emocional e perda de motivação.",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "B",
+     "independentlyDerivedAnswer": "C",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q43",
+   "motivo": "Ambiguidade: em Herzberg, reconhecimento e progresso são fatores motivacionais (E), também chamados “satisfacientes”. A derivação deu E; o gabarito oficial é C (fatores de satisfação).",
+   "gabaritoOficial": "C",
+   "derivada": "E",
+   "questao": {
+    "id": "petrobras-2008-psicologo-junior-q43",
+    "source": {
+     "file": "petrobras-2008-psicologo-junior/prova.pdf",
+     "year": 2008,
+     "originalNumber": 43,
+     "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "diag-org",
+    "subtopic": "4.7 Motivação no trabalho",
+    "stem": "Uma organização desenvolve políticas e práticas de RH que favorecem o reconhecimento e progresso pessoal. Isto significa dizer que, para alguns de seus funcionários, elas asseguram",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "satisfação de fatores de aprendizagem.",
+      "explanation": "Não existe a categoria “fatores de aprendizagem”."
+     },
+     {
+      "key": "B",
+      "text": "aprendizado de novos fatores de motivação.",
+      "explanation": "Não existe a categoria."
+     },
+     {
+      "key": "C",
+      "text": "fatores de satisfação no trabalho."
+     },
+     {
+      "key": "D",
+      "text": "fatores de higiene no trabalho.",
+      "explanation": "Fatores de higiene são extrínsecos (salário, condições)."
+     },
+     {
+      "key": "E",
+      "text": "fatores de motivação no trabalho."
+     }
+    ],
+    "correctKey": "C",
+    "explanationSummary": "Herzberg: reconhecimento e progresso são fatores motivacionais (intrínsecos).",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "C",
+     "independentlyDerivedAnswer": "E",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q47",
+   "motivo": "Derivação incerta: o enunciado é vago sobre quais atribuições precisam de ação prévia no empowerment; o gabarito D (concessão de recompensas e punições) não foi confirmado.",
+   "gabaritoOficial": "D",
+   "derivada": "incerta",
+   "questao": {
+    "id": "petrobras-2008-psicologo-junior-q47",
+    "source": {
+     "file": "petrobras-2008-psicologo-junior/prova.pdf",
+     "year": 2008,
+     "originalNumber": 47,
+     "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "saude-trab",
+    "subtopic": "6.1 Processo saúde-doença",
+    "stem": "A concessão de poder (empowerment) representa, modernamente, um fator de flexibilização essencial para as organizações enfrentarem os seus desafios de sobrevivência. Algumas ações prévias, contudo, devem ser tomadas quando se implementa este processo com o intuito de se evitarem conflitos e tensões entre chefes e subordinados devido às mudanças estabelecidas, principalmente no que diz respeito às atribuições de",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "extinção da pirâmide de poder."
+     },
+     {
+      "key": "B",
+      "text": "decisão sobre tarefas."
+     },
+     {
+      "key": "C",
+      "text": "redução de distâncias hierárquicas."
+     },
+     {
+      "key": "D",
+      "text": "concessão de recompensas e punições."
+     },
+     {
+      "key": "E",
+      "text": "transformação de poder em influência."
+     }
+    ],
+    "correctKey": "D",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "D",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q48",
+   "motivo": "Divergência: a derivação apontou D (conciliar interesses particulares); o gabarito oficial é E (ocultar as contradições), coerente com a leitura crítica de Pagès et al. (O poder das organizações), que não foi conferida.",
+   "gabaritoOficial": "E",
+   "derivada": "D",
+   "questao": {
+    "id": "petrobras-2008-psicologo-junior-q48",
+    "source": {
+     "file": "petrobras-2008-psicologo-junior/prova.pdf",
+     "year": 2008,
+     "originalNumber": 48,
+     "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1.1 Liderança",
+    "stem": "Por intermédio do poder organizacional, as organizações exercem o controle essencial para a sua própria sobrevivência. Uma das formas de revelar a eficácia deste poder é através de sua capacidade de",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "servir a todos os grupos de interesse.",
+      "explanation": "Servir a todos os grupos é impossível."
+     },
+     {
+      "key": "B",
+      "text": "excluir o poder ilegítimo.",
+      "explanation": "Excluir o poder ilegítimo não mede a eficácia."
+     },
+     {
+      "key": "C",
+      "text": "reforçar as estruturas hierárquicas.",
+      "explanation": "Reforçar a hierarquia não é a medida."
+     },
+     {
+      "key": "D",
+      "text": "conciliar os interesses particulares."
+     },
+     {
+      "key": "E",
+      "text": "ocultar as contradições existentes."
+     }
+    ],
+    "correctKey": "E",
+    "explanationSummary": "O poder organizacional é eficaz quando consegue conciliar os interesses particulares de indivíduos e grupos em torno dos objetivos da organização.",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "E",
+     "independentlyDerivedAnswer": "D",
+     "agree": false,
+     "confidence": "medium",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q49",
+   "motivo": "Divergência: Robbins e Kipnis apontam a razão (persuasão racional) como a tática mais eficaz (D); o gabarito oficial é B (coalizão).",
+   "gabaritoOficial": "B",
+   "derivada": "D",
+   "questao": {
+    "id": "petrobras-2008-psicologo-junior-q49",
+    "source": {
+     "file": "petrobras-2008-psicologo-junior/prova.pdf",
+     "year": 2008,
+     "originalNumber": 49,
+     "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1.1 Liderança",
+    "stem": "Para as organizações, tão importante quanto a decisão a ser tomada é a sua posterior implementação devido às inúmeras resistências que fatalmente advêm. Deste modo, a tática de poder mais recomendada para neutralizar as inevitáveis resistências é a",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "autoridade superior.",
+      "explanation": "Recorrer à autoridade superior gera ressentimento."
+     },
+     {
+      "key": "B",
+      "text": "coalização."
+     },
+     {
+      "key": "C",
+      "text": "afirmação.",
+      "explanation": "Afirmação (assertividade) tende a gerar resistência."
+     },
+     {
+      "key": "D",
+      "text": "razão."
+     },
+     {
+      "key": "E",
+      "text": "amabilidade.",
+      "explanation": "Amabilidade (insinuação) é menos eficaz para implementação."
+     }
+    ],
+    "correctKey": "B",
+    "explanationSummary": "A tática da razão (persuasão racional) é a mais eficaz e recomendada para obter adesão e neutralizar resistências (Kipnis; Robbins).",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "B",
+     "independentlyDerivedAnswer": "D",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q50",
+   "motivo": "Derivação incerta: no campo de forças de Lewin, as alternativas não correspondem claramente a forças impulsionadoras; o gabarito C (interesses em jogo) não foi confirmado.",
+   "gabaritoOficial": "E",
+   "derivada": "incerta",
+   "questao": {
+    "id": "petrobras-2008-psicologo-junior-q50",
+    "source": {
+     "file": "petrobras-2008-psicologo-junior/prova.pdf",
+     "year": 2008,
+     "originalNumber": 50,
+     "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "saude-trab",
+    "subtopic": "6.1 Processo saúde-doença",
+    "stem": "Ao liderar um processo de mudança na organização, um gerente deve atentar para as diferentes forças atuantes no campo. Uma maneira eficaz de implementar as mudanças é reforçar as forças impulsionadoras estimulando os(as)",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "vínculos políticos identificados."
+     },
+     {
+      "key": "B",
+      "text": "valores coletivos opostos."
+     },
+     {
+      "key": "C",
+      "text": "interesses em jogo."
+     },
+     {
+      "key": "D",
+      "text": "necessidades de segurança."
+     },
+     {
+      "key": "E",
+      "text": "forças grupais."
+     }
+    ],
+    "correctKey": "E",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "E",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q55",
+   "motivo": "Derivação incerta: a descrição (chegar logo a uma avaliação conclusiva que influencia o processamento posterior) lembra o efeito de primazia ou o halo (D); o gabarito é C (teoria implícita).",
+   "gabaritoOficial": "D",
+   "derivada": "C ou D",
+   "questao": {
+    "id": "petrobras-2008-psicologo-junior-q55",
+    "source": {
+     "file": "petrobras-2008-psicologo-junior/prova.pdf",
+     "year": 2008,
+     "originalNumber": 55,
+     "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "saude-trab",
+    "subtopic": "6.1 Processo saúde-doença",
+    "stem": "Num julgamento social, a tendência que temos de chegar logo a uma avaliação conclusiva sobre o outro, que, por sua vez, passa em seguida a influenciar o processamento de informações subseqüentes, denomina-se",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "protótipo."
+     },
+     {
+      "key": "B",
+      "text": "estereótipo."
+     },
+     {
+      "key": "C",
+      "text": "teoria implícita."
+     },
+     {
+      "key": "D",
+      "text": "efeito de halo."
+     },
+     {
+      "key": "E",
+      "text": "mapa mental."
+     }
+    ],
+    "correctKey": "D",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "D",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q64",
+   "motivo": "Divergência: a derivação apontou D (pós-burocrática), mas a ruptura da unidade de comando é marca da matricial, que é o gabarito oficial E. Derivação fraca, por isso fica para revisão.",
+   "gabaritoOficial": "E",
+   "derivada": "D",
+   "questao": {
+    "id": "petrobras-2008-psicologo-junior-q64",
+    "source": {
+     "file": "petrobras-2008-psicologo-junior/prova.pdf",
+     "year": 2008,
+     "originalNumber": 64,
+     "exam": "Petrobras 2008 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "psi-org",
+    "subtopic": "3.4 Análise e desenvolvimento organizacional",
+    "stem": "Existem sistemas para classificar as distintas possibilidades de arranjos ou estruturas organizacionais. Uma organização na qual se observa uma ampliação do grau de descentralização ao se conferir maior autonomia e responsabilidade aos grupos, que lida com grupos flexíveis de indivíduos os quais mudam de acordo com as necessidades organizacionais, e que apresenta uma ruptura com o princípio de unidade central de comando pode ser classificada como organização",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "em rede.",
+      "explanation": "A rede se define por parcerias externas, não pela descrição dada."
+     },
+     {
+      "key": "B",
+      "text": "familiar.",
+      "explanation": "A familiar é centralizada."
+     },
+     {
+      "key": "C",
+      "text": "burocrática funcional.",
+      "explanation": "A burocrática funcional tem unidade de comando e rigidez."
+     },
+     {
+      "key": "D",
+      "text": "pós-burocrática."
+     },
+     {
+      "key": "E",
+      "text": "matricial."
+     }
+    ],
+    "correctKey": "E",
+    "explanationSummary": "A organização pós-burocrática amplia a descentralização, dá autonomia a grupos flexíveis que se reconfiguram conforme as necessidades e rompe a unidade de comando.",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "E",
+     "independentlyDerivedAnswer": "D",
+     "agree": false,
+     "confidence": "medium",
+     "notes": ""
+    }
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "petrobras-2008-psicologo-junior-q21",
+   "tema": "Informática (Word 2003)"
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q22",
+   "tema": "Informática (Word 2003)"
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q23",
+   "tema": "Informática (Excel 2003)"
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q24",
+   "tema": "Informática (Excel 2003)"
+  },
+  {
+   "id": "petrobras-2008-psicologo-junior-q25",
+   "tema": "Informática (PowerPoint 2003)"
+  }
+ ],
+ "log": "Petrobras 2008, prova 55. Gabarito oficial (Wayback): básicos na p.2, bloco “Língua Inglesa II”, porque a p.1 é de outro grupo de cargos, com Inglês I; específicos na p.3 (continuação da p.2), coluna PSICÓLOGO(A) JÚNIOR, lida com zoom. Recursos oficiais aplicados: q29 anulada. O caderno tem linhas justificadas sem espaços na extração; elas foram segmentadas e corrigidas manualmente (lista FIX)."
+}

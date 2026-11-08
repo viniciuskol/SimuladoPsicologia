@@ -1,0 +1,10 @@
+.DS_Store
+.claude/
+provas/downloads/**/*.tmp
+# PDFs de terceiros (Cesgranrio): ficam só na máquina; MANIFEST.json e fontes.md têm as URLs.
+provas/downloads/
+# Binários compilados: gere com `swiftc tools/<nome>.swift -o tools/<nome>`.
+tools/pdftool
+tools/pdftext
+tools/pdflines
+tools/scan

@@ -1,0 +1,132 @@
+{
+  "areaId": "etica",
+  "resumo": "<p><strong>O que a banca cobra.</strong> O banco tem 7 questões oficiais deste item, de 4 provas: BNDES 2024 (2), Petrobras 2012 (2), Salvador 2011 (2) e BNDES 2013 (1). Há também 6 questões autorais, escritas sobre artigos conferidos do Código. Todas as oficiais são <strong>situações-problema</strong>: a psicóloga no meio de uma reabilitação com médicos, o psicólogo a quem a gerência oferece auxiliares leigos para aplicar testes, o colega que desvia pacientes do serviço público, a greve no serviço de saúde mental, a demissão com arquivos confidenciais na gaveta. Nenhuma pede o número do artigo; todas pedem a <strong>conduta</strong> que o artigo determina. A proporção do item no banco (7 de 169 questões específicas oficiais) é só um indicador do passado: o edital de 2026 não informa quantas questões caem por item.</p>\n<p><strong>O texto que vale.</strong> Código de Ética Profissional do Psicólogo, Resolução CFP 10/2005, em vigor desde 27/08/2005: 7 Princípios Fundamentais (I a VII) e 25 artigos, sendo os arts. 1º a 20 \"Das responsabilidades do psicólogo\" e os arts. 21 a 25 \"Disposições gerais\". Lido por inteiro no PDF oficial do CFP em 05/11/2026 (<code>docs/normas/codigo-etica.md</code>). <em>Não verificado de forma exaustiva</em>: a ausência de alteração posterior, porque o portal Atos Oficiais do CFP bloqueia acesso automatizado.</p>\n<p><strong>Os seis eixos que as provas usam.</strong></p>\n<ol>\n<li><strong>Princípios como critério de decisão</strong>: diante de um dilema sem artigo específico, a resposta é o princípio: dignidade e direitos humanos (I), saúde e qualidade de vida das pessoas e coletividades, eliminando violência e opressão (II), análise crítica da realidade (III) (bndes-2013-profissional-basico-psicologia-q31).</li>\n<li><strong>Sigilo</strong>: art. 9º é o dever; art. 10 permite a quebra (o verbo é \"poderá\") pelo menor prejuízo, restrita ao estritamente necessário; art. 11, depoimento em juízo, também \"poderá\"; art. 6º, com profissionais não psicólogos, compartilha só o relevante e <strong>assinala a responsabilidade de quem recebe</strong> pelo sigilo (bndes-2024-analista-psicologia-organizacional-q37).</li>\n<li><strong>Organização e conflito de interesses</strong>: art. 3º manda considerar missão, políticas e práticas da organização e, havendo incompatibilidade, recusar-se a prestar serviços e, se pertinente, denunciar. A Petrobras 2012 cobrou duas vezes a fórmula da \"relação empregado-empregador tão equânime quanto possível\" (petrobras-2012-psicologo-junior-q57 e, em psi-org, petrobras-2012-psicologo-junior-q66).</li>\n<li><strong>Instrumentos e leigos</strong>: art. 18 proíbe ceder a leigos instrumentos e técnicas privativas; se não houver saída ética, recusar o trabalho (petrobras-2012-psicologo-junior-q65).</li>\n<li><strong>Arquivos</strong>: art. 15 e seus dois parágrafos, demissão (repassar ao substituto ou lacrar) e extinção do serviço (informar o CRP) (bndes-2024-analista-psicologia-organizacional-q54, autoral-cod-04).</li>\n<li><strong>Vedações do art. 2º</strong>: conivência com faltas de psicólogos (alínea \"e\") e desvio de pessoa atendida para serviço particular (alínea \"l\") (seplag-salvador-2011-psicologo-q40); greve do art. 5º (seplag-salvador-2011-psicologo-q41).</li>\n</ol>\n<p><strong>Ligações com outras normas do edital.</strong> A Res. CFP 31/2022, art. 12, chama de falta ética usar teste com parecer desfavorável, apoiando-se no art. 1º \"c\" e no art. 2º \"f\" do Código. A Res. CFP 18/2002 cita um \"art. 27\" e princípios \"VI e VII\" que são do Código de 1987, revogado: o Código atual tem só 25 artigos. A Res. CFP 8/2020 usa o mesmo critério do art. 10 (menor prejuízo, informação estritamente necessária) para a violência de gênero.</p>\n<p><strong>Aviso sobre uma explicação do banco.</strong> A explicação de seplag-salvador-2011-psicologo-q40 cita as alíneas \"i\" e \"n\" do art. 2º; pelo texto conferido em <code>docs/normas/codigo-etica.md</code>, conivência é a alínea \"e\" e desvio para serviço particular é a alínea \"l\". O gabarito não muda; decore as letras pelo resumo normativo.</p>",
+  "cheatsheet": [
+    {
+      "heading": "Estrutura do Código (Res. CFP 10/2005)",
+      "items": [
+        "7 Princípios Fundamentais (I a VII) e 25 artigos; vigência desde <strong>27/08/2005</strong>; revogou a Res. CFP 002/87 (Código anterior). É o terceiro Código da profissão.",
+        "Arts. 1º a 20: responsabilidades (art. 1º deveres; art. 2º vedações). Arts. 21 a 25: disposições gerais (penalidades, casos omissos, alteração, vigência).",
+        "Princípios por palavra-chave: I dignidade e Declaração Universal dos Direitos Humanos; II saúde e qualidade de vida, contra negligência, discriminação, exploração, violência, crueldade e opressão; III responsabilidade social e análise crítica e histórica da realidade; IV aprimoramento contínuo, Psicologia como ciência; V universalização do acesso; VI dignidade da profissão, rejeitar aviltamento; VII relações de poder, posicionamento crítico."
+      ]
+    },
+    {
+      "heading": "Sigilo: dever, faculdade e limites",
+      "items": [
+        "Art. 9º: <strong>dever</strong> de sigilo sobre pessoas, grupos e organizações.",
+        "Art. 10: no conflito entre sigilo e princípios, salvo casos previstos em lei, o psicólogo <strong>poderá</strong> decidir pela quebra, buscando o <strong>menor prejuízo</strong>; parágrafo único: só as informações estritamente necessárias.",
+        "Art. 11: requisitado a depor em juízo, <strong>poderá</strong> prestar informações (art. 10 vale).",
+        "Art. 6º: com não psicólogos, encaminhar o que extrapola o campo e compartilhar <strong>somente informações relevantes</strong>, assinalando a responsabilidade de quem as recebe de preservar o sigilo.",
+        "Art. 12: documento em equipe multiprofissional: só o necessário aos objetivos do trabalho. Art. 13: criança, adolescente ou interdito: comunicar aos responsáveis o estritamente essencial.",
+        "Art. 14: meios de registro e observação (gravação, espelho): usuário informado <strong>desde o início</strong>."
+      ]
+    },
+    {
+      "heading": "Artigos de conduta mais cobráveis",
+      "items": [
+        "Art. 3º: ao ingressar ou permanecer numa organização, considerar missão, filosofia, políticas, normas e práticas; incompatibilidade: <strong>recusar-se</strong> e, <strong>se pertinente</strong>, denunciar.",
+        "Art. 4º: honorários justos, comunicados <strong>antes do início</strong>; a qualidade não depende do valor.",
+        "Art. 5º: greve: emergências não podem parar e os usuários são avisados <strong>previamente</strong> ({S11}41).",
+        "Art. 7º: intervir no trabalho de outro psicólogo só a pedido do responsável, em emergência (com ciência imediata), após interrupção voluntária e definitiva informada, ou em equipe multiprofissional cuja metodologia o preveja.",
+        "Art. 8º: atendimento <strong>não eventual</strong> de criança, adolescente ou interdito exige autorização de <strong>ao menos um</strong> responsável; sem responsável, atender e comunicar às autoridades.",
+        "Art. 16: pesquisa com consentimento livre e esclarecido, anonimato e acesso aos resultados. Art. 18: não ceder a leigos instrumentos e técnicas. Art. 20: publicidade com nome completo, CRP e número, sem preço como propaganda e sem prometer resultados."
+      ]
+    },
+    {
+      "heading": "Arquivos, penalidades e casos omissos",
+      "items": [
+        "Art. 15: interrupção do trabalho: zelar pelo destino dos arquivos. § 1º demissão ou exoneração: <strong>repassar ao substituto ou lacrar</strong>. § 2º extinção do serviço: <strong>informar o CRP</strong>, que providencia a destinação.",
+        "Art. 21, penalidades em ordem: advertência; multa; censura pública; suspensão <strong>por até 30 dias</strong>, ad referendum do CFP; cassação, ad referendum do CFP.",
+        "Art. 22: dúvidas e casos omissos: <strong>CRPs</strong>, ad referendum do CFP. Art. 23: jurisprudência sobre casos omissos: <strong>CFP</strong>. Art. 24: alteração pelo CFP, ouvidos os CRPs."
+      ]
+    },
+    {
+      "heading": "Vedações do art. 2º que viram alternativa",
+      "items": [
+        "a) praticar ou ser conivente com negligência, discriminação, exploração, violência, crueldade ou opressão; b) induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas, de orientação sexual ou a preconceito.",
+        "e) ser conivente com erros, faltas éticas, violação de direitos ou crimes de psicólogos; f) usar técnicas não regulamentadas ou não reconhecidas; g) emitir documento sem fundamentação técnico-científica; h) interferir na validade de instrumentos ou adulterar resultados.",
+        "j) relação com atendido, familiar ou terceiro que interfira negativamente; k) ser perito, avaliador ou parecerista com vínculos que afetem o trabalho; l) <strong>desviar</strong> atendido de instituição para serviço particular; n) prolongar desnecessariamente; o) e p) comissões e pagamento por encaminhamento; q) diagnóstico na mídia expondo pessoas."
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "title": "Dilema organizacional: a resposta é o meio-termo crítico, nunca a adesão total a um lado",
+      "body": "Quando o enunciado opõe produtividade e bem-estar, ou empresa e trabalhador, a Cesgranrio dá como certa a alternativa que reconhece o conflito e busca equilíbrio, sem ingenuidade: 'relação empregado-empregador tão equânime quanto possível' (petrobras-2012-psicologo-junior-q57), e em bndes-2013-profissional-basico-psicologia-q31 os critérios são os Princípios (dignidade, saúde das coletividades, análise crítica), não a opinião da maioria nem a defesa corporativa da Psicologia. Distratores típicos: 'antes de tudo, responsabilidade com a organização', 'posição conciliatória', 'defender o campo da Psicologia'. Defesa: procure a alternativa que cite princípio do Código ou que preserve os dois lados.",
+      "evidence": [
+        "petrobras-2012-psicologo-junior-q57",
+        "bndes-2013-profissional-basico-psicologia-q31"
+      ]
+    },
+    {
+      "title": "Sigilo: a alternativa errada quebra tudo ou transfere a responsabilidade",
+      "body": "Em bndes-2024-analista-psicologia-organizacional-q37 a psicóloga trabalha com médicos numa reabilitação; as erradas falam em 'quebra total e legítima', 'quebra parcial consentida' e 'repassar a responsabilidade do sigilo ao médico'. A certa é o art. 6º: compartilhar o relevante e <strong>avisar ao outro profissional que ele também responde pelo sigilo</strong>. Nas autorais, o art. 10 aparece com o verbo 'poderá' e o critério do menor prejuízo (autoral-cod-01). Troque mentalmente 'deverá' por 'poderá' e 'todas' por 'estritamente necessárias': se a alternativa ficar certa só depois da troca, ela está errada.",
+      "evidence": [
+        "bndes-2024-analista-psicologia-organizacional-q37",
+        "autoral-cod-01"
+      ]
+    },
+    {
+      "title": "Pressão da gerência: recusar é a conduta ética quando não há alternativa",
+      "body": "Em petrobras-2012-psicologo-junior-q65 a gerência oferece auxiliares sem formação para aplicar e corrigir testes. Treinar os leigos (mesmo os do mesmo cargo) e trocar por teste 'não reconhecido' são erradas; a certa é informar a impossibilidade e recusar a avaliação. O mesmo raciocínio aparece no art. 3º (incompatibilidade com a organização: recusar e, se pertinente, denunciar; autoral-cod-05) e na Res. 31/2022 (uso de teste é privativo). A banca valoriza o psicólogo que diz não com fundamento.",
+      "evidence": [
+        "petrobras-2012-psicologo-junior-q65",
+        "autoral-cod-05"
+      ]
+    },
+    {
+      "title": "Conduta perante colega e paralisação: omissão também é falta",
+      "body": "seplag-salvador-2011-psicologo-q40 traz o psicólogo que vê um colega desviar pacientes do serviço público para o consultório; as erradas dizem que ética é assunto pessoal ou que basta a lei permitir. A certa: conivência é vedada (art. 2º, e) e o desvio é falta (art. 2º, l). Em seplag-salvador-2011-psicologo-q41 a greve é permitida, mas com duas condições do art. 5º: não interromper emergências e avisar os usuários antes; não há dever de manter todos os atendimentos regulares.",
+      "evidence": [
+        "seplag-salvador-2011-psicologo-q40",
+        "seplag-salvador-2011-psicologo-q41"
+      ]
+    },
+    {
+      "title": "Arquivos confidenciais: dois destinos diferentes para duas situações",
+      "body": "bndes-2024-analista-psicologia-organizacional-q54 cita o art. 15 e pergunta o que fazer na demissão ou exoneração: repassar ao substituto ou lacrar para uso posterior do substituto (§ 1º). A autoral-cod-04 cobra a outra metade: na extinção do serviço, o psicólogo informa o CRP, que providencia a destinação (§ 2º). A pegadinha é trocar CRP por CFP, por 'a própria instituição' ou por 'destruir os arquivos'.",
+      "evidence": [
+        "bndes-2024-analista-psicologia-organizacional-q54",
+        "autoral-cod-04"
+      ]
+    }
+  ],
+  "tactics": [
+    {
+      "title": "Leia o verbo antes de julgar",
+      "body": "Nas questões de Código, o erro mora no modal: 'deve' x 'pode', 'sempre' x 'quando pertinente', 'todas as informações' x 'somente as relevantes'. Sublinhe o verbo de cada alternativa antes de decidir."
+    }
+  ],
+  "trapWords": [
+    {
+      "term": "poderá quebrar o sigilo (art. 10)",
+      "confusedWith": "deverá quebrar o sigilo",
+      "distinction": "A quebra é faculdade, pelo menor prejuízo e restrita ao estritamente necessário. Depor em juízo (art. 11) também é 'poderá'."
+    },
+    {
+      "term": "ao menos um responsável (art. 8º)",
+      "confusedWith": "ambos os responsáveis",
+      "distinction": "Atendimento não eventual de criança, adolescente ou interdito exige autorização de pelo menos um responsável. Atendimento eventual não está na hipótese."
+    },
+    {
+      "term": "CRP (art. 15 § 2º; art. 22)",
+      "confusedWith": "CFP (art. 23)",
+      "distinction": "CRP destina arquivos de serviço extinto e resolve casos omissos ad referendum do CFP; o CFP firma jurisprudência sobre casos omissos e julga em última instância."
+    },
+    {
+      "term": "suspensão por até 30 dias",
+      "confusedWith": "60 ou 90 dias",
+      "distinction": "Art. 21, d: até 30 dias, ad referendum do CFP. A ordem é advertência, multa, censura pública, suspensão, cassação."
+    },
+    {
+      "term": "recusar-se e, se pertinente, denunciar (art. 3º)",
+      "confusedWith": "denunciar obrigatoriamente",
+      "distinction": "Na incompatibilidade com a organização, a recusa é o que cabe; a denúncia depende de ser pertinente."
+    },
+    {
+      "term": "Princípios Fundamentais",
+      "confusedWith": "artigos de conduta",
+      "distinction": "Princípios (I a VII) orientam decisões sem artigo específico; artigos (1º a 25) trazem deveres e vedações concretos."
+    }
+  ]
+}

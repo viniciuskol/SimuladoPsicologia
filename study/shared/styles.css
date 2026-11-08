@@ -1,0 +1,364 @@
+:root {
+  --bg: #0f1116;
+  --surface: #171a21;
+  --surface-2: #1f232c;
+  --text: #e8eaed;
+  --text-dim: #9aa1ab;
+  --accent: #4f8cff;
+  --ok: #2ecc71;
+  --err: #ff5c5c;
+  --radius: 12px;
+  --max-w: 640px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f5f6f8;
+    --surface: #ffffff;
+    --surface-2: #eef0f3;
+    --text: #16181d;
+    --text-dim: #5a6270;
+    --accent: #2e63d0;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.45;
+}
+
+.app {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 16px;
+  padding-bottom: 96px;
+}
+
+h1, h2, h3 { line-height: 1.25; }
+h1 { font-size: 1.25rem; }
+h2 { font-size: 1.05rem; }
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 12px 16px;
+  background: var(--surface);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.topbar a { color: var(--text); text-decoration: none; font-weight: 600; }
+.topbar nav { display: flex; gap: 14px; font-size: 0.9rem; }
+.topbar nav a.active { color: var(--accent); }
+
+.card {
+  background: var(--surface);
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-bottom: 12px;
+}
+
+/* Enunciado da questão: tipografia confortável para leitura longa em telas pequenas */
+.stem-card {
+  background: var(--surface);
+  border-radius: var(--radius);
+  padding: 18px 18px 20px;
+  margin-bottom: 16px;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  max-width: 38em; /* comprimento de linha legível, evita texto "esticado" */
+}
+.stem-card img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 12px 0;
+  background: #fff; /* diagramas costumam ter fundo transparente/branco */
+}
+.stem-card math, .stem-card mjx-container { font-size: 1.08em; }
+
+/* Texto-base (ex.: "Texto I"/"Texto II") de que uma ou mais questões dependem — visualmente
+   distinto do enunciado para deixar claro que é material de apoio, não a pergunta em si. */
+.passage-card {
+  background: var(--surface-2);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+  margin-bottom: 12px;
+  font-size: 1rem;
+  line-height: 1.65;
+  max-width: 38em;
+  color: var(--text);
+}
+.passage-card p { margin: 0 0 12px; }
+.passage-card p:last-child { margin-bottom: 0; }
+.passage-card strong:first-child,
+.passage-card > strong { color: var(--accent); }
+
+.alt-list { display: flex; flex-direction: column; gap: 10px; margin-bottom: 4px; }
+
+.btn {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  min-height: 52px;
+  padding: 14px 16px;
+  border: 1px solid var(--surface-2);
+  border-radius: var(--radius);
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: 1rem;
+  line-height: 1.45;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.12s ease, border-color 0.12s ease;
+}
+.btn:active { transform: scale(0.99); }
+.btn:not(:disabled):hover { border-color: var(--accent); }
+.btn.primary { background: var(--accent); color: #fff; border-color: var(--accent); text-align: center; font-weight: 600; justify-content: center; }
+.btn.correct { background: color-mix(in srgb, var(--ok) 25%, var(--surface)); border-color: var(--ok); }
+.btn.incorrect { background: color-mix(in srgb, var(--err) 25%, var(--surface)); border-color: var(--err); }
+.btn:disabled { cursor: default; opacity: 0.9; }
+
+/* Selo da letra da alternativa: âncora visual fixa para escanear rápido */
+.alt-key {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text-dim);
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+.btn.correct .alt-key { background: var(--ok); color: #06210f; }
+.btn.incorrect .alt-key { background: var(--err); color: #2b0a0a; }
+.alt-text { flex: 1 1 auto; }
+
+.feedback-banner {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.feedback-banner.correct { color: var(--ok); }
+.feedback-banner.incorrect { color: var(--err); }
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  font-size: 0.85rem;
+  margin: 3px 4px 3px 0;
+  cursor: pointer;
+  user-select: none;
+}
+.chip input { accent-color: var(--accent); }
+
+.muted { color: var(--text-dim); font-size: 0.9rem; }
+
+.progressbar { height: 8px; border-radius: 4px; background: var(--surface-2); overflow: hidden; margin-bottom: 12px; }
+.progressbar > div { height: 100%; background: var(--accent); }
+
+.area-bar { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
+.area-bar .track { flex: 1; height: 10px; border-radius: 5px; background: var(--surface-2); overflow: hidden; }
+.area-bar .track > div { height: 100%; background: var(--accent); }
+.area-bar .pct { width: 42px; text-align: right; font-size: 0.85rem; color: var(--text-dim); }
+
+details.explain { margin-top: 12px; }
+details.explain summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-weight: 600;
+  padding: 4px 0;
+}
+details.explain ul { margin: 10px 0 0; padding-left: 0; list-style: none; display: flex; flex-direction: column; gap: 10px; }
+details.explain li {
+  background: var(--surface-2);
+  border-radius: 8px;
+  padding: 10px 12px;
+  line-height: 1.5;
+}
+
+.empty-state { text-align: center; padding: 40px 16px; color: var(--text-dim); }
+
+@media (min-width: 768px) {
+  .app { padding: 24px 16px; }
+  .stem-card { font-size: 1.1rem; }
+}
+
+/* ---- estudo.html ---- */
+.area-row { align-items: center; }
+.muted.block { display: block; margin-top: 2px; }
+ul.tight { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 7px; }
+.card.accent { border-left: 3px solid var(--accent); }
+.card .sub { background: var(--surface-2); border-radius: 8px; padding: 10px 12px; margin-top: 10px; }
+.card .sub p { margin: 6px 0 0; }
+.card .sub strong { line-height: 1.35; }
+.card table { width: 100%; border-collapse: collapse; font-size: 0.92rem; display: block; overflow-x: auto; }
+.card th, .card td { border: 1px solid var(--surface-2); padding: 7px 9px; text-align: left; vertical-align: top; }
+.card th { background: var(--surface-2); }
+.answer { background: var(--surface-2); border-radius: 8px; padding: 12px; margin-top: 10px; line-height: 1.55; }
+.rate-row { flex-direction: row; }
+.rate-row .btn { justify-content: center; text-align: center; font-size: 0.92rem; padding: 14px 6px; }
+.card code { background: var(--surface-2); padding: 1px 5px; border-radius: 4px; font-size: 0.92em; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+.prio-label { flex: 0 0 41%; font-size: 0.88rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.area-bar .pct { width: 68px; }
+a.btn.res { text-decoration: none; align-items: flex-start; }
+a.btn.res strong { display: block; }
+
+/* Revisão do erro: as alternativas reaproveitam .btn/.alt-key/.alt-text do
+   simulado, mas aqui são <div> de leitura — sem clique, logo sem afordância de
+   clique (cursor e hover neutralizados). */
+.alt-list.review .btn { cursor: default; }
+.alt-list.review .btn:hover { border-color: var(--surface-2); }
+.alt-list.review .btn.correct, .alt-list.review .btn.correct:hover { border-color: var(--ok); }
+.tag-ok { color: var(--ok); white-space: nowrap; font-size: 0.85rem; }
+.q-stem { white-space: pre-wrap; overflow-wrap: anywhere; margin: 10px 0; }
+.review-h { font-weight: 600; margin: 14px 0 4px; }
+.q-src { margin-top: 12px; overflow-wrap: anywhere; }
+details.q-review > summary { overflow-wrap: anywhere; }
+details.q-review > summary .muted { color: var(--text-dim); font-weight: 400; }
+.alt-text { overflow-wrap: anywhere; }
+
+/* Checklist do plano: item concluído fica marcado sem virar ilegível — cor um
+   pouco mais apagada e risco fino, mantendo contraste de leitura. */
+ul.plan-list { margin: 10px 0 0; padding-left: 0; list-style: none; display: flex; flex-direction: column; gap: 8px; }
+.plan-item { background: var(--surface-2); border-radius: 8px; }
+.plan-item label { display: flex; gap: 10px; align-items: flex-start; padding: 10px 12px; cursor: pointer; line-height: 1.45; }
+.plan-item input { accent-color: var(--accent); width: 18px; height: 18px; margin: 2px 0 0; flex: 0 0 auto; }
+.plan-item.done > label > span { color: var(--text-dim); text-decoration: line-through; text-decoration-thickness: 1px; }
+.plan-prog { font-weight: 600; margin: 10px 0 0; }
+
+/* ---- simulado: modo prova ---- */
+.field { display: flex; flex-direction: column; gap: 4px; margin: 12px 0; font-size: 0.9rem; color: var(--text-dim); }
+.field input, .field select {
+  min-height: 44px;
+  padding: 8px 10px;
+  border: 1px solid var(--surface-2);
+  border-radius: 8px;
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: 1rem;
+  max-width: 100%;
+}
+.card .btn + .btn, .card .btn + .muted { margin-top: 10px; }
+
+.exam-bar {
+  position: sticky;
+  top: 46px;
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 12px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  background: var(--surface);
+  border: 1px solid var(--surface-2);
+}
+.exam-clock { font-weight: 700; font-variant-numeric: tabular-nums; }
+.exam-clock.low { color: var(--err); }
+
+details.passage { margin-bottom: 12px; }
+details.passage > summary { cursor: pointer; color: var(--accent); font-weight: 600; padding: 4px 0 8px; }
+details.passage .passage-card { margin-bottom: 0; }
+
+.btn.selected { background: color-mix(in srgb, var(--accent) 22%, var(--surface)); border-color: var(--accent); }
+.btn.selected .alt-key { background: var(--accent); color: #fff; }
+
+.nav-row { display: flex; gap: 8px; margin: 12px 0; }
+.nav-row .btn { flex: 1 1 0; justify-content: center; text-align: center; padding: 14px 6px; font-size: 0.92rem; }
+.btn.flagged { border-color: var(--accent); color: var(--accent); }
+.btn:disabled:not(.correct):not(.incorrect):not(.selected) { opacity: 0.5; }
+
+.qmap { display: grid; grid-template-columns: repeat(auto-fill, minmax(42px, 1fr)); gap: 6px; margin-top: 10px; }
+.qmap button {
+  min-height: 42px;
+  border: 1px solid var(--surface-2);
+  border-radius: 8px;
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+.qmap button.answered { background: color-mix(in srgb, var(--accent) 30%, var(--surface)); }
+.qmap button.current { border: 2px solid var(--text); }
+.qmap button.flagged::after { content: " ⚑"; }
+
+.score { font-size: 1.6rem; font-weight: 700; margin: 4px 0; }
+.res-label { flex: 0 0 46%; font-size: 0.88rem; overflow-wrap: anywhere; }
+.alt-list.review .btn.incorrect, .alt-list.review .btn.incorrect:hover { border-color: var(--err); }
+.tag-no { color: var(--err); white-space: nowrap; font-size: 0.85rem; }
+
+/* ---- estudo: agenda e prioridade ---- */
+a.btn { text-decoration: none; }
+.btn.center { justify-content: center; text-align: center; }
+.row-actions { display: flex; gap: 8px; margin-top: 10px; }
+.row-actions .btn { flex: 1 1 0; min-height: 44px; padding: 10px 8px; justify-content: center; text-align: center; font-size: 0.9rem; }
+.q-link { color: var(--accent); white-space: nowrap; }
+
+/* Figuras e tabelas recortadas das provas: fundo branco para ler também no tema escuro. */
+.stem-card { white-space: pre-wrap; overflow-wrap: anywhere; }
+.q-figure { display: block; margin: 12px 0; }
+.q-figure img { display: block; max-width: 100%; height: auto; border-radius: 8px; background: #fff; }
+/* Figura larga: mantém o texto legível e rola para os lados em vez de encolher. */
+.q-figure.wide { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.q-figure.wide + .q-figure-hint { display: block; margin: -6px 0 12px; font-size: 0.82rem; color: var(--text-dim); }
+.q-figure.wide img { width: 100%; max-width: none; }
+@media (min-width: 620px) { .q-figure.wide + .q-figure-hint { display: none; } }
+
+.fig-zoom-open, .fig-zoom-open body { overflow: hidden; }
+.fig-zoom { position: fixed; inset: 0; z-index: 100; display: flex; flex-direction: column; background: var(--bg); }
+.fig-zoom-close { flex: 0 0 auto; width: auto; min-height: 44px; margin: 8px 8px 8px auto; padding: 8px 18px; justify-content: center; }
+.fig-zoom-scroll { flex: 1 1 auto; overflow: auto; -webkit-overflow-scrolling: touch; padding: 0 8px 16px; }
+.fig-zoom-scroll img { display: block; max-width: none; height: auto; border-radius: 8px; background: #fff; }
+
+/* Telas estreitas: o título não quebra em duas linhas, senão a barra cresce e cobre o cronômetro. */
+.topbar > a { min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.topbar nav { flex: 0 0 auto; }
+@media (max-width: 360px) { .topbar > a { font-size: 0.85rem; } }
+
+/* O foco vai para o início da tela só para leitores de tela: sem contorno visível. */
+#screen-start:focus { outline: none; }
+
+/* Questão fora de prova oficial e avisos que precisam ser lidos antes de começar. */
+.badge-authored {
+  display: inline-block;
+  padding: 2px 8px;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.notice-warn {
+  padding: 10px 12px;
+  border-left: 3px solid var(--err);
+  border-radius: 8px;
+  background: var(--surface-2);
+}
+
+/* Formatação vinda das provas: citação, fonte do texto, tabelas no enunciado. */
+.card blockquote { margin: 8px 0; padding-left: 12px; border-left: 3px solid var(--surface-2); }
+.card small { font-size: 0.85em; opacity: 0.85; }

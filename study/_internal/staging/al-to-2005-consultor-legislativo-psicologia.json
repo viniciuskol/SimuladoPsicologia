@@ -1,0 +1,1577 @@
+{
+ "concurso": "al-to-2005-consultor-legislativo-psicologia",
+ "questions": [
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q1",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 1,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "A palavra “Sim”, no início do terceiro parágrafo:",
+   "passage": "<p><strong>Nanotecnologia está na rua</strong></p><p>1 Haverá um dia em que um cartaz na rua poderá ser<br>2 uma televisão de alta definição. Os carros serão econô-<br>3 micos, terão uma pintura que nunca fica arranhada e vi-<br>4 dros que se limpam sozinhos e mudam de cor de acordo<br>5 com o ambiente. Você poderá curar um câncer de pele<br>6 com um simples esparadrapo e andar com roupas que<br>7 não mancham. Tudo isso acontecerá um dia.</p><p>8 E esse dia é na semana que vem.</p><p>9 Sim, essas tecnologias já existem e muitas delas já<br>10 estão à venda nas lojas. São alguns dos primeiros pro-<br>11 dutos de uma das mais promissoras das ciências: a<br>12 nanotecnologia — ciência que lida com objetos em esca-<br>13 la nanométrica (1 nanômetro equivale a um milionésimo<br>14 de milímetro). É o trabalho de cientistas que estão<br>15 construindo coisas de baixo para cima, manipulando<br>16 átomo por átomo até criar substâncias com características<br>17 quase mágicas.(...)</p><p>18 Alguns cientistas acham a tecnologia de hoje já ul-<br>19 trapassada. “Um palmtop tem muito mais memória que<br>20 o primeiro computador do mundo que ocupava um prédio<br>21 inteiro. Mesmo assim, cada um dos seus transistores<br>22 precisa de um número absurdo de átomos apenas para<br>23 dizer 0 ou 1”, afirma um químico da USP.(...)</p><p>24 Mas, como toda novidade, a nanociência está as-<br>25 sustando. Afinal, um material com características incrí-<br>26 veis poderia também causar danos incalculáveis ao ho-<br>27 mem ou ao meio ambiente. No mês passado, um grupo<br>28 de ativistas americanos tirou a roupa para protestar con-<br>29 tra calças nanotecnológicas que seriam superpoluentes.</p><p>NARLOCH, Leandro. <strong>Revista Superinteressante</strong>, jul. 2005, p.54 (Adaptado).</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "responde a uma pergunta anterior.",
+     "explanation": "Não há pergunta explícita antes de 'Sim'; o parágrafo anterior é uma afirmação."
+    },
+    {
+     "key": "B",
+     "text": "enfatiza a informação que se segue."
+    },
+    {
+     "key": "C",
+     "text": "introduz a frase e não tem função específica.",
+     "explanation": "'Sim' tem função discursiva: reforça a afirmação surpreendente de que 'esse dia é na semana que vem'."
+    },
+    {
+     "key": "D",
+     "text": "rebate uma negação sugerida na frase anterior.",
+     "explanation": "A frase anterior não contém negação; afirma que o futuro já chegou."
+    },
+    {
+     "key": "E",
+     "text": "indica a aprovação da população pela nanotecnologia.",
+     "explanation": "O texto não trata da opinião da população nesse ponto; no fim, aliás, menciona protestos."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Depois da afirmação inesperada de que 'esse dia é na semana que vem', o autor usa 'Sim' como marcador discursivo de reforço, confirmando e enfatizando a informação que vem a seguir: as tecnologias já existem e estão à venda.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q2",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 2,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "A expressão “de baixo para cima” (l. 15) no texto diz respeito à:",
+   "passage": "<p><strong>Nanotecnologia está na rua</strong></p><p>1 Haverá um dia em que um cartaz na rua poderá ser<br>2 uma televisão de alta definição. Os carros serão econô-<br>3 micos, terão uma pintura que nunca fica arranhada e vi-<br>4 dros que se limpam sozinhos e mudam de cor de acordo<br>5 com o ambiente. Você poderá curar um câncer de pele<br>6 com um simples esparadrapo e andar com roupas que<br>7 não mancham. Tudo isso acontecerá um dia.</p><p>8 E esse dia é na semana que vem.</p><p>9 Sim, essas tecnologias já existem e muitas delas já<br>10 estão à venda nas lojas. São alguns dos primeiros pro-<br>11 dutos de uma das mais promissoras das ciências: a<br>12 nanotecnologia — ciência que lida com objetos em esca-<br>13 la nanométrica (1 nanômetro equivale a um milionésimo<br>14 de milímetro). É o trabalho de cientistas que estão<br>15 construindo coisas de baixo para cima, manipulando<br>16 átomo por átomo até criar substâncias com características<br>17 quase mágicas.(...)</p><p>18 Alguns cientistas acham a tecnologia de hoje já ul-<br>19 trapassada. “Um palmtop tem muito mais memória que<br>20 o primeiro computador do mundo que ocupava um prédio<br>21 inteiro. Mesmo assim, cada um dos seus transistores<br>22 precisa de um número absurdo de átomos apenas para<br>23 dizer 0 ou 1”, afirma um químico da USP.(...)</p><p>24 Mas, como toda novidade, a nanociência está as-<br>25 sustando. Afinal, um material com características incrí-<br>26 veis poderia também causar danos incalculáveis ao ho-<br>27 mem ou ao meio ambiente. No mês passado, um grupo<br>28 de ativistas americanos tirou a roupa para protestar con-<br>29 tra calças nanotecnológicas que seriam superpoluentes.</p><p>NARLOCH, Leandro. <strong>Revista Superinteressante</strong>, jul. 2005, p.54 (Adaptado).</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "construção, primeiramente, de objetos menores e, depois, de maiores.",
+     "explanation": "A expressão não fala de sequência de objetos de tamanhos diferentes, mas de partir dos átomos para formar a substância."
+    },
+    {
+     "key": "B",
+     "text": "tentativa dos cientistas de elaborarem coisas pequenas e eficientes.",
+     "explanation": "O texto não associa a expressão a eficiência nem ao tamanho do produto final."
+    },
+    {
+     "key": "C",
+     "text": "manipulação dos átomos para a criação de substâncias maravilhosas."
+    },
+    {
+     "key": "D",
+     "text": "elaboração de objetos a partir do início da escala nanométrica até seu final.",
+     "explanation": "Interpreta literalmente uma 'escala' com início e fim, o que o texto não diz."
+    },
+    {
+     "key": "E",
+     "text": "busca dos cientistas de realizarem pesquisas para o aumento da eficiência.",
+     "explanation": "Não há relação com aumento de eficiência."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O próprio texto explica a expressão: os cientistas constroem 'de baixo para cima, manipulando átomo por átomo até criar substâncias com características quase mágicas' (l. 15-17).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q3",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 3,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Assinale a opção correta a respeito de informações do último parágrafo do texto.",
+   "passage": "<p><strong>Nanotecnologia está na rua</strong></p><p>1 Haverá um dia em que um cartaz na rua poderá ser<br>2 uma televisão de alta definição. Os carros serão econô-<br>3 micos, terão uma pintura que nunca fica arranhada e vi-<br>4 dros que se limpam sozinhos e mudam de cor de acordo<br>5 com o ambiente. Você poderá curar um câncer de pele<br>6 com um simples esparadrapo e andar com roupas que<br>7 não mancham. Tudo isso acontecerá um dia.</p><p>8 E esse dia é na semana que vem.</p><p>9 Sim, essas tecnologias já existem e muitas delas já<br>10 estão à venda nas lojas. São alguns dos primeiros pro-<br>11 dutos de uma das mais promissoras das ciências: a<br>12 nanotecnologia — ciência que lida com objetos em esca-<br>13 la nanométrica (1 nanômetro equivale a um milionésimo<br>14 de milímetro). É o trabalho de cientistas que estão<br>15 construindo coisas de baixo para cima, manipulando<br>16 átomo por átomo até criar substâncias com características<br>17 quase mágicas.(...)</p><p>18 Alguns cientistas acham a tecnologia de hoje já ul-<br>19 trapassada. “Um palmtop tem muito mais memória que<br>20 o primeiro computador do mundo que ocupava um prédio<br>21 inteiro. Mesmo assim, cada um dos seus transistores<br>22 precisa de um número absurdo de átomos apenas para<br>23 dizer 0 ou 1”, afirma um químico da USP.(...)</p><p>24 Mas, como toda novidade, a nanociência está as-<br>25 sustando. Afinal, um material com características incrí-<br>26 veis poderia também causar danos incalculáveis ao ho-<br>27 mem ou ao meio ambiente. No mês passado, um grupo<br>28 de ativistas americanos tirou a roupa para protestar con-<br>29 tra calças nanotecnológicas que seriam superpoluentes.</p><p>NARLOCH, Leandro. <strong>Revista Superinteressante</strong>, jul. 2005, p.54 (Adaptado).</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Coisas novas costumam provocar medo nas pessoas."
+    },
+    {
+     "key": "B",
+     "text": "Produtos criados pela nanotecnologia só apresentam pontos positivos.",
+     "explanation": "O parágrafo aponta possíveis danos incalculáveis."
+    },
+    {
+     "key": "C",
+     "text": "Os danos ao meio ambiente são provocados pela nanotecnologia.",
+     "explanation": "O texto fala em danos possíveis ('poderia'), não comprovados."
+    },
+    {
+     "key": "D",
+     "text": "Os ativistas mostraram que as calças nanotecnológicas causam poluição.",
+     "explanation": "O texto diz que as calças 'seriam superpoluentes' (futuro do pretérito, hipótese); os ativistas protestaram, não demonstraram."
+    },
+    {
+     "key": "E",
+     "text": "O segundo período (iniciado por “Afinal...”) indica uma conseqüência do primeiro período (iniciado por “Mas...”).",
+     "explanation": "O período iniciado por 'Afinal' explica a causa do susto, não uma consequência."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O parágrafo afirma que, 'como toda novidade, a nanociência está assustando', ou seja, coisas novas costumam provocar medo. As demais opções transformam hipóteses em fatos ou invertem a relação lógica (o 'Afinal' introduz explicação).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q4",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 4,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "A palavra “promissoras (l. 11)” significa, no texto:",
+   "passage": "<p><strong>Nanotecnologia está na rua</strong></p><p>1 Haverá um dia em que um cartaz na rua poderá ser<br>2 uma televisão de alta definição. Os carros serão econô-<br>3 micos, terão uma pintura que nunca fica arranhada e vi-<br>4 dros que se limpam sozinhos e mudam de cor de acordo<br>5 com o ambiente. Você poderá curar um câncer de pele<br>6 com um simples esparadrapo e andar com roupas que<br>7 não mancham. Tudo isso acontecerá um dia.</p><p>8 E esse dia é na semana que vem.</p><p>9 Sim, essas tecnologias já existem e muitas delas já<br>10 estão à venda nas lojas. São alguns dos primeiros pro-<br>11 dutos de uma das mais promissoras das ciências: a<br>12 nanotecnologia — ciência que lida com objetos em esca-<br>13 la nanométrica (1 nanômetro equivale a um milionésimo<br>14 de milímetro). É o trabalho de cientistas que estão<br>15 construindo coisas de baixo para cima, manipulando<br>16 átomo por átomo até criar substâncias com características<br>17 quase mágicas.(...)</p><p>18 Alguns cientistas acham a tecnologia de hoje já ul-<br>19 trapassada. “Um palmtop tem muito mais memória que<br>20 o primeiro computador do mundo que ocupava um prédio<br>21 inteiro. Mesmo assim, cada um dos seus transistores<br>22 precisa de um número absurdo de átomos apenas para<br>23 dizer 0 ou 1”, afirma um químico da USP.(...)</p><p>24 Mas, como toda novidade, a nanociência está as-<br>25 sustando. Afinal, um material com características incrí-<br>26 veis poderia também causar danos incalculáveis ao ho-<br>27 mem ou ao meio ambiente. No mês passado, um grupo<br>28 de ativistas americanos tirou a roupa para protestar con-<br>29 tra calças nanotecnológicas que seriam superpoluentes.</p><p>NARLOCH, Leandro. <strong>Revista Superinteressante</strong>, jul. 2005, p.54 (Adaptado).</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "prolixas.",
+     "explanation": "Prolixo é o que usa palavras demais, difuso."
+    },
+    {
+     "key": "B",
+     "text": "prósperas.",
+     "explanation": "Próspero é o que já tem êxito, bem-sucedido; 'promissor' é o que promete êxito futuro."
+    },
+    {
+     "key": "C",
+     "text": "prolíferas.",
+     "explanation": "Prolífero é o que se reproduz muito, fecundo."
+    },
+    {
+     "key": "D",
+     "text": "promitentes."
+    },
+    {
+     "key": "E",
+     "text": "promocionais.",
+     "explanation": "Promocional refere-se a promoção, propaganda."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "'Promissor' é o que promete, o que faz esperar bons resultados; 'promitente' (que promete) é o sinônimo. 'Próspero' indica êxito já alcançado.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q5",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 5,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "Assinale a opção que apresenta um plural <strong>INCORRETO</strong>, segundo a norma culta.",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Luso-brasileiros.",
+     "explanation": "Correto: em adjetivo composto só o último elemento varia."
+    },
+    {
+     "key": "B",
+     "text": "Surdos-mudos.",
+     "explanation": "Correto: 'surdo-mudo' é exceção em que ambos variam."
+    },
+    {
+     "key": "C",
+     "text": "Meias-luzes.",
+     "explanation": "Correto: adjetivo + substantivo, ambos variam."
+    },
+    {
+     "key": "D",
+     "text": "Águas-vivas.",
+     "explanation": "Correto: substantivo + adjetivo, ambos variam."
+    },
+    {
+     "key": "E",
+     "text": "Azul-turquesas."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Quando o segundo elemento do composto de cor é substantivo ('turquesa'), o composto fica invariável: 'azul-turquesa' (vestidos azul-turquesa). As demais formas seguem as regras de flexão dos compostos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q6",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 6,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "Indique a opção cujo trecho de sentença, extraído do texto, apresenta uma oração de sujeito inexistente:",
+   "passage": "<p><strong>Nanotecnologia está na rua</strong></p><p>1 Haverá um dia em que um cartaz na rua poderá ser<br>2 uma televisão de alta definição. Os carros serão econô-<br>3 micos, terão uma pintura que nunca fica arranhada e vi-<br>4 dros que se limpam sozinhos e mudam de cor de acordo<br>5 com o ambiente. Você poderá curar um câncer de pele<br>6 com um simples esparadrapo e andar com roupas que<br>7 não mancham. Tudo isso acontecerá um dia.</p><p>8 E esse dia é na semana que vem.</p><p>9 Sim, essas tecnologias já existem e muitas delas já<br>10 estão à venda nas lojas. São alguns dos primeiros pro-<br>11 dutos de uma das mais promissoras das ciências: a<br>12 nanotecnologia — ciência que lida com objetos em esca-<br>13 la nanométrica (1 nanômetro equivale a um milionésimo<br>14 de milímetro). É o trabalho de cientistas que estão<br>15 construindo coisas de baixo para cima, manipulando<br>16 átomo por átomo até criar substâncias com características<br>17 quase mágicas.(...)</p><p>18 Alguns cientistas acham a tecnologia de hoje já ul-<br>19 trapassada. “Um palmtop tem muito mais memória que<br>20 o primeiro computador do mundo que ocupava um prédio<br>21 inteiro. Mesmo assim, cada um dos seus transistores<br>22 precisa de um número absurdo de átomos apenas para<br>23 dizer 0 ou 1”, afirma um químico da USP.(...)</p><p>24 Mas, como toda novidade, a nanociência está as-<br>25 sustando. Afinal, um material com características incrí-<br>26 veis poderia também causar danos incalculáveis ao ho-<br>27 mem ou ao meio ambiente. No mês passado, um grupo<br>28 de ativistas americanos tirou a roupa para protestar con-<br>29 tra calças nanotecnológicas que seriam superpoluentes.</p><p>NARLOCH, Leandro. <strong>Revista Superinteressante</strong>, jul. 2005, p.54 (Adaptado).</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“Haverá um dia...” (l. 1)"
+    },
+    {
+     "key": "B",
+     "text": "“Tudo isso acontecerá um dia.” (l. 7)",
+     "explanation": "Sujeito simples: 'Tudo isso'."
+    },
+    {
+     "key": "C",
+     "text": "“São alguns dos primeiros produtos...” (l. 10-11)",
+     "explanation": "Sujeito oculto: 'essas tecnologias' (elas)."
+    },
+    {
+     "key": "D",
+     "text": "“É o trabalho de cientistas...” (l. 14)",
+     "explanation": "Sujeito oculto, retomando a nanotecnologia ('isso é o trabalho')."
+    },
+    {
+     "key": "E",
+     "text": "“...afirma um químico da USP” (l. 23)",
+     "explanation": "Sujeito simples posposto: 'um químico da USP'."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O verbo 'haver' no sentido de existir é impessoal, formando oração sem sujeito: 'um dia' é objeto direto. Nas demais orações há sujeito expresso ou oculto.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q7",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 7,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.5 Emprego de tempos e modos verbais",
+   "stem": "Indique a opção em que as duas formas verbais estão flexionadas corretamente, de acordo com o tempo e o modo dos verbos indicados entre parênteses.",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Nomeemos (nomear - pres. subj.) e premeio (premiar - pres. ind.).",
+     "explanation": "'Premiar' é regular: 'premio'. Só os verbos do grupo MARIO (mediar, ansiar, remediar, incendiar, odiar) recebem 'e'."
+    },
+    {
+     "key": "B",
+     "text": "Medio (mediar - pres. ind.) e odeie (odiar - pres. subj).",
+     "explanation": "'Mediar' segue 'odiar': 'medeio'."
+    },
+    {
+     "key": "C",
+     "text": "Provi (prover - pret. perf. ind) e anseies (ansiar - imp. afirm.).",
+     "explanation": "O imperativo afirmativo de 'ansiar' (tu) é 'anseia'; 'anseies' é presente do subjuntivo/imperativo negativo."
+    },
+    {
+     "key": "D",
+     "text": "Ressarcimos (ressarcir - pres. Ind.) e reouve (reaver - pret. perf.)."
+    },
+    {
+     "key": "E",
+     "text": "Opor (opor - pret. imp. subj) e deteu (deter - pret. perf. ind).",
+     "explanation": "O imperfeito do subjuntivo é 'opusesse' e o perfeito de 'deter' é 'deteve' (segue 'ter')."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "'Ressarcimos' é forma regular do presente do indicativo de 'ressarcir', e 'reouve' é o pretérito perfeito de 'reaver', que segue 'haver' nas formas em que conserva o 'v' (houve → reouve). As demais opções têm ao menos uma forma errada.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q8",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 8,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.8 Emprego dos sinais de pontuação",
+   "stem": "“Os carros serão econômicos, terão uma pintura que nunca fica arranhada e vidros que se limpam sozinhos e mudam de cor de acordo com o ambiente.” (l. 2-5)<br>O período acima, retirado do texto, foi reescrito. Indique a opção em que a pontuação está correta e o sentido original, preservado.",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Os carros serão econômicos: terão uma pintura que nunca fica arranhada. Os vidros serão autolimpantes: mudando de cor de acordo com o ambiente.",
+     "explanation": "Os dois-pontos criam relação de explicação inexistente (a pintura não explica a economia; mudar de cor não explica serem autolimpantes)."
+    },
+    {
+     "key": "B",
+     "text": "Os carros serão econômicos, terão uma pintura que nunca será arranhada. Seus vidros se limparão sozinhos; e mudam de cor de acordo com o ambiente.",
+     "explanation": "Ponto e vírgula antes de 'e' separando o mesmo sujeito é inadequado, e há quebra na correlação de tempos (limparão / mudam)."
+    },
+    {
+     "key": "C",
+     "text": "Os carros serão econômicos. Com vidros que se limpam sozinhos e mudam de cor de acordo com o ambiente, eles terão uma pintura que nunca fica arranhada."
+    },
+    {
+     "key": "D",
+     "text": "Os carros, serão econômicos; sua pintura nunca ficará arranhada e seus vidros se limparão sozinhos e mudarão de cor de acordo com o ambiente.",
+     "explanation": "A vírgula separa o sujeito 'Os carros' do verbo 'serão'."
+    },
+    {
+     "key": "E",
+     "text": "Os carros serão econômicos. Terão uma pintura que nunca fica arranhada.Vidros que se limpam sozinhos. Eles também mudarão de cor de acordo com o ambiente.",
+     "explanation": "'Vidros que se limpam sozinhos.' fica como frase solta, e 'Eles também mudarão de cor' passa a se referir aos carros."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Em C, o termo deslocado 'Com vidros que se limpam sozinhos e mudam de cor de acordo com o ambiente' vem corretamente isolado por vírgula, e as características dos carros (economia, pintura, vidros) se mantêm. As demais opções separam sujeito e verbo, criam relações lógicas inexistentes ou deixam frases soltas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q9",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 9,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.12 Colocação dos pronomes átonos",
+   "stem": "Assinale a opção em que, de acordo com a norma culta, o pronome oblíquo está adequadamente empregado.",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Hoje os vidros dos carros não limpam-se sozinhos.",
+     "explanation": "A palavra negativa 'não' atrai o pronome: 'não se limpam'."
+    },
+    {
+     "key": "B",
+     "text": "Os ativistas tinham lembrado-se com pesar de alguns desastres ecológicos.",
+     "explanation": "Não se usa ênclise a particípio: 'tinham-se lembrado'."
+    },
+    {
+     "key": "C",
+     "text": "Os cientistas deveriam-se ocupar em desenvolver produtos práticos e baratos.",
+     "explanation": "Não há ênclise ao futuro do pretérito; o correto é 'deveriam ocupar-se' ou 'se deveriam ocupar'."
+    },
+    {
+     "key": "D",
+     "text": "Em breve as pessoas esquecer-se-ão da época em que os computadores não existiam."
+    },
+    {
+     "key": "E",
+     "text": "Se passarão muitos anos até que a nova tecnologia entre em todos os lares brasileiros.",
+     "explanation": "Pela norma culta, não se inicia período com pronome oblíquo átono; e com futuro do presente cabe a mesóclise: 'Passar-se-ão'."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Com verbo no futuro do presente, sem fator de próclise, a norma culta exige a mesóclise: 'esquecer-se-ão'. As demais opções violam a atração da negação, a vedação de ênclise a particípio e a futuro do pretérito, e a regra de não iniciar período com pronome átono.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q10",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 10,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.11 Emprego do sinal indicativo de crase",
+   "stem": "Indique a opção que apresenta um <strong>ERRO</strong> no uso do acento indicativo da crase.",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Os documentos pertencem àquele cientista brasileiro.",
+     "explanation": "Correto: 'pertencer a' + 'aquele' = 'àquele'."
+    },
+    {
+     "key": "B",
+     "text": "Os poluentes nos rios causam danos às regiões em volta.",
+     "explanation": "Correto: 'causar danos a' + 'as regiões'."
+    },
+    {
+     "key": "C",
+     "text": "Todos gostariam de assistir à novelas em TVs de alta definição."
+    },
+    {
+     "key": "D",
+     "text": "Novas tecnologias podem ser muito úteis à humanidade.",
+     "explanation": "Correto: 'úteis a' + 'a humanidade'."
+    },
+    {
+     "key": "E",
+     "text": "Na palestra, o professor se referiu à nova tecnologia.",
+     "explanation": "Correto: 'referir-se a' + 'a nova tecnologia'."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Em 'assistir à novelas', o 'a' singular diante de palavra no plural é só preposição, sem artigo; logo não há crase ('assistir a novelas'). Com artigo, seria 'assistir às novelas'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q21",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 21,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "Segundo Pontes (2002), a avaliação de desempenho procura:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "compatibilizar a capacidade dos indivíduos com suas expectativas a fim de estabelecer uma estratégia de carreira.",
+     "explanation": "Descreve o planejamento de carreira, não a avaliação de desempenho."
+    },
+    {
+     "key": "B",
+     "text": "verificar o comportamento dos indivíduos no trabalho em face dos resultados desejados pela empresa."
+    },
+    {
+     "key": "C",
+     "text": "estabelecer uma hierarquia nos cargos em função dos resultados obtidos pelos indivíduos da empresa.",
+     "explanation": "Hierarquizar cargos é objeto da avaliação de cargos, que considera o cargo, não o ocupante."
+    },
+    {
+     "key": "D",
+     "text": "avaliar a capacidade do indivíduo em função de seu futuro profissional na empresa.",
+     "explanation": "Descreve a avaliação de potencial."
+    },
+    {
+     "key": "E",
+     "text": "avaliar o comportamento do indivíduo com base nos resultados obtidos no processo seletivo.",
+     "explanation": "O processo seletivo é anterior; a avaliação de desempenho considera o trabalho efetivamente realizado."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Pontes distingue avaliação de cargos (valor relativo dos cargos), avaliação de potencial (possibilidades futuras) e avaliação de desempenho, que verifica o comportamento e os resultados das pessoas no trabalho em face do que a empresa espera delas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q22",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 22,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "Na perspectiva de Pontes (2002), o maior mérito da avaliação 360 graus é proporcionar a oportunidade de:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o cliente avaliar o desempenho dos empregados com os quais interage na empresa.",
+     "explanation": "O cliente pode ser uma das fontes, mas não é o mérito central do método."
+    },
+    {
+     "key": "B",
+     "text": "o líder avaliar o desempenho do subordinado com base em fatores voltados a competências.",
+     "explanation": "Avaliação só do líder é o modelo tradicional, que a 360 graus pretende superar."
+    },
+    {
+     "key": "C",
+     "text": "o avaliado escolher os seus avaliadores que serão referendados pelo líder.",
+     "explanation": "É um procedimento possível de implantação, não o mérito do método."
+    },
+    {
+     "key": "D",
+     "text": "autoavaliação dos pares em relação ao desempenho do grupo no trabalho.",
+     "explanation": "Confunde autoavaliação individual com avaliação do grupo pelos pares."
+    },
+    {
+     "key": "E",
+     "text": "confronto da autopercepção com a percepção dos outros e não somente com a do seu superior."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Na avaliação 360 graus, a pessoa é avaliada por várias fontes do seu entorno (superior, pares, subordinados, clientes) e se autoavalia. O grande mérito é permitir confrontar a autopercepção com a percepção de vários outros, e não apenas com a do chefe.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q23",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 23,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.1 Pesquisa e intervenções nas organizações",
+   "stem": "Segundo Muchinsky (2004), em se tratando de análise do trabalho, a estratégia mais desejável para se compreender um cargo é a de se coletar a informação através de:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tantas fontes qualificadas quanto possíveis."
+    },
+    {
+     "key": "B",
+     "text": "analistas de cargo especialmente treinados.",
+     "explanation": "Analistas treinados são uma fonte, mas uma só fonte limita a compreensão do cargo."
+    },
+    {
+     "key": "C",
+     "text": "supervisores dos profissionais de cargo.",
+     "explanation": "Supervisores conhecem o cargo de fora; isoladamente, oferecem visão parcial."
+    },
+    {
+     "key": "D",
+     "text": "profissionais do cargo que desenvolvem as tarefas.",
+     "explanation": "Os ocupantes são fonte valiosa, mas a melhor estratégia combina várias fontes."
+    },
+    {
+     "key": "E",
+     "text": "profissionais que tenham experiência direta, atualizada e com tempo suficiente para conhecer as tarefas.",
+     "explanation": "Descreve o que qualifica um especialista no assunto (SME), mas não a estratégia de múltiplas fontes."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Para Muchinsky, nenhuma fonte isolada dá a visão completa de um cargo: ocupantes, supervisores e analistas veem aspectos diferentes. A estratégia mais desejável é coletar informação de tantas fontes qualificadas (especialistas no assunto) quanto possível.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Análise do trabalho (job analysis) é base para seleção, treinamento e avaliação; classificada em pesquisa e intervenções nas organizações."
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q24",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 24,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "Para Davis (1992), os dois sistemas de incentivos monetários grupais que reconhecem interesses mútuos são:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "bônus salarial e salário baseado nas habilidades.",
+     "explanation": "Salário por habilidades é sistema individual, e bônus pode ser individual."
+    },
+    {
+     "key": "B",
+     "text": "bônus salarial e comissão por vendas.",
+     "explanation": "Comissão por vendas é incentivo individual."
+    },
+    {
+     "key": "C",
+     "text": "salário baseado nas habilidades e ganhos por produtividade.",
+     "explanation": "Salário por habilidades remunera o indivíduo por competências adquiridas, não é incentivo grupal."
+    },
+    {
+     "key": "D",
+     "text": "participação nos lucros e comissão por vendas.",
+     "explanation": "Comissão por vendas é incentivo individual."
+    },
+    {
+     "key": "E",
+     "text": "participação nos lucros e ganhos por produtividade."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Davis & Newstrom distinguem incentivos individuais (por peça, comissão, bônus) de sistemas grupais que reconhecem os interesses mútuos de empregados e empresa: a participação nos lucros (profit sharing) e a partilha dos ganhos de produtividade (gainsharing).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q25",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 25,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "Segundo Davis (1992), o grau em que os empregados se acham imersos em seus cargos, neles investem tempo e energia e encaram o trabalho como parte central de suas vidas denomina-se:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "satisfação no trabalho.",
+     "explanation": "Satisfação é o conjunto de sentimentos favoráveis ou desfavoráveis em relação ao trabalho."
+    },
+    {
+     "key": "B",
+     "text": "comprometimento organizacional.",
+     "explanation": "Comprometimento é o grau de identificação com a organização e de desejo de permanecer nela."
+    },
+    {
+     "key": "C",
+     "text": "envolvimento no cargo."
+    },
+    {
+     "key": "D",
+     "text": "identificação com a organização.",
+     "explanation": "Refere-se à organização, não à imersão no próprio trabalho."
+    },
+    {
+     "key": "E",
+     "text": "identificação com o cargo.",
+     "explanation": "Não é a designação usada pelo autor; o conceito é 'envolvimento com o cargo'."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Davis & Newstrom descrevem três atitudes no trabalho: satisfação, envolvimento com o cargo (grau de imersão, investimento de tempo e energia, trabalho como parte central da vida) e comprometimento organizacional (identificação com a organização e desejo de nela permanecer).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q26",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 26,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Para Chiavenato (1999), o modelo que aproveita melhor os candidatos disponíveis, envolve a totalidade de cargos vacantes e proporciona redução de custos operacionais no processo seletivo é o de:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "colocação.",
+     "explanation": "Colocação: um candidato para uma vaga, decisão de aceitar ou rejeitar."
+    },
+    {
+     "key": "B",
+     "text": "seleção.",
+     "explanation": "Seleção: vários candidatos para uma única vaga."
+    },
+    {
+     "key": "C",
+     "text": "classificação."
+    },
+    {
+     "key": "D",
+     "text": "comparação por pares.",
+     "explanation": "Comparação por pares é método de avaliação de desempenho, não modelo de decisão em seleção."
+    },
+    {
+     "key": "E",
+     "text": "grupos múltiplos.",
+     "explanation": "Não é um dos modelos de decisão de Chiavenato."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "No modelo de classificação, vários candidatos são comparados com os requisitos de várias vagas; o candidato rejeitado para um cargo é considerado para os demais. Isso aproveita melhor os candidatos, abrange todos os cargos vagos e reduz custos do processo seletivo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q27",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 27,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Para Chiavenato (1999), a entrevista diretiva é aquela que:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "determina o tipo de resposta desejada, mas não especifica as questões que são formuladas pelo entrevistador de acordo com o andamento da entrevista."
+    },
+    {
+     "key": "B",
+     "text": "determina o tipo de pergunta e a listagem de assuntos a questionar, mas deixa livre a resposta por parte do candidato.",
+     "explanation": "Descreve uma entrevista padronizada quanto às perguntas/assuntos, com resposta aberta."
+    },
+    {
+     "key": "C",
+     "text": "padroniza previamente as questões a serem formuladas, de acordo com o andamento da entrevista, mas permite respostas abertas por parte dos candidatos.",
+     "explanation": "Descreve a entrevista padronizada apenas quanto às perguntas."
+    },
+    {
+     "key": "D",
+     "text": "padroniza previamente as questões e obedece a um roteiro preestabelecido a fim de obter respostas definidas e fechadas.",
+     "explanation": "Descreve a entrevista totalmente padronizada."
+    },
+    {
+     "key": "E",
+     "text": "obedece a um roteiro de assuntos preestabelecidos, mas não especifica as questões a serem formuladas pelo entrevistador e permite respostas abertas por parte dos candidatos.",
+     "explanation": "Aproxima-se da entrevista não diretiva/semiestruturada, que não define o tipo de resposta."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Chiavenato classifica as entrevistas pelo formato das perguntas e respostas: totalmente padronizada, padronizada apenas quanto às perguntas, diretiva (determina o tipo de resposta desejada e deixa a formulação das perguntas ao entrevistador) e não diretiva (livre).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q28",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 28,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "De acordo com Spector (2002), as duas vantagens do Método de Treinamento no Trabalho são:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "alto nível de <em>feedback</em> e prática de novas habilidades.",
+     "explanation": "A prática de habilidades ocorre também em outros métodos (simulação); não é a dupla de vantagens destacada."
+    },
+    {
+     "key": "B",
+     "text": "alto nível de transferência e prática de novas habilidades.",
+     "explanation": "Combina a transferência com um traço comum a outros métodos; falta a exposição ao trabalho real."
+    },
+    {
+     "key": "C",
+     "text": "<em>feedback</em> imediato e nível de transferência.",
+     "explanation": "Feedback imediato não é vantagem específica do treinamento no trabalho."
+    },
+    {
+     "key": "D",
+     "text": "exposição ao trabalho atual e <em>feedback</em> imediato.",
+     "explanation": "Feedback imediato não é a vantagem apontada para o método."
+    },
+    {
+     "key": "E",
+     "text": "exposição ao trabalho atual e nível de transferência."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "No treinamento no trabalho (on-the-job), o treinando aprende na situação real de trabalho: fica exposto ao trabalho atual e, como aprende no próprio contexto, a transferência do aprendizado para o cargo é alta. A desvantagem costuma ser a interferência na produção e a dependência da qualidade do instrutor.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q29",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 29,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "De acordo com Robbins (2002), entende-se por socialização o:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "processo que adapta os funcionários à cultura organizacional."
+    },
+    {
+     "key": "B",
+     "text": "processo que ensina o trabalho ao novo funcionário de modo planejado e estruturado.",
+     "explanation": "Descreve treinamento para a tarefa, não socialização na cultura."
+    },
+    {
+     "key": "C",
+     "text": "treinamento que ensina aos funcionários os padrões de desempenho desejados pela organização.",
+     "explanation": "Descreve treinamento/avaliação de desempenho."
+    },
+    {
+     "key": "D",
+     "text": "período de aprendizagem que antecede a entrada do novo funcionário na organização.",
+     "explanation": "É apenas o estágio pré-chegada; a socialização inclui também o encontro e a metamorfose."
+    },
+    {
+     "key": "E",
+     "text": "período de aprendizagem inicial do funcionário diretamente em seu local de trabalho.",
+     "explanation": "Confunde socialização com treinamento no trabalho."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Para Robbins, socialização é o processo que adapta os funcionários à cultura da organização, em três estágios: pré-chegada, encontro e metamorfose. Ela transmite valores, normas e comportamentos esperados, e não apenas a tarefa.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q30",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 30,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Para Muchinsky (2004), o estado atual da pesquisa sobre testes indica que, na maioria dos casos, a estratégia que oferece ao psicólogo uma precisão preditiva maior em prever sucesso de treinamento e desempenho no cargo é:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "medir a inteligência geral."
+    },
+    {
+     "key": "B",
+     "text": "medir as habilidades específicas.",
+     "explanation": "Meta-análises mostram que habilidades específicas acrescentam pouco à validade preditiva da inteligência geral."
+    },
+    {
+     "key": "C",
+     "text": "medir a inteligência emocional.",
+     "explanation": "A inteligência emocional tem validade preditiva menor e controversa."
+    },
+    {
+     "key": "D",
+     "text": "avaliar os traços de personalidade.",
+     "explanation": "Traços de personalidade (como conscienciosidade) têm validade menor que a da inteligência geral."
+    },
+    {
+     "key": "E",
+     "text": "avaliar os interesses específicos.",
+     "explanation": "Inventários de interesse predizem satisfação e escolha profissional, não desempenho."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "As meta-análises (Schmidt e Hunter) mostram que testes de capacidade mental geral (fator g) são os melhores preditores isolados de sucesso no treinamento e de desempenho no cargo, para a maioria das ocupações. Muchinsky resume esse achado.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q31",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 31,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "Segundo Bergamini in Bergamini & Coda (1997), para alguns dirigentes é muito mais fácil trabalhar com condicionamento do que com motivação, porque trabalhar com esta exige muitos atributos, entre os quais:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "possuir grande sensibilidade interpessoal."
+    },
+    {
+     "key": "B",
+     "text": "saber definir as necessidades a serem satisfeitas.",
+     "explanation": "Para Bergamini, as necessidades são internas a cada pessoa; o dirigente não as define, apenas pode conhecê-las e respeitá-las."
+    },
+    {
+     "key": "C",
+     "text": "distribuir tarefas com clareza.",
+     "explanation": "Clareza na distribuição de tarefas é atributo de organização do trabalho, compatível com o condicionamento."
+    },
+    {
+     "key": "D",
+     "text": "adotar critérios justos de remuneração.",
+     "explanation": "Remuneração é fator extrínseco, típico do condicionamento (recompensa), não da motivação intrínseca."
+    },
+    {
+     "key": "E",
+     "text": "desconhecer os erros cometidos.",
+     "explanation": "Ignorar erros não é atributo para lidar com motivação."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Bergamini distingue condicionamento (controle externo do comportamento por recompensas e punições) de motivação, que é intrínseca e nasce das necessidades de cada pessoa. Trabalhar com motivação exige conhecer as pessoas, o que requer grande sensibilidade interpessoal; por isso muitos dirigentes preferem o condicionamento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q33",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 33,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.2 Comunicação",
+   "stem": "Segundo Robbins (2002), a maioria das pessoas acredita que sabem ouvir porque confundem audição com escuta. Entre os comportamentos que esse autor considera uma habilidade da escuta ativa está o de:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "usar metáforas.",
+     "explanation": "Metáforas são recurso de quem fala, não comportamento de escuta ativa."
+    },
+    {
+     "key": "B",
+     "text": "desconhecer boatos e fofocas.",
+     "explanation": "Não tem relação com as habilidades de escuta ativa."
+    },
+    {
+     "key": "C",
+     "text": "aproveitar os recursos tecnológicos disponíveis.",
+     "explanation": "Recursos tecnológicos são canais, não habilidade de escuta."
+    },
+    {
+     "key": "D",
+     "text": "utilizar paráfrases."
+    },
+    {
+     "key": "E",
+     "text": "empregar o máximo de gestos e de ações.",
+     "explanation": "Robbins recomenda evitar ações e gestos que distraiam; deve-se usar apenas sinais de atenção, como contato visual e acenos."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Robbins lista comportamentos de escuta ativa: manter contato visual, acenar com a cabeça e usar expressões faciais adequadas, evitar gestos que distraiam, fazer perguntas, parafrasear, não interromper e não falar demais. Parafrasear (repetir com as próprias palavras o que foi dito) verifica a compreensão.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q34",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 34,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "A insegurança no trabalho tem sido apontada pelos estudiosos como sendo uma das emoções mais presentes e negativas no campo organizacional. Para Gondim & Siqueira in Zanelli et allii (2004), as pesquisas têm demonstrado que uma das formas de se lidar mais eficazmente com estes sentimentos negativos é a de proporcionar às pessoas condições de:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "melhorar o seu relacionamento com os seus superiores.",
+     "explanation": "Melhorar a relação com a chefia pode ajudar, mas não ataca a fonte da insegurança, que é a percepção de falta de controle."
+    },
+    {
+     "key": "B",
+     "text": "resolver com eficácia os conflitos interpessoais que as envolvem.",
+     "explanation": "Conflitos interpessoais são outra fonte de emoções negativas; não é a estratégia apontada para a insegurança."
+    },
+    {
+     "key": "C",
+     "text": "discriminar com objetividade as injustiças que vivenciam.",
+     "explanation": "Identificar injustiças pode até intensificar emoções negativas; não é a forma de manejo apontada."
+    },
+    {
+     "key": "D",
+     "text": "exercer um maior controle sobre os acontecimentos do campo."
+    },
+    {
+     "key": "E",
+     "text": "definir o que é significativo para os objetivos da organização.",
+     "explanation": "Refere-se a alinhamento estratégico, não ao manejo da insegurança."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A insegurança decorre da percepção de ameaça e de imprevisibilidade. As pesquisas sobre emoções e estresse no trabalho indicam que aumentar o controle percebido sobre os acontecimentos (participação, informação, autonomia) é uma das formas mais eficazes de reduzir esses sentimentos negativos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q35",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 35,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.9 Diversidade e políticas afirmativas nas organizações",
+   "stem": "Segundo Torres & Peres-Neha in Zanelli (2004), a estratégia mais recente adotada por algumas organizações para lidar com o desafio da diversidade cultural é a que tem como pressuposto a integração, sendo conhecida como perspectiva de:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "multiculturalismo e eficácia.",
+     "explanation": "Não é uma das três perspectivas de gestão da diversidade descritas (Thomas e Ely)."
+    },
+    {
+     "key": "B",
+     "text": "acesso e legitimidade.",
+     "explanation": "Perspectiva intermediária: aceita a diversidade para acessar mercados diversos, sem integrá-la ao trabalho."
+    },
+    {
+     "key": "C",
+     "text": "diversidade e produtividade.",
+     "explanation": "Não é uma das três perspectivas descritas."
+    },
+    {
+     "key": "D",
+     "text": "discriminação e justiça.",
+     "explanation": "Perspectiva mais antiga: foca igualdade de oportunidades e assimilação, sem valorizar as diferenças."
+    },
+    {
+     "key": "E",
+     "text": "aprendizagem e efetividade."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Com base em Thomas e Ely, são descritas três perspectivas de gestão da diversidade: discriminação e justiça (assimilação, igualdade de tratamento), acesso e legitimidade (diferenciação, para alcançar mercados diversos) e aprendizagem e efetividade, a mais recente, que integra as diferenças aos processos de trabalho e à aprendizagem organizacional.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q36",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 36,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "Segundo Robbins (2002), o emprego da estratégia do “grupo de trabalho” em vez de “equipe de trabalho” seria muito mais adequado em situações nas quais o principal objetivo é:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "solucionar problemas.",
+     "explanation": "Resolver problemas complexos exige interação e esforço coordenado, mais próprios das equipes."
+    },
+    {
+     "key": "B",
+     "text": "compartilhar informações."
+    },
+    {
+     "key": "C",
+     "text": "aumentar os resultados.",
+     "explanation": "Aumentar o desempenho além da soma individual é o que se espera das equipes."
+    },
+    {
+     "key": "D",
+     "text": "gerar sinergia.",
+     "explanation": "Sinergia positiva é a característica que distingue a equipe; o grupo tem sinergia neutra ou negativa."
+    },
+    {
+     "key": "E",
+     "text": "produzir coletivamente.",
+     "explanation": "Produção coletiva, com responsabilidade mútua, é característica de equipe."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Para Robbins, no grupo de trabalho os membros interagem basicamente para compartilhar informações e tomar decisões que ajudem cada um a desempenhar sua área; não há sinergia positiva nem responsabilidade coletiva. A equipe gera sinergia, com esforço coordenado e desempenho superior à soma das contribuições.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q37",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 37,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "Segundo Robbins & Finley (1997), muitos são os esforços necessários à obtenção de um nível de eficácia no trabalho em equipe. Entre estes, tais autores assinalam o empenho em:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "desenvolver uma dinâmica de interação agradável de forma a permitir que cada um haja conforme os seus interesses.",
+     "explanation": "Privilegia os interesses individuais e esvazia o compromisso coletivo."
+    },
+    {
+     "key": "B",
+     "text": "fazer com que as pessoas abram mão de seus interesses particulares e somente se preocupem com o interesse da equipe.",
+     "explanation": "Suprimir os interesses individuais gera ressentimento e falha da equipe."
+    },
+    {
+     "key": "C",
+     "text": "manter um equilíbrio constante entre os interesses individuais e os coletivos."
+    },
+    {
+     "key": "D",
+     "text": "propiciar condições para que cada membro possa vir a satisfazer as suas respectivas necessidades, fora da equipe.",
+     "explanation": "Deslocar a satisfação das necessidades para fora da equipe não a torna eficaz."
+    },
+    {
+     "key": "E",
+     "text": "criar um nível de interdependência entre as tarefas que impeça que cada membro pense nos seus respectivos interesses individuais.",
+     "explanation": "Interdependência não deve anular os interesses individuais, mas conciliá-los."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Robbins & Finley sustentam que as equipes falham quando ignoram as necessidades individuais ou quando estas se sobrepõem às coletivas. A eficácia exige um equilíbrio permanente entre os interesses de cada membro e os da equipe.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q38",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 38,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "Segundo Robbins & Finley (1997), muitas das dificuldades enfrentadas para se trabalhar em equipe se devem ao desconhecimento da complexidade que envolve este tema. Entre os exageros que circulam, e que esses autores consideram prejudiciais à adoção de um trabalho sério de desenvolvimento de equipes, eles apontam o mito de que as pessoas:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "atrapalham o trabalho em equipe quando são ingênuas.",
+     "explanation": "Não é um dos mitos apontados pelos autores."
+    },
+    {
+     "key": "B",
+     "text": "preferem as equipes porque podem se esconder.",
+     "explanation": "Descreve um risco das equipes (carona social), não o mito do entusiasmo exagerado."
+    },
+    {
+     "key": "C",
+     "text": "querem se exibir, por isso gostam das equipes.",
+     "explanation": "Não é um dos mitos discutidos."
+    },
+    {
+     "key": "D",
+     "text": "trabalham melhor em equipe do que individualmente."
+    },
+    {
+     "key": "E",
+     "text": "necessitam se comunicar, por isto escolhem a equipe.",
+     "explanation": "Não é um dos mitos discutidos."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Robbins & Finley criticam o 'exagero' em torno das equipes: o mito de que as pessoas sempre trabalham melhor em equipe do que sozinhas. Equipes não são intrinsecamente superiores ao trabalho individual; só funcionam quando bem desenhadas e quando a tarefa as justifica.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q39",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 39,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.10 Qualidade de Vida e Bem-Estar no Trabalho",
+   "stem": "Segundo Davis & Newstrom (1992), as atividades implantadas no âmbito das organizações, visando a desenvolver as habilidades dos funcionários, o relacionamento chefe/colaborador e a redução do estresse, denominam-se programas de:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "saúde no trabalho.",
+     "explanation": "Programas de saúde focam prevenção de doenças e hábitos saudáveis, não desenvolvimento de habilidades ou relação com a chefia."
+    },
+    {
+     "key": "B",
+     "text": "segurança no trabalho.",
+     "explanation": "Segurança trata da prevenção de acidentes."
+    },
+    {
+     "key": "C",
+     "text": "qualidade de vida no trabalho."
+    },
+    {
+     "key": "D",
+     "text": "enriquecimento no trabalho.",
+     "explanation": "Enriquecimento do cargo é uma técnica específica de redesenho de tarefas, uma das ações possíveis de QVT."
+    },
+    {
+     "key": "E",
+     "text": "cidadania no trabalho.",
+     "explanation": "Cidadania organizacional refere-se a comportamentos voluntários dos empregados."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Davis & Newstrom chamam de qualidade de vida no trabalho (QVT) o conjunto de programas que buscam tornar o ambiente de trabalho mais favorável às pessoas: desenvolvimento de habilidades, melhoria das relações com a chefia, redução do estresse, enriquecimento de cargos, participação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q40",
+   "source": {
+    "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 40,
+    "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "Segundo Spector (2002), o “controle percebido” tem sido considerado um importante componente do trabalho nos estudos sobre estresse, pois indica a capacidade do trabalhador de:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "regular a demanda de sobrecarga.",
+     "explanation": "Carga de trabalho é outro estressor; o controle não se resume a regular a sobrecarga."
+    },
+    {
+     "key": "B",
+     "text": "tomar decisões sobre tudo o que deve fazer."
+    },
+    {
+     "key": "C",
+     "text": "evitar desgastes emocionais.",
+     "explanation": "Evitar desgaste é efeito possível, não a definição de controle."
+    },
+    {
+     "key": "D",
+     "text": "comprometer-se com as suas tarefas.",
+     "explanation": "Descreve envolvimento/comprometimento, não controle."
+    },
+    {
+     "key": "E",
+     "text": "encontrar um sentido para o seu trabalho.",
+     "explanation": "Descreve significado do trabalho."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Para Spector, controle percebido é o grau em que o trabalhador sente que pode tomar decisões sobre seu próprio trabalho (o que, como e quando fazer). No modelo demanda-controle (Karasek), alto controle amortece os efeitos das altas demandas sobre a saúde.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q32",
+   "motivo": "Derivação independente incerta entre B e C: Robbins (2002) afirma que o poder requer apenas dependência e que a liderança requer compatibilidade de objetivos entre líder e liderados. As duas alternativas reproduzem partes dessa distinção; o gabarito é C.",
+   "gabaritoOficial": "C",
+   "derivada": "B ou C (incerta)",
+   "questao": {
+    "id": "al-to-2005-consultor-legislativo-psicologia-q32",
+    "source": {
+     "file": "al-to-2005-consultor-legislativo-psicologia/prova.pdf",
+     "year": 2005,
+     "originalNumber": 32,
+     "exam": "AL-TO 2005 – Consultor Legislativo, Área de Psicologia",
+     "org": "Cesgranrio"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1.1 Liderança",
+    "stem": "Segundo Robbins (2002), não obstante os conceitos sejam inter-relacionados, uma diferença significativa entre liderança e poder seria a de que o exercício do(a):",
+    "images": null,
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "poder é uma forma de tornar as coisas mais difíceis para o outro."
+     },
+     {
+      "key": "B",
+      "text": "poder implica maior dependência do outro."
+     },
+     {
+      "key": "C",
+      "text": "liderança é um meio de atingir os objetivos do grupo."
+     },
+     {
+      "key": "D",
+      "text": "liderança implica habilidades específicas ou conhecimentos."
+     },
+     {
+      "key": "E",
+      "text": "liderança decorre de sua posição na hierarquia formal."
+     }
+    ],
+    "correctKey": "C"
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q11",
+   "tema": "Conhecimentos Gerais: estatuto do servidor, história e geografia do Tocantins"
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q12",
+   "tema": "Conhecimentos Gerais: estatuto do servidor, história e geografia do Tocantins"
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q13",
+   "tema": "Conhecimentos Gerais: estatuto do servidor, história e geografia do Tocantins"
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q14",
+   "tema": "Conhecimentos Gerais: estatuto do servidor, história e geografia do Tocantins"
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q15",
+   "tema": "Conhecimentos Gerais: estatuto do servidor, história e geografia do Tocantins"
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q16",
+   "tema": "Conhecimentos Gerais: estatuto do servidor, história e geografia do Tocantins"
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q17",
+   "tema": "Conhecimentos Gerais: estatuto do servidor, história e geografia do Tocantins"
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q18",
+   "tema": "Conhecimentos Gerais: estatuto do servidor, história e geografia do Tocantins"
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q19",
+   "tema": "Conhecimentos Gerais: estatuto do servidor, história e geografia do Tocantins"
+  },
+  {
+   "id": "al-to-2005-consultor-legislativo-psicologia-q20",
+   "tema": "Conhecimentos Gerais: estatuto do servidor, história e geografia do Tocantins"
+  }
+ ],
+ "log": "Gabarito: página única, coluna Psicologia (6a), lida na renderização qlmanage; Português IV no alto. Sem recursos localizados. Prova de forte aderência (Pontes, Chiavenato, Robbins, Davis, Spector, Muchinsky). Página 7 conferida na imagem; demais pelo texto extraído com espaços restaurados."
+}

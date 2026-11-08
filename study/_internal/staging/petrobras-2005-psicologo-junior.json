@@ -1,0 +1,3480 @@
+{
+ "concurso": "petrobras-2005-psicologo-junior",
+ "questions": [
+  {
+   "id": "petrobras-2005-psicologo-junior-q21",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 21,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2 Gestão estratégica de pessoas",
+   "stem": "A ampliação do modelo de atuação do psicólogo e sua crescente inserção nas mais variadas organizações/instituições trazem novas exigências. Nessa perspectiva, independente do domínio específico de atuação, o psicólogo deve ser capaz de:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "privilegiar as variáveis afetivas e motivacionais, em detrimento das técnicas cognitivas e comportamentais.",
+     "explanation": "Privilegiar o afetivo em detrimento do cognitivo é reducionismo."
+    },
+    {
+     "key": "B",
+     "text": "privilegiar as variáveis individuais e do trabalho quando comparadas aos fenômenos grupais e organizacionais.",
+     "explanation": "A tendência é integrar os níveis individual, grupal e organizacional."
+    },
+    {
+     "key": "C",
+     "text": "considerar os produtos da vida laboral e seus impactos em relação à família.",
+     "explanation": "É um aspecto, não a exigência geral."
+    },
+    {
+     "key": "D",
+     "text": "enfatizar os processos de supervisão e gestão de pessoas em relação aos decisórios e estratégicos.",
+     "explanation": "Não se trata de enfatizar supervisão em detrimento da estratégia."
+    },
+    {
+     "key": "E",
+     "text": "analisar e compreender os processos organizacionais imbricados no contexto em que atua, mesmo que não sejam o alvo de sua atuação técnica."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Com a ampliação dos espaços de atuação, espera-se que o psicólogo compreenda os processos organizacionais do contexto em que atua, mesmo quando não são o alvo direto de sua intervenção.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q22",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 22,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "Numa abordagem biopsicossocial o stress relacionado ao trabalho também deve ser observado como um (a):",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "estado do organismo, após o esforço de adaptação, que pode produzir deformações na capacidade de resposta, atingindo o comportamento mental, afetivo e o relacionamento pessoal.",
+     "explanation": "Descreve efeitos do estresse, não a definição relacional."
+    },
+    {
+     "key": "B",
+     "text": "conjunto de reações que ocorrem em um organismo, quando está submetido a um esforço de adaptação.",
+     "explanation": "É a definição biológica (Selye) da reação de adaptação."
+    },
+    {
+     "key": "C",
+     "text": "processo, uma tensão diante de uma situação de desafio, seja por ameaça ou por uma conquista.",
+     "explanation": "Definição genérica de tensão, sem a avaliação cognitiva."
+    },
+    {
+     "key": "D",
+     "text": "relação particular entre uma pessoa, seu ambiente e as circunstâncias às quais está submetida, que é avaliada como uma ameaça ou algo que exige dela mais que seus próprios recursos e põe em perigo o seu bem-estar."
+    },
+    {
+     "key": "E",
+     "text": "conjunção de modificações não-específicas que ocorrem no organismo, quando está submetido a um esforço de adaptação.",
+     "explanation": "É a definição de Selye (modificações inespecíficas)."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Na abordagem biopsicossocial e transacional (Lazarus e Folkman), o estresse é uma relação particular entre pessoa e ambiente, avaliada como ameaça ou como exigência acima dos próprios recursos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q24",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 24,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "Segundo alguns autores, as somatizações são sempre o resultado conjunto das dimensões biopsicossociais relacionadas ao stress e ao trabalho. Na síndrome do pânico, por exemplo, verifica-se um (a):",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "combinação de sintomas, em que prevalece a falta de ânimo, a descrença pela vida e uma profunda sensação de abandono e solidão.",
+     "explanation": "Descreve sintomas depressivos."
+    },
+    {
+     "key": "B",
+     "text": "desgaste de energia física ou mental, que pode ser recuperada através de repouso, alimentação ou orientação clínica específica.",
+     "explanation": "Descreve fadiga recuperável."
+    },
+    {
+     "key": "C",
+     "text": "estado de medo intenso, repentino, acompanhado de imobilidade, sudorese e comportamento arredio."
+    },
+    {
+     "key": "D",
+     "text": "estado de exaustão total, decorrente de esforço excessivo e contínuo.",
+     "explanation": "Descreve exaustão (burnout)."
+    },
+    {
+     "key": "E",
+     "text": "manifestação de sensações e distúrbios físicos, com forte carga emocional e afetiva.",
+     "explanation": "Descreve somatização genérica."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O ataque de pânico é um estado de medo intenso e repentino, com sintomas autonômicos (sudorese) e tendência à fuga ou à paralisação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q25",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 25,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "No levantamento de necessidades de treinamento, um problema de desempenho pode ser tratado por uma ação de treinamento, quando se observa:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "despreparo da pessoa para a função ou para uma de suas etapas."
+    },
+    {
+     "key": "B",
+     "text": "ausência de especificações para orientar o trabalho, dificultando a execução das tarefas e afetando a qualidade.",
+     "explanation": "Falta de especificações é problema de gestão ou processo."
+    },
+    {
+     "key": "C",
+     "text": "falta de condições para a execução do trabalho, tais como equipamento deficiente e local inadequado.",
+     "explanation": "Falta de condições materiais exige investimento, não treinamento."
+    },
+    {
+     "key": "D",
+     "text": "desmotivação, por receios de sobrecarga devido à adição de mais tarefas que exigem esforço maior.",
+     "explanation": "Desmotivação por sobrecarga é problema de organização do trabalho."
+    },
+    {
+     "key": "E",
+     "text": "instabilidade da pessoa na função, devido à pressão dos colegas e/ou a restrições impostas pelas chefias.",
+     "explanation": "Pressões dos colegas e restrições da chefia são problemas de clima e gestão."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Só se resolve por treinamento o problema de desempenho causado por falta de preparo (conhecimento ou habilidade). Falta de especificações, de condições ou de motivação pede outras ações.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q27",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 27,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "A avaliação do treinamento nas empresas implica a identificação das categorias de benefícios organizacionais obtidos e a determinação dos indicadores associados a esses tipos de benefícios . Assinale a opção que apresenta indicadores relacionados à melhora de qualidade.",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Volume de envolvimento do funcionário na tomada de decisões e número de soluções inovadoras ou produtos desenvolvidos."
+    },
+    {
+     "key": "B",
+     "text": "Freqüência de comunicação dentro da empresa e tempo parado de equipamentos.",
+     "explanation": "Tempo parado de equipamentos é indicador de produtividade."
+    },
+    {
+     "key": "C",
+     "text": "Quantidade de tempo de adaptação de novos funcionários e quantidade de horas extras.",
+     "explanation": "Tempo de adaptação e horas extras são indicadores de produtividade ou custo."
+    },
+    {
+     "key": "D",
+     "text": "Número de acidentes e número de violação de regras ou procedimentos.",
+     "explanation": "Acidentes e violação de regras são indicadores de segurança."
+    },
+    {
+     "key": "E",
+     "text": "Número de processos concluídos e quantidade de trabalho em carteira.",
+     "explanation": "Processos concluídos e trabalho em carteira são indicadores de produtividade."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Entre os indicadores de benefícios do treinamento, os de melhoria de qualidade incluem soluções inovadoras e produtos desenvolvidos e a participação nas decisões. Tempo parado, horas extras, processos concluídos e trabalho em carteira medem produtividade; acidentes e violação de regras medem segurança.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q28",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 28,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.10 Qualidade de Vida e Bem-Estar no Trabalho",
+   "stem": "O modelo teórico sobre Qualidade de Vida no Trabalho (QVT) proposto por Walton é o mais utilizado pelos pesquisadores brasileiros porque as categorias conceituais:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "cobrem desde as necessidades básicas do ser humano até condições da organização, passando pelas necessidades secundárias, com realce para a auto-realização."
+    },
+    {
+     "key": "B",
+     "text": "enfatizam os fatores macroestruturais relativos à cultura, os fatores organizacionais referentes à estrutura da empresa e os microestruturais que envolvem as necessidades do trabalhador.",
+     "explanation": "Fatores macro, organizacionais e micro lembram outros modelos (Westley)."
+    },
+    {
+     "key": "C",
+     "text": "relacionam a organização do trabalho com a qualidade de vida, apresentando uma avaliação crítica das relações de produção, advindas do modelo capitalista.",
+     "explanation": "Crítica às relações capitalistas não é o enfoque de Walton."
+    },
+    {
+     "key": "D",
+     "text": "destacam a preocupação com o bem-estar do trabalhador, a eficácia organizacional e a participação do trabalhador em decisões e problemas do trabalho.",
+     "explanation": "Bem-estar, eficácia e participação definem QVT segundo Nadler e Lawler."
+    },
+    {
+     "key": "E",
+     "text": "enfatizam a preocupação com o impacto do trabalho sobre as pessoas, com a eficácia organizacional e com a idéia de participação na resolução de problemas.",
+     "explanation": "É a definição de QVT de Nadler e Lawler."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O modelo de Walton é muito usado no Brasil porque suas oito categorias abrangem desde necessidades básicas (compensação, condições) até condições organizacionais (constitucionalismo, relevância social), passando pelo desenvolvimento e pela autorrealização.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q29",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 29,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "O processo de aquisição de conhecimento, distribuição de informações, interpretação de informações e memória organizacional, usados para adaptação, com sucesso, às circunstâncias de mudanças, denomina-se aprendizagem:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "contínua.",
+     "explanation": "Aprendizagem contínua é princípio, não esse processo."
+    },
+    {
+     "key": "B",
+     "text": "vitalícia.",
+     "explanation": "Vitalícia refere-se ao indivíduo ao longo da vida."
+    },
+    {
+     "key": "C",
+     "text": "conceitual.",
+     "explanation": "Conceitual não é categoria."
+    },
+    {
+     "key": "D",
+     "text": "técnica.",
+     "explanation": "Técnica não é categoria."
+    },
+    {
+     "key": "E",
+     "text": "organizacional."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Aprendizagem organizacional: aquisição de conhecimento, distribuição e interpretação de informações e memória organizacional, para adaptação às mudanças.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q30",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 30,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "As empresas utilizam várias técnicas para o desenvolvimento de habilidades pessoais no cargo atual. A modalidade na qual equipes de funcionários ou dirigentes competem entre si, tomando decisões computadorizadas à respeito de situações reais ou simuladas de empresas, denomina-se:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aprendizagem prática.",
+     "explanation": "Aprendizagem prática é aprender fazendo no próprio cargo."
+    },
+    {
+     "key": "B",
+     "text": "jogos de empresas."
+    },
+    {
+     "key": "C",
+     "text": "tutoria (coaching).",
+     "explanation": "Tutoria (coaching) é orientação individual pelo superior."
+    },
+    {
+     "key": "D",
+     "text": "aconselhamento de funcionários.",
+     "explanation": "Aconselhamento trata de problemas de desempenho ou pessoais."
+    },
+    {
+     "key": "E",
+     "text": "atribuição de comissões.",
+     "explanation": "Atribuição de comissões é designar para comitês."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Nos jogos de empresas, equipes competem tomando decisões, muitas vezes computadorizadas, sobre situações empresariais reais ou simuladas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q31",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 31,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "Quando uma equipe apresenta um problema de papéis não resolvidos porque os membros não sabem ao certo qual é o seu trabalho, a estratégia a ser adotada é:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "informar aos membros da equipe o que se espera deles."
+    },
+    {
+     "key": "B",
+     "text": "informar a equipe a razão pela qual ela existe.",
+     "explanation": "Informar por que a equipe existe resolve problema de propósito."
+    },
+    {
+     "key": "C",
+     "text": "tomar conhecimento das expectativas dos membros e valorizar o uso das diferenças.",
+     "explanation": "Lidar com expectativas e diferenças resolve problemas de relacionamento."
+    },
+    {
+     "key": "D",
+     "text": "criar um sistema de informações úteis para todos os membros da equipe.",
+     "explanation": "Sistema de informações resolve problema de comunicação."
+    },
+    {
+     "key": "E",
+     "text": "transferir a liderança para outro membro da equipe.",
+     "explanation": "Trocar a liderança não esclarece papéis."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Quando os membros não sabem qual é seu trabalho, o problema é de papéis: é preciso explicitar o que se espera de cada um.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q32",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 32,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "O trabalho eficaz em equipe significa que os seus membros são capazes de:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "saber manter um equilíbrio constante entre as necessidades da equipe e as necessidades individuais."
+    },
+    {
+     "key": "B",
+     "text": "reconhecer quais são as metas pessoais para satisfazê-las.",
+     "explanation": "Focar só metas pessoais prejudica a equipe."
+    },
+    {
+     "key": "C",
+     "text": "satisfazer as necessidades pessoais de afiliação ao estar envolvido com um grupo.",
+     "explanation": "Afiliação é efeito, não o que define eficácia."
+    },
+    {
+     "key": "D",
+     "text": "definir metas estratégicas e de longo alcance a serem atingidas.",
+     "explanation": "Metas estratégicas são da direção."
+    },
+    {
+     "key": "E",
+     "text": "criar um sentimento de liderança, definindo a lista de metas e objetivos a serem alcançados.",
+     "explanation": "Liderança não se cria definindo listas de metas."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "A equipe eficaz equilibra as necessidades da equipe e as individuais.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q33",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 33,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "O processo de tomada de decisões onde todos os membros da equipe têm a chance de expressar suas opiniões e, ao final, todos deverão estar de acordo e se comprometer com o resultado, denomina-se :",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "mediação.",
+     "explanation": "Mediação é intervenção de um terceiro em conflito."
+    },
+    {
+     "key": "B",
+     "text": "maioria.",
+     "explanation": "Maioria é decisão por votação, sem adesão de todos."
+    },
+    {
+     "key": "C",
+     "text": "consenso."
+    },
+    {
+     "key": "D",
+     "text": "tomada de decisões participativa.",
+     "explanation": "Participativa ouve, mas a decisão pode ser do líder."
+    },
+    {
+     "key": "E",
+     "text": "domínio da autoridade com discussão.",
+     "explanation": "Autoridade com discussão é decisão do líder após ouvir."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Consenso: todos se expressam e, ao final, todos concordam e se comprometem com a decisão.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q34",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 34,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "A doença psicossomática que implica a formação de algum tipo de lesão orgânica possível de ocorrer em praticamente todos os órgãos denomina-se:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "psicose.",
+     "explanation": "Psicose é perda de contato com a realidade."
+    },
+    {
+     "key": "B",
+     "text": "conversão.",
+     "explanation": "A conversão é funcional, sem lesão orgânica."
+    },
+    {
+     "key": "C",
+     "text": "hipocondria.",
+     "explanation": "Hipocondria é preocupação com ter doença."
+    },
+    {
+     "key": "D",
+     "text": "transtorno de conduta.",
+     "explanation": "Transtorno de conduta é padrão antissocial na infância e adolescência."
+    },
+    {
+     "key": "E",
+     "text": "somatização."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Na literatura psicossomática, a somatização (doença psicossomática) envolve lesão orgânica real e pode atingir praticamente qualquer órgão; a conversão não produz lesão.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Terminologia antiga: no DSM-IV/CID-10, “transtorno de somatização” designa queixas múltiplas sem lesão; aqui a banca usa “somatização” no sentido psicossomático de lesão orgânica."
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q36",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 36,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "O grupo no qual a atividade do coordenador deve ficar centralizada unicamente na tarefa proposta, cabendo somente eventuais intervenções de ordem interpretativa quando os fatores inconscientes inter-relacionais ameaçarem a integração ou a evolução, com êxito, do grupo, denomina-se:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "operativo."
+    },
+    {
+     "key": "B",
+     "text": "terapêutico.",
+     "explanation": "Grupos terapêuticos visam o tratamento."
+    },
+    {
+     "key": "C",
+     "text": "psicoterápico de base analítica.",
+     "explanation": "Grupos analíticos interpretam sistematicamente o inconsciente."
+    },
+    {
+     "key": "D",
+     "text": "psicoterápico cognitivo-comportamental.",
+     "explanation": "O cognitivo-comportamental não usa interpretação do inconsciente."
+    },
+    {
+     "key": "E",
+     "text": "psicoterápico de abordagem múltipla.",
+     "explanation": "Abordagem múltipla não é o modelo descrito."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Grupo operativo (Pichon-Rivière): o coordenador centra-se na tarefa e só interpreta quando fatores inconscientes ameaçam a tarefa e a integração do grupo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q37",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 37,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.4 Análise e desenvolvimento organizacional",
+   "stem": "O conceito de responsabilidade social organizacional sugere que todos os seus membros devem :",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "empenhar-se para a melhoria da qualidade de vida no trabalho.",
+     "explanation": "QVT é um aspecto, não o conceito."
+    },
+    {
+     "key": "B",
+     "text": "ter compromisso com as necessidades individuais das pessoas que nela trabalham.",
+     "explanation": "Necessidades individuais são parte, não o conceito."
+    },
+    {
+     "key": "C",
+     "text": "ter compromisso com a preservação do meio ambiente físico onde está inserida.",
+     "explanation": "Meio ambiente é parte, não o conceito."
+    },
+    {
+     "key": "D",
+     "text": "preocupar-se em garantir a qualidade do produto oferecido ao cliente.",
+     "explanation": "Qualidade do produto é parte, não o conceito."
+    },
+    {
+     "key": "E",
+     "text": "certificar-se de que seus esquemas éticos se estendem à organização como um todo."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Responsabilidade social organizacional exige que a ética de cada membro se estenda à organização como um todo, com compromisso de todos com práticas responsáveis.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q41",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 41,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Na Seleção de Pessoal, a anotação sistemática e criteriosa de todos os fatos e comportamentos dos ocupantes, de um cargo considerado, que produziram um bom ou mau desempenho no trabalho, denomina-se:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "descrição e análise do cargo.",
+     "explanation": "Descrição e análise listam tarefas e requisitos."
+    },
+    {
+     "key": "B",
+     "text": "descrição hipotética do cargo.",
+     "explanation": "Descrição hipotética é usada para cargos novos."
+    },
+    {
+     "key": "C",
+     "text": "análise da requisição de pessoal.",
+     "explanation": "A requisição é o pedido do gerente."
+    },
+    {
+     "key": "D",
+     "text": "avaliação do cargo no mercado.",
+     "explanation": "Avaliação no mercado é pesquisa salarial."
+    },
+    {
+     "key": "E",
+     "text": "técnica dos incidentes críticos."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Incidentes críticos: registrar fatos e comportamentos que levaram a desempenho muito bom ou muito ruim no cargo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q42",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 42,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Um dos argumentos contrários ao uso do recrutamento interno é que este processo:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "reduz a fidelidade dos funcionários impedidos de participar do processo.",
+     "explanation": "O recrutamento interno tende a aumentar a fidelidade."
+    },
+    {
+     "key": "B",
+     "text": "exige esquemas de socialização diferenciados para adaptação às novas funções.",
+     "explanation": "A socialização é mais simples com internos."
+    },
+    {
+     "key": "C",
+     "text": "requer aplicação de técnicas seletivas apuradas para escolha dos candidatos.",
+     "explanation": "Exige técnicas, mas isso não é argumento contrário específico."
+    },
+    {
+     "key": "D",
+     "text": "implica custos operacionais mais elevados para a organização.",
+     "explanation": "O recrutamento interno é mais barato."
+    },
+    {
+     "key": "E",
+     "text": "mantém e conserva a cultura organizacional existente."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Uma crítica ao recrutamento interno é que ele conserva a cultura existente, sem a renovação trazida de fora.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q43",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 43,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.10 Qualidade de Vida e Bem-Estar no Trabalho",
+   "stem": "Em um Programa de Higiene do Trabalho, na avaliação do ambiente físico de trabalho é fundamental a consideração dos seguintes aspectos:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "iluminação, ventilação, temperatura, ruídos."
+    },
+    {
+     "key": "B",
+     "text": "tipo de atividade, estilo de gerência, ruídos, fontes de stress.",
+     "explanation": "Estilo de gerência e estresse são ambiente psicológico."
+    },
+    {
+     "key": "C",
+     "text": "máquinas e equipamentos adequados às características humanas, temperatura, desenvolvimento de regras para prevenção médica, iluminação.",
+     "explanation": "Regras de prevenção médica não são ambiente físico."
+    },
+    {
+     "key": "D",
+     "text": "mesas e instalações ajustadas ao tamanho das pessoas, ferramentas que reduzam a necessidade de esforço físico, iluminação e estilo de gerência.",
+     "explanation": "Estilo de gerência não é ambiente físico."
+    },
+    {
+     "key": "E",
+     "text": "temperatura, eliminação de fontes de stress, equipamentos adequados às características humanas, tipo de atividade.",
+     "explanation": "Fontes de estresse e tipo de atividade não são ambiente físico."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Na higiene do trabalho, o ambiente físico é avaliado por iluminação, ventilação, temperatura e ruído.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q44",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 44,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.7 Psicopatologia, Ergonomia e Clínicas do Trabalho",
+   "stem": "A relação existente entre constrangimentos impostos pela tarefa, pela interface, pelos instrumentos e pelo ambiente, em conjugação com as atividades desempenhadas e a capacidade de trabalho do operador, determina a(o):",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "performance do sistema.",
+     "explanation": "Performance do sistema é resultado, não a relação descrita."
+    },
+    {
+     "key": "B",
+     "text": "carga psíquica.",
+     "explanation": "Carga psíquica é uma dimensão, não o todo."
+    },
+    {
+     "key": "C",
+     "text": "carga de trabalho."
+    },
+    {
+     "key": "D",
+     "text": "rendimento do trabalho.",
+     "explanation": "Rendimento é produção."
+    },
+    {
+     "key": "E",
+     "text": "custo humano no trabalho.",
+     "explanation": "Custo humano é conceito mais amplo, ligado aos efeitos."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Ergonomia: a carga de trabalho resulta da relação entre as exigências (tarefa, interface, instrumentos, ambiente), a atividade e a capacidade do operador.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q45",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 45,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.1 Transformações no mundo do trabalho e mudanças nas organizações",
+   "stem": "Cada vez mais se investe na organização do trabalho, a fim de que a empresa possa reagir rapidamente às mudanças ambientais, adaptando-se à concorrência. Do ponto de vista da estrutura organizacional, isso significa:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "redistribuir tarefas entre os membros das equipes de trabalho.",
+     "explanation": "Redistribuir tarefas não muda a estrutura."
+    },
+    {
+     "key": "B",
+     "text": "reformular os controles e horários de trabalho.",
+     "explanation": "Controles e horários não são estrutura."
+    },
+    {
+     "key": "C",
+     "text": "diminuir o tempo gasto na tomada de decisões.",
+     "explanation": "É efeito desejado, não a mudança estrutural."
+    },
+    {
+     "key": "D",
+     "text": "promover o aumento da cooperação dos trabalhadores para maximizar os resultados.",
+     "explanation": "Cooperação não é mudança de estrutura."
+    },
+    {
+     "key": "E",
+     "text": "substituir hierarquias rígidas por formas mais flexíveis de organização."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Responder rápido às mudanças exige estruturas flexíveis no lugar de hierarquias rígidas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q47",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 47,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Na seleção de pessoal, os testes que tradicionalmente têm provado ser bons preditores para trabalhos que requerem complexidade cognitiva são os de:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "amostragem de trabalho.",
+     "explanation": "Amostras de trabalho são boas, mas específicas à tarefa."
+    },
+    {
+     "key": "B",
+     "text": "simulação de desempenho.",
+     "explanation": "Simulações avaliam desempenho específico."
+    },
+    {
+     "key": "C",
+     "text": "habilidades espaciais.",
+     "explanation": "Habilidades espaciais são específicas."
+    },
+    {
+     "key": "D",
+     "text": "habilidades perceptivas.",
+     "explanation": "Habilidades perceptivas são específicas."
+    },
+    {
+     "key": "E",
+     "text": "inteligência."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Testes de inteligência (capacidade cognitiva geral) são os melhores preditores para trabalhos cognitivamente complexos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q48",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 48,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "A capacidade de influenciar um grupo em direção ao alcance de seus objetivos, denomina-se:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "empreendedorismo.",
+     "explanation": "Empreendedorismo é criar e gerir negócios."
+    },
+    {
+     "key": "B",
+     "text": "legitimidade.",
+     "explanation": "Legitimidade é base de poder."
+    },
+    {
+     "key": "C",
+     "text": "autoridade natural.",
+     "explanation": "Autoridade natural não é o conceito."
+    },
+    {
+     "key": "D",
+     "text": "legalidade.",
+     "explanation": "Legalidade não é influência."
+    },
+    {
+     "key": "E",
+     "text": "liderança."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Liderança é a capacidade de influenciar um grupo para alcançar objetivos (Robbins).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q49",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 49,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "A análise da interação grupal através de um Sociograma exige o conhecimento de alguns conceitos-chave. Dentre eles, coalizão significa:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "conjuntos específicos de ligações entre um determinado conjunto de indivíduos.",
+     "explanation": "Conjuntos de ligações são redes ou cliques."
+    },
+    {
+     "key": "B",
+     "text": "conglomerados de indivíduos que se unem, temporariamente, para atingir um propósito específico."
+    },
+    {
+     "key": "C",
+     "text": "grupos informais , relativamente permanentes, que envolvem amizade.",
+     "explanation": "Grupos informais permanentes de amizade são panelinhas (cliques)."
+    },
+    {
+     "key": "D",
+     "text": "indivíduos que fazem a conexão entre dois ou mais conglomerados, sem serem membros de qualquer um deles.",
+     "explanation": "Quem conecta sem pertencer é o ponte (bridge)."
+    },
+    {
+     "key": "E",
+     "text": "indivíduos que servem de elemento de ligação ao pertencerem a dois ou mais conglomerados.",
+     "explanation": "Quem pertence a dois conglomerados é o elo de ligação (liaison)."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "No sociograma, coalizão é um agrupamento temporário de indivíduos para um propósito específico.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q52",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 52,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.1 Processo saúde-doença",
+   "stem": "Numa visão contemporânea, o trabalho também implica um significado psicológico, porque:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tem o efeito de conferir um ritmo temporal à vida e à mobilidade social das pessoas.",
+     "explanation": "Ritmo temporal é função, mas não o significado psicológico central."
+    },
+    {
+     "key": "B",
+     "text": "é um processo árduo, por isso mesmo capaz de facilitar o desenvolvimento pessoal do trabalhador.",
+     "explanation": "Ser árduo não confere significado."
+    },
+    {
+     "key": "C",
+     "text": "funciona como um meio de controlar e dirigir as emoções das pessoas.",
+     "explanation": "Não é meio de controlar emoções."
+    },
+    {
+     "key": "D",
+     "text": "constitui-se numa fonte de identidade e integração social."
+    },
+    {
+     "key": "E",
+     "text": "propicia condições de sustentação da vida e de aspiração social.",
+     "explanation": "Sustentação da vida é função econômica."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Psicologicamente, o trabalho é fonte de identidade e de integração social.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q53",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 53,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.1 Transformações no mundo do trabalho e mudanças nas organizações",
+   "stem": "Entre as várias mudanças significativas das práticas profissionais, ocorridas no campo de atuação da Psicologia Organizacional, observa-se a:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "adequação dos modelos psicoterápicos visando à resolução dos conflitos interpessoais no campo.",
+     "explanation": "Adequar modelos psicoterápicos é a prática antiga criticada."
+    },
+    {
+     "key": "B",
+     "text": "incorporação de técnicas de design de cargos voltados para a terceirização.",
+     "explanation": "Não é mudança característica."
+    },
+    {
+     "key": "C",
+     "text": "busca de soluções psicológicas para os problemas organizacionais."
+    },
+    {
+     "key": "D",
+     "text": "intervenções de natureza psicológica visando a superar as limitações humanas provocadas pelos avanços tecnológicos.",
+     "explanation": "Superar limitações humanas diante da tecnologia não é o foco."
+    },
+    {
+     "key": "E",
+     "text": "elaboração de novos modelos de atuação, capazes de eliminar os conflitos entre os interesses organizacionais e individuais.",
+     "explanation": "Eliminar conflitos de interesse é impossível."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Uma mudança da psicologia organizacional é deixar de transpor modelos clínicos e buscar soluções psicológicas para problemas organizacionais.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q55",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 55,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2 Gestão estratégica de pessoas",
+   "stem": "O modelo competitivo de gestão de pessoas, atualmente presente em grandes organizações, se baseia no princípio de que as pessoas são:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "importantes, na medida em que são vistas como fonte positiva de vantagens comparativas."
+    },
+    {
+     "key": "B",
+     "text": "consideradas como o único recurso disponível, capaz de fazer a diferença no mercado.",
+     "explanation": "Não são o único recurso."
+    },
+    {
+     "key": "C",
+     "text": "elementos indispensáveis nas estratégias de mudança da cultura organizacional.",
+     "explanation": "Mudança cultural não é o princípio do modelo."
+    },
+    {
+     "key": "D",
+     "text": "recursos ilimitados para se alcançar as metas estabelecidas.",
+     "explanation": "Não são recursos ilimitados."
+    },
+    {
+     "key": "E",
+     "text": "recursos maleáveis e, por isto mesmo, devem ser orientados para a competência organizacional.",
+     "explanation": "Não se trata de vê-las como maleáveis."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O modelo competitivo vê as pessoas como fonte de vantagem competitiva, por isso importantes.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q57",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 57,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "Com o advento das Universidades Corporativas e da Internet tem crescido a confusão conceitual entre treinamento, desenvolvimento e educação. Esta confusão não se justifica, uma vez que o objetivo do treinamento organizacional é:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "facilitar a aquisição de conhecimentos dos funcionários.",
+     "explanation": "Aquisição de conhecimento é meio, não objetivo."
+    },
+    {
+     "key": "B",
+     "text": "aumentar as capacidades, habilidades e atitudes dos funcionários.",
+     "explanation": "É meio, não objetivo final."
+    },
+    {
+     "key": "C",
+     "text": "melhorar o desempenho dos funcionários nos cargos que ocupam."
+    },
+    {
+     "key": "D",
+     "text": "proporcionar experiências e oportunidades de aprendizagem aos funcionários.",
+     "explanation": "Proporcionar oportunidades é próprio da educação ou do desenvolvimento."
+    },
+    {
+     "key": "E",
+     "text": "capacitar os funcionários para ocuparem novos cargos.",
+     "explanation": "Preparar para novos cargos é desenvolvimento."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O treinamento visa melhorar o desempenho no cargo atual. Desenvolvimento prepara para cargos futuros; educação, para o crescimento amplo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q58",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 58,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.1 Pesquisa e intervenções nas organizações",
+   "stem": "As organizações costumam relutar em alterar suas práticas de gestão de pessoas, com base em pesquisas empíricas. Segundo Argyris, esta resistência pode ser eliminada, gradativamente, na medida em que pesquisadores e/ou profissionais desenvolvam pesquisas que ajudem as organizações na formulação de suas políticas ou diretrizes. Essa estratégia foi denominada de conhecimento:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "produtivo.",
+     "explanation": "Não é termo de Argyris."
+    },
+    {
+     "key": "B",
+     "text": "reciclado.",
+     "explanation": "Não é termo de Argyris."
+    },
+    {
+     "key": "C",
+     "text": "acionável."
+    },
+    {
+     "key": "D",
+     "text": "integrado.",
+     "explanation": "Não é termo de Argyris."
+    },
+    {
+     "key": "E",
+     "text": "operacional.",
+     "explanation": "Não é termo de Argyris."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Argyris propôs o “conhecimento acionável” (actionable knowledge): pesquisa que produz conhecimento útil para a ação e para formular políticas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q59",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 59,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "Um programa de treinamento, muitas vezes conduzido sob a forma de projeto piloto a ser implementado, posteriormente, na organização, pode apresentar distorções nos resultados, devido à manifestação do efeito Hawthorne, o que significa dizer que treinadores e treinandos:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "tendem a assumir práticas acadêmicas.",
+     "explanation": "Práticas acadêmicas não têm relação."
+    },
+    {
+     "key": "B",
+     "text": "foram afetados pelo conhecimento produzido."
+    },
+    {
+     "key": "C",
+     "text": "resolveram fazer improvisações.",
+     "explanation": "Improvisação não é o efeito."
+    },
+    {
+     "key": "D",
+     "text": "preocupam-se somente com a aprendizagem.",
+     "explanation": "Não se trata de foco exclusivo na aprendizagem."
+    },
+    {
+     "key": "E",
+     "text": "sabem que não serão responsabilizados pelos resultados.",
+     "explanation": "Não se trata de irresponsabilidade."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Efeito Hawthorne: as pessoas mudam o comportamento por saberem que participam de um estudo ou programa; os resultados do piloto ficam distorcidos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q60",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 60,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "A incorporação recente de Sistemas de Trabalho de Elevado Desempenho (STED) pelas grandes organizações que enfrentam desafios de adaptação a negócios globais adota o princípio de que os funcionários precisam aprender em tempo real, no trabalho, usando abordagens inovadoras para solucionar problemas. Este é o princípio da (o):",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "relação desempenho-recompensa.",
+     "explanation": "Relação desempenho-recompensa é outro princípio."
+    },
+    {
+     "key": "B",
+     "text": "treinamento em série.",
+     "explanation": "Treinamento em série não é princípio."
+    },
+    {
+     "key": "C",
+     "text": "igualdade de participação.",
+     "explanation": "Igualdade de participação é outro princípio."
+    },
+    {
+     "key": "D",
+     "text": "desenvolvimento de conhecimentos."
+    },
+    {
+     "key": "E",
+     "text": "integração horizontal-vertical.",
+     "explanation": "Integração horizontal-vertical é outro princípio."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Sistemas de trabalho de alto desempenho adotam o princípio do desenvolvimento de conhecimentos: aprender em tempo real, no trabalho, resolvendo problemas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q61",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 61,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "As mudanças no mundo do trabalho vêm, certamente, influenciando a adoção de novos indicadores na avaliação da personalidade dos funcionários que as organizações julgam ser os mais desejáveis. Um destes indicadores é(são):",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a adaptabilidade tecnológica.",
+     "explanation": "Adaptabilidade tecnológica não é indicador de personalidade."
+    },
+    {
+     "key": "B",
+     "text": "a generalização de conhecimentos.",
+     "explanation": "Generalização de conhecimentos não é personalidade."
+    },
+    {
+     "key": "C",
+     "text": "o comprometimento organizacional.",
+     "explanation": "Comprometimento é atitude."
+    },
+    {
+     "key": "D",
+     "text": "as habilidades sociais."
+    },
+    {
+     "key": "E",
+     "text": "os comportamentos pró-sociais.",
+     "explanation": "Comportamentos pró-sociais não foram a resposta esperada."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Com o trabalho em equipe e o atendimento, as habilidades sociais passaram a ser indicadores desejáveis nas avaliações.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q62",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 62,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.1.1 Gestão de mudanças",
+   "stem": "Pesquisas sobre desenvolvimento das organizações confirmam que além das resistências a mudanças, no nível individual, tem-se que lidar com as resistências na esfera organizacional, entre as quais encontra-se o(a):",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "processamento seletivo das informações.",
+     "explanation": "Processamento seletivo é resistência individual."
+    },
+    {
+     "key": "B",
+     "text": "medo do desconhecido.",
+     "explanation": "Medo do desconhecido é resistência individual."
+    },
+    {
+     "key": "C",
+     "text": "administração das atividades de mudança.",
+     "explanation": "Administrar a mudança não é resistência."
+    },
+    {
+     "key": "D",
+     "text": "redefinição das convicções.",
+     "explanation": "Convicções são resistência individual."
+    },
+    {
+     "key": "E",
+     "text": "autonomia dos subsistemas."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Resistências organizacionais à mudança incluem inércia estrutural e a autonomia e interdependência dos subsistemas. Processamento seletivo, medo do desconhecido e convicções são resistências individuais.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q63",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 63,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-org",
+   "subtopic": "3.1.1 Gestão de mudanças",
+   "stem": "As mudanças provocadas pelos processos de globalização e desenvolvimento tecnológico vertiginoso requerem das organizações a habilidade para mudar de uma forma planejada. Uma das medidas que deve ser tomada é:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "criar programas continuados de capacitação tecnológica.",
+     "explanation": "Capacitação tecnológica é parte, não a medida central."
+    },
+    {
+     "key": "B",
+     "text": "ajudar os funcionários a lidar com as mudanças."
+    },
+    {
+     "key": "C",
+     "text": "limitar e neutralizar os focos de resistência às mudanças.",
+     "explanation": "Neutralizar resistências é manipulação."
+    },
+    {
+     "key": "D",
+     "text": "identificar e cooptar a força de inércia dos grupos.",
+     "explanation": "Cooptação é tática manipuladora."
+    },
+    {
+     "key": "E",
+     "text": "desenvolver políticas de negociação com as lideranças.",
+     "explanation": "Negociar só com lideranças é limitado."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Mudança planejada exige ajudar os funcionários a lidar com a mudança.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q64",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 64,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "O método de avaliação psicológica que consiste em uma série de atividades padronizadas orientadas para grupos, capazes de propiciar uma base para julgamento ou predições de comportamentos num ambiente organizacional, denomina-se:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "mapeamento de competências.",
+     "explanation": "Mapeamento de competências é diagnóstico organizacional."
+    },
+    {
+     "key": "B",
+     "text": "avaliação integral.",
+     "explanation": "Não é termo técnico."
+    },
+    {
+     "key": "C",
+     "text": "centros de avaliação."
+    },
+    {
+     "key": "D",
+     "text": "avaliação em situação.",
+     "explanation": "Não é a denominação do método."
+    },
+    {
+     "key": "E",
+     "text": "qualificação de preditores.",
+     "explanation": "Não é método."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Centros de avaliação (assessment centers): atividades padronizadas, muitas em grupo, observadas por avaliadores para prever comportamento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q72",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 72,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "Em escalas de avaliação de clima organizacional, um dos fatores utilizados deve ser o ambiente:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "relacional."
+    },
+    {
+     "key": "B",
+     "text": "normativo.",
+     "explanation": "Normas são elemento da cultura."
+    },
+    {
+     "key": "C",
+     "text": "valorativo.",
+     "explanation": "Valores são cultura."
+    },
+    {
+     "key": "D",
+     "text": "cultural.",
+     "explanation": "Cultural é outro constructo."
+    },
+    {
+     "key": "E",
+     "text": "político.",
+     "explanation": "Ambiente político não é fator usual das escalas."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Escalas de clima avaliam fatores como o ambiente relacional (relações interpessoais), ao lado de liderança, comunicação e outros.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q73",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 73,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "Uma das maneiras de serem evitadas confusões conceituais é a de se considerar que o constructo clima organizacional está relacionado a percepções compartilhadas, enquanto que a cultura organizacional implica considerar-se o(a):",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "nível das frustrações acumuladas.",
+     "explanation": "Frustrações acumuladas não definem cultura."
+    },
+    {
+     "key": "B",
+     "text": "suporte social existente.",
+     "explanation": "Suporte social é fator de clima."
+    },
+    {
+     "key": "C",
+     "text": "atuação da liderança gerencial.",
+     "explanation": "Liderança influencia ambos."
+    },
+    {
+     "key": "D",
+     "text": "existência de pressupostos básicos."
+    },
+    {
+     "key": "E",
+     "text": "qualidade dos feedbacks produzidos.",
+     "explanation": "Feedback é prática gerencial."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Clima é percepção compartilhada; cultura implica pressupostos básicos (Schein).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q75",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 75,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "A motivação, compreendida como algo intrínseco, exige dos dirigentes uma grande capacidade para lidar com os seus colaboradores. Para que isso ocorra, o dirigente deve:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "ter coragem de substituí-los no exercício de seus respectivos papéis.",
+     "explanation": "Substituí-los não motiva."
+    },
+    {
+     "key": "B",
+     "text": "conhecer as suas idiossincrasias, preferências e limitações.",
+     "explanation": "Conhecê-los ajuda, mas não basta."
+    },
+    {
+     "key": "C",
+     "text": "ser capaz de ajudá-los a encontrar um sentido para o que fazem."
+    },
+    {
+     "key": "D",
+     "text": "identificar e priorizar as suas respectivas carências básicas.",
+     "explanation": "Satisfazer carências básicas é lógica de higiene."
+    },
+    {
+     "key": "E",
+     "text": "criar continuamente estratégias de premiação contingentes aos seus respectivos desempenhos.",
+     "explanation": "Premiação contingente é condicionamento, não motivação intrínseca."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Se a motivação é intrínseca, cabe ao dirigente ajudar os colaboradores a encontrar sentido no que fazem (Bergamini).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q77",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 77,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "Uma das formas de se diferenciar, conceitualmente, o poder da liderança é que o poder não requer a compatibilidade de interesses (individuais/grupais/organizacionais) e nem a:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "construção da confiança.",
+     "explanation": "A confiança é importante, mas o contraste clássico (Robbins) é a direção da influência."
+    },
+    {
+     "key": "B",
+     "text": "estrutura formal.",
+     "explanation": "Nem poder nem liderança exigem estrutura formal."
+    },
+    {
+     "key": "C",
+     "text": "capacidade de coagir.",
+     "explanation": "A capacidade de coagir é base de poder."
+    },
+    {
+     "key": "D",
+     "text": "instância legal.",
+     "explanation": "Instância legal não é critério de diferenciação."
+    },
+    {
+     "key": "E",
+     "text": "influência descendente."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Robbins: o poder não exige compatibilidade de objetivos, só dependência; e enquanto a liderança enfatiza a influência descendente (sobre os liderados), o poder também se exerce lateral e ascendentemente.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "A derivação inicial apontou A (confiança); na revisão, o texto de Robbins confirma E. Confiança média."
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q78",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 78,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "A chave para o poder é o postulado geral da dependência, sendo que um fator que cria a dependência é a:",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "autoridade.",
+     "explanation": "Autoridade é base de poder, não fator de dependência."
+    },
+    {
+     "key": "B",
+     "text": "tomada de decisão.",
+     "explanation": "Tomada de decisão não cria dependência."
+    },
+    {
+     "key": "C",
+     "text": "afetividade.",
+     "explanation": "Afetividade não está entre os fatores."
+    },
+    {
+     "key": "D",
+     "text": "escassez."
+    },
+    {
+     "key": "E",
+     "text": "liderança.",
+     "explanation": "Liderança não é fator de dependência."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Robbins: a dependência aumenta quando o recurso é importante, escasso e insubstituível.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q79",
+   "source": {
+    "file": "petrobras-2005-psicologo-junior/prova.pdf",
+    "year": 2005,
+    "originalNumber": 79,
+    "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+    "org": "Petrobras"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.6 Teoria do Estresse",
+   "stem": "A estafa no trabalho é um estado de desgaste psicológico que um funcionário pode experimentar depois que exerce um trabalho por um longo tempo. Estudos recentes indicam que alguns fatores de stress estão associados à estafa, entre os quais o(a):",
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "desempenho inadequado no cargo.",
+     "explanation": "Desempenho inadequado é consequência possível."
+    },
+    {
+     "key": "B",
+     "text": "baixo controle do trabalho."
+    },
+    {
+     "key": "C",
+     "text": "alto índice de rotatividade.",
+     "explanation": "Rotatividade é consequência."
+    },
+    {
+     "key": "D",
+     "text": "grande envolvimento no trabalho.",
+     "explanation": "Grande envolvimento não é estressor associado."
+    },
+    {
+     "key": "E",
+     "text": "ausência de comprometimento organizacional.",
+     "explanation": "Falta de comprometimento é consequência."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Burnout (estafa) associa-se a estressores como baixo controle sobre o trabalho, sobrecarga e conflito de papéis.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "petrobras-2005-psicologo-junior-q1",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q1",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 1,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "portugues",
+    "subtopic": "P.1 Compreensão de textos",
+    "stem": "Indique a opção que reproduz a <b>tese central</b> do texto.",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "Deve ser feito investimento no futuro para que haja prazer, em qualquer setor da vida."
+     },
+     {
+      "key": "B",
+      "text": "A economia pode fornecer matéria para se analisarem aspectos da vida humana."
+     },
+     {
+      "key": "C",
+      "text": "Háumaestreitarelaçãoentreosjuros, a crença religiosa e o metabolismo humano."
+     },
+     {
+      "key": "D",
+      "text": "A excessiva preocupação com o futuro deve ser substituída pela vivência do presente."
+     },
+     {
+      "key": "E",
+      "text": "Identifica-se, nocotidiano, oprocessodepagarnofuturo o uso de bem no presente."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q2",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q2",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 2,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "portugues",
+    "subtopic": "P.1 Compreensão de textos",
+    "stem": "Os termos “miopia” e “juros” usados figuradamente no texto mantêm em comum com os sentidos originais os seguintes aspectos:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "“alteração perceptual, que produz deformação da realidade” e “perda de bem no futuro por causa de uso indevido no presente”."
+     },
+     {
+      "key": "B",
+      "text": "“perda de algum grau de visão para longe” e “taxa a ser paga posteriormente por uso de benefício tomado no presente”."
+     },
+     {
+      "key": "C",
+      "text": "“anomalia que compromete a visão da sociedade” e “percentual estipulado previamente a ser pago por empréstimo”."
+     },
+     {
+      "key": "D",
+      "text": "“deficiência visual que prejudica a visão de perto” e “fração previamente combinada a ser paga pelo tomador de numerário”."
+     },
+     {
+      "key": "E",
+      "text": "“incapacidade de visão baseada na impaciência” e “pagamento a ser feito por utilização imprópria de algum bem”."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q3",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q3",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 3,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "portugues",
+    "subtopic": "P.1 Compreensão de textos",
+    "stem": "O conceito de economia adotado no texto NÃO comporta a noção de:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "valor."
+     },
+     {
+      "key": "B",
+      "text": "poupança."
+     },
+     {
+      "key": "C",
+      "text": "livremercado."
+     },
+     {
+      "key": "D",
+      "text": "captação de recurso."
+     },
+     {
+      "key": "E",
+      "text": "relaçãocusto/benefício."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q4",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q4",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 4,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "portugues",
+    "subtopic": "P.1 Compreensão de textos",
+    "stem": "Pela leitura do primeiro par de pergunta/resposta, só NÃO se pode dizer que a teoria da evolução:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "remeteàsobrevivênciadasespécies."
+     },
+     {
+      "key": "B",
+      "text": "se refere a acontecimentos naturais."
+     },
+     {
+      "key": "C",
+      "text": "teveinspiraçãonaeconomia."
+     },
+     {
+      "key": "D",
+      "text": "foivislumbradaporThomasMalthus."
+     },
+     {
+      "key": "E",
+      "text": "foicriadaporCharlesDarwin."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q5",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q5",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 5,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "portugues",
+    "subtopic": "P.1 Compreensão de textos",
+    "stem": "Indique a única opção que está em desacordo com a expressão “carimbadas e canetadas”.",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "Burocracia."
+     },
+     {
+      "key": "B",
+      "text": "Imediatismo."
+     },
+     {
+      "key": "C",
+      "text": "Planejamento."
+     },
+     {
+      "key": "D",
+      "text": "Imprevidência."
+     },
+     {
+      "key": "E",
+      "text": "Autoridade."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q6",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q6",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 6,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "portugues",
+    "subtopic": "P.1 Compreensão de textos",
+    "stem": "Para o Professor Giannetti, poupança precaucionária corresponde a:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "calorias acumuladas quando as pessoas se alimentam em excesso."
+     },
+     {
+      "key": "B",
+      "text": "fundo acumulado para épocas em que se tem pouco dinheiro."
+     },
+     {
+      "key": "C",
+      "text": "verba poupada para pagamento de cauções futuras."
+     },
+     {
+      "key": "D",
+      "text": "gordura armazenada para uso em atividades intensas."
+     },
+     {
+      "key": "E",
+      "text": "benefício de quem sabe economizar dinheiro."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q7",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q7",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 7,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "portugues",
+    "subtopic": "P.1 Compreensão de textos",
+    "stem": "Assinale a opção em que a concordância segue a norma culta da língua.",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "Dos dois cientistas consultados, nem um nem outro aceitou o cargo."
+     },
+     {
+      "key": "B",
+      "text": "Cada um dos jornalistas fizeram uma pergunta ao entrevistado."
+     },
+     {
+      "key": "C",
+      "text": "Resta ainda muitas dúvidas sobre o cálculo dos juros."
+     },
+     {
+      "key": "D",
+      "text": "Fazemdoismesesqueocientistaconcedeuumaentrevista."
+     },
+     {
+      "key": "E",
+      "text": "Os drogados não parecem perceberem o mal que fazem a si mesmos."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q8",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q8",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 8,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "portugues",
+    "subtopic": "P.1 Compreensão de textos",
+    "stem": "Assinale a opção que traz, respectivamente, sinônimos de “extático” e “anomalia”.",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "Enlevado, anormalidade."
+     },
+     {
+      "key": "B",
+      "text": "Exagerado, irregularidade."
+     },
+     {
+      "key": "C",
+      "text": "Absorto, estranhamento."
+     },
+     {
+      "key": "D",
+      "text": "Imóvel, aberração."
+     },
+     {
+      "key": "E",
+      "text": "Histérico, desigualdade."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q9",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q9",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 9,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "portugues",
+    "subtopic": "P.1 Compreensão de textos",
+    "stem": "“Como o senhor concluiu que o pagamento de juros não se restringe ao mundo das finanças?” (l.28-29) Assinale a opção que reescreve a pergunta na forma afirmativa, de acordo com a norma culta e mantendo seu sentido original.",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "A conclusão a que se chega é que, no mundo das finanças, não há restrição de pagamento de juros."
+     },
+     {
+      "key": "B",
+      "text": "A conclusão de que o mundo das finanças não restringe o pagamento de juros é mostrada."
+     },
+     {
+      "key": "C",
+      "text": "A não-limitação do pagamento de juros no mundo das finanças é a conclusão do economista."
+     },
+     {
+      "key": "D",
+      "text": "A conclusão aduzida é que pagamento de juros não se reduz só ao mundo das finanças."
+     },
+     {
+      "key": "E",
+      "text": "A falta de delimitação do pagamento de juros para o mundo das finanças é o que é deduzido. Giannetti apelidou de miopia temporal: uma anomalia... ...vislumbrou a teoria da evolução ao ler o economista Thomas Malthus A luta para se manter vivo e reproduzir-se... Como se dá o acúmulo de poupança e o pagamento de juros... ...permite a um animal fazer um consumo pontual, concentrado de energia,..."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q10",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q10",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 10,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "portugues",
+    "subtopic": "P.1 Compreensão de textos",
+    "stem": "Nas opções a seguir encontram-se colunas, que contêm, à esquerda, frases ou expressões do texto e, à direita, novas redações para elas. Indique em qual há ERRO nas reescrituras, de acordo com a norma culta e com o sentido original.",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "”Giannetti apelidou de miopia temporal – uma anomalia,” (l.23-24) ”...vislumbrou a teoria da evolução lendo o economista"
+     },
+     {
+      "key": "B",
+      "text": "Thomas Malthus...” ( l.32-33)"
+     },
+     {
+      "key": "C",
+      "text": "”A luta para manter-se vivo e se reproduzir ...” (l.33-34) ”Como se dão o acúmulo de poupança e o pagamento de"
+     },
+     {
+      "key": "D",
+      "text": "juros...?” (l.42-43) ”...permite a um animal fazer um consumo pontual concen-"
+     },
+     {
+      "key": "E",
+      "text": "trado de energia...” (l.49-50) LÍNGUA INGLESA II <b>Text 1</b> WHY DO WE NEED OIL AND GAS? Oil and natural gas are an important part of your everyday life. Not only do they give us mobility, they heat and cool our homes and provide electricity. Millions of products are made from oil and gas, including plastics, 5 life-saving medications, clothing, cosmetics, and many other items you may use daily. In the United States, 97% of the energy that drives the transportation sector (cars, buses, subways, railroads, airplanes, etc.) comes from fuels made from oil. Auto 10 manufacturers are developing cars to run on alternate fuels such as electricity, hydrogen and ethanol. However, the electric batteries need to be charged and the fuel to generate the electricity could be oil or gas. The hydrogen needed for fuel cells may be generated from natural gas 15 or petroleum-based products. Even as alternative fuels are developed, oil will be crucially important to assuring that people can get where they need to be and want to go for the foreseeable future. Unless there is an increase in the penetration of new technologies, alternative fuels 20 are not expected to become competitive with oil for transportation before 2025. World population is currently around 6 billion people, but is expected to grow to approximately 7.6 billion by 2020. That will mean a huge increase in the demand for 25 transportation fuels, electricity, and many other consumer products made from oil and natural gas. The world economy runs on these fuels. They improve your quality of life by providing you with transportation, warmth, light, and many everyday products. 30 They enable you to get where you need to go, they supply products you need, and they create jobs. Without them, quality of life would decline and people in developing nations would not be able to improve their standard of living. http://www.spe.org/spe/jsp/basic/0,1104_1008218_1108884,00.html"
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q11",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q11",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 11,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "ingles",
+    "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+    "stem": "The main purpose of Text 1 is to:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "analyze in detail how global economy works."
+     },
+     {
+      "key": "B",
+      "text": "provideallavailabledataonworldpopulationgrowth."
+     },
+     {
+      "key": "C",
+      "text": "explaintheimportanceofoilandgasinourdailyroutines."
+     },
+     {
+      "key": "D",
+      "text": "criticize auto manufacturers in the U.S. for using fuels made from oil."
+     },
+     {
+      "key": "E",
+      "text": "warn against the explosive population growth expected in the near future."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q12",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q12",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 12,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "ingles",
+    "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+    "stem": "Mark the only true statement according to the second paragraph of Text 1.",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "By the year 2025 oil fuels will no longer be used in the transportation sector."
+     },
+     {
+      "key": "B",
+      "text": "In the U.S., less than half of the energy used for transportation derives from oil."
+     },
+     {
+      "key": "C",
+      "text": "Alternative fuels may become competitive with oil for transportation from 2025 on."
+     },
+     {
+      "key": "D",
+      "text": "In the near future all American-made cars will run on alternative fuels such as hydrogen."
+     },
+     {
+      "key": "E",
+      "text": "Manufacturers have developed battery-powered cars, whose batteries do not need recharging."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q13",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q13",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 13,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "ingles",
+    "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+    "stem": "Mark the correct statement concerning reference.",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "“Your” (line 1) refers to “oil and natural gas”."
+     },
+     {
+      "key": "B",
+      "text": "“They” (line 17) refers to “alternative fuels”."
+     },
+     {
+      "key": "C",
+      "text": "“That” (line 24) refers to “6 billion people”."
+     },
+     {
+      "key": "D",
+      "text": "“These fuels” (line 27) refers to “oil and natural gas”."
+     },
+     {
+      "key": "E",
+      "text": "“They” in “they enable you” (line 30) refers to “everyday products”."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q14",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q14",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 14,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "ingles",
+    "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+    "stem": "In the Text 1, the words “daily” (line 6) and “currently” (line 22) could be replaced with, respectively:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "“seldom” and “actually”."
+     },
+     {
+      "key": "B",
+      "text": "“frequently” and “now”."
+     },
+     {
+      "key": "C",
+      "text": "“in daytime” and “today”."
+     },
+     {
+      "key": "D",
+      "text": "“habitually” and “generally”."
+     },
+     {
+      "key": "E",
+      "text": "“every day” and “presently”."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q15",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q15",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 15,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "ingles",
+    "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+    "stem": "Check the item in which there is a correct correspondence between the underlined words and the idea in italics.",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "“Not only do they give...” (line 2) – Condition."
+     },
+     {
+      "key": "B",
+      "text": "“alternate fuels such as electricity” (lines 10 -11) – Addition."
+     },
+     {
+      "key": "C",
+      "text": "“However, the electric batteries...” (lines 11 -12) – Contrast."
+     },
+     {
+      "key": "D",
+      "text": "“Even as alternative fuels are developed”. (lines 15 -16) – Cause."
+     },
+     {
+      "key": "E",
+      "text": "“...but is expected to grow to...” (line 23) – Result. <b>Text 2</b> CONCEPTS OF LEADERSHIP Good leaders are made, not born. If you have the desire and willpower, you can become an effective leader. Good leaders develop through a never ending process of self-study, education, training, and experience. To inspire your workers into higher levels of teamwork, there are certain things you must be, know, and do. These do not come naturally, but are acquired through continual work and study. Good leaders are continually working and studying to improve their leadership skills. Before we get started, let’s define leadership. Leadership is a process by which a person influences others to accomplish an objective and directs the organization in a way that makes it more cohesive and coherent. Leaders carry out this process by applying their leadership attributes, such as beliefs, values, ethics, character, knowledge, and skills. Although your position as a manager, supervisor, lead, etc. gives you the authority to accomplish certain tasks and objectives in the organization, this power does not make you a leader...it simply makes you the boss. Leadership differs in that it makes the followers want to achieve high goals, rather than simply bossing people around. The basis of good leadership is honorable character and selfless service to your organization. In your employees’ eyes, your leadership is everything you do that effects the organization’s objectives and their well being. Respected leaders concentrate on what they are (such as beliefs and character), what they know (such as job, tasks, and human nature), and what they do (such as implementing, motivating, and providing direction). http://www.nwlink.com/~donclark/leader/leadcon.html"
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q16",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q16",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 16,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "ingles",
+    "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+    "stem": "Text 2 affirms that good leaders:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "believe that the skills and abilities necessary to leadership are innate."
+     },
+     {
+      "key": "B",
+      "text": "should never let themselves be influenced by their subordinates or co-workers."
+     },
+     {
+      "key": "C",
+      "text": "must continually teach their co-workers how to develop leadership skills."
+     },
+     {
+      "key": "D",
+      "text": "keep on improving their skills through continuous work and education."
+     },
+     {
+      "key": "E",
+      "text": "would acquire more work experience if they had greater willpower."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q17",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q17",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 17,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "ingles",
+    "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+    "stem": "“To inspire your workers into higher levels of teamwork” (Text 2, line 5) means to:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "advise your subordinates to form different groups within the organization."
+     },
+     {
+      "key": "B",
+      "text": "encourage people under your lead to improve their ability to work together."
+     },
+     {
+      "key": "C",
+      "text": "urge all the workers to do their best to achieve higher positions in the company."
+     },
+     {
+      "key": "D",
+      "text": "teach your employees how to work cooperatively to increase profits."
+     },
+     {
+      "key": "E",
+      "text": "convince the organization’s employees that they must work in teams."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q18",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q18",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 18,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "ingles",
+    "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+    "stem": "According to Text 2 (lines 16 - 22), the difference between bosses and leaders is that:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "leadersaremoreinfluentialandinspiringtotheirworkers."
+     },
+     {
+      "key": "B",
+      "text": "leaders are not usually allowed to give orders to people."
+     },
+     {
+      "key": "C",
+      "text": "leaders often seem more authoritarian and demanding than bosses."
+     },
+     {
+      "key": "D",
+      "text": "bosses tend to be selfish and to neglect the workers’ well-being."
+     },
+     {
+      "key": "E",
+      "text": "bosses are not fully respected by their employees and peers."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q19",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q19",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 19,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "ingles",
+    "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+    "stem": "In the sentence, “Leaders carry out this process by applying their leadership attributes, such as beliefs, values...and skills” (lines 14 -16), the underlined expression means the same as:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "plan."
+     },
+     {
+      "key": "B",
+      "text": "conduct."
+     },
+     {
+      "key": "C",
+      "text": "evaluate."
+     },
+     {
+      "key": "D",
+      "text": "call off."
+     },
+     {
+      "key": "E",
+      "text": "put an end to."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q20",
+   "motivo": "Conhecimentos Básicos (Língua Portuguesa II e Língua Inglesa II): o gabarito só existe na cópia de terceiro (IESDE/Aprova) do gabarito completo, não no arquivo oficial gab09, que tem só os específicos. Falta conferir o gabarito oficial; transcrição sem texto-base e sem revisão.",
+   "gabaritoOficial": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+   "derivada": "não derivada",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q20",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 20,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "ingles",
+    "subtopic": "I.1 Compreensão de texto escrito em língua inglesa",
+    "stem": "Texts 1 and 2 have in common the fact that they are:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "alarming and ironical."
+     },
+     {
+      "key": "B",
+      "text": "pessimistic and hopeless."
+     },
+     {
+      "key": "C",
+      "text": "distressing and discouraging."
+     },
+     {
+      "key": "D",
+      "text": "indifferent and cynical."
+     },
+     {
+      "key": "E",
+      "text": "informativeandobjective."
+     }
+    ],
+    "correctKey": "não oficial (ver gabarito-completo-copia-terceiro.pdf)",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": null,
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q23",
+   "motivo": "Derivação incerta: a classificação dos aspectos “do quotidiano” na avaliação do estressor não é inequívoca. D (discussões com o cônjuge, as “daily hassles”) também é plausível; o gabarito é B.",
+   "gabaritoOficial": "B",
+   "derivada": "B ou D",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q23",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 23,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "saude-trab",
+    "subtopic": "6.6 Teoria do Estresse",
+    "stem": "Existem fatores pessoais, do ambiente e do quotidiano que influenciam o processo de avaliação do estímulo estressor. São exemplos de aspectos relacionados ao quotidiano :",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "compromissos e crenças."
+     },
+     {
+      "key": "B",
+      "text": "incerteza do acontecimento e novidade da situação."
+     },
+     {
+      "key": "C",
+      "text": "demissão do emprego e mudança na área de trabalho."
+     },
+     {
+      "key": "D",
+      "text": "ambigüidade da situação e aumento das discussões com o cônjuge."
+     },
+     {
+      "key": "E",
+      "text": "duração do episódio estressante e alteração na responsabilidade profissional."
+     }
+    ],
+    "correctKey": "B",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "B",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q26",
+   "motivo": "Derivação incerta: não foi possível identificar a fonte que classifica habilidades “voltadas à obtenção de resultados”; o gabarito E não foi confirmado.",
+   "gabaritoOficial": "E",
+   "derivada": "incerta",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q26",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 26,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "diag-org",
+    "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+    "stem": "No planejamento de programas de treinamento, a identificação das competências exigidas por cada cargo, independente de quem o ocupa ou virá a ocupá-lo, envolve três tipos de qualificação: conhecimentos, habilidades e comportamentos. Dentre as habilidades, duas voltadas à obtenção de resultados são:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "habilidade de sintetizar e raciocínio holístico."
+     },
+     {
+      "key": "B",
+      "text": "orientação para resultados e trabalho em equipe."
+     },
+     {
+      "key": "C",
+      "text": "persuasão racional e habilidade para ouvir."
+     },
+     {
+      "key": "D",
+      "text": "raciocínio analítico e otimização de recursos."
+     },
+     {
+      "key": "E",
+      "text": "raciocínio estratégico e habilidade de delegar."
+     }
+    ],
+    "correctKey": "E",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "E",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q46",
+   "motivo": "Divergência: a derivação apontou A (separar trabalho ruidoso, reduzir exposição, manutenção); o gabarito é B (inclui distância da fonte e tetos e pisos acústicos). O critério “projeto de organização do trabalho” é ambíguo.",
+   "gabaritoOficial": "B",
+   "derivada": "A",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q46",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 46,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "saude-trab",
+    "subtopic": "6.9 Acidente de trabalho e implicações psicossociais",
+    "stem": "Na prevenção da surdez, três medidas recomendadas para redução do ruído, através de um projeto de organização do trabalho, são:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "separar o trabalho barulhento do silencioso, reduzir o tempo de exposição do trabalhador ao ruído, fazer manutenção regular das máquinas."
+     },
+     {
+      "key": "B",
+      "text": "separar o trabalho barulhento do silencioso, manter uma distância suficiente da fonte de ruído, usar teto e pisos acústicos."
+     },
+     {
+      "key": "C",
+      "text": "reduzir o tempo de exposição do trabalhador ao ruído, confinar as máquinas ruidosas, implantar o uso de protetores auriculares.",
+      "explanation": "Confinar máquinas e protetores não são organização do trabalho."
+     },
+     {
+      "key": "D",
+      "text": "confinar as máquinas ruidosas, usar barreiras acústicas, implantar o uso de protetores auriculares.",
+      "explanation": "São medidas de engenharia e EPI."
+     },
+     {
+      "key": "E",
+      "text": "usar barreiras acústicas, fazer manutenção regular das máquinas, usar máquinas silenciosas.",
+      "explanation": "Barreiras e máquinas silenciosas são engenharia."
+     }
+    ],
+    "correctKey": "B",
+    "explanationSummary": "Na organização do trabalho, as medidas contra o ruído são separar trabalho ruidoso do silencioso, reduzir o tempo de exposição e manter regularmente as máquinas. Barreiras, enclausuramento e protetores são medidas de engenharia ou individuais.",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "B",
+     "independentlyDerivedAnswer": "A",
+     "agree": false,
+     "confidence": "medium",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q54",
+   "motivo": "Divergência: a derivação apontou A (trabalho automatizado); o gabarito é B (autônomo).",
+   "gabaritoOficial": "B",
+   "derivada": "A",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q54",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 54,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "psi-org",
+    "subtopic": "3.1 Transformações no mundo do trabalho e mudanças nas organizações",
+    "stem": "Alguns estudos têm comprovado que mudanças sociais macro, vinculadas aos métodos de produção e sofisticação tecnológica, têm gerado estratégias de trabalho que provocam mudanças na experiência psicológica do trabalhador e abalam sua saúde psíquica. Uma destas, é a estratégia que está relacionada ao trabalho:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "automatizado."
+     },
+     {
+      "key": "B",
+      "text": "autônomo."
+     },
+     {
+      "key": "C",
+      "text": "empreendedor.",
+      "explanation": "Empreendedorismo não é estratégia de produção."
+     },
+     {
+      "key": "D",
+      "text": "especializado.",
+      "explanation": "A especialização é característica taylorista antiga."
+     },
+     {
+      "key": "E",
+      "text": "mecanizado.",
+      "explanation": "A mecanização é anterior à sofisticação tecnológica."
+     }
+    ],
+    "correctKey": "B",
+    "explanationSummary": "A automação, ligada à sofisticação tecnológica, muda a experiência psicológica do trabalhador (monitoramento, sobrecarga mental, perda de controle) e afeta sua saúde psíquica.",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "B",
+     "independentlyDerivedAnswer": "A",
+     "agree": false,
+     "confidence": "medium",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q56",
+   "motivo": "Divergência: a derivação apontou E (suporte gerencial, clássico na transferência de treinamento); o gabarito é C (comunidades de aprendizagem).",
+   "gabaritoOficial": "C",
+   "derivada": "E",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q56",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 56,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "diag-org",
+    "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+    "stem": "Algumas práticas de TD&amp; E ( Treinamento, Desenvolvimento e Educação) favorecem a aprendizagem e a transferência do desempenho eficaz nos papéis. Como exemplo destas práticas é correto citar:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "a tecnologia instrucional.",
+      "explanation": "Tecnologia instrucional é o desenho do treinamento, não suporte à transferência."
+     },
+     {
+      "key": "B",
+      "text": "a gestão da informação.",
+      "explanation": "Gestão da informação não é prática de TD&E."
+     },
+     {
+      "key": "C",
+      "text": "as comunidades de aprendizagem."
+     },
+     {
+      "key": "D",
+      "text": "o valor instrumental.",
+      "explanation": "Valor instrumental é percepção, não prática."
+     },
+     {
+      "key": "E",
+      "text": "o suporte gerencial."
+     }
+    ],
+    "correctKey": "C",
+    "explanationSummary": "O suporte gerencial (apoio da chefia) favorece a transferência do aprendido para o desempenho no cargo.",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "C",
+     "independentlyDerivedAnswer": "E",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q74",
+   "motivo": "Derivação incerta: o gabarito B (incluir familiares e aposentados) não foi confirmado na literatura sobre programas de promoção de saúde.",
+   "gabaritoOficial": "B",
+   "derivada": "incerta",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q74",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 74,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "saude-trab",
+    "subtopic": "6.10 Qualidade de Vida e Bem-Estar no Trabalho",
+    "stem": "Pesquisas têm demonstrado que programas de promoção de saúde proporcionam economia de custos mensuráveis para as organizações. Uma importante medida que deve constar de um programa dessa natureza é a(o):",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "inspeção do ambiente de trabalho."
+     },
+     {
+      "key": "B",
+      "text": "inclusão de familiares e aposentados."
+     },
+     {
+      "key": "C",
+      "text": "avaliação de 360 graus."
+     },
+     {
+      "key": "D",
+      "text": "incorporação de tecnologia de segurança."
+     },
+     {
+      "key": "E",
+      "text": "conhecimento dos riscos existentes."
+     }
+    ],
+    "correctKey": "B",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "B",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q76",
+   "motivo": "Divergência: a derivação apontou C (efeito transitório da recompensa, Bergamini); o gabarito é A (depende do grau de associação).",
+   "gabaritoOficial": "A",
+   "derivada": "C",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q76",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 76,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "diag-org",
+    "subtopic": "4.7 Motivação no trabalho",
+    "stem": "Embora reconheçam a positividade decorrente do efeito da recompensa em dinheiro pelo trabalho realizado, muitos estudiosos sustentam que condicionamento não é motivação. Uma justificativa apontada seria a de que a recompensa em dinheiro:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "depende do grau de associação."
+     },
+     {
+      "key": "B",
+      "text": "aumenta a aversão ao trabalho.",
+      "explanation": "Não aumenta aversão necessariamente."
+     },
+     {
+      "key": "C",
+      "text": "sofre o efeito da transitoriedade."
+     },
+     {
+      "key": "D",
+      "text": "cria novas necessidades.",
+      "explanation": "Criar necessidades não é o argumento."
+     },
+     {
+      "key": "E",
+      "text": "diminui a auto-estima.",
+      "explanation": "Não diminui necessariamente a autoestima."
+     }
+    ],
+    "correctKey": "A",
+    "explanationSummary": "Bergamini: recompensas extrínsecas condicionam, mas o efeito é transitório; cessada a recompensa, cessa o comportamento.",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "A",
+     "independentlyDerivedAnswer": "C",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q80",
+   "motivo": "Derivação incerta: a definição de trabalho “sadio” (o trabalhador sente, sabe e controla a autotransformação) não foi atribuída com segurança a uma abordagem; o gabarito é D (epidemiológica).",
+   "gabaritoOficial": "D",
+   "derivada": "incerta",
+   "questao": {
+    "id": "petrobras-2005-psicologo-junior-q80",
+    "source": {
+     "file": "petrobras-2005-psicologo-junior/prova.pdf",
+     "year": 2005,
+     "originalNumber": 80,
+     "exam": "Petrobras 2005 – Psicólogo(a) Júnior",
+     "org": "Petrobras"
+    },
+    "area": "saude-trab",
+    "subtopic": "6.1 Processo saúde-doença",
+    "stem": "Existem diversas abordagens para lidar com a relação Saúde Mental e Trabalho. A abordagem que considera um trabalho “sadio” aquele no qual o trabalhador sente, sabe e controla o processo de autotransformação, é a abordagem:",
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "biológica."
+     },
+     {
+      "key": "B",
+      "text": "dialética."
+     },
+     {
+      "key": "C",
+      "text": "auto-reguladora."
+     },
+     {
+      "key": "D",
+      "text": "epidemiológica."
+     },
+     {
+      "key": "E",
+      "text": "psicodinâmica do trabalho."
+     }
+    ],
+    "correctKey": "D",
+    "explanationSummary": "",
+    "status": "confirmed",
+    "annulled": false,
+    "verification": {
+     "gabaritoAnswer": "D",
+     "independentlyDerivedAnswer": "?",
+     "agree": false,
+     "confidence": "high",
+     "notes": ""
+    }
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "petrobras-2005-psicologo-junior-q35",
+   "tema": "Grupoterapia, acting (clínica)"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q38",
+   "tema": "Teorias da personalidade (famílias teóricas)"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q39",
+   "tema": "Psicanálise clássica, conceito de instinto"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q40",
+   "tema": "Teoria de campo de Lewin (personalidade), valência"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q50",
+   "tema": "Avaliação neuropsicológica clínica"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q51",
+   "tema": "Psicopatologia psicanalítica (estrutura obsessiva)"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q65",
+   "tema": "Saúde mental, modelo psicossocial vs. asilar (alcoolismo)"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q66",
+   "tema": "Saúde mental, modo psicossocial (reinserção)"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q67",
+   "tema": "Saúde pública, Carta de Liubliana (OMS)"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q68",
+   "tema": "Entrevista diagnóstica clínica"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q69",
+   "tema": "Psicodiagnóstico clínico"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q70",
+   "tema": "Psicodiagnóstico clínico, pressupostos"
+  },
+  {
+   "id": "petrobras-2005-psicologo-junior-q71",
+   "tema": "Sistemas de saúde e determinantes socioeconômicos"
+  }
+ ],
+ "log": "Petrobras 2005. O caderno é cópia de terceiro (Estude Grátis). Gabarito oficial gab09 (Wayback), última coluna PSICÓLOGO(A) JR, 21-80, lida com zoom. Os básicos 1-20 têm gabarito só em cópia de terceiro e foram para a fila sem revisão. Recursos não localizados. A q10 tem tabela e foi realocada no layout. O caderno tem linhas justificadas sem espaços, segmentadas automaticamente e revistas pela lista FIX."
+}

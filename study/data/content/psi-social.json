@@ -1,0 +1,138 @@
+{
+  "areaId": "psi-social",
+  "resumo": "<p><strong>O que a banca cobra.</strong> 27 questões oficiais no banco, de 6 provas: BNDES 2024 (6), Petrobras 2012 (6), MPE-RO 2005 (5), AL-TO 2005 (4), BNDES 2013 (4) e SECAD-TO 2009 (2). Por subitem: processos grupais 8, equipes de trabalho 8, liderança 6, comunicação 4, intervenção em crise, emergência e catástrofe 1. Nenhuma autoral. A referência dominante é Robbins (Comportamento Organizacional): grupo x equipe, táticas de influência, gerenciamento de impressões, fontes de poder, escuta ativa. Os grupos de Bion e Pichon-Rivière aparecem pela leitura de Zimerman. O item 5.2 (crise e catástrofe) tem uma só questão, de 2009, e é provável que o edital de 2026 o trate de forma mais atual: estude a base abaixo.</p>\n<p><strong>Fundamentos.</strong></p>\n<ul>\n<li><strong>Grupos (psicanálise e psicologia social)</strong>: Bion distingue o <strong>grupo de trabalho</strong>, voltado à tarefa, dos <strong>supostos básicos</strong> (dependência, luta e fuga, acasalamento), que atrapalham a tarefa; todo grupo oscila entre os dois (mpe-ro-2005-analista-psicologia-q28). Pichon-Rivière criou o <strong>grupo operativo</strong>, centrado na tarefa, com o ECRO (esquema conceitual, referencial e operativo), o cone invertido (pertença, cooperação, pertinência, comunicação, aprendizagem, telê) e papéis como porta-voz, bode expiatório, líder de mudança e líder de resistência; é a estratégia para trabalhar relações interpessoais nos setores (mpe-ro-2005-analista-psicologia-q29). Lewin fundou a dinâmica de grupo.</li>\n<li><strong>Estrutura do grupo (Robbins)</strong>: papéis, normas, status, tamanho, coesão. Percepção de justiça do status pesa mais que a equidade objetiva (petrobras-2012-psicologo-junior-q29). Grupo formal de tarefa pode atravessar a hierarquia, como uma comissão de crise (petrobras-2012-psicologo-junior-q36). Conformidade (Asch), dissonância cognitiva (Festinger: quanto maior a recompensa pelo comportamento discrepante, menor o mal-estar, petrobras-2012-psicologo-junior-q22), polarização e pensamento grupal.</li>\n<li><strong>Equipes</strong>: Robbins distingue grupo de trabalho (compartilhar informação, sinergia neutra, responsabilidade individual) de equipe (desempenho coletivo, sinergia positiva, responsabilidade individual e mútua, habilidades complementares; al-to-2005-consultor-legislativo-psicologia-q36). Tuckman: formação, tormenta (conflito), normatização, desempenho e, depois, desintegração (encerramento; bndes-2013-profissional-basico-psicologia-q66). Hackman: efetividade = produto + satisfação dos membros + capacidade de continuar juntos (bndes-2024-analista-psicologia-organizacional-q41). Equipe de estrelas perde para equipe integrada (bndes-2024-analista-psicologia-organizacional-q47). Robbins e Finley: equilibrar interesses individuais e coletivos (al-to-2005-consultor-legislativo-psicologia-q37) e o mito de que todos trabalham melhor em equipe (al-to-2005-consultor-legislativo-psicologia-q38).</li>\n<li><strong>Liderança</strong>: traços; comportamentais (Ohio: estrutura de iniciação e consideração; Michigan: orientação para a produção e para as pessoas; Grid de Blake e Mouton); contingenciais (Fiedler, LPC; Hersey e Blanchard, estilos determinar, persuadir, compartilhar e delegar conforme a maturidade M1 a M4; House, caminho-meta, com líder diretivo, apoiador, participativo ou orientado para a realização, petrobras-2012-psicologo-junior-q28); carismática (petrobras-2012-psicologo-junior-q34) e transformacional x transacional (Bass). Poder: French e Raven (coercitivo, recompensa, legítimo, de especialista, de referência; petrobras-2012-psicologo-junior-q33).</li>\n<li><strong>Comunicação</strong>: escuta ativa (paráfrase, perguntas, evitar interromper, contato visual; al-to-2005-consultor-legislativo-psicologia-q33); feedback útil é específico, descritivo, oportuno e dirigido a comportamento modificável (bndes-2013-profissional-basico-psicologia-q65, bndes-2024-analista-psicologia-organizacional-q67); janela de Johari (área aberta, cega, oculta, desconhecida); redes (roda, cadeia, todos os canais); confiança evita informação filtrada para cima (mpe-ro-2005-analista-psicologia-q22).</li>\n<li><strong>Influência</strong>: táticas de Robbins (persuasão racional, apelo inspiracional, consulta, troca, apelo pessoal, insinuação, legitimidade, pressão, <strong>coalizão</strong>, bndes-2013-profissional-basico-psicologia-q47); gerenciamento de impressões (conformidade, desculpas, justificação, autopromoção, favores, associação; bndes-2024-analista-psicologia-organizacional-q70).</li>\n<li><strong>Crise, emergência e catástrofe</strong> (base doutrinária; nenhuma norma deste tema está em <code>docs/normas/</code>): intervenção em crise é breve, focal, imediata, para restaurar o equilíbrio e a sensação de controle (secad-to-2009-psicologo-q45); primeiros cuidados psicológicos (OMS): observar, escutar e aproximar ou conectar a apoios, sem forçar relato; pirâmide de intervenções do IASC (serviços básicos e segurança, apoio comunitário e familiar, apoio focado não especializado, serviços especializados); debriefing compulsório de grupo não é recomendado pelas diretrizes atuais. Grupos de apoio sustentam a força existente de uma categoria que vive crise comum (secad-to-2009-psicologo-q46). Não verificado em fonte oficial nesta revisão.</li>\n</ul>",
+  "cheatsheet": [
+    {
+      "heading": "Bion e Pichon-Rivière",
+      "items": [
+        "Bion: <strong>grupo de trabalho</strong> (racional, voltado à tarefa) x <strong>supostos básicos</strong> (emocionais, inconscientes): dependência (espera de um líder que proteja), luta e fuga (inimigo externo), acasalamento (esperança messiânica).",
+        "Pichon-Rivière: grupo operativo é um conjunto de pessoas reunidas por constantes de tempo e espaço, articuladas por representação interna mútua, que se propõe uma <strong>tarefa</strong>. ECRO = esquema conceitual, referencial e operativo.",
+        "Cone invertido: pertença, cooperação, pertinência, comunicação, aprendizagem e telê. Papéis: porta-voz, bode expiatório, líder de mudança, líder de resistência (sabotador).",
+        "Tarefa explícita x implícita; pré-tarefa (resistência, ansiedades de perda e de ataque), tarefa, projeto."
+      ]
+    },
+    {
+      "heading": "Grupos e equipes (Robbins, Tuckman, Hackman)",
+      "items": [
+        "Grupo de trabalho: objetivo de compartilhar informação; sinergia neutra; responsabilidade individual; habilidades aleatórias.",
+        "Equipe de trabalho: desempenho coletivo; sinergia positiva; responsabilidade individual e mútua; habilidades complementares.",
+        "Tipos de equipe: de solução de problemas, autogerenciadas, multifuncionais, virtuais.",
+        "Tuckman: formação (forming), tormenta ou conflito (storming), normatização (norming), desempenho (performing), desintegração (adjourning).",
+        "Hackman, efetividade em três critérios: produto que atende ao cliente, satisfação e crescimento dos membros, capacidade da equipe de continuar trabalhando junta.",
+        "Grupos formais: de comando (chefe e subordinados) e de tarefa. Informais: de interesse e de amizade."
+      ]
+    },
+    {
+      "heading": "Liderança e poder",
+      "items": [
+        "Ohio: <strong>estrutura de iniciação</strong> (tarefa) e <strong>consideração</strong> (relações). Michigan: orientação para a produção x para as pessoas.",
+        "Grid gerencial (Blake e Mouton): 1.1 empobrecido; 9.1 tarefa; 1.9 clube de campo; 5.5 meio-termo; <strong>9.9 equipe</strong> (o ideal).",
+        "Fiedler: estilo fixo medido pelo LPC; o orientado à tarefa vai melhor em situações muito favoráveis ou muito desfavoráveis; o orientado ao relacionamento, nas intermediárias.",
+        "Hersey e Blanchard: E1 determinar (M1, baixa capacidade e baixa disposição), E2 persuadir (M2), E3 compartilhar (M3), E4 delegar (M4, alta capacidade e alta disposição).",
+        "House, caminho-meta: líder diretivo, apoiador, participativo ou orientado para a realização, conforme o liderado e o ambiente, para abrir o caminho até metas pessoais compatíveis com as da organização.",
+        "Bass: transformacional (influência idealizada, motivação inspiradora, estimulação intelectual, consideração individualizada) x transacional (recompensa contingente, gestão por exceção).",
+        "French e Raven: coercitivo, de recompensa, legítimo (formais); de especialista e de <strong>referência</strong> (pessoais). Celebridade que influencia a compra: referência."
+      ]
+    },
+    {
+      "heading": "Comunicação e influência",
+      "items": [
+        "Escuta ativa: contato visual, gestos de aprovação, perguntas, <strong>paráfrase</strong>, não interromper, não falar demais.",
+        "Feedback útil: específico, descritivo e não avaliativo, oportuno, sobre comportamento modificável, solicitado e checado.",
+        "Janela de Johari (Luft e Ingham): eu aberto (conhecido por mim e pelos outros), eu cego (só os outros sabem), eu oculto (só eu sei), eu desconhecido. Feedback reduz a área cega; autoexposição reduz a oculta.",
+        "Redes de comunicação: roda (centralizada, rápida e precisa para tarefas simples, líder emerge), cadeia, todos os canais (melhor satisfação e tarefas complexas).",
+        "Táticas de influência: persuasão racional, apelo inspiracional, consulta, troca, apelo pessoal, insinuação, legitimidade, pressão, coalizão.",
+        "Gerenciamento de impressões: conformidade, desculpas, justificação, pedido de desculpas, autopromoção, intensificação, bajulação, favores, associação."
+      ]
+    },
+    {
+      "heading": "Crise, emergência e catástrofe (base doutrinária)",
+      "items": [
+        "Intervenção em crise (Caplan): breve, focal e imediata; avaliar, aliviar a ansiedade, devolver a sensação de controle, ativar a rede de apoio.",
+        "Primeiros cuidados psicológicos (OMS): observar, escutar e aproximar ou conectar; necessidades básicas primeiro; não forçar o relato do evento.",
+        "Pirâmide IASC: serviços básicos e segurança; apoio comunitário e familiar; apoio focado não especializado; serviços especializados (topo, menor parcela).",
+        "Grupos de apoio: sustentar a força existente de uma categoria em crise comum, não fazer terapia de reestruturação."
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "title": "Grupo ou equipe: o objetivo decide",
+      "body": "A banca pergunta quando usar 'grupo de trabalho' em vez de 'equipe': quando o objetivo é só compartilhar informação (al-to-2005-consultor-legislativo-psicologia-q36). O texto de bndes-2024-analista-psicologia-organizacional-q50 define equipe como grupo relativamente estável que compartilha técnicas, regras e responsabilidades. A efetividade de equipe não se mede só pelo resultado técnico: satisfação e sobrevivência da equipe também contam (bndes-2024-analista-psicologia-organizacional-q41), e equipe integrada supera time de estrelas (bndes-2024-analista-psicologia-organizacional-q47).",
+      "evidence": [
+        "al-to-2005-consultor-legislativo-psicologia-q36",
+        "bndes-2024-analista-psicologia-organizacional-q50",
+        "bndes-2024-analista-psicologia-organizacional-q41",
+        "bndes-2024-analista-psicologia-organizacional-q47"
+      ]
+    },
+    {
+      "title": "Liderança: contingência e flexibilidade ganham das teorias de traço",
+      "body": "Toda questão de liderança do banco valoriza o ajuste do líder à situação: teoria da contingência (mpe-ro-2005-analista-psicologia-q26), caminho-meta com líder flexível (petrobras-2012-psicologo-junior-q28), líder carismático descrito pela visão, risco pessoal e comportamento não convencional (petrobras-2012-psicologo-junior-q34) e liderança compartilhada que exige mudar as expectativas dos subordinados (bndes-2024-analista-psicologia-organizacional-q69). Alternativa que diz que o líder já nasce pronto ou tem estilo único é distrator.",
+      "evidence": [
+        "mpe-ro-2005-analista-psicologia-q26",
+        "petrobras-2012-psicologo-junior-q28",
+        "petrobras-2012-psicologo-junior-q34",
+        "bndes-2024-analista-psicologia-organizacional-q69"
+      ]
+    },
+    {
+      "title": "Robbins em listas: táticas de influência, impressões e poder",
+      "body": "A banca dá falas ou um caso e pede o rótulo das listas de Robbins: professores que buscam apoio da comunidade usam coalizão (bndes-2013-profissional-basico-psicologia-q47); três falas de candidatos e empregados são associação, conformidade e justificação (bndes-2024-analista-psicologia-organizacional-q70); ator que endossa marca exerce poder de referência (petrobras-2012-psicologo-junior-q33). Decore as listas com um exemplo por item.",
+      "evidence": [
+        "bndes-2013-profissional-basico-psicologia-q47",
+        "bndes-2024-analista-psicologia-organizacional-q70",
+        "petrobras-2012-psicologo-junior-q33"
+      ]
+    },
+    {
+      "title": "Bion e Pichon-Rivière via Zimerman",
+      "body": "Quando aparece Zimerman, a pergunta é de grupo psicanalítico aplicado: o grupo de trabalho de Bion é o responsável pela realização da tarefa (mpe-ro-2005-analista-psicologia-q28); para relações interpessoais nos setores da empresa, o grupo operativo (mpe-ro-2005-analista-psicologia-q29). Não confunda o grupo de trabalho de Bion (polo racional de qualquer grupo) com o 'grupo de trabalho' de Robbins (agrupamento que só compartilha informação).",
+      "evidence": [
+        "mpe-ro-2005-analista-psicologia-q28",
+        "mpe-ro-2005-analista-psicologia-q29"
+      ]
+    },
+    {
+      "title": "Feedback e escuta: específico, dirigido, com paráfrase",
+      "body": "A situação de feedback certa é a dirigida e específica (bndes-2013-profissional-basico-psicologia-q65); o feedback vale porque traz informação nova sobre si, os outros e o grupo (bndes-2024-analista-psicologia-organizacional-q67); a escuta ativa usa paráfrases (al-to-2005-consultor-legislativo-psicologia-q33). Feedback genérico, avaliativo ou atrasado é sempre o distrator.",
+      "evidence": [
+        "bndes-2013-profissional-basico-psicologia-q65",
+        "bndes-2024-analista-psicologia-organizacional-q67",
+        "al-to-2005-consultor-legislativo-psicologia-q33"
+      ]
+    }
+  ],
+  "trapWords": [
+    {
+      "term": "grupo de trabalho (Bion)",
+      "confusedWith": "grupo de trabalho (Robbins)",
+      "distinction": "Em Bion é o polo racional, orientado à tarefa, de qualquer grupo; em Robbins é o agrupamento que só compartilha informação, sem sinergia de equipe."
+    },
+    {
+      "term": "poder de referência",
+      "confusedWith": "poder de especialista",
+      "distinction": "Referência vem da admiração e identificação com a pessoa; especialista vem do conhecimento técnico."
+    },
+    {
+      "term": "liderança carismática",
+      "confusedWith": "liderança transacional",
+      "distinction": "Carismática: visão, risco pessoal, comportamento não convencional. Transacional: troca de recompensa por desempenho e gestão por exceção."
+    },
+    {
+      "term": "Fiedler",
+      "confusedWith": "Hersey e Blanchard",
+      "distinction": "Fiedler: estilo fixo, muda-se a situação ou o líder. Hersey e Blanchard: o líder adapta o estilo à maturidade do liderado."
+    },
+    {
+      "term": "coalizão",
+      "confusedWith": "consulta",
+      "distinction": "Coalizão busca apoio de outros para fortalecer a própria posição; consulta envolve o alvo na decisão para ganhar o apoio dele."
+    },
+    {
+      "term": "desintegração (adjourning)",
+      "confusedWith": "tormenta (storming)",
+      "distinction": "Tormenta é o conflito inicial sobre papéis e liderança; desintegração é o encerramento, em que o líder conduz a transição."
+    }
+  ]
+}

@@ -1,0 +1,869 @@
+{
+ "concurso": "secad-to-2004-psicologo",
+ "questions": [
+  {
+   "id": "secad-to-2004-psicologo-q1",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 1,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "De acordo com o Texto I, ISO é um sistema de pontuação que avalia, nas empresas, a:",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>MEDIDAS PARA VIVER MELHOR</strong></p><p>1 A evolução do conceito de qualidade total criou<br>2 em diversos setores organizacionais um sistema de<br>3 pontuação – ISO – que é usado na avaliação da quali-<br>4 dade de produtos, serviços, de meio ambiente e assim<br>5 por diante. Os parâmetros a serem alcançados para<br>6 obter o certificado ISO, que torna produtos mais com-<br>7 petitivos e serviços mais eficientes, indicam o \"cami-<br>8 nho das pedras\" que deve ser seguido para se alcan-<br>9 çar a qualidade total.</p><p>10 Em praticamente todos os setores de ativida-<br>11 des o ser humano é o elo importante desse sistema.<br>12 Então por que não avaliar os parâmetros da qualidade<br>13 de vida do ser humano? Por que não tentar buscar a<br>14 qualidade total de vida?</p><p>15 É importante se promover o bem-estar total, pois<br>16 o moderno conceito de saúde vai muito além da au-<br>17 sência de doenças e engloba o bem-estar físico, soci-<br>18 al, intelectual, emocional, espiritual e profissional, que<br>19 devem ser avaliados periodicamente. Além desses fa-<br>20 tores, outro segmento que muito influi na qualidade total<br>21 de vida é a saúde familiar.</p><p>22 Com o objetivo de melhor administrar a saúde,<br>23 deve-se procurar um equilíbrio entre o trabalho, o lazer<br>24 e o repouso, valorizar as férias e os fins de semana,<br>25 priorizar a auto-estima, preservar e aprimorar o equilí-<br>26 brio emocional. Temos verificado que mesmo as pes-<br>27 soas que fazem exames médicos periódicos ou check-<br>28 ups, muitas vezes, devido a dificuldades emocionais,<br>29 não seguem as recomendações finais, o que repre-<br>30 senta um fator limitante na promoção da saúde.</p><p>31 Quem assimila o conceito de saúde total e adota<br>32 medidas positivas de comportamento e hábitos saudá-<br>33 veis, consegue melhor pontuação e conseqüentemen-<br>34 te mais se aproxima do almejado \"ISO ser humano\".<br>35 Para isso cada pessoa deve estabelecer o seu progra-<br>36 ma de saúde. Todos podem conseguir um viver melhor<br>37 desde que haja uma firme decisão de se cuidar.</p><p>38 Deve-se fazer um planejamento geral e esco-<br>39 lher a primeira meta a ser alcançada. As prioridades<br>40 variam de pessoa para pessoa.</p><p>JACQUES, Haroldo. <strong>O Globo</strong>. 16 maio 2004. (adaptado)</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "competitividade dos produtos e a eficiência dos serviços.",
+     "explanation": "Competitividade e eficiência são efeitos da certificação ('torna produtos mais competitivos e serviços mais eficientes'), não o que o sistema avalia."
+    },
+    {
+     "key": "B",
+     "text": "qualidade das matérias-primas e a evolução do conceito.",
+     "explanation": "O texto não fala em matérias-primas; a 'evolução do conceito de qualidade total' é a origem do sistema, não seu objeto."
+    },
+    {
+     "key": "C",
+     "text": "capacidade de produção e a qualificação do pessoal.",
+     "explanation": "O texto não menciona capacidade de produção nem qualificação de pessoal como objetos da avaliação."
+    },
+    {
+     "key": "D",
+     "text": "qualidade do produto e as condições de produção."
+    },
+    {
+     "key": "E",
+     "text": "política empresarial e a estratégia organizacional.",
+     "explanation": "Não são mencionadas como objetos do sistema ISO."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O texto diz que o ISO 'é usado na avaliação da qualidade de produtos, serviços, de meio ambiente' e indica os parâmetros ('caminho das pedras') a seguir para alcançar a qualidade total, isto é, avalia o produto e as condições em que é produzido. Competitividade e eficiência são consequências da certificação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q2",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 2,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Segundo o Texto I, a postura de vida que, por sua abrangência, mais se aproxima do \"ISO ser humano\" é:",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>MEDIDAS PARA VIVER MELHOR</strong></p><p>1 A evolução do conceito de qualidade total criou<br>2 em diversos setores organizacionais um sistema de<br>3 pontuação – ISO – que é usado na avaliação da quali-<br>4 dade de produtos, serviços, de meio ambiente e assim<br>5 por diante. Os parâmetros a serem alcançados para<br>6 obter o certificado ISO, que torna produtos mais com-<br>7 petitivos e serviços mais eficientes, indicam o \"cami-<br>8 nho das pedras\" que deve ser seguido para se alcan-<br>9 çar a qualidade total.</p><p>10 Em praticamente todos os setores de ativida-<br>11 des o ser humano é o elo importante desse sistema.<br>12 Então por que não avaliar os parâmetros da qualidade<br>13 de vida do ser humano? Por que não tentar buscar a<br>14 qualidade total de vida?</p><p>15 É importante se promover o bem-estar total, pois<br>16 o moderno conceito de saúde vai muito além da au-<br>17 sência de doenças e engloba o bem-estar físico, soci-<br>18 al, intelectual, emocional, espiritual e profissional, que<br>19 devem ser avaliados periodicamente. Além desses fa-<br>20 tores, outro segmento que muito influi na qualidade total<br>21 de vida é a saúde familiar.</p><p>22 Com o objetivo de melhor administrar a saúde,<br>23 deve-se procurar um equilíbrio entre o trabalho, o lazer<br>24 e o repouso, valorizar as férias e os fins de semana,<br>25 priorizar a auto-estima, preservar e aprimorar o equilí-<br>26 brio emocional. Temos verificado que mesmo as pes-<br>27 soas que fazem exames médicos periódicos ou check-<br>28 ups, muitas vezes, devido a dificuldades emocionais,<br>29 não seguem as recomendações finais, o que repre-<br>30 senta um fator limitante na promoção da saúde.</p><p>31 Quem assimila o conceito de saúde total e adota<br>32 medidas positivas de comportamento e hábitos saudá-<br>33 veis, consegue melhor pontuação e conseqüentemen-<br>34 te mais se aproxima do almejado \"ISO ser humano\".<br>35 Para isso cada pessoa deve estabelecer o seu progra-<br>36 ma de saúde. Todos podem conseguir um viver melhor<br>37 desde que haja uma firme decisão de se cuidar.</p><p>38 Deve-se fazer um planejamento geral e esco-<br>39 lher a primeira meta a ser alcançada. As prioridades<br>40 variam de pessoa para pessoa.</p><p>JACQUES, Haroldo. <strong>O Globo</strong>. 16 maio 2004. (adaptado)</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "ter uma alimentação variada e balanceada.",
+     "explanation": "Hábito específico, não mencionado no texto; não tem a abrangência pedida."
+    },
+    {
+     "key": "B",
+     "text": "saber conjugar trabalho, lazer e férias.",
+     "explanation": "É apenas uma das medidas citadas para administrar a saúde."
+    },
+    {
+     "key": "C",
+     "text": "adotar medidas positivas de comportamento e hábitos saudáveis."
+    },
+    {
+     "key": "D",
+     "text": "fazer periodicamente visitas ao médico e ao dentista.",
+     "explanation": "O texto mostra que exames periódicos não bastam se a pessoa não segue as recomendações."
+    },
+    {
+     "key": "E",
+     "text": "evitar estresse, pensamentos negativos e excesso de tarefas.",
+     "explanation": "Medidas parciais, não a postura abrangente que o texto aponta."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O texto afirma: 'Quem assimila o conceito de saúde total e adota medidas positivas de comportamento e hábitos saudáveis, consegue melhor pontuação e conseqüentemente mais se aproxima do almejado ISO ser humano' (l. 31-34).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q3",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 3,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "De acordo com o Texto I, é <strong>INCORRETO</strong> afirmar que:",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>MEDIDAS PARA VIVER MELHOR</strong></p><p>1 A evolução do conceito de qualidade total criou<br>2 em diversos setores organizacionais um sistema de<br>3 pontuação – ISO – que é usado na avaliação da quali-<br>4 dade de produtos, serviços, de meio ambiente e assim<br>5 por diante. Os parâmetros a serem alcançados para<br>6 obter o certificado ISO, que torna produtos mais com-<br>7 petitivos e serviços mais eficientes, indicam o \"cami-<br>8 nho das pedras\" que deve ser seguido para se alcan-<br>9 çar a qualidade total.</p><p>10 Em praticamente todos os setores de ativida-<br>11 des o ser humano é o elo importante desse sistema.<br>12 Então por que não avaliar os parâmetros da qualidade<br>13 de vida do ser humano? Por que não tentar buscar a<br>14 qualidade total de vida?</p><p>15 É importante se promover o bem-estar total, pois<br>16 o moderno conceito de saúde vai muito além da au-<br>17 sência de doenças e engloba o bem-estar físico, soci-<br>18 al, intelectual, emocional, espiritual e profissional, que<br>19 devem ser avaliados periodicamente. Além desses fa-<br>20 tores, outro segmento que muito influi na qualidade total<br>21 de vida é a saúde familiar.</p><p>22 Com o objetivo de melhor administrar a saúde,<br>23 deve-se procurar um equilíbrio entre o trabalho, o lazer<br>24 e o repouso, valorizar as férias e os fins de semana,<br>25 priorizar a auto-estima, preservar e aprimorar o equilí-<br>26 brio emocional. Temos verificado que mesmo as pes-<br>27 soas que fazem exames médicos periódicos ou check-<br>28 ups, muitas vezes, devido a dificuldades emocionais,<br>29 não seguem as recomendações finais, o que repre-<br>30 senta um fator limitante na promoção da saúde.</p><p>31 Quem assimila o conceito de saúde total e adota<br>32 medidas positivas de comportamento e hábitos saudá-<br>33 veis, consegue melhor pontuação e conseqüentemen-<br>34 te mais se aproxima do almejado \"ISO ser humano\".<br>35 Para isso cada pessoa deve estabelecer o seu progra-<br>36 ma de saúde. Todos podem conseguir um viver melhor<br>37 desde que haja uma firme decisão de se cuidar.</p><p>38 Deve-se fazer um planejamento geral e esco-<br>39 lher a primeira meta a ser alcançada. As prioridades<br>40 variam de pessoa para pessoa.</p><p>JACQUES, Haroldo. <strong>O Globo</strong>. 16 maio 2004. (adaptado)</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "os procedimentos para atingir o \"ISO ser humano\" variam de pessoa para pessoa.",
+     "explanation": "Correto: 'As prioridades variam de pessoa para pessoa' (l. 39-40)."
+    },
+    {
+     "key": "B",
+     "text": "o conceito de saúde ultrapassa os limites físicos.",
+     "explanation": "Correto: o conceito moderno engloba bem-estar social, intelectual, emocional, espiritual e profissional."
+    },
+    {
+     "key": "C",
+     "text": "o bem-estar total é um dos aspectos da saúde física."
+    },
+    {
+     "key": "D",
+     "text": "a saúde familiar é um fator relevante no contexto de vida do ser humano.",
+     "explanation": "Correto: 'outro segmento que muito influi na qualidade total de vida é a saúde familiar' (l. 20-21)."
+    },
+    {
+     "key": "E",
+     "text": "a qualidade de vida do ser humano depende do programa de saúde por ele estabelecido.",
+     "explanation": "Correto: 'cada pessoa deve estabelecer o seu programa de saúde' para viver melhor (l. 35-36)."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "No texto, a relação é inversa: o bem-estar total engloba o bem-estar físico, ao lado do social, intelectual, emocional, espiritual e profissional. Dizer que o bem-estar total é um aspecto da saúde física inverte o todo e a parte.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q4",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 4,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "Analise a ordem em que os tópicos abaixo estão abordados no Texto I.<br>I - O papel desempenhado pelo ser humano no sistema.<br>II - A relação entre saúde e bem-estar.<br>III - O conceito de ISO.<br>IV - A qualidade total de vida.<br>A seqüência correta é:",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>MEDIDAS PARA VIVER MELHOR</strong></p><p>1 A evolução do conceito de qualidade total criou<br>2 em diversos setores organizacionais um sistema de<br>3 pontuação – ISO – que é usado na avaliação da quali-<br>4 dade de produtos, serviços, de meio ambiente e assim<br>5 por diante. Os parâmetros a serem alcançados para<br>6 obter o certificado ISO, que torna produtos mais com-<br>7 petitivos e serviços mais eficientes, indicam o \"cami-<br>8 nho das pedras\" que deve ser seguido para se alcan-<br>9 çar a qualidade total.</p><p>10 Em praticamente todos os setores de ativida-<br>11 des o ser humano é o elo importante desse sistema.<br>12 Então por que não avaliar os parâmetros da qualidade<br>13 de vida do ser humano? Por que não tentar buscar a<br>14 qualidade total de vida?</p><p>15 É importante se promover o bem-estar total, pois<br>16 o moderno conceito de saúde vai muito além da au-<br>17 sência de doenças e engloba o bem-estar físico, soci-<br>18 al, intelectual, emocional, espiritual e profissional, que<br>19 devem ser avaliados periodicamente. Além desses fa-<br>20 tores, outro segmento que muito influi na qualidade total<br>21 de vida é a saúde familiar.</p><p>22 Com o objetivo de melhor administrar a saúde,<br>23 deve-se procurar um equilíbrio entre o trabalho, o lazer<br>24 e o repouso, valorizar as férias e os fins de semana,<br>25 priorizar a auto-estima, preservar e aprimorar o equilí-<br>26 brio emocional. Temos verificado que mesmo as pes-<br>27 soas que fazem exames médicos periódicos ou check-<br>28 ups, muitas vezes, devido a dificuldades emocionais,<br>29 não seguem as recomendações finais, o que repre-<br>30 senta um fator limitante na promoção da saúde.</p><p>31 Quem assimila o conceito de saúde total e adota<br>32 medidas positivas de comportamento e hábitos saudá-<br>33 veis, consegue melhor pontuação e conseqüentemen-<br>34 te mais se aproxima do almejado \"ISO ser humano\".<br>35 Para isso cada pessoa deve estabelecer o seu progra-<br>36 ma de saúde. Todos podem conseguir um viver melhor<br>37 desde que haja uma firme decisão de se cuidar.</p><p>38 Deve-se fazer um planejamento geral e esco-<br>39 lher a primeira meta a ser alcançada. As prioridades<br>40 variam de pessoa para pessoa.</p><p>JACQUES, Haroldo. <strong>O Globo</strong>. 16 maio 2004. (adaptado)</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I – II – III – IV",
+     "explanation": "O texto começa pelo conceito de ISO (1º parágrafo), não pelo papel do ser humano."
+    },
+    {
+     "key": "B",
+     "text": "I – III – IV – II",
+     "explanation": "Também começa indevidamente pelo papel do ser humano."
+    },
+    {
+     "key": "C",
+     "text": "II – III – IV – I",
+     "explanation": "A relação entre saúde e bem-estar só aparece no 3º parágrafo."
+    },
+    {
+     "key": "D",
+     "text": "III – I – II – IV"
+    },
+    {
+     "key": "E",
+     "text": "III – IV – I – II",
+     "explanation": "Depois do ISO vem o papel do ser humano (2º parágrafo), e a qualidade total de vida é o fecho."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O 1º parágrafo define o ISO; o 2º apresenta o ser humano como elo do sistema; o 3º relaciona saúde e bem-estar total; os últimos tratam de como alcançar a qualidade total de vida (o 'ISO ser humano').",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q5",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 5,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.7 Coordenação e subordinação",
+   "stem": "\"Todos podem conseguir um viver melhor desde que haja uma firme decisão de se cuidar.\" (l. 36-37)<br>A segunda oração do período acima estabelece com a anterior uma relação de:",
+   "passage": "<p><strong>Texto I</strong></p><p><strong>MEDIDAS PARA VIVER MELHOR</strong></p><p>1 A evolução do conceito de qualidade total criou<br>2 em diversos setores organizacionais um sistema de<br>3 pontuação – ISO – que é usado na avaliação da quali-<br>4 dade de produtos, serviços, de meio ambiente e assim<br>5 por diante. Os parâmetros a serem alcançados para<br>6 obter o certificado ISO, que torna produtos mais com-<br>7 petitivos e serviços mais eficientes, indicam o \"cami-<br>8 nho das pedras\" que deve ser seguido para se alcan-<br>9 çar a qualidade total.</p><p>10 Em praticamente todos os setores de ativida-<br>11 des o ser humano é o elo importante desse sistema.<br>12 Então por que não avaliar os parâmetros da qualidade<br>13 de vida do ser humano? Por que não tentar buscar a<br>14 qualidade total de vida?</p><p>15 É importante se promover o bem-estar total, pois<br>16 o moderno conceito de saúde vai muito além da au-<br>17 sência de doenças e engloba o bem-estar físico, soci-<br>18 al, intelectual, emocional, espiritual e profissional, que<br>19 devem ser avaliados periodicamente. Além desses fa-<br>20 tores, outro segmento que muito influi na qualidade total<br>21 de vida é a saúde familiar.</p><p>22 Com o objetivo de melhor administrar a saúde,<br>23 deve-se procurar um equilíbrio entre o trabalho, o lazer<br>24 e o repouso, valorizar as férias e os fins de semana,<br>25 priorizar a auto-estima, preservar e aprimorar o equilí-<br>26 brio emocional. Temos verificado que mesmo as pes-<br>27 soas que fazem exames médicos periódicos ou check-<br>28 ups, muitas vezes, devido a dificuldades emocionais,<br>29 não seguem as recomendações finais, o que repre-<br>30 senta um fator limitante na promoção da saúde.</p><p>31 Quem assimila o conceito de saúde total e adota<br>32 medidas positivas de comportamento e hábitos saudá-<br>33 veis, consegue melhor pontuação e conseqüentemen-<br>34 te mais se aproxima do almejado \"ISO ser humano\".<br>35 Para isso cada pessoa deve estabelecer o seu progra-<br>36 ma de saúde. Todos podem conseguir um viver melhor<br>37 desde que haja uma firme decisão de se cuidar.</p><p>38 Deve-se fazer um planejamento geral e esco-<br>39 lher a primeira meta a ser alcançada. As prioridades<br>40 variam de pessoa para pessoa.</p><p>JACQUES, Haroldo. <strong>O Globo</strong>. 16 maio 2004. (adaptado)</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "causa.",
+     "explanation": "Causa seria 'porque', 'já que'; 'desde que' com subjuntivo não indica causa."
+    },
+    {
+     "key": "B",
+     "text": "tempo.",
+     "explanation": "'Desde que' temporal ('a partir do momento em que') leva indicativo; aqui o subjuntivo 'haja' marca condição."
+    },
+    {
+     "key": "C",
+     "text": "conclusão.",
+     "explanation": "Conclusão seria 'portanto', 'logo'."
+    },
+    {
+     "key": "D",
+     "text": "concessão.",
+     "explanation": "Concessão seria 'embora', 'ainda que'."
+    },
+    {
+     "key": "E",
+     "text": "condição."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "'Desde que' seguido de subjuntivo ('haja') é locução conjuntiva condicional, equivalente a 'contanto que': viver melhor depende da condição de haver firme decisão de se cuidar.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q6",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 6,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "Nas passagens \"<strong>Impecável</strong>, transitava o marido pelo tempo.\" (l. 9) e \"... a presença de duas fortes <strong>pregas</strong> ...\" (l. 15-16), as palavras destacadas podem ser substituídas, sem alterar o sentido do texto, respectivamente, por:",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>NUNCA DESCUIDANDO DO DEVER</strong></p><p>1 Jamais permitiria que seu marido fosse para o<br>2 trabalho com a roupa mal passada, não dissessem os<br>3 colegas que era esposa descuidada. Debruçada so-<br>4 bre a tábua com olho vigilante, dava caça às dobras,<br>5 desfazia pregas, aplainando punhos e peitos, afiando<br>6 o vinco das calças. E a poder de ferro e goma, envolta<br>7 em vapores, alcançava o ponto máximo da sua arte<br>8 ao arrancar dos colarinhos liso brilho de celulóide.</p><p>9 Impecável, transitava o marido pelo tempo. Que,<br>10 embora respeitando ternos e camisas, começou sub-<br>11 repticiamente a marcar seu avanço na pele do rosto.<br>12 Um dia notou a mulher um leve afrouxar-se das pálpe-<br>13 bras. Semanas depois percebeu que, no sorriso, fran-<br>14 ziam-se fundos os cantos dos olhos.</p><p>15 Mas foi só muitos meses mais tarde que a pre-<br>16 sença de duas fortes pregas descendo dos lados do<br>17 nariz até a boca tornou-se inegável. Sem nada dizer,<br>18 ela esperou a noite. Tendo finalmente certeza de que<br>19 o homem dormia o mais pesado dos sonos, pegou um<br>20 paninho úmido e, silenciosa, ligou o ferro.</p><p>COLASANTI, Marina. <em>Contos de amor rasgados.</em></p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "imaculado – marcas."
+    },
+    {
+     "key": "B",
+     "text": "infalível – rusgas.",
+     "explanation": "Infalível é o que não falha; rusgas são desavenças, brigas."
+    },
+    {
+     "key": "C",
+     "text": "incensurável – manchas.",
+     "explanation": "Pregas no rosto são rugas/marcas, não manchas."
+    },
+    {
+     "key": "D",
+     "text": "indiferente – dobras.",
+     "explanation": "Indiferente (desinteressado) não equivale a impecável (sem defeito)."
+    },
+    {
+     "key": "E",
+     "text": "indiscutível – carquilhas.",
+     "explanation": "Indiscutível é o que não admite discussão; não descreve a aparência do marido."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "'Impecável' descreve o marido sem nenhum defeito na roupa: imaculado, sem mácula. As 'pregas' que descem do nariz à boca são as marcas do envelhecimento no rosto.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q8",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 8,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "No Texto II, o substantivo que, semanticamente, define a ação da mulher é:",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>NUNCA DESCUIDANDO DO DEVER</strong></p><p>1 Jamais permitiria que seu marido fosse para o<br>2 trabalho com a roupa mal passada, não dissessem os<br>3 colegas que era esposa descuidada. Debruçada so-<br>4 bre a tábua com olho vigilante, dava caça às dobras,<br>5 desfazia pregas, aplainando punhos e peitos, afiando<br>6 o vinco das calças. E a poder de ferro e goma, envolta<br>7 em vapores, alcançava o ponto máximo da sua arte<br>8 ao arrancar dos colarinhos liso brilho de celulóide.</p><p>9 Impecável, transitava o marido pelo tempo. Que,<br>10 embora respeitando ternos e camisas, começou sub-<br>11 repticiamente a marcar seu avanço na pele do rosto.<br>12 Um dia notou a mulher um leve afrouxar-se das pálpe-<br>13 bras. Semanas depois percebeu que, no sorriso, fran-<br>14 ziam-se fundos os cantos dos olhos.</p><p>15 Mas foi só muitos meses mais tarde que a pre-<br>16 sença de duas fortes pregas descendo dos lados do<br>17 nariz até a boca tornou-se inegável. Sem nada dizer,<br>18 ela esperou a noite. Tendo finalmente certeza de que<br>19 o homem dormia o mais pesado dos sonos, pegou um<br>20 paninho úmido e, silenciosa, ligou o ferro.</p><p>COLASANTI, Marina. <em>Contos de amor rasgados.</em></p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "gratidão.",
+     "explanation": "Nada no conto indica que ela age por gratidão ao marido."
+    },
+    {
+     "key": "B",
+     "text": "respeito.",
+     "explanation": "O motivo declarado é evitar que os colegas a julgassem 'esposa descuidada', não respeito."
+    },
+    {
+     "key": "C",
+     "text": "insegurança.",
+     "explanation": "Não há sinais de insegurança; ao contrário, ela age com determinação."
+    },
+    {
+     "key": "D",
+     "text": "vaidade.",
+     "explanation": "A vaidade seria com a própria aparência; ela cuida da aparência do marido como dever."
+    },
+    {
+     "key": "E",
+     "text": "obstinação."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A mulher persegue de modo incansável a perfeição: caça dobras, desfaz pregas e, por fim, decide passar o ferro no rosto do marido para eliminar as rugas. Essa persistência extrema define a obstinação.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q9",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 9,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "A relação entre o vocábulo destacado e a categoria gramatical a ele atribuída está correta em:",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>NUNCA DESCUIDANDO DO DEVER</strong></p><p>1 Jamais permitiria que seu marido fosse para o<br>2 trabalho com a roupa mal passada, não dissessem os<br>3 colegas que era esposa descuidada. Debruçada so-<br>4 bre a tábua com olho vigilante, dava caça às dobras,<br>5 desfazia pregas, aplainando punhos e peitos, afiando<br>6 o vinco das calças. E a poder de ferro e goma, envolta<br>7 em vapores, alcançava o ponto máximo da sua arte<br>8 ao arrancar dos colarinhos liso brilho de celulóide.</p><p>9 Impecável, transitava o marido pelo tempo. Que,<br>10 embora respeitando ternos e camisas, começou sub-<br>11 repticiamente a marcar seu avanço na pele do rosto.<br>12 Um dia notou a mulher um leve afrouxar-se das pálpe-<br>13 bras. Semanas depois percebeu que, no sorriso, fran-<br>14 ziam-se fundos os cantos dos olhos.</p><p>15 Mas foi só muitos meses mais tarde que a pre-<br>16 sença de duas fortes pregas descendo dos lados do<br>17 nariz até a boca tornou-se inegável. Sem nada dizer,<br>18 ela esperou a noite. Tendo finalmente certeza de que<br>19 o homem dormia o mais pesado dos sonos, pegou um<br>20 paninho úmido e, silenciosa, ligou o ferro.</p><p>COLASANTI, Marina. <em>Contos de amor rasgados.</em></p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "\"... com a roupa <strong>mal</strong> passada,\" (l. 2) – adjetivo.",
+     "explanation": "'Mal' modifica o particípio 'passada': é advérbio de modo."
+    },
+    {
+     "key": "B",
+     "text": "\"... <strong>que</strong> era esposa descuidada.\" (l. 3) – pronome relativo.",
+     "explanation": "'Que' introduz oração objetiva direta de 'dissessem': é conjunção integrante."
+    },
+    {
+     "key": "C",
+     "text": "\"começou sub-repticiamente <strong>a</strong> marcar...\" (l. 10-11) – preposição."
+    },
+    {
+     "key": "D",
+     "text": "\"... um leve <strong>afrouxar</strong>-se das pálpebras.\" (l. 12-13) – verbo.",
+     "explanation": "Precedido de artigo e adjetivo ('um leve'), o infinitivo está substantivado."
+    },
+    {
+     "key": "E",
+     "text": "\"... só <strong>muitos</strong> meses ...\" (l. 15) – advérbio.",
+     "explanation": "'Muitos' determina o substantivo 'meses' e flexiona-se: é pronome indefinido (adjetivo)."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Na locução verbal 'começou a marcar', o 'a' liga o auxiliar ao infinitivo e é preposição. Nas demais, 'mal' é advérbio, 'que' é conjunção integrante, 'afrouxar' está substantivado e 'muitos' é pronome indefinido.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q10",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 10,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.7 Coordenação e subordinação",
+   "stem": "Assinale a opção em que, ao transcrever a oração \"embora respeitando ternos e camisas,\" (l. 10), o sentido permanece.",
+   "passage": "<p><strong>Texto II</strong></p><p><strong>NUNCA DESCUIDANDO DO DEVER</strong></p><p>1 Jamais permitiria que seu marido fosse para o<br>2 trabalho com a roupa mal passada, não dissessem os<br>3 colegas que era esposa descuidada. Debruçada so-<br>4 bre a tábua com olho vigilante, dava caça às dobras,<br>5 desfazia pregas, aplainando punhos e peitos, afiando<br>6 o vinco das calças. E a poder de ferro e goma, envolta<br>7 em vapores, alcançava o ponto máximo da sua arte<br>8 ao arrancar dos colarinhos liso brilho de celulóide.</p><p>9 Impecável, transitava o marido pelo tempo. Que,<br>10 embora respeitando ternos e camisas, começou sub-<br>11 repticiamente a marcar seu avanço na pele do rosto.<br>12 Um dia notou a mulher um leve afrouxar-se das pálpe-<br>13 bras. Semanas depois percebeu que, no sorriso, fran-<br>14 ziam-se fundos os cantos dos olhos.</p><p>15 Mas foi só muitos meses mais tarde que a pre-<br>16 sença de duas fortes pregas descendo dos lados do<br>17 nariz até a boca tornou-se inegável. Sem nada dizer,<br>18 ela esperou a noite. Tendo finalmente certeza de que<br>19 o homem dormia o mais pesado dos sonos, pegou um<br>20 paninho úmido e, silenciosa, ligou o ferro.</p><p>COLASANTI, Marina. <em>Contos de amor rasgados.</em></p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Como respeitava ternos e camisas.",
+     "explanation": "'Como' anteposto introduz causa."
+    },
+    {
+     "key": "B",
+     "text": "Ainda que respeitasse ternos e camisas."
+    },
+    {
+     "key": "C",
+     "text": "Por respeitar ternos e camisas.",
+     "explanation": "'Por' + infinitivo introduz causa."
+    },
+    {
+     "key": "D",
+     "text": "Quando respeitou ternos e camisas.",
+     "explanation": "'Quando' introduz tempo."
+    },
+    {
+     "key": "E",
+     "text": "Uma vez que respeitava ternos e camisas.",
+     "explanation": "'Uma vez que' com indicativo introduz causa."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "'Embora respeitando' é oração concessiva reduzida de gerúndio: o tempo respeitou a roupa, mas marcou o rosto. 'Ainda que respeitasse' mantém a concessão, agora na forma desenvolvida com subjuntivo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q22",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 22,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "saude-trab",
+   "subtopic": "6.1 Processo saúde-doença",
+   "stem": "Em relação à saúde do trabalhador, é disposição da Lei 8.080/1990, que trata das condições para a promoção, proteção e recuperação da saúde e da organização e funcionamento dos serviços correspondentes:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "a garantia ao sindicato dos trabalhadores de requerer a interdição de máquina, quando houver exposição a risco para a saúde dos trabalhadores."
+    },
+    {
+     "key": "B",
+     "text": "a indicação da entidade sindical regional como responsável pelo acompanhamento e avaliação do impacto das novas tecnologias à saúde.",
+     "explanation": "A lei prevê a participação de entidades sindicais na revisão das normas e na avaliação de tecnologias, mas a responsabilidade é do SUS, não do sindicato."
+    },
+    {
+     "key": "C",
+     "text": "a promoção de atividades de educação para a saúde como a determinação do uso de equipamentos de proteção individual.",
+     "explanation": "A lei fala em informação ao trabalhador sobre riscos; não estabelece educação em saúde como 'determinação do uso de EPI'."
+    },
+    {
+     "key": "D",
+     "text": "a responsabilidade da entidade sindical pela informação e o controle dos riscos de acidentes de trabalho e das doenças profissionais nas empresas.",
+     "explanation": "A informação ao trabalhador e à sua entidade sindical é dever do SUS e das empresas, não responsabilidade do sindicato."
+    },
+    {
+     "key": "E",
+     "text": "as políticas de saúde do trabalhador com a responsabilidade da formação de recursos e promoção de cursos de reciclagem.",
+     "explanation": "Não é disposição do art. 6º, §3º, sobre saúde do trabalhador."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "O art. 6º, §3º, VIII, da Lei 8.080/1990 inclui na saúde do trabalhador 'a garantia ao sindicato dos trabalhadores de requerer ao órgão competente a interdição de máquina, de setor de serviço ou de todo ambiente de trabalho, quando houver exposição a risco iminente para a vida ou saúde dos trabalhadores'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": "Lei 8.080/1990, art. 6º, §3º, VIII (redação vigente)."
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q36",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 36,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "Eric Berne, criador da Análise Transacional, escreveu algumas obras sobre o comportamento humano, sempre em função da comunicação da pessoa consigo mesma e em relação aos outros. Propôs também uma teoria acerca do trabalho grupal, que classifica em:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "papéis congruente e incongruente.",
+     "explanation": "Não é a classificação de Berne para o trabalho grupal."
+    },
+    {
+     "key": "B",
+     "text": "cooperação social e formação intelectual.",
+     "explanation": "Não corresponde à teoria grupal de Berne."
+    },
+    {
+     "key": "C",
+     "text": "grupo e atmosfera social.",
+     "explanation": "Atmosfera social remete aos estudos de clima de grupo de Lewin, Lippitt e White."
+    },
+    {
+     "key": "D",
+     "text": "campo e espaço de vida.",
+     "explanation": "Campo e espaço de vida são conceitos de Kurt Lewin."
+    },
+    {
+     "key": "E",
+     "text": "atividades e processos."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Na teoria de grupos de Eric Berne (Estrutura e dinâmica das organizações e grupos), o trabalho grupal se divide em atividade (a tarefa explícita do grupo) e processo (as forças internas e externas que atuam sobre sua estrutura e coesão). Campo e espaço de vida são de Lewin.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q48",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 48,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "Kurt Lewin afirma que determinados elementos são fundamentais para a sobrevivência de um grupo. São eles:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "independência, contemporaneidade e garra.",
+     "explanation": "Para Lewin o grupo se define pela interdependência, não pela independência dos membros."
+    },
+    {
+     "key": "B",
+     "text": "atmosfera social, existência e dependência.",
+     "explanation": "Atmosfera social é variável estudada por Lewin, mas não um dos três elementos; e o termo é interdependência."
+    },
+    {
+     "key": "C",
+     "text": "existência, interdependência e contemporaneidade."
+    },
+    {
+     "key": "D",
+     "text": "adaptação, independência e comunicação.",
+     "explanation": "Não corresponde aos elementos lewinianos; e inclui independência."
+    },
+    {
+     "key": "E",
+     "text": "autoritarismo, garra e comunicação.",
+     "explanation": "Autoritarismo é um dos estilos de liderança estudados por Lewin, não um elemento do grupo."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Para Lewin, o grupo é um todo dinâmico baseado na interdependência dos membros; sua realidade depende da existência (o grupo existe como totalidade), da interdependência (o que afeta um membro afeta os demais) e da contemporaneidade (o comportamento é determinado pelas forças presentes no campo).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "secad-to-2004-psicologo-q49",
+   "source": {
+    "file": "secad-to-2004-psicologo/prova.pdf",
+    "year": 2004,
+    "originalNumber": 49,
+    "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "Acredita-se que existam três processos que influenciam a atuação do indivíduo em grupos. São eles: complacência, identificação e internalização. Identificação no processo grupal é adotar uma atitude:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "favorável de uma terceira pessoa ou grupo, mas sem aceitar ou crer nessa atitude ou opinião.",
+     "explanation": "Descreve a complacência (submissão): aceitação pública sem convicção, para obter recompensas ou evitar punição."
+    },
+    {
+     "key": "B",
+     "text": "como sendo sua por coadunar com suas perspectivas.",
+     "explanation": "Descreve a internalização: a atitude é adotada porque é congruente com os próprios valores."
+    },
+    {
+     "key": "C",
+     "text": "de repúdio em relação ao grupo.",
+     "explanation": "Não é um dos três processos de influência de Kelman."
+    },
+    {
+     "key": "D",
+     "text": "de outra pessoa, ou opinião, incorporando-a à sua auto-imagem."
+    },
+    {
+     "key": "E",
+     "text": "sem compreender de fato o que está acontecendo.",
+     "explanation": "Não corresponde a nenhum dos processos descritos."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Segundo Kelman, a influência social opera por complacência (aceitar em público para obter aprovação ou evitar sanção), identificação (adotar a atitude de alguém ou de um grupo porque essa relação é valorizada e passa a fazer parte da autoimagem) e internalização (aceitar porque a atitude é congruente com os próprios valores).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "secad-to-2004-psicologo-q7",
+   "motivo": "Regra ortográfica obsoleta: pelo Acordo Ortográfico de 1990 (vigente desde 2009), 'autoestima' e 'autoajuda' perderam o hífen; a resposta oficial (A, 'Auto-ajuda') estaria errada hoje e nenhuma alternativa seria correta. Questão correta pela norma de 2004.",
+   "gabaritoOficial": "A",
+   "derivada": "A (pela norma de 2004)",
+   "questao": {
+    "id": "secad-to-2004-psicologo-q7",
+    "source": {
+     "file": "secad-to-2004-psicologo/prova.pdf",
+     "year": 2004,
+     "originalNumber": 7,
+     "exam": "SECAD-TO 2004 – Psicólogo (Quadro-Geral do Poder Executivo)",
+     "org": "Cesgranrio"
+    },
+    "area": "portugues",
+    "subtopic": "P.2 Ortografia oficial",
+    "stem": "Considerando-se a regra ortográfica de \"auto-estima\", qual dos vocábulos abaixo está corretamente grafado?",
+    "images": null,
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "Auto-ajuda."
+     },
+     {
+      "key": "B",
+      "text": "Auto-destruição."
+     },
+     {
+      "key": "C",
+      "text": "Auto-biografia."
+     },
+     {
+      "key": "D",
+      "text": "Auto-correção."
+     },
+     {
+      "key": "E",
+      "text": "Auto-motriz."
+     }
+    ],
+    "correctKey": "A"
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "secad-to-2004-psicologo-q11",
+   "tema": "Conhecimentos Gerais do Tocantins (estatuto, economia, geografia)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q12",
+   "tema": "Conhecimentos Gerais do Tocantins (estatuto, economia, geografia)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q13",
+   "tema": "Conhecimentos Gerais do Tocantins (estatuto, economia, geografia)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q14",
+   "tema": "Conhecimentos Gerais do Tocantins (estatuto, economia, geografia)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q15",
+   "tema": "Conhecimentos Gerais do Tocantins (estatuto, economia, geografia)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q16",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q17",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q18",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q19",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q20",
+   "tema": "Noções de Informática"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q21",
+   "tema": "Legislação do SUS"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q23",
+   "tema": "Legislação do SUS"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q24",
+   "tema": "Legislação do SUS"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q25",
+   "tema": "Legislação do SUS"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q26",
+   "tema": "Teorias e história da psicologia (behaviorismo, cognição, evolução, Wundt, humanismo)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q31",
+   "tema": "Teorias e história da psicologia (behaviorismo, cognição, evolução, Wundt, humanismo)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q32",
+   "tema": "Teorias e história da psicologia (behaviorismo, cognição, evolução, Wundt, humanismo)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q40",
+   "tema": "Teorias e história da psicologia (behaviorismo, cognição, evolução, Wundt, humanismo)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q41",
+   "tema": "Teorias e história da psicologia (behaviorismo, cognição, evolução, Wundt, humanismo)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q45",
+   "tema": "Teorias e história da psicologia (behaviorismo, cognição, evolução, Wundt, humanismo)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q27",
+   "tema": "Psicopatologia"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q28",
+   "tema": "Psicopatologia"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q29",
+   "tema": "Psicopatologia"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q30",
+   "tema": "Psicopatologia"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q37",
+   "tema": "Psicopatologia"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q38",
+   "tema": "Psicopatologia"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q46",
+   "tema": "Psicopatologia"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q47",
+   "tema": "Psicopatologia"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q50",
+   "tema": "Psicopatologia"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q33",
+   "tema": "Psicanálise (mecanismos de defesa, narcisismo)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q39",
+   "tema": "Psicanálise (mecanismos de defesa, narcisismo)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q34",
+   "tema": "Psicologia hospitalar"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q35",
+   "tema": "Psicologia hospitalar"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q42",
+   "tema": "Psicodiagnóstico e testes projetivos infantis (clínica)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q43",
+   "tema": "Psicodiagnóstico e testes projetivos infantis (clínica)"
+  },
+  {
+   "id": "secad-to-2004-psicologo-q44",
+   "tema": "Teoria do vínculo (Pichon-Rivière), clínica"
+  }
+ ],
+ "log": "Gabarito p. 6 (página rotacionada), coluna Psicólogo, lida no pdflines e conferida na imagem; Português III do nível superior (p. 3/7 do gabarito). Sem recursos localizados. q9: destaques conferidos nos runs em negrito (C = 'a', preposição). q7 na fila: hífen de 'auto-' revogado pelo Acordo Ortográfico."
+}

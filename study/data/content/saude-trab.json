@@ -1,0 +1,176 @@
+{
+  "areaId": "saude-trab",
+  "resumo": "<p><strong>O que a banca cobra.</strong> 38 questões oficiais no banco, de 6 cadernos: Petrobras 2012 (13), BNDES 2013 (10), BNDES 2024 (7), AL-TO 2005 (3), Salvador 2011 (3) e SECAD-TO 2009, psico-oncologista (2). Por subitem: psicopatologia, ergonomia e clínicas do trabalho <strong>16</strong>, teoria do estresse 8, qualidade de vida 4, processo saúde-doença 3, violência e assédio 3, acidente de trabalho 2, NRs 1, lista de doenças 1. <strong>Nexo causal (6.4) e atuação em equipes multi e interdisciplinares (6.5) não têm questão</strong>. As provas antigas quase não cobram norma; o edital de 2026 lista 7 NRs e a Portaria GM/MS 1.999/2023, e por isso o banco tem 41 autorais sobre elas: NR-1 (7), NR-4 (4), NR-5 (6), NR-7 (5), NR-17 (6), NR-20 (4), NR-37 (4) e Portaria 1.999/2023 (5).</p>\n<p><strong>O núcleo histórico: psicodinâmica do trabalho.</strong> 17 das 38 oficiais giram em torno de Dejours, da clínica do trabalho e da psicopatologia do trabalho, em Petrobras 2012, BNDES 2013 e BNDES 2024. Ideias que a banca usa: trabalhar é preencher a lacuna entre o <strong>prescrito e o real</strong> (bndes-2013-profissional-basico-psicologia-q56); o sofrimento é intrínseco ao trabalhar e pode virar criativo ou patogênico (petrobras-2012-psicologo-junior-q42); reconhecimento pelo julgamento de utilidade (hierarquia, clientes) e de <strong>beleza</strong> (pares, espaço de discussão; bndes-2013-profissional-basico-psicologia-q37); estratégias defensivas coletivas e ideologia defensiva de profissão, que nega o risco (bndes-2024-analista-psicologia-organizacional-q63); cooperação exige tornar visíveis e justificáveis os desvios do prescrito (petrobras-2012-psicologo-junior-q43); método qualitativo, pela palavra dos trabalhadores em coletivo (bndes-2013-profissional-basico-psicologia-q39). Ao lado: Clot e a clínica da atividade (autoconfrontação simples e cruzada, bndes-2013-profissional-basico-psicologia-q55); Seligmann-Silva e o desgaste mental na precarização (bndes-2013-profissional-basico-psicologia-q35); Le Guillant e a psicopatologia do trabalho.</p>\n<p><strong>Estresse.</strong> Selye (síndrome geral de adaptação: alarme, resistência, exaustão; eustresse x distresse); Lipp (alerta, resistência, quase-exaustão, exaustão); Lazarus e Folkman (avaliação cognitiva primária e secundária; enfrentamento focado no problema ou na emoção); Karasek (demanda-controle: alto controle amortece a carga alta, petrobras-2012-psicologo-junior-q44; com suporte social, Johnson); Siegrist (desequilíbrio esforço-recompensa). Controle percebido é o componente que protege (al-to-2005-consultor-legislativo-psicologia-q40, al-to-2005-consultor-legislativo-psicologia-q34). Burnout (Maslach): exaustão emocional, despersonalização e baixa realização profissional (petrobras-2012-psicologo-junior-q46); na Portaria 1.999/2023 o Esgotamento é <strong>Z73.0</strong>, não código F. A explicação de bndes-2024-analista-psicologia-organizacional-q52 cita a CID-11 (QD85); esse código não foi verificado em <code>docs/normas/</code>.</p>\n<p><strong>Normas: verificado e não verificado.</strong> NR-1, 4, 5, 7, 17, 20 e 37 lidas nos PDFs oficiais do MTE em 05/11/2026, com ressalvas: na NR-20, cargas horárias e periodicidades do Anexo I não foram conferidas; na NR-37, as partes técnicas e o capítulo 37.12 não foram lidos em detalhe; na NR-4 e na NR-5, os anexos de dimensionamento não foram conferidos. O capítulo 1.5 da NR-1 (Portaria MTE 1.419/2024, com os fatores de risco psicossociais) está <strong>em vigor desde 26/05/2026</strong> pela Portaria MTE 765/2025; o Guia de 2025 ainda fala em 2025, data superada. A Portaria GM/MS 1.999/2023 foi lida no DOU (arts. 1º a 4º, Lista A Parte V, Lista B Cap. V); o número total de doenças da lista (347, em fonte secundária) <strong>não foi verificado</strong>. Nexo causal, Lei 8.213/1991 (acidente e doença do trabalho, NTEP), Lei 8.080/1990 e Lei 14.457/2022 <strong>não estão em <code>docs/normas/</code></strong>: o que vai sobre elas abaixo é base doutrinária, a conferir no texto oficial.</p>\n<p><strong>Nexo causal e equipes (sem questão no banco).</strong> Schilling classifica a relação trabalho-doença em I (trabalho como causa necessária, as doenças profissionais), II (fator contributivo, não necessário) e III (provocador de distúrbio latente ou agravador de doença já existente). O psicólogo não integra o SESMT pela NR-4 (4.3.2), mas atua em equipes multiprofissionais: na avaliação de riscos psicossociais (Res. CFP 14/2023), em programas de promoção (NR-37, 37.6.2 d) e com o PCMSO, cujo exame e ASO são atos do médico (NR-7).</p>",
+  "cheatsheet": [
+    {
+      "heading": "NR-1: GRO, PGR e psicossociais",
+      "items": [
+        "Hierarquia de prevenção (1.4.1 g): I eliminação; II proteção <strong>coletiva</strong>; III medidas <strong>administrativas ou de organização do trabalho</strong>; IV proteção <strong>individual</strong>.",
+        "Assédio (1.4.1.1, organizações obrigadas a ter CIPA): regras de conduta divulgadas; procedimentos de denúncia, apuração e sanção com <strong>anonimato do denunciante</strong>; capacitação <strong>no mínimo a cada 12 meses</strong> em todos os níveis.",
+        "Fatores de risco psicossociais entram no GRO como parte dos <strong>fatores ergonômicos</strong> (1.5.3.1.4). Cap. 1.5 em vigor em <strong>26/05/2026</strong> (Portaria MTE 1.419/2024, prorrogada pela 765/2025).",
+        "PGR contém no mínimo <strong>inventário de riscos e plano de ação</strong> (1.5.7.1); nível de risco = severidade × probabilidade; avaliação revista a cada <strong>2 anos</strong> (até 3 com certificação em SST); inventário guardado por <strong>20 anos</strong>.",
+        "Guia do MTE: as NRs não definem profissional específico, o MTE não indica ferramenta e o objetivo não é avaliar a saúde mental de cada trabalhador.",
+        "Direito de recusa (1.4.3): o trabalhador pode interromper a atividade diante de risco grave e iminente, avisando o superior."
+      ]
+    },
+    {
+      "heading": "NR-4 (SESMT), NR-5 (CIPA) e NR-7 (PCMSO)",
+      "items": [
+        "NR-4: médico do trabalho, engenheiro de segurança, técnico de segurança, enfermeiro do trabalho e auxiliar ou técnico de enfermagem do trabalho; <strong>psicólogo não integra</strong>. Técnicos 44 h; nível superior 15 h (parcial) ou 30 h (integral). Modalidades individual, regionalizado ou estadual; compartilhado é opção. SESMT <strong>propõe</strong> a interrupção em risco grave.",
+        "NR-5: presidente <strong>designado</strong> pela organização; vice escolhido pelos eleitos. Mandato de <strong>1 ano, uma reeleição</strong>. Estabilidade do eleito para cargo de direção do registro da candidatura até 1 ano após o mandato. Convocar eleição 60 dias antes; inscrição 15 dias; eleição 30 dias antes. Reuniões mensais. Treinamento: GR1 8 h, GR2 12 h, GR3 16 h, GR4 20 h. Documentos por 5 anos. Atribuição (5.3.1 j): temas de prevenção ao assédio sexual e outras violências; SIPAT anual.",
+        "NR-7: PCMSO <strong>não tem caráter de seleção de pessoal</strong>; 5 exames: admissional, periódico, de retorno, de mudança de riscos, demissional. Retorno após ausência <strong>igual ou superior a 30 dias</strong>; Previdência quando afastamento for <strong>superior a 15 dias</strong>; prontuário por <strong>20 anos</strong> após o desligamento; periódico anual (expostos) ou a cada 2 anos."
+      ]
+    },
+    {
+      "heading": "NR-17, NR-20 e NR-37",
+      "items": [
+        "NR-17: adaptar o trabalho às características <strong>psicofisiológicas</strong>; AEP sempre; AET quando: avaliação mais aprofundada, ações inadequadas, sugerida pelo PCMSO, ou causa em condição de trabalho em acidente ou doença. Etapas da AET terminam em restituição e validação com os trabalhadores. Relatório da AET por 20 anos.",
+        "NR-17, organização do trabalho (17.4.1): normas de produção, modo operatório, exigência de tempo, ritmo, conteúdo das tarefas, <strong>aspectos cognitivos</strong>. Pausas contam como tempo efetivo e são fora do posto. Chefias orientadas a estimular tratamento justo e respeitoso. Teleatendimento: até 6 h, 2 pausas de 10 min, intervalo de 20 min.",
+        "NR-20: não se aplica a plataformas (NR-37). Classe I postos; Classe II engarrafadoras e <strong>transporte dutoviário</strong>; Classe III refinarias e petroquímicas. Equipe de emergência com exames que incluem <strong>fatores de riscos psicossociais</strong>; participação voluntária, salvo se a função exigir. Atualização: 30 dias (mudança significativa), 45 (queimadura grave com internação), 90 (morte).",
+        "NR-37: plataformas de petróleo; PCMSO por plataforma; programas para mitigar <strong>riscos psicossociais</strong> e prevenir agressão, assédio moral e sexual (37.6.2 d); CIPLAT por turma de embarque, eleitos com 8 ou mais, presidente é o de <strong>maior nível hierárquico</strong>; treinamento básico de no mínimo <strong>6 h</strong> antes do primeiro embarque, com riscos psicossociais de jornada, turnos e trabalho noturno; organização do trabalho considera a NR-17."
+      ]
+    },
+    {
+      "heading": "Portaria GM/MS 1.999/2023 (LDRT)",
+      "items": [
+        "Assinada em 27/11/2023, DOU em 29/11/2023, vigência 30 dias após. Altera a Portaria de Consolidação GM/MS 5/2017 (art. 423 e Anexo LXXX).",
+        "Lista A: agente ou fator de risco → doenças. Lista B: doença → agentes ou fatores. Parte V da Lista A: <strong>fatores de risco psicossociais</strong>.",
+        "Fatores psicossociais incluem gestão organizacional (terceirização, trabalho intermitente, MEI, <strong>pejotização, uberização</strong>), relações sociais, conteúdo da tarefa, jornada, violência e assédio, discriminação, risco de morte e trauma.",
+        "Transtornos: F10 a F19 (substâncias), F32 e F33 (depressão), F41 (ansiedade), F43.1 (TEPT), F43.2 (adaptação), F45, F48.0, F51.2, X60 a X84 (lesões autoprovocadas) e <strong>Z73.0, Esgotamento (Burnout)</strong>.",
+        "Finalidades (§ 3º do art. 423) são no âmbito da saúde: uso clínico-epidemiológico, estudo da relação adoecimento-trabalho, diagnóstico, projetos terapêuticos, vigilância e promoção da saúde individual e coletiva."
+      ]
+    },
+    {
+      "heading": "Estresse, burnout e psicodinâmica",
+      "items": [
+        "Selye: alarme, resistência, exaustão. Lipp: alerta, resistência, quase-exaustão, exaustão. Estresse moderado pode impulsionar soluções criativas ({B24}65).",
+        "Lazarus e Folkman: avaliação primária (é ameaça?) e secundária (tenho recursos?); enfrentamento focado no problema x na emoção.",
+        "Karasek: alta demanda e baixo controle = alto desgaste; alta demanda e alto controle = trabalho ativo. Exigir controle das emoções (trabalho emocional) favorece o estresse ({P12}48).",
+        "Burnout (Maslach): exaustão emocional, despersonalização (cinismo) e redução da realização pessoal, por estresse crônico no trabalho.",
+        "Dejours: prescrito x real; sofrimento criativo x patogênico; estratégias defensivas coletivas; ideologia defensiva; reconhecimento por julgamento de utilidade (vertical) e de beleza (horizontal, pares); espaço de discussão.",
+        "Clot: clínica da atividade; gênero e estilo profissional; autoconfrontação cruzada (registrar, confrontar o trabalhador com o registro diante do psicólogo e de um colega, levar ao coletivo); instrução ao sósia."
+      ]
+    },
+    {
+      "heading": "Assédio, acidente, QVT e saúde-doença",
+      "items": [
+        "Assédio moral (Hirigoyen): conduta abusiva repetida ou sistemática que atenta contra a dignidade ou integridade psíquica ou física. Gestão por injúria explícita e pública não é enquadrada pelo Ministério da Saúde como assédio moral ({B13}38).",
+        "Assédio sexual: comportamento de natureza sexual, por chantagem ou intimidação, que cria ambiente desfavorável e interfere no desempenho ({P12}26).",
+        "Acidente e implicações psicossociais: TEPT com revivência (pesadelos, flashbacks), evitação e hipervigilância depois de evento traumático ({B24}58).",
+        "QVT (Walton, 8 critérios): compensação justa; condições seguras e saudáveis; uso e desenvolvimento de capacidades; crescimento e segurança; integração social; constitucionalismo; trabalho e espaço total de vida; relevância social.",
+        "Saúde do trabalhador: trabalho como determinante do processo saúde-doença; precedência da prevenção sobre a reparação ({S11}56); desemprego atinge a identidade ({P12}49)."
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "title": "Psicodinâmica do trabalho: a resposta valoriza o coletivo, a palavra e o real",
+      "body": "É o padrão mais repetido da área: 17 das 38 questões oficiais tratam de psicodinâmica, clínicas ou psicopatologia do trabalho. A correta sempre reconhece que o trabalho real excede o prescrito (bndes-2013-profissional-basico-psicologia-q56, petrobras-2012-psicologo-junior-q54), que o sofrimento é intrínseco e pode ser transformado (petrobras-2012-psicologo-junior-q42), e que a saída é coletiva: espaço comum para discutir modos de fazer e legitimar transgressões (julgamento de beleza, bndes-2013-profissional-basico-psicologia-q37), justificar os desvios do procedimento para coordenar inteligências (petrobras-2012-psicologo-junior-q43). O distrator individualiza (psicoterapia, seleção, controle) ou trata o sofrimento como falha pessoal, que é justamente a leitura neoliberal que a psicodinâmica critica (bndes-2013-profissional-basico-psicologia-q59).",
+      "evidence": [
+        "bndes-2013-profissional-basico-psicologia-q56",
+        "petrobras-2012-psicologo-junior-q54",
+        "petrobras-2012-psicologo-junior-q42",
+        "bndes-2013-profissional-basico-psicologia-q37",
+        "petrobras-2012-psicologo-junior-q43",
+        "bndes-2013-profissional-basico-psicologia-q59"
+      ]
+    },
+    {
+      "title": "Medo, defesas e ideologia defensiva",
+      "body": "BNDES 2024 cobrou duas vezes o medo no trabalho: os sinais indiretos se expressam por uma ideologia defensiva, aparente inconsciência coletiva do risco (bndes-2024-analista-psicologia-organizacional-q63), e o desconhecimento dos processos, por um saber pragmático incompleto e sempre desafiado por mudanças (bndes-2024-analista-psicologia-organizacional-q64). Programas de qualidade total impõem o ideal e obrigam a dissimular o real, individualizando e quantificando o resultado (petrobras-2012-psicologo-junior-q50).",
+      "evidence": [
+        "bndes-2024-analista-psicologia-organizacional-q63",
+        "bndes-2024-analista-psicologia-organizacional-q64",
+        "petrobras-2012-psicologo-junior-q50"
+      ]
+    },
+    {
+      "title": "Estresse: controle e suporte protegem, controle emocional adoece",
+      "body": "A tese é Karasek em várias roupas: alto controle reduz os efeitos negativos da carga alta, quantitativa ou qualitativa (petrobras-2012-psicologo-junior-q44); controle percebido é a capacidade de decidir sobre o que fazer (al-to-2005-consultor-legislativo-psicologia-q40); dar controle sobre os acontecimentos reduz a insegurança (al-to-2005-consultor-legislativo-psicologia-q34). Do outro lado, exigir controle das manifestações emocionais favorece perturbações (petrobras-2012-psicologo-junior-q48). Burnout tem três dimensões (petrobras-2012-psicologo-junior-q46).",
+      "evidence": [
+        "petrobras-2012-psicologo-junior-q44",
+        "al-to-2005-consultor-legislativo-psicologia-q40",
+        "al-to-2005-consultor-legislativo-psicologia-q34",
+        "petrobras-2012-psicologo-junior-q48",
+        "petrobras-2012-psicologo-junior-q46"
+      ]
+    },
+    {
+      "title": "NR: número e verbo exatos",
+      "body": "Nas NRs as autorais cobram o número e o verbo, como a Cesgranrio faz em legislação: 1 ano com uma reeleição na CIPA (autoral-n5-01), 60 e 30 dias da eleição (autoral-n5-04), 30 dias para o exame de retorno e 15 para a Previdência (autoral-n7-02, autoral-n7-05), 20 anos de prontuário e de relatório da AET (autoral-n7-03, autoral-n17-04), revisão a cada 2 anos ou até 3 com certificação (autoral-n1-04). Os distratores trocam por números vizinhos que existem em outra NR: decore a tabela de prazos inteira, não um número solto.",
+      "evidence": [
+        "autoral-n5-01",
+        "autoral-n5-04",
+        "autoral-n7-02",
+        "autoral-n7-05",
+        "autoral-n7-03",
+        "autoral-n17-04",
+        "autoral-n1-04"
+      ]
+    },
+    {
+      "title": "Psicossocial nas normas novas: onde está escrito",
+      "body": "As normas que nenhuma prova antiga cobre põem o fator psicossocial em lugares precisos: NR-1, dentro dos fatores ergonômicos do GRO (autoral-n1-01), sem profissional específico (autoral-n1-07); NR-20, nos exames da equipe de emergência (autoral-n20-03); NR-37, em programas de promoção e no treinamento antes do embarque (autoral-n37-01, autoral-n37-03); Portaria 1.999/2023, como Parte V da Lista A, com pejotização e uberização (autoral-p-04) e Burnout como Z73.0 (autoral-p-01).",
+      "evidence": [
+        "autoral-n1-01",
+        "autoral-n1-07",
+        "autoral-n20-03",
+        "autoral-n37-01",
+        "autoral-n37-03",
+        "autoral-p-04",
+        "autoral-p-01"
+      ]
+    },
+    {
+      "title": "Assédio: a banca exclui o que não é repetitivo nem velado",
+      "body": "bndes-2013-profissional-basico-psicologia-q38 é uma das duas questões negativas do banco inteiro (NÃO em maiúsculas): pela definição de Hirigoyen adotada pelo Ministério da Saúde, a gestão por injúria aberta não é assédio moral. Assédio sexual se define pela chantagem ou intimidação que cria ambiente desfavorável (petrobras-2012-psicologo-junior-q26). A violência moral cresce com gestão que promove individualismo e hipercompetitividade (bndes-2013-profissional-basico-psicologia-q57).",
+      "evidence": [
+        "bndes-2013-profissional-basico-psicologia-q38",
+        "petrobras-2012-psicologo-junior-q26",
+        "bndes-2013-profissional-basico-psicologia-q57"
+      ]
+    }
+  ],
+  "trapWords": [
+    {
+      "term": "Z73.0 (Burnout)",
+      "confusedWith": "código F",
+      "distinction": "Na Lista de Doenças Relacionadas ao Trabalho, o Esgotamento é Z73.0, ainda que listado junto ao capítulo de transtornos mentais."
+    },
+    {
+      "term": "Lista A",
+      "confusedWith": "Lista B",
+      "distinction": "Lista A parte do agente ou fator de risco para as doenças; Lista B parte da doença para os agentes."
+    },
+    {
+      "term": "retorno: 30 dias ou mais",
+      "confusedWith": "Previdência: mais de 15 dias",
+      "distinction": "NR-7: exame de retorno após ausência igual ou superior a 30 dias; encaminhamento à Previdência quando o afastamento passa de 15 dias."
+    },
+    {
+      "term": "presidente da CIPA (designado)",
+      "confusedWith": "presidente da CIPLAT (maior nível hierárquico)",
+      "distinction": "Na CIPA a organização designa o presidente e os eleitos escolhem o vice; na CIPLAT da NR-37 preside o empregado de maior nível hierárquico lotado na plataforma."
+    },
+    {
+      "term": "psicossocial como fator ergonômico",
+      "confusedWith": "sexta categoria de risco",
+      "distinction": "A NR-1 inclui os fatores de risco psicossociais dentro dos fatores ergonômicos do GRO, não como categoria autônoma."
+    },
+    {
+      "term": "26/05/2026",
+      "confusedWith": "26/05/2025",
+      "distinction": "A data original de vigência do cap. 1.5 da NR-1 foi prorrogada pela Portaria MTE 765/2025: vigora desde 26/05/2026."
+    },
+    {
+      "term": "julgamento de beleza",
+      "confusedWith": "julgamento de utilidade",
+      "distinction": "Beleza é dado pelos pares, sobre a qualidade do trabalho conforme as regras do ofício; utilidade é dado pela hierarquia e pelos clientes."
+    },
+    {
+      "term": "prescrito",
+      "confusedWith": "real",
+      "distinction": "Prescrito é a tarefa como foi definida; real é o que resiste e obriga o trabalhador a inventar. Trabalhar é preencher essa lacuna."
+    }
+  ]
+}

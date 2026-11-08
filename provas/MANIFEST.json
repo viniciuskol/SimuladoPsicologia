@@ -1,0 +1,586 @@
+[
+  {
+    "id": "petrobras-2005-psicologo-junior",
+    "org": "Petrobras",
+    "ano": 2005,
+    "cargo": "Psicólogo(a) Júnior (PSP-RH-1/2005, prova de 18/12/2005)",
+    "pastaLocal": "provas/downloads/petrobras-2005-psicologo-junior",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/2231-cesgranrio-2005-petrobras-psicologo-prova.pdf",
+    "urlGabarito": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/eventos/concursos/petrobras0105/pdf/gab09.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "arquivo oficial da Cesgranrio via Wayback Machine",
+    "colunaGabarito": "Tabela 'Conhecimentos Específicos - Nível Superior' em gab09: última coluna à direita, PSICÓLOGO(A) JR (21 a 80). Básicos (Português II/Inglês II) em gabarito-completo-copia-terceiro.pdf (cópia Aprova/IESDE do gabarito completo de 9 páginas).",
+    "numQuestoes": 80,
+    "faixasPorBloco": {
+      "Língua Portuguesa II": "1-10",
+      "Língua Inglesa II": "11-20",
+      "Conhecimentos Específicos": "21-80"
+    },
+    "soImagem": false,
+    "observacoes": "Caderno de cópia de terceiro (Estude Grátis), pois prova118.pdf não estava arquivada; gabarito oficial. Respostas aos recursos não localizadas.",
+    "arquivos": {
+      "gabarito-completo-copia-terceiro.pdf": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/9163.pdf",
+      "gabarito.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/eventos/concursos/petrobras0105/pdf/gab09.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/2231-cesgranrio-2005-petrobras-psicologo-prova.pdf"
+    }
+  },
+  {
+    "id": "petrobras-2008-psicologo-junior",
+    "org": "Petrobras",
+    "ano": 2008,
+    "cargo": "Psicólogo(a) Júnior (PSP-RH-2/2008, prova 55, 08/06/2008)",
+    "pastaLocal": "provas/downloads/petrobras-2008-psicologo-junior",
+    "urlProva": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/eventos/concursos/petrobras0208/pdf/provas/prova55.pdf",
+    "urlGabarito": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/eventos/concursos/petrobras0208/pdf/petrobras0208_gabsup.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "arquivo oficial da Cesgranrio via Wayback Machine",
+    "colunaGabarito": "Página 3 do PDF, última coluna à direita, PSICÓLOGO(A) JÚNIOR (26 a 70). Básicos: página 1.",
+    "numQuestoes": 70,
+    "faixasPorBloco": {
+      "Conhecimentos Básicos, conferir na capa": "1-25",
+      "Conhecimentos Específicos": "26-70"
+    },
+    "soImagem": false,
+    "observacoes": "gabarito.pdf é anterior aos recursos. recursos.pdf (oficial): Psicólogo(a) Júnior, questão 29 anulada. Não existe gabarito definitivo consolidado localizado. Faixa 1-25 inferida do gabarito; as subfaixas da capa não foram extraídas.",
+    "arquivos": {
+      "gabarito.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/eventos/concursos/petrobras0208/pdf/petrobras0208_gabsup.pdf",
+      "prova.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/eventos/concursos/petrobras0208/pdf/provas/prova55.pdf",
+      "recursos.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br:80/eventos/concursos/petrobras0208/pdf/petrobras0208_resprec.pdf"
+    }
+  },
+  {
+    "id": "petrobras-2010-1-psicologo-junior",
+    "org": "Petrobras",
+    "ano": 2010,
+    "cargo": "Psicólogo(a) Júnior (PSP-RH-1/2009, prova 24, 28/03/2010)",
+    "pastaLocal": "provas/downloads/petrobras-2010-1-psicologo-junior",
+    "urlProva": "https://web.archive.org/web/2012id_/http://site.cesgranrio.org.br:80/eventos/concursos/petrobras0109/pdf/demais_cargos/Provas/PROVA%2024%20-%20PSIC%C3%93LOGO%20J%C3%9ANIOR.pdf",
+    "urlGabarito": "https://web.archive.org/web/2012id_/http://www1.cesgranrio.org.br:80/eventos/concursos/petrobras0109/pdf/demais_cargos/gabarito28032010.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "arquivo oficial da Cesgranrio via Wayback Machine",
+    "colunaGabarito": "Turno tarde, 'Conhecimentos Específicos', página 7 do PDF, coluna PSICÓLOGO JR, 7a de 8. Básicos, turno manhã, em página anterior do mesmo PDF.",
+    "numQuestoes": 70,
+    "faixasPorBloco": {
+      "Conhecimentos Específicos (Blocos 1 a 4)": "1-70",
+      "Caderno separado prova-basicos.pdf (nível superior, manhã)": "1-50"
+    },
+    "soImagem": false,
+    "observacoes": "Cadernos separados: prova.pdf traz só os específicos e prova-basicos.pdf traz 50 questões básicas comuns (não é só Psicologia). O gabarito arquivado já traz 'Anulada' em outro cargo, sugerindo versão pós-recursos, mas não há selo de 'definitivo'. Respostas aos recursos desse grupo não localizadas.",
+    "arquivos": {
+      "gabarito.pdf": "https://web.archive.org/web/2012id_/http://www1.cesgranrio.org.br:80/eventos/concursos/petrobras0109/pdf/demais_cargos/gabarito28032010.pdf",
+      "prova-basicos.pdf": "https://web.archive.org/web/20100602012623id_/http://www1.cesgranrio.org.br:80/eventos/concursos/petrobras0109/pdf/demais_cargos/Provas/N%C3%8DVEL%20SUPERIOR%20-%20MANH%C3%83%20-%20CONHECIMENTOS%20B%C3%81SICOS.pdf",
+      "prova.pdf": "https://web.archive.org/web/2012id_/http://site.cesgranrio.org.br:80/eventos/concursos/petrobras0109/pdf/demais_cargos/Provas/PROVA%2024%20-%20PSIC%C3%93LOGO%20J%C3%9ANIOR.pdf"
+    }
+  },
+  {
+    "id": "petrobras-2010-2-psicologo-junior",
+    "org": "Petrobras",
+    "ano": 2010,
+    "cargo": "Psicólogo Júnior (PSP-RH-1/2010, prova 19, 16/05/2010)",
+    "pastaLocal": "provas/downloads/petrobras-2010-2-psicologo-junior",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/17321-cesgranrio-2010-petrobras-psicologo-prova.pdf",
+    "urlGabarito": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/pdf/petrobras0110/petrobras0110_gab_1605.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "arquivo oficial da Cesgranrio via Wayback Machine",
+    "colunaGabarito": "Turno tarde, página 11 do PDF, coluna 19 PSICÓLOGO JÚNIOR, última à direita.",
+    "numQuestoes": 70,
+    "faixasPorBloco": {
+      "Conhecimentos Específicos": "1-70"
+    },
+    "soImagem": false,
+    "observacoes": "gabarito.pdf é anterior aos recursos. recursos.pdf (oficial): questão 6 anulada e questão 31 passa a ser E (o gabarito.pdf traz 31-B). Caderno de Conhecimentos Básicos do turno da manhã não localizado. Caderno de cópia de terceiro (Estude Grátis).",
+    "arquivos": {
+      "gabarito.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/pdf/petrobras0110/petrobras0110_gab_1605.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/17321-cesgranrio-2010-petrobras-psicologo-prova.pdf",
+      "recursos.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/eventos/concursos/petrobras0110/pdf/RESPOSTAS_AOS_RECURSOS.pdf"
+    }
+  },
+  {
+    "id": "petrobras-2012-psicologo-junior",
+    "org": "Petrobras",
+    "ano": 2012,
+    "cargo": "Psicólogo(a) Júnior (PSP-RH-1/2012, prova 29, 06/05/2012)",
+    "pastaLocal": "provas/downloads/petrobras-2012-psicologo-junior",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/22730-cesgranrio-2012-petrobras-psicologo-junior-2012-prova.pdf",
+    "urlGabarito": "https://web.archive.org/web/2017id_/http://www.cesgranrio.org.br/pdf/petrobras0112/petrobras0112_gabarito_superior.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "arquivo oficial da Cesgranrio via Wayback Machine",
+    "colunaGabarito": "Página 3 do PDF, coluna 29 Psicólogo(a) Júnior, última à direita, Blocos 1 a 3 (21 a 70). Básicos na página 1.",
+    "numQuestoes": 70,
+    "faixasPorBloco": {
+      "Língua Portuguesa": "1-10",
+      "Língua Inglesa": "11-20",
+      "Bloco 1": "21-40",
+      "Bloco 2": "41-55",
+      "Bloco 3": "56-70"
+    },
+    "soImagem": false,
+    "observacoes": "ATENÇÃO, DIVERGÊNCIA NA QUESTÃO 40: gabarito.pdf (oficial via Wayback, sem marcas de anulação) traz 40-E; gabarito-copia-terceiro.pdf (Estude Grátis, com marcas '*= Questão Anulada', provavelmente posterior) traz 40-D. Nas demais questões do recorte visual da coluna não vi diferença, mas a comparação foi visual e parcial (questões 25 a 70). Enviar a 40 para a fila de revisão, salvo confirmação oficial.",
+    "arquivos": {
+      "gabarito-copia-terceiro.pdf": "https://www.estudegratis.com.br/images/provas/22730-cesgranrio-2012-petrobras-psicologo-junior-2012-gabarito.pdf",
+      "gabarito.pdf": "https://web.archive.org/web/2017id_/http://www.cesgranrio.org.br/pdf/petrobras0112/petrobras0112_gabarito_superior.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/22730-cesgranrio-2012-petrobras-psicologo-junior-2012-prova.pdf"
+    }
+  },
+  {
+    "id": "br-distribuidora-2015-profissional-junior-psicologia",
+    "org": "Petrobras Distribuidora (BR)",
+    "ano": 2015,
+    "cargo": "Profissional Júnior Formação - Psicologia (PSP 1/2014, prova 15, 08/03/2015)",
+    "pastaLocal": "provas/downloads/br-distribuidora-2015-profissional-junior-psicologia",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/33169-cesgranrio-2015-petrobras-profissional-junior-psicologia-prova.pdf",
+    "urlGabarito": "https://www.estudegratis.com.br/images/provas/33169-cesgranrio-2015-petrobras-profissional-junior-psicologia-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "cópia hospedada por terceiro (documento com timbre/formato oficial; original não conferido)",
+    "colunaGabarito": "Página 3 do PDF, PROVA 15, última coluna à direita. Cabeçalho 'ALTERADO EM 25/03/2015', logo versão pós-recursos.",
+    "numQuestoes": 70,
+    "faixasPorBloco": {
+      "Língua Portuguesa e outras básicas, conferir na capa": "1-20",
+      "Informática II": "21-25",
+      "Conhecimentos Específicos": "26-70"
+    },
+    "soImagem": false,
+    "observacoes": "PCI, Estude Grátis e Qconcursos catalogam como 'Petrobras', mas a capa da prova diz Petrobras Distribuidora S.A.",
+    "arquivos": {
+      "gabarito.pdf": "https://www.estudegratis.com.br/images/provas/33169-cesgranrio-2015-petrobras-profissional-junior-psicologia-gabarito.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/33169-cesgranrio-2015-petrobras-profissional-junior-psicologia-prova.pdf"
+    }
+  },
+  {
+    "id": "refap-2007-psicologo-junior",
+    "org": "REFAP S.A. (Sistema Petrobras)",
+    "ano": 2007,
+    "cargo": "Psicólogo Júnior (Edital 01/2007, 08/07/2007)",
+    "pastaLocal": "provas/downloads/refap-2007-psicologo-junior",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/5099-cesgranrio-2007-refap-sa-psicologo-junior-prova.pdf",
+    "urlGabarito": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/eventos/concursos/refap0107/pdf/refap0107_gabsup.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "arquivo oficial da Cesgranrio via Wayback Machine",
+    "colunaGabarito": "Página 4 do PDF, segundo quadro horizontal, rótulo lateral 'Psicólogo Júnior'.",
+    "numQuestoes": 40,
+    "faixasPorBloco": {
+      "Língua Portuguesa II": "1-8",
+      "Língua Inglesa II": "9-14",
+      "Raciocínio Lógico II": "15-20",
+      "Conhecimentos Específicos": "21-40"
+    },
+    "soImagem": false,
+    "observacoes": "Caderno de cópia de terceiro (Estude Grátis); gabarito oficial. Recursos não localizados.",
+    "arquivos": {
+      "gabarito.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/eventos/concursos/refap0107/pdf/refap0107_gabsup.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/5099-cesgranrio-2007-refap-sa-psicologo-junior-prova.pdf"
+    }
+  },
+  {
+    "id": "bndes-2009-psicologia",
+    "org": "BNDES",
+    "ano": 2009,
+    "cargo": "Profissional Básico - Psicologia (Edital 01/2009, prova 7, 21/11/2009)",
+    "pastaLocal": "provas/downloads/bndes-2009-psicologia",
+    "urlProva": "https://web.archive.org/web/2012id_/http://site.cesgranrio.org.br:80/eventos/concursos/bndes0109/pdf/PROVA%207%20-%20PSICOLOGIA.pdf",
+    "urlGabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/905/cesgranrio-2009-bndes-profissional-basico-psicologia-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "cópia hospedada por terceiro (documento com timbre/formato oficial; original não conferido)",
+    "colunaGabarito": "Página única, Conhecimentos Específicos, coluna PSICOLOGIA, última à direita (31 a 70). Básicos no alto da mesma página: Inglês e Espanhol têm linhas diferentes em 21-30.",
+    "numQuestoes": 70,
+    "faixasPorBloco": {
+      "Língua Portuguesa II": "1-20",
+      "Língua Estrangeira": "21-30",
+      "Conhecimentos Específicos": "31-70"
+    },
+    "soImagem": false,
+    "observacoes": "Caderno oficial via Wayback; gabarito em cópia da Qconcursos com timbre do BNDES. Não se sabe se é anterior aos recursos.",
+    "arquivos": {
+      "gabarito.pdf": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/905/cesgranrio-2009-bndes-profissional-basico-psicologia-gabarito.pdf",
+      "prova.pdf": "https://web.archive.org/web/2012id_/http://site.cesgranrio.org.br:80/eventos/concursos/bndes0109/pdf/PROVA%207%20-%20PSICOLOGIA.pdf"
+    }
+  },
+  {
+    "id": "bndes-2013-profissional-basico-psicologia",
+    "org": "BNDES",
+    "ano": 2013,
+    "cargo": "Profissional Básico - Formação de Psicologia (Edital 01/2012, 1a fase, 03/03/2013)",
+    "pastaLocal": "provas/downloads/bndes-2013-profissional-basico-psicologia",
+    "urlProva": "https://arquivos.qconcursos.com/prova/arquivo_prova/29682/cesgranrio-2013-bndes-profissional-basico-psicologia-prova.pdf",
+    "urlGabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/29682/cesgranrio-2013-bndes-profissional-basico-psicologia-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "cópia hospedada por terceiro (documento com timbre/formato oficial; original não conferido)",
+    "colunaGabarito": "Página 3 do PDF, Prova 12, FORMAÇÃO DE PSICOLOGIA, última à direita (31 a 70).",
+    "numQuestoes": 70,
+    "faixasPorBloco": {
+      "Conhecimentos Básicos": "1-30",
+      "Conhecimentos Específicos": "31-70"
+    },
+    "soImagem": false,
+    "observacoes": "Faixas da capa: 1-20, 21-30, 31-50 (1,5 ponto) e 51-70. Não se sabe se o gabarito é anterior aos recursos.",
+    "arquivos": {
+      "gabarito.pdf": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/29682/cesgranrio-2013-bndes-profissional-basico-psicologia-gabarito.pdf",
+      "prova.pdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/29682/cesgranrio-2013-bndes-profissional-basico-psicologia-prova.pdf"
+    }
+  },
+  {
+    "id": "bndes-2024-analista-psicologia-organizacional",
+    "org": "BNDES",
+    "ano": 2024,
+    "cargo": "Analista - Psicologia Organizacional (Edital 01/2024, prova 13, 13/10/2024)",
+    "pastaLocal": "provas/downloads/bndes-2024-analista-psicologia-organizacional",
+    "urlProva": "https://arquivos.qconcursos.com/prova/arquivo_prova/120237/cesgranrio-2024-bndes-analista-psicologia-organizacional-manha-prova.pdf",
+    "urlGabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/120237/cesgranrio-2024-bndes-analista-psicologia-organizacional-manha-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "oficial: portal concursos.cesgranrio.org.br, evento 14; o arquivo da Qconcursos é byte-idêntico (mesmo MD5)",
+    "colunaGabarito": "Página 3 do PDF, Prova 13, última coluna à direita (36 a 70). Título 'GABARITO FINAL - APÓS AVALIAÇÃO DOS RECURSOS'.",
+    "numQuestoes": 70,
+    "faixasPorBloco": {
+      "Faixa 1": "1-20",
+      "Faixa 2": "21-30",
+      "Faixa 3": "31-35",
+      "Conhecimentos Específicos": "36-70"
+    },
+    "soImagem": false,
+    "observacoes": "Prova mais recente e mais próxima do perfil organizacional. prova.pdf e gabarito.pdf são idênticos aos oficiais do portal. Também baixados do portal oficial: gabarito-preliminar-oficial.pdf, recursos.pdf (respostas aos recursos) e prova-discursiva-oficial.pdf (prova 26, tarde, 5 questões discursivas, sem gabarito objetivo). Nomes das faixas 1-3 a conferir na capa.",
+    "arquivos": {
+      "gabarito-preliminar-oficial.pdf": "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/14/conteudos/6007ffdd-efc8-49dc-8b94-d405a056fba3.pdf",
+      "gabarito.pdf": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/120237/cesgranrio-2024-bndes-analista-psicologia-organizacional-manha-gabarito.pdf",
+      "prova-discursiva-oficial.pdf": "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/14/conteudos/f9f7cafe-1e99-4446-82e7-3213a7b393ea.pdf",
+      "prova.pdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/120237/cesgranrio-2024-bndes-analista-psicologia-organizacional-manha-prova.pdf",
+      "recursos.pdf": "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/14/conteudos/171d2372-6f5e-4dc2-bcaa-f712111c9567.pdf"
+    }
+  },
+  {
+    "id": "unirio-2016-psicologo-clinica",
+    "org": "UNIRIO",
+    "ano": 2016,
+    "cargo": "Psicólogo(a) / Clínica (prova 29, 26/06/2016)",
+    "pastaLocal": "provas/downloads/unirio-2016-psicologo-clinica",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/38439-cesgranrio-2016-unirio-psicologo-clinica-prova.pdf",
+    "urlGabarito": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/pdf/unirio0116/prova/GABARITO%20N%C3%8DVEL%20SUPERIOR.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "arquivo oficial da Cesgranrio via Wayback Machine",
+    "colunaGabarito": "Página 5, PROVA 29, última à direita (31 a 70). Usar gabarito-definitivo.pdf.",
+    "numQuestoes": 70,
+    "faixasPorBloco": {
+      "Língua Portuguesa e outras básicas": "1-30",
+      "Conhecimentos Específicos": "31-70"
+    },
+    "soImagem": false,
+    "observacoes": "gabarito-definitivo.pdf é o oficial 'gab_recursos_superior', pós-recursos; os marcadores em vermelho ficam em outras provas nesta página. Caderno de cópia de terceiro (Estude Grátis).",
+    "arquivos": {
+      "gabarito-definitivo.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/pdf/unirio0116/unirio0116_gab_recursos_superior.pdf",
+      "gabarito.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/pdf/unirio0116/prova/GABARITO%20N%C3%8DVEL%20SUPERIOR.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/38439-cesgranrio-2016-unirio-psicologo-clinica-prova.pdf"
+    }
+  },
+  {
+    "id": "unirio-2019-psicologo",
+    "org": "UNIRIO",
+    "ano": 2019,
+    "cargo": "Psicólogo(a) (Edital 42/2019, prova 17, 17/11/2019)",
+    "pastaLocal": "provas/downloads/unirio-2019-psicologo",
+    "urlProva": "https://arquivos.qconcursos.com/prova/arquivo_prova/65853/cesgranrio-2019-unirio-psicologo-prova.pdf",
+    "urlGabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/65853/cesgranrio-2019-unirio-psicologo-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "cópia hospedada por terceiro (documento com timbre/formato oficial; original não conferido)",
+    "colunaGabarito": "Página 3, PROVA 17 PSICÓLOGO(A), 4a coluna de 5. Cabeçalho 'ALTERADO EM 03/12/19', logo versão pós-recursos.",
+    "numQuestoes": 70,
+    "faixasPorBloco": {
+      "Língua Portuguesa e outras básicas": "1-30",
+      "Conhecimentos Específicos": "31-70"
+    },
+    "soImagem": false,
+    "observacoes": "",
+    "arquivos": {
+      "gabarito.pdf": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/65853/cesgranrio-2019-unirio-psicologo-gabarito.pdf",
+      "prova.pdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/65853/cesgranrio-2019-unirio-psicologo-prova.pdf"
+    }
+  },
+  {
+    "id": "unemat-2024-psicologo",
+    "org": "UNEMAT",
+    "ano": 2024,
+    "cargo": "Técnico Universitário - Nível Superior: Psicólogo (Edital 01/2023, prova 7, 03/03/2024)",
+    "pastaLocal": "provas/downloads/unemat-2024-psicologo",
+    "urlProva": "https://arquivos.qconcursos.com/prova/arquivo_prova/105097/cesgranrio-2024-unemat-psicologo-prova.pdf",
+    "urlGabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/105097/cesgranrio-2024-unemat-psicologo-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "oficial: portal concursos.cesgranrio.org.br, evento 7; o arquivo da Qconcursos é byte-idêntico",
+    "colunaGabarito": "Página 3, quadro 'PROVA 7 - PSICÓLOGO' (31 a 60). Cabeçalho 'ALTERADO 20/03/2024', logo versão pós-recursos.",
+    "numQuestoes": 60,
+    "faixasPorBloco": {
+      "Básicos e gerais": "1-30",
+      "Conhecimentos Específicos": "31-60"
+    },
+    "soImagem": false,
+    "observacoes": "Faixas da capa: 1-10, 11-15, 16-25, 26-30. gabarito.pdf = Gabarito Final oficial; gabarito-preliminar-oficial.pdf também está na pasta.",
+    "arquivos": {
+      "gabarito-preliminar-oficial.pdf": "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/7/conteudos/8bc173e7-0ffc-42e8-af07-771ade517655.pdf",
+      "gabarito.pdf": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/105097/cesgranrio-2024-unemat-psicologo-gabarito.pdf",
+      "prova.pdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/105097/cesgranrio-2024-unemat-psicologo-prova.pdf"
+    }
+  },
+  {
+    "id": "cefet-rj-2014-psicologo",
+    "org": "CEFET-RJ",
+    "ano": 2014,
+    "cargo": "Psicólogo (Edital 0011/2014, prova 29, 01/06/2014)",
+    "pastaLocal": "provas/downloads/cefet-rj-2014-psicologo",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/31225-cesgranrio-2014-cefet-rj-psicologo-prova.pdf",
+    "urlGabarito": "https://www.estudegratis.com.br/images/provas/31225-cesgranrio-2014-cefet-rj-psicologo-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "cópia hospedada por terceiro (documento com timbre/formato oficial; original não conferido)",
+    "colunaGabarito": "Página 4, PROVA 29 PSICÓLOGO, 3a coluna de 7 (26 a 50). Cabeçalho 'Alterado em 09/06/2014', logo versão pós-recursos.",
+    "numQuestoes": 50,
+    "faixasPorBloco": {
+      "Básicos": "1-25",
+      "Conhecimentos Específicos": "26-50"
+    },
+    "soImagem": false,
+    "observacoes": "Faixas da capa: 1-10, 11-15, 16-20, 21-25. recursos.pdf (cópia Aprova/IESDE do texto oficial) não altera a prova 29.",
+    "arquivos": {
+      "gabarito.pdf": "https://www.estudegratis.com.br/images/provas/31225-cesgranrio-2014-cefet-rj-psicologo-gabarito.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/31225-cesgranrio-2014-cefet-rj-psicologo-prova.pdf",
+      "recursos.pdf": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/alteracao_gabarito/37076.pdf"
+    }
+  },
+  {
+    "id": "seplag-salvador-2011-psicologo",
+    "org": "Prefeitura de Salvador (SEPLAG)",
+    "ano": 2011,
+    "cargo": "Profissional de Atendimento Integrado - Psicólogo (Edital 01/2011, prova 54)",
+    "pastaLocal": "provas/downloads/seplag-salvador-2011-psicologo",
+    "urlProva": "https://web.archive.org/web/2012id_/http://www1.cesgranrio.org.br:80/pdf/seplag0111/provas/prova%2054%20-%20profissional%20de%20atendimento%20integrado%20-%20psicologo.indd.pdf",
+    "urlGabarito": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/pdf/seplag0111/seplag0111_gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "arquivo oficial da Cesgranrio via Wayback Machine",
+    "colunaGabarito": "Página 7, coluna '54 - PSICÓLOGO', 5a de 8 (26 a 60).",
+    "numQuestoes": 60,
+    "faixasPorBloco": {
+      "Faixa 1": "1-8",
+      "Faixa 2": "9-12",
+      "Faixa 3": "13-25",
+      "Conhecimentos Específicos": "26-60"
+    },
+    "soImagem": false,
+    "observacoes": "gabarito.pdf é anterior aos recursos. recursos.pdf (oficial): questão 42 passa a ser B e questão 45 passa a ser C.",
+    "arquivos": {
+      "gabarito.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/pdf/seplag0111/seplag0111_gabarito.pdf",
+      "prova.pdf": "https://web.archive.org/web/2012id_/http://www1.cesgranrio.org.br:80/pdf/seplag0111/provas/prova%2054%20-%20profissional%20de%20atendimento%20integrado%20-%20psicologo.indd.pdf",
+      "recursos.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br:80/pdf/seplag0111/seplag0111_resposta_recursos.pdf"
+    }
+  },
+  {
+    "id": "sead-am-2005-psicologo",
+    "org": "SEAD-AM",
+    "ano": 2005,
+    "cargo": "Psicólogo (Edital 001/2005, 03/04/2005)",
+    "pastaLocal": "provas/downloads/sead-am-2005-psicologo",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/1576-cesgranrio-2005-sead-am-psicologo-prova.pdf",
+    "urlGabarito": "https://www.estudegratis.com.br/images/provas/1576-cesgranrio-2005-sead-am-psicologo-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "cópia hospedada por terceiro (documento com timbre/formato oficial; original não conferido)",
+    "colunaGabarito": "Página 2, coluna PSICÓLOGO, última à direita (11 a 40). Português: alto da mesma página.",
+    "numQuestoes": 40,
+    "faixasPorBloco": {
+      "Língua Portuguesa IV": "1-10",
+      "Conhecimentos Específicos": "11-40"
+    },
+    "soImagem": false,
+    "observacoes": "recursos.pdf (oficial) não menciona Psicólogo no texto extraído. A capa traz 1-5/6-10 e 11-20/21-30/31-40. Caderno sem a palavra Cesgranrio no texto; atribuição pelo catálogo do PCI e pelo Estude Grátis.",
+    "arquivos": {
+      "gabarito.pdf": "https://www.estudegratis.com.br/images/provas/1576-cesgranrio-2005-sead-am-psicologo-gabarito.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/1576-cesgranrio-2005-sead-am-psicologo-prova.pdf",
+      "recursos.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br:80/pdf/sead0105_resprec.pdf"
+    }
+  },
+  {
+    "id": "secad-to-2004-psicologo",
+    "org": "SECAD-TO",
+    "ano": 2004,
+    "cargo": "Psicólogo (prova de 19/12/2004)",
+    "pastaLocal": "provas/downloads/secad-to-2004-psicologo",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/1374-cesgranrio-2004-secad-to-psicologo-prova.pdf",
+    "urlGabarito": "https://www.estudegratis.com.br/images/provas/1374-cesgranrio-2004-secad-to-psicologo-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "cópia hospedada por terceiro (documento com timbre/formato oficial; original não conferido)",
+    "colunaGabarito": "Página 6 do PDF, coluna Psicólogo, 5a coluna visível (21 a 50). A página é mais larga que o recorte renderizado.",
+    "numQuestoes": 50,
+    "faixasPorBloco": {
+      "Básicos": "1-20",
+      "Conhecimentos Específicos": "21-50"
+    },
+    "soImagem": false,
+    "observacoes": "Caderno sem a palavra Cesgranrio no texto; atribuição pelo catálogo do PCI e pelo Estude Grátis. PCI cataloga outra prova 'secad-to 2005', não confirmada se é a mesma.",
+    "arquivos": {
+      "gabarito.pdf": "https://www.estudegratis.com.br/images/provas/1374-cesgranrio-2004-secad-to-psicologo-gabarito.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/1374-cesgranrio-2004-secad-to-psicologo-prova.pdf"
+    }
+  },
+  {
+    "id": "secad-to-2009-psicologo",
+    "org": "SECAD-TO",
+    "ano": 2009,
+    "cargo": "Psicólogo (saúde, 26/07/2009)",
+    "pastaLocal": "provas/downloads/secad-to-2009-psicologo",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/10945-cesgranrio-2009-secad-to-psicologo-prova.pdf",
+    "urlGabarito": "https://www.estudegratis.com.br/images/provas/10945-cesgranrio-2009-secad-to-psicologo-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "cópia hospedada por terceiro (documento com timbre/formato oficial; original não conferido)",
+    "colunaGabarito": "Página 1, rotacionada (o pdftool page corta à direita; renderize com qlmanage). Coluna PSICÓLOGO, 19a de 21 (31 a 50); a 20a é PSICÓLOGO PSICO-ONCOLOGISTA. Verificada visualmente. O gabarito já marca 41 e 48 como ANUL., conforme recursos.pdf.",
+    "numQuestoes": 50,
+    "faixasPorBloco": {
+      "Língua Portuguesa": "1-15",
+      "Conhecimentos Gerais": "16-30",
+      "Conhecimentos Específicos": "31-50"
+    },
+    "soImagem": false,
+    "observacoes": "recursos.pdf (cópia Aprova/IESDE do texto oficial): Psicólogo, questões 41 e 48 anuladas.",
+    "arquivos": {
+      "gabarito.pdf": "https://www.estudegratis.com.br/images/provas/10945-cesgranrio-2009-secad-to-psicologo-gabarito.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/10945-cesgranrio-2009-secad-to-psicologo-prova.pdf",
+      "recursos.pdf": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/alteracao_gabarito/19943.pdf"
+    }
+  },
+  {
+    "id": "secad-to-2009-psico-oncologista",
+    "org": "SECAD-TO",
+    "ano": 2009,
+    "cargo": "Psicólogo Psico-oncologista (saúde, 26/07/2009)",
+    "pastaLocal": "provas/downloads/secad-to-2009-psico-oncologista",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/10946-cesgranrio-2009-secad-to-psicologo-psico-oncologista-prova.pdf",
+    "urlGabarito": "https://www.estudegratis.com.br/images/provas/10946-cesgranrio-2009-secad-to-psicologo-psico-oncologista-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "cópia hospedada por terceiro (documento com timbre/formato oficial; original não conferido)",
+    "colunaGabarito": "Mesmo gabarito de secad-to-2009-psicologo; coluna PSICÓLOGO PSICO-ONCOLOGISTA, 20a de 21 (31 a 50). Verificada visualmente. Não consta alteração para este cargo no trecho de recursos lido.",
+    "numQuestoes": 50,
+    "faixasPorBloco": {
+      "Língua Portuguesa": "1-15",
+      "Conhecimentos Gerais": "16-30",
+      "Conhecimentos Específicos": "31-50"
+    },
+    "soImagem": false,
+    "observacoes": "",
+    "arquivos": {
+      "gabarito.pdf": "https://www.estudegratis.com.br/images/provas/10946-cesgranrio-2009-secad-to-psicologo-psico-oncologista-gabarito.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/10946-cesgranrio-2009-secad-to-psicologo-psico-oncologista-prova.pdf",
+      "recursos.pdf": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/alteracao_gabarito/19943.pdf"
+    }
+  },
+  {
+    "id": "casa-da-moeda-2005-psicologo",
+    "org": "Casa da Moeda do Brasil",
+    "ano": 2005,
+    "cargo": "Psicólogo (Processo Seletivo 01/05, 11/09/2005)",
+    "pastaLocal": "provas/downloads/casa-da-moeda-2005-psicologo",
+    "urlProva": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/21165.pdf",
+    "urlGabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/21165.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "cópia hospedada por terceiro (documento com timbre/formato oficial; original não conferido)",
+    "colunaGabarito": "Página única, rotacionada (o pdftool page corta; renderize com qlmanage). Conhecimentos Específicos, coluna PSICÓLOGO, última à direita (11 a 30). Português III de 1 a 10 no alto.",
+    "numQuestoes": 30,
+    "faixasPorBloco": {
+      "Português III": "1-10",
+      "Conhecimentos Específicos": "11-30"
+    },
+    "soImagem": false,
+    "observacoes": "Obtido via Aprova Concursos (IESDE): o arquivo da Qconcursos dá 403 e a prova41.pdf oficial não está no Wayback. recursos.doc é um arquivo Word que veio com nome .pdf; guardei como .doc e não o abri em programa nenhum. O texto convertido não menciona Psicólogo.",
+    "arquivos": {
+      "gabarito.pdf": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/21165.pdf",
+      "prova.pdf": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/21165.pdf",
+      "recursos.doc": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/alteracao_gabarito/21165.pdf"
+    }
+  },
+  {
+    "id": "al-to-2005-consultor-legislativo-psicologia",
+    "org": "Assembleia Legislativa do Tocantins",
+    "ano": 2005,
+    "cargo": "Consultor Legislativo / Área de Psicologia (02/10/2005)",
+    "pastaLocal": "provas/downloads/al-to-2005-consultor-legislativo-psicologia",
+    "urlProva": "https://www.estudegratis.com.br/images/provas/2054-cesgranrio-2005-al-to-consultor-legislativo-psicologia-prova.pdf",
+    "urlGabarito": "https://www.estudegratis.com.br/images/provas/2054-cesgranrio-2005-al-to-consultor-legislativo-psicologia-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "cópia hospedada por terceiro (documento com timbre/formato oficial; original não conferido)",
+    "colunaGabarito": "Página única, coluna Psicologia, 6a coluna (21 a 40). Português 1-10 e Conhecimentos Gerais IV 11-20 no alto.",
+    "numQuestoes": 40,
+    "faixasPorBloco": {
+      "Português IV": "1-10",
+      "Conhecimentos Gerais IV": "11-20",
+      "Conhecimentos Específicos": "21-40"
+    },
+    "soImagem": false,
+    "observacoes": "Prova e gabarito têm carimbo www.pciconcursos.com.br no rodapé. PCI cataloga outra prova 'psicologo-assembleia-legislativa-to 2005', não obtida.",
+    "arquivos": {
+      "gabarito.pdf": "https://www.estudegratis.com.br/images/provas/2054-cesgranrio-2005-al-to-consultor-legislativo-psicologia-gabarito.pdf",
+      "prova.pdf": "https://www.estudegratis.com.br/images/provas/2054-cesgranrio-2005-al-to-consultor-legislativo-psicologia-prova.pdf"
+    }
+  },
+  {
+    "id": "mpe-ro-2005-analista-psicologia",
+    "org": "MPE-RO",
+    "ano": 2005,
+    "cargo": "Analista em Psicologia (Edital 049/2004, março/2005)",
+    "pastaLocal": "provas/downloads/mpe-ro-2005-analista-psicologia",
+    "urlProva": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br:80/eventos/concursos/mpro4904/ANALISTA%20EM%20PSICOLOGIA.pdf",
+    "urlGabarito": "https://www.estudegratis.com.br/images/provas/1490-cesgranrio-2005-mpe-ro-psicologo-gabarito.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "página HTML oficial da Cesgranrio via Wayback, salva como gabarito-cesgranrio.html; gabarito.pdf é redigitação com carimbo do PCI",
+    "colunaGabarito": "Bloco 'CONHECIMENTOS ESPECÍFICOS - ANALISTA PSICOLOGIA' (21 a 50). Bloco idêntico ao do PDF, conferido no texto da página oficial; LP e CG não comparados.",
+    "numQuestoes": 50,
+    "faixasPorBloco": {
+      "Língua Portuguesa III": "1-10",
+      "Conhecimentos Gerais": "11-20",
+      "Conhecimentos Específicos": "21-50"
+    },
+    "soImagem": false,
+    "observacoes": "Caderno oficial via Wayback, sem a palavra Cesgranrio no texto do PDF, mas hospedado no site dela.",
+    "arquivos": {
+      "gabarito-cesgranrio.html": "https://web.archive.org/web/20050310025022id_/http://www.cesgranrio.org.br/eventos/concursos/mpro4904/mpro4904_gab.html",
+      "gabarito.pdf": "https://www.estudegratis.com.br/images/provas/1490-cesgranrio-2005-mpe-ro-psicologo-gabarito.pdf",
+      "prova.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br:80/eventos/concursos/mpro4904/ANALISTA%20EM%20PSICOLOGIA.pdf"
+    }
+  },
+  {
+    "id": "see-sp-2009-peb-ii-psicologia",
+    "org": "SEE-SP",
+    "ano": 2009,
+    "cargo": "Professor Educação Básica II de Psicologia (promoção por mérito, 3o dia)",
+    "pastaLocal": "provas/downloads/see-sp-2009-peb-ii-psicologia",
+    "urlProva": "https://web.archive.org/web/2009id_/http://www.cesgranrio.org.br/eventos/concursos/seesp0109/pdf/provas3Dia/Prova%20Psicologia%20PEB%20II_completa.pdf",
+    "urlGabarito": "https://web.archive.org/web/2009id_/http://www.cesgranrio.org.br/eventos/concursos/seesp0109/pdf/gabarito3Dia/GABARITOS_3diaPEBII.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "arquivo oficial da Cesgranrio via Wayback Machine",
+    "colunaGabarito": "Página 3, quadro PSICOLOGIA (1 a 60); a 'parte geral' de 1-20 da página 1 não vale para Psicologia.",
+    "numQuestoes": 60,
+    "faixasPorBloco": {
+      "Objetivas": "1-60",
+      "Dissertativa": "1 questão"
+    },
+    "soImagem": false,
+    "observacoes": "Prova para professores de Psicologia, foco educacional: baixa aderência ao programa da Ênfase 31.",
+    "arquivos": {
+      "gabarito.pdf": "https://web.archive.org/web/2009id_/http://www.cesgranrio.org.br/eventos/concursos/seesp0109/pdf/gabarito3Dia/GABARITOS_3diaPEBII.pdf",
+      "prova.pdf": "https://web.archive.org/web/2009id_/http://www.cesgranrio.org.br/eventos/concursos/seesp0109/pdf/provas3Dia/Prova%20Psicologia%20PEB%20II_completa.pdf"
+    }
+  },
+  {
+    "id": "tj-ro-2008-psicologo",
+    "org": "TJ-RO",
+    "ano": 2008,
+    "cargo": "Técnico Judiciário - Psicólogo (Concurso 01/2008, prova 18, 19/10/2008)",
+    "pastaLocal": "provas/downloads/tj-ro-2008-psicologo",
+    "urlProva": null,
+    "urlGabarito": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/eventos/concursos/tjro0108/pdf/gabarito_superior.pdf",
+    "gabaritoOficial": true,
+    "origemGabarito": "arquivo oficial da Cesgranrio via Wayback Machine",
+    "colunaGabarito": "Página única, Conhecimentos Específicos, coluna PSICÓLOGO, última à direita (21 a 50).",
+    "numQuestoes": 50,
+    "faixasPorBloco": {
+      "Língua Portuguesa III": "1-15",
+      "História e Geografia de RO II": "16-20",
+      "Conhecimentos Específicos": "21-50"
+    },
+    "soImagem": false,
+    "observacoes": "SEM PROVA: prova18.pdf não está arquivada. O arquivo do Estude Grátis (id 8419) foi rejeitado e apagado: 60 questões, 3 horas, formato de outra banca e conteúdo de saúde, sem bater com o gabarito de 50 questões.",
+    "arquivos": {
+      "gabarito.pdf": "https://web.archive.org/web/2012id_/http://www.cesgranrio.org.br/eventos/concursos/tjro0108/pdf/gabarito_superior.pdf"
+    }
+  }
+]

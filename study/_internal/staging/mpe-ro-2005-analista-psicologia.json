@@ -1,0 +1,1860 @@
+{
+ "concurso": "mpe-ro-2005-analista-psicologia",
+ "questions": [
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q1",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 1,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.4 Significação das palavras",
+   "stem": "Indique a única opção em que <strong>NÃO</strong> se encontra uma acepção possível para a palavra tempo, de acordo com seus usos no texto.",
+   "passage": "<p><strong>O tempo do desenvolvimento</strong></p><p>1 Levei minha moto para ser consertada em uma pe-<br>2 quena oficina no centro de Genebra. O mecânico abriu<br>3 uma agenda (como as de médico) e me instruiu para<br>4 que em oito dias voltasse com a moto às 2h e que fos-<br>5 se buscá-la às 3h15min. E assim foi. Ainda naquela re-<br>6 gião, procurei um carpinteiro. Sem olhar a agenda, ele<br>7 foi logo dizendo que estava ocupado pelos próximos três<br>8 meses. Contudo, havia uma chance no fim de sema-<br>9 na seguinte. Se chovesse, nada feito, não se abre telha-<br>10 do com chuva. Se fizesse sol, ele ia escalar um pico<br>11 próximo. Mas, se o tempo estivesse nublado, aí talvez<br>12 fosse possível. As cartas estavam na mesa, com toda a<br>13 sinceridade.</p><p>14 Um professor chinês em Yale, segurando a xícara<br>15 de café, ficava olhando o ponteiro de segundos do<br>16 relógio da sala de aula. Quando marcava 8h em ponto,<br>17 começava a aula.[...]</p><p>18 Nos Estados Unidos, é prática corrente lojas e<br>19 oficinas darem um prazo máximo para a entrega dos<br>20 serviços. Em geral, terminam antes. Mas o cliente<br>21 planeja sua vida para o prazo máximo.</p><p>22 Aqui em Pindorama vivemos numa sociedade que<br>23 mescla o melhor e o pior do respeito pelo tempo. Eu tinha<br>24 um amigo radicado nos Estados Unidos. Na época em<br>25 que morou no Rio, ele costumava marcar com seus<br>26 colegas de tênis partidas para o dia seguinte.<br>27 Não apareciam ou chegavam atrasados. Voltando a<br>28 Washington, passou a marcar partidas com mais de três<br>29 meses de antecedência. Na hora aprazada, estavam<br>30 todos lá.</p><p>31 Na Esplanada dos Ministérios, em Brasília, a<br>32 conferência marcada para as 10h começará em<br>33 horas diferentes, dependendo do ministério.<br>34 No Itamaraty, começa na hora. Na área econômica,<br>35 cabem alguns minutos de tolerância. Na área social,<br>36 estão todos muito ocupados, e meia hora de atraso não<br>37 é incomum. Curioso, os ministérios mais eficazes são<br>38 aqueles em que as reuniões começam na hora.</p><p>39 Quem marca com o consertador do computador,<br>40 da televisão, da pia ou da máquina de lavar terá uma<br>41 surpresa se a criatura vier – e mais ainda se chegar na<br>42 hora marcada. Já nas empresas modernas, a chance<br>43 de andar no horário é bem maior.[...]</p><p>44 Tais exemplos dizem o que todos já sabem, pelo<br>45 menos na teoria: tempo é dinheiro. A riqueza é resultante<br>46 do trabalho. O trabalho é a aplicação do tempo em<br>47 atividades produtivas. Quanto mais tempo se perde por<br>48 desorganização ou esperando pelos outros, menos<br>49 tempo se utiliza produzindo e menos riqueza é gerada.<br>50 E isso sem ganhar em lazer.[...]</p><p>51 O respeito pelo tempo dos outros aumenta a pro-<br>52 dutividade social, pois o tempo de todos não é des-<br>53 perdiçado pelas esperas. Aliás, fazer com antecedên-<br>54 cia é mais rápido e mais barato. Planejamento é isso. O<br>55 tempo do desenvolvimento é o aprendizado social de<br>56 estruturar o tempo de cada um e cada um não atrapalhar<br>57 o tempo dos outros.</p><p>CASTRO, Claudio de Moura, <strong>Revista Veja</strong>, 24 mar. 2004 (adaptado).</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Sucessão dos anos, dos dias, das horas.",
+     "explanation": "Acepção presente, por exemplo em 'respeito pelo tempo' e 'tempo é dinheiro' (l. 23, 45)."
+    },
+    {
+     "key": "B",
+     "text": "A noção de presente, passado e futuro."
+    },
+    {
+     "key": "C",
+     "text": "Momento apropriado para realizar algo.",
+     "explanation": "Acepção presente na ideia de fazer as coisas na hora certa, 'com antecedência' (l. 53-54)."
+    },
+    {
+     "key": "D",
+     "text": "Condições meteorológicas de dada região.",
+     "explanation": "Acepção presente em 'se o tempo estivesse nublado' (l. 11)."
+    },
+    {
+     "key": "E",
+     "text": "Época em que determinados fatos ocorrem.",
+     "explanation": "Acepção presente em 'o tempo do desenvolvimento' (título e l. 54-55), isto é, a época, a fase do desenvolvimento."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "No texto, 'tempo' aparece como duração/sucessão de horas (tempo é dinheiro), como condição meteorológica (tempo nublado), como momento oportuno e como época ('o tempo do desenvolvimento'). A noção gramatical/filosófica de presente, passado e futuro não é usada.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q2",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 2,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "O vocábulo “se” tem o mesmo valor sintático da sua ocorrência em “... não se abre telhado com chuva.” (l. 9-10) no trecho:",
+   "passage": "<p><strong>O tempo do desenvolvimento</strong></p><p>1 Levei minha moto para ser consertada em uma pe-<br>2 quena oficina no centro de Genebra. O mecânico abriu<br>3 uma agenda (como as de médico) e me instruiu para<br>4 que em oito dias voltasse com a moto às 2h e que fos-<br>5 se buscá-la às 3h15min. E assim foi. Ainda naquela re-<br>6 gião, procurei um carpinteiro. Sem olhar a agenda, ele<br>7 foi logo dizendo que estava ocupado pelos próximos três<br>8 meses. Contudo, havia uma chance no fim de sema-<br>9 na seguinte. Se chovesse, nada feito, não se abre telha-<br>10 do com chuva. Se fizesse sol, ele ia escalar um pico<br>11 próximo. Mas, se o tempo estivesse nublado, aí talvez<br>12 fosse possível. As cartas estavam na mesa, com toda a<br>13 sinceridade.</p><p>14 Um professor chinês em Yale, segurando a xícara<br>15 de café, ficava olhando o ponteiro de segundos do<br>16 relógio da sala de aula. Quando marcava 8h em ponto,<br>17 começava a aula.[...]</p><p>18 Nos Estados Unidos, é prática corrente lojas e<br>19 oficinas darem um prazo máximo para a entrega dos<br>20 serviços. Em geral, terminam antes. Mas o cliente<br>21 planeja sua vida para o prazo máximo.</p><p>22 Aqui em Pindorama vivemos numa sociedade que<br>23 mescla o melhor e o pior do respeito pelo tempo. Eu tinha<br>24 um amigo radicado nos Estados Unidos. Na época em<br>25 que morou no Rio, ele costumava marcar com seus<br>26 colegas de tênis partidas para o dia seguinte.<br>27 Não apareciam ou chegavam atrasados. Voltando a<br>28 Washington, passou a marcar partidas com mais de três<br>29 meses de antecedência. Na hora aprazada, estavam<br>30 todos lá.</p><p>31 Na Esplanada dos Ministérios, em Brasília, a<br>32 conferência marcada para as 10h começará em<br>33 horas diferentes, dependendo do ministério.<br>34 No Itamaraty, começa na hora. Na área econômica,<br>35 cabem alguns minutos de tolerância. Na área social,<br>36 estão todos muito ocupados, e meia hora de atraso não<br>37 é incomum. Curioso, os ministérios mais eficazes são<br>38 aqueles em que as reuniões começam na hora.</p><p>39 Quem marca com o consertador do computador,<br>40 da televisão, da pia ou da máquina de lavar terá uma<br>41 surpresa se a criatura vier – e mais ainda se chegar na<br>42 hora marcada. Já nas empresas modernas, a chance<br>43 de andar no horário é bem maior.[...]</p><p>44 Tais exemplos dizem o que todos já sabem, pelo<br>45 menos na teoria: tempo é dinheiro. A riqueza é resultante<br>46 do trabalho. O trabalho é a aplicação do tempo em<br>47 atividades produtivas. Quanto mais tempo se perde por<br>48 desorganização ou esperando pelos outros, menos<br>49 tempo se utiliza produzindo e menos riqueza é gerada.<br>50 E isso sem ganhar em lazer.[...]</p><p>51 O respeito pelo tempo dos outros aumenta a pro-<br>52 dutividade social, pois o tempo de todos não é des-<br>53 perdiçado pelas esperas. Aliás, fazer com antecedên-<br>54 cia é mais rápido e mais barato. Planejamento é isso. O<br>55 tempo do desenvolvimento é o aprendizado social de<br>56 estruturar o tempo de cada um e cada um não atrapalhar<br>57 o tempo dos outros.</p><p>CASTRO, Claudio de Moura, <strong>Revista Veja</strong>, 24 mar. 2004 (adaptado).</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“Se chovesse, nada feito,” (l. 9)",
+     "explanation": "Aqui 'se' é conjunção subordinativa condicional."
+    },
+    {
+     "key": "B",
+     "text": "“Se fizesse sol, ele ia escalar...” (l. 10)",
+     "explanation": "Conjunção condicional."
+    },
+    {
+     "key": "C",
+     "text": "“... surpresa se a criatura vier –” (l. 41)",
+     "explanation": "Conjunção condicional."
+    },
+    {
+     "key": "D",
+     "text": "“... se chegar na hora marcada.” (l. 41-42)",
+     "explanation": "Conjunção condicional."
+    },
+    {
+     "key": "E",
+     "text": "“... tempo se perde por desorganização...” (l. 47-48)"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Em 'não se abre telhado', 'se' é pronome apassivador (voz passiva sintética: telhado não é aberto). O mesmo ocorre em 'tempo se perde' (tempo é perdido). Nas demais opções, 'se' é conjunção condicional.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q3",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 3,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "A respeito do quinto parágrafo, é correto afirmar que os:",
+   "passage": "<p><strong>O tempo do desenvolvimento</strong></p><p>1 Levei minha moto para ser consertada em uma pe-<br>2 quena oficina no centro de Genebra. O mecânico abriu<br>3 uma agenda (como as de médico) e me instruiu para<br>4 que em oito dias voltasse com a moto às 2h e que fos-<br>5 se buscá-la às 3h15min. E assim foi. Ainda naquela re-<br>6 gião, procurei um carpinteiro. Sem olhar a agenda, ele<br>7 foi logo dizendo que estava ocupado pelos próximos três<br>8 meses. Contudo, havia uma chance no fim de sema-<br>9 na seguinte. Se chovesse, nada feito, não se abre telha-<br>10 do com chuva. Se fizesse sol, ele ia escalar um pico<br>11 próximo. Mas, se o tempo estivesse nublado, aí talvez<br>12 fosse possível. As cartas estavam na mesa, com toda a<br>13 sinceridade.</p><p>14 Um professor chinês em Yale, segurando a xícara<br>15 de café, ficava olhando o ponteiro de segundos do<br>16 relógio da sala de aula. Quando marcava 8h em ponto,<br>17 começava a aula.[...]</p><p>18 Nos Estados Unidos, é prática corrente lojas e<br>19 oficinas darem um prazo máximo para a entrega dos<br>20 serviços. Em geral, terminam antes. Mas o cliente<br>21 planeja sua vida para o prazo máximo.</p><p>22 Aqui em Pindorama vivemos numa sociedade que<br>23 mescla o melhor e o pior do respeito pelo tempo. Eu tinha<br>24 um amigo radicado nos Estados Unidos. Na época em<br>25 que morou no Rio, ele costumava marcar com seus<br>26 colegas de tênis partidas para o dia seguinte.<br>27 Não apareciam ou chegavam atrasados. Voltando a<br>28 Washington, passou a marcar partidas com mais de três<br>29 meses de antecedência. Na hora aprazada, estavam<br>30 todos lá.</p><p>31 Na Esplanada dos Ministérios, em Brasília, a<br>32 conferência marcada para as 10h começará em<br>33 horas diferentes, dependendo do ministério.<br>34 No Itamaraty, começa na hora. Na área econômica,<br>35 cabem alguns minutos de tolerância. Na área social,<br>36 estão todos muito ocupados, e meia hora de atraso não<br>37 é incomum. Curioso, os ministérios mais eficazes são<br>38 aqueles em que as reuniões começam na hora.</p><p>39 Quem marca com o consertador do computador,<br>40 da televisão, da pia ou da máquina de lavar terá uma<br>41 surpresa se a criatura vier – e mais ainda se chegar na<br>42 hora marcada. Já nas empresas modernas, a chance<br>43 de andar no horário é bem maior.[...]</p><p>44 Tais exemplos dizem o que todos já sabem, pelo<br>45 menos na teoria: tempo é dinheiro. A riqueza é resultante<br>46 do trabalho. O trabalho é a aplicação do tempo em<br>47 atividades produtivas. Quanto mais tempo se perde por<br>48 desorganização ou esperando pelos outros, menos<br>49 tempo se utiliza produzindo e menos riqueza é gerada.<br>50 E isso sem ganhar em lazer.[...]</p><p>51 O respeito pelo tempo dos outros aumenta a pro-<br>52 dutividade social, pois o tempo de todos não é des-<br>53 perdiçado pelas esperas. Aliás, fazer com antecedên-<br>54 cia é mais rápido e mais barato. Planejamento é isso. O<br>55 tempo do desenvolvimento é o aprendizado social de<br>56 estruturar o tempo de cada um e cada um não atrapalhar<br>57 o tempo dos outros.</p><p>CASTRO, Claudio de Moura, <strong>Revista Veja</strong>, 24 mar. 2004 (adaptado).</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "diplomatas sediados nos ministérios não cumprem os horários estipulados.",
+     "explanation": "No Itamaraty, que é o ministério dos diplomatas, a conferência 'começa na hora'."
+    },
+    {
+     "key": "B",
+     "text": "compromissos de cada ministério variam de acordo com suas ocupações.",
+     "explanation": "O texto diz que o horário de início varia por ministério, não que os compromissos variem conforme as ocupações."
+    },
+    {
+     "key": "C",
+     "text": "compromissos de ministérios sociais raramente começam na hora marcada."
+    },
+    {
+     "key": "D",
+     "text": "ministros da área econômica seguem rigorosamente os horários.",
+     "explanation": "Na área econômica 'cabem alguns minutos de tolerância'."
+    },
+    {
+     "key": "E",
+     "text": "ministérios da área social são mais eficazes do que os outros.",
+     "explanation": "O texto sugere o contrário: os mais eficazes são aqueles em que as reuniões começam na hora."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O quinto parágrafo (l. 31-38) informa que, na área social, 'meia hora de atraso não é incomum', isto é, as reuniões raramente começam na hora. Itamaraty começa na hora e a área econômica tolera alguns minutos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q4",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 4,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.7 Coordenação e subordinação",
+   "stem": "Assinale a opção em que a forma apresentada pode substituir “segurando” no período “Um professor chinês em Yale, <strong>segurando a xícara de café</strong>, ficava olhando o ponteiro de segundos do relógio da sala de aula.” (l. 14-16), mantendo o sentido da expressão destacada.",
+   "passage": "<p><strong>O tempo do desenvolvimento</strong></p><p>1 Levei minha moto para ser consertada em uma pe-<br>2 quena oficina no centro de Genebra. O mecânico abriu<br>3 uma agenda (como as de médico) e me instruiu para<br>4 que em oito dias voltasse com a moto às 2h e que fos-<br>5 se buscá-la às 3h15min. E assim foi. Ainda naquela re-<br>6 gião, procurei um carpinteiro. Sem olhar a agenda, ele<br>7 foi logo dizendo que estava ocupado pelos próximos três<br>8 meses. Contudo, havia uma chance no fim de sema-<br>9 na seguinte. Se chovesse, nada feito, não se abre telha-<br>10 do com chuva. Se fizesse sol, ele ia escalar um pico<br>11 próximo. Mas, se o tempo estivesse nublado, aí talvez<br>12 fosse possível. As cartas estavam na mesa, com toda a<br>13 sinceridade.</p><p>14 Um professor chinês em Yale, segurando a xícara<br>15 de café, ficava olhando o ponteiro de segundos do<br>16 relógio da sala de aula. Quando marcava 8h em ponto,<br>17 começava a aula.[...]</p><p>18 Nos Estados Unidos, é prática corrente lojas e<br>19 oficinas darem um prazo máximo para a entrega dos<br>20 serviços. Em geral, terminam antes. Mas o cliente<br>21 planeja sua vida para o prazo máximo.</p><p>22 Aqui em Pindorama vivemos numa sociedade que<br>23 mescla o melhor e o pior do respeito pelo tempo. Eu tinha<br>24 um amigo radicado nos Estados Unidos. Na época em<br>25 que morou no Rio, ele costumava marcar com seus<br>26 colegas de tênis partidas para o dia seguinte.<br>27 Não apareciam ou chegavam atrasados. Voltando a<br>28 Washington, passou a marcar partidas com mais de três<br>29 meses de antecedência. Na hora aprazada, estavam<br>30 todos lá.</p><p>31 Na Esplanada dos Ministérios, em Brasília, a<br>32 conferência marcada para as 10h começará em<br>33 horas diferentes, dependendo do ministério.<br>34 No Itamaraty, começa na hora. Na área econômica,<br>35 cabem alguns minutos de tolerância. Na área social,<br>36 estão todos muito ocupados, e meia hora de atraso não<br>37 é incomum. Curioso, os ministérios mais eficazes são<br>38 aqueles em que as reuniões começam na hora.</p><p>39 Quem marca com o consertador do computador,<br>40 da televisão, da pia ou da máquina de lavar terá uma<br>41 surpresa se a criatura vier – e mais ainda se chegar na<br>42 hora marcada. Já nas empresas modernas, a chance<br>43 de andar no horário é bem maior.[...]</p><p>44 Tais exemplos dizem o que todos já sabem, pelo<br>45 menos na teoria: tempo é dinheiro. A riqueza é resultante<br>46 do trabalho. O trabalho é a aplicação do tempo em<br>47 atividades produtivas. Quanto mais tempo se perde por<br>48 desorganização ou esperando pelos outros, menos<br>49 tempo se utiliza produzindo e menos riqueza é gerada.<br>50 E isso sem ganhar em lazer.[...]</p><p>51 O respeito pelo tempo dos outros aumenta a pro-<br>52 dutividade social, pois o tempo de todos não é des-<br>53 perdiçado pelas esperas. Aliás, fazer com antecedên-<br>54 cia é mais rápido e mais barato. Planejamento é isso. O<br>55 tempo do desenvolvimento é o aprendizado social de<br>56 estruturar o tempo de cada um e cada um não atrapalhar<br>57 o tempo dos outros.</p><p>CASTRO, Claudio de Moura, <strong>Revista Veja</strong>, 24 mar. 2004 (adaptado).</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Logo que segurava.",
+     "explanation": "'Logo que' indica anterioridade imediata, não ações simultâneas."
+    },
+    {
+     "key": "B",
+     "text": "Enquanto segurava."
+    },
+    {
+     "key": "C",
+     "text": "Quando segurava.",
+     "explanation": "'Quando' marca o momento, sugerindo que olhava o relógio só nas ocasiões em que segurava a xícara; perde-se a ideia de simultaneidade contínua."
+    },
+    {
+     "key": "D",
+     "text": "Porque segurou.",
+     "explanation": "Introduz causa, relação inexistente no original."
+    },
+    {
+     "key": "E",
+     "text": "Que segurou.",
+     "explanation": "Transforma a oração em adjetiva e muda o tempo verbal para o perfeito, desfazendo a simultaneidade."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "A oração reduzida de gerúndio 'segurando a xícara de café' expressa uma ação simultânea à principal ('ficava olhando'). A forma desenvolvida equivalente é a temporal de simultaneidade 'enquanto segurava'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q5",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 5,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.3 Mecanismos de coesão textual",
+   "stem": "As palavras da primeira coluna referem-se corretamente às palavras da segunda coluna, <strong>EXCETO</strong> uma. Assinale-a.",
+   "passage": "<p><strong>O tempo do desenvolvimento</strong></p><p>1 Levei minha moto para ser consertada em uma pe-<br>2 quena oficina no centro de Genebra. O mecânico abriu<br>3 uma agenda (como as de médico) e me instruiu para<br>4 que em oito dias voltasse com a moto às 2h e que fos-<br>5 se buscá-la às 3h15min. E assim foi. Ainda naquela re-<br>6 gião, procurei um carpinteiro. Sem olhar a agenda, ele<br>7 foi logo dizendo que estava ocupado pelos próximos três<br>8 meses. Contudo, havia uma chance no fim de sema-<br>9 na seguinte. Se chovesse, nada feito, não se abre telha-<br>10 do com chuva. Se fizesse sol, ele ia escalar um pico<br>11 próximo. Mas, se o tempo estivesse nublado, aí talvez<br>12 fosse possível. As cartas estavam na mesa, com toda a<br>13 sinceridade.</p><p>14 Um professor chinês em Yale, segurando a xícara<br>15 de café, ficava olhando o ponteiro de segundos do<br>16 relógio da sala de aula. Quando marcava 8h em ponto,<br>17 começava a aula.[...]</p><p>18 Nos Estados Unidos, é prática corrente lojas e<br>19 oficinas darem um prazo máximo para a entrega dos<br>20 serviços. Em geral, terminam antes. Mas o cliente<br>21 planeja sua vida para o prazo máximo.</p><p>22 Aqui em Pindorama vivemos numa sociedade que<br>23 mescla o melhor e o pior do respeito pelo tempo. Eu tinha<br>24 um amigo radicado nos Estados Unidos. Na época em<br>25 que morou no Rio, ele costumava marcar com seus<br>26 colegas de tênis partidas para o dia seguinte.<br>27 Não apareciam ou chegavam atrasados. Voltando a<br>28 Washington, passou a marcar partidas com mais de três<br>29 meses de antecedência. Na hora aprazada, estavam<br>30 todos lá.</p><p>31 Na Esplanada dos Ministérios, em Brasília, a<br>32 conferência marcada para as 10h começará em<br>33 horas diferentes, dependendo do ministério.<br>34 No Itamaraty, começa na hora. Na área econômica,<br>35 cabem alguns minutos de tolerância. Na área social,<br>36 estão todos muito ocupados, e meia hora de atraso não<br>37 é incomum. Curioso, os ministérios mais eficazes são<br>38 aqueles em que as reuniões começam na hora.</p><p>39 Quem marca com o consertador do computador,<br>40 da televisão, da pia ou da máquina de lavar terá uma<br>41 surpresa se a criatura vier – e mais ainda se chegar na<br>42 hora marcada. Já nas empresas modernas, a chance<br>43 de andar no horário é bem maior.[...]</p><p>44 Tais exemplos dizem o que todos já sabem, pelo<br>45 menos na teoria: tempo é dinheiro. A riqueza é resultante<br>46 do trabalho. O trabalho é a aplicação do tempo em<br>47 atividades produtivas. Quanto mais tempo se perde por<br>48 desorganização ou esperando pelos outros, menos<br>49 tempo se utiliza produzindo e menos riqueza é gerada.<br>50 E isso sem ganhar em lazer.[...]</p><p>51 O respeito pelo tempo dos outros aumenta a pro-<br>52 dutividade social, pois o tempo de todos não é des-<br>53 perdiçado pelas esperas. Aliás, fazer com antecedên-<br>54 cia é mais rápido e mais barato. Planejamento é isso. O<br>55 tempo do desenvolvimento é o aprendizado social de<br>56 estruturar o tempo de cada um e cada um não atrapalhar<br>57 o tempo dos outros.</p><p>CASTRO, Claudio de Moura, <strong>Revista Veja</strong>, 24 mar. 2004 (adaptado).</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "“assim” (l. 5) — voltar com a moto às 2h e buscá-la às 3h 15min",
+     "explanation": "Referência correta: 'E assim foi' retoma o combinado com o mecânico."
+    },
+    {
+     "key": "B",
+     "text": "“ele” (l. 6) — o carpinteiro",
+     "explanation": "Referência correta: 'ele' retoma 'um carpinteiro'."
+    },
+    {
+     "key": "C",
+     "text": "“criatura” (l. 41) — o consertador do computador, da televisão, da pia ou da máquina de lavar",
+     "explanation": "Referência correta: 'a criatura' retoma, com ironia, o consertador."
+    },
+    {
+     "key": "D",
+     "text": "“o” (l. 44) — tempo é dinheiro",
+     "explanation": "Referência correta: 'o que todos já sabem' antecipa 'tempo é dinheiro'."
+    },
+    {
+     "key": "E",
+     "text": "“isso” (l. 55) — o respeito pelo tempo dos outros"
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Em 'Planejamento é isso' (l. 54), o pronome 'isso' retoma a ideia imediatamente anterior, 'fazer com antecedência', e não 'o respeito pelo tempo dos outros'. As demais referências estão corretas.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q6",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 6,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.1 Compreensão de textos",
+   "stem": "O texto apresenta quatro partes de acordo com a sua organização:<br>I - exemplos genéricos;<br>II - exemplos particulares;<br>III - ratificação da tese;<br>IV - tese do texto.<br>Qual a ordem correta dessas partes no texto?",
+   "passage": "<p><strong>O tempo do desenvolvimento</strong></p><p>1 Levei minha moto para ser consertada em uma pe-<br>2 quena oficina no centro de Genebra. O mecânico abriu<br>3 uma agenda (como as de médico) e me instruiu para<br>4 que em oito dias voltasse com a moto às 2h e que fos-<br>5 se buscá-la às 3h15min. E assim foi. Ainda naquela re-<br>6 gião, procurei um carpinteiro. Sem olhar a agenda, ele<br>7 foi logo dizendo que estava ocupado pelos próximos três<br>8 meses. Contudo, havia uma chance no fim de sema-<br>9 na seguinte. Se chovesse, nada feito, não se abre telha-<br>10 do com chuva. Se fizesse sol, ele ia escalar um pico<br>11 próximo. Mas, se o tempo estivesse nublado, aí talvez<br>12 fosse possível. As cartas estavam na mesa, com toda a<br>13 sinceridade.</p><p>14 Um professor chinês em Yale, segurando a xícara<br>15 de café, ficava olhando o ponteiro de segundos do<br>16 relógio da sala de aula. Quando marcava 8h em ponto,<br>17 começava a aula.[...]</p><p>18 Nos Estados Unidos, é prática corrente lojas e<br>19 oficinas darem um prazo máximo para a entrega dos<br>20 serviços. Em geral, terminam antes. Mas o cliente<br>21 planeja sua vida para o prazo máximo.</p><p>22 Aqui em Pindorama vivemos numa sociedade que<br>23 mescla o melhor e o pior do respeito pelo tempo. Eu tinha<br>24 um amigo radicado nos Estados Unidos. Na época em<br>25 que morou no Rio, ele costumava marcar com seus<br>26 colegas de tênis partidas para o dia seguinte.<br>27 Não apareciam ou chegavam atrasados. Voltando a<br>28 Washington, passou a marcar partidas com mais de três<br>29 meses de antecedência. Na hora aprazada, estavam<br>30 todos lá.</p><p>31 Na Esplanada dos Ministérios, em Brasília, a<br>32 conferência marcada para as 10h começará em<br>33 horas diferentes, dependendo do ministério.<br>34 No Itamaraty, começa na hora. Na área econômica,<br>35 cabem alguns minutos de tolerância. Na área social,<br>36 estão todos muito ocupados, e meia hora de atraso não<br>37 é incomum. Curioso, os ministérios mais eficazes são<br>38 aqueles em que as reuniões começam na hora.</p><p>39 Quem marca com o consertador do computador,<br>40 da televisão, da pia ou da máquina de lavar terá uma<br>41 surpresa se a criatura vier – e mais ainda se chegar na<br>42 hora marcada. Já nas empresas modernas, a chance<br>43 de andar no horário é bem maior.[...]</p><p>44 Tais exemplos dizem o que todos já sabem, pelo<br>45 menos na teoria: tempo é dinheiro. A riqueza é resultante<br>46 do trabalho. O trabalho é a aplicação do tempo em<br>47 atividades produtivas. Quanto mais tempo se perde por<br>48 desorganização ou esperando pelos outros, menos<br>49 tempo se utiliza produzindo e menos riqueza é gerada.<br>50 E isso sem ganhar em lazer.[...]</p><p>51 O respeito pelo tempo dos outros aumenta a pro-<br>52 dutividade social, pois o tempo de todos não é des-<br>53 perdiçado pelas esperas. Aliás, fazer com antecedên-<br>54 cia é mais rápido e mais barato. Planejamento é isso. O<br>55 tempo do desenvolvimento é o aprendizado social de<br>56 estruturar o tempo de cada um e cada um não atrapalhar<br>57 o tempo dos outros.</p><p>CASTRO, Claudio de Moura, <strong>Revista Veja</strong>, 24 mar. 2004 (adaptado).</p>",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "I - II - III - IV",
+     "explanation": "O texto começa com casos particulares (o mecânico e o carpinteiro de Genebra, o professor de Yale), não com exemplos genéricos, e a tese não vem no fim."
+    },
+    {
+     "key": "B",
+     "text": "I - IV - III - II",
+     "explanation": "A tese ('tempo é dinheiro') não aparece no início; ela é extraída dos exemplos ('Tais exemplos dizem...')."
+    },
+    {
+     "key": "C",
+     "text": "II - I - IV - III"
+    },
+    {
+     "key": "D",
+     "text": "II - IV - I - III",
+     "explanation": "Depois dos casos particulares vêm exemplos genéricos (EUA, Brasil, ministérios, consertadores); só então a tese."
+    },
+    {
+     "key": "E",
+     "text": "IV - III - I - II",
+     "explanation": "Inverte a estrutura indutiva do texto, que parte dos exemplos para a tese."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "O texto começa com experiências particulares do autor (Genebra, Yale), passa a exemplos genéricos (práticas nos EUA, no Brasil, nos ministérios), enuncia a tese ('Tais exemplos dizem [...]: tempo é dinheiro') e a ratifica no último parágrafo (o respeito pelo tempo aumenta a produtividade social).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q7",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 7,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.6 Emprego das classes de palavras",
+   "stem": "Dentre os plurais dos nomes compostos, o único flexionado de modo adequado é:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "guarda-chuvas."
+    },
+    {
+     "key": "B",
+     "text": "olhos azuis-turquezas.",
+     "explanation": "Adjetivo composto cujo segundo elemento é substantivo fica invariável: 'olhos azul-turquesa'."
+    },
+    {
+     "key": "C",
+     "text": "escolas-modelos.",
+     "explanation": "Quando o segundo substantivo especifica o primeiro, a forma tradicional é 'escolas-modelo' (só o primeiro varia)."
+    },
+    {
+     "key": "D",
+     "text": "surdo-mudos.",
+     "explanation": "Nos adjetivos compostos ambos variam em 'surdo-mudo': 'surdos-mudos'."
+    },
+    {
+     "key": "E",
+     "text": "pores-dos-sóis.",
+     "explanation": "Em compostos ligados por preposição só o primeiro elemento varia: 'pores do sol'."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Em compostos formados por verbo + substantivo, só o substantivo vai para o plural: 'guarda-chuvas'. Nas demais formas a flexão contraria a regra do respectivo tipo de composto.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q8",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 8,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.12 Colocação dos pronomes átonos",
+   "stem": "Indique a opção em que o pronome oblíquo <strong>NÃO</strong> está colocado corretamente, de acordo com a norma culta.",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "O professor levou a moto para ser consertada – levou-a.",
+     "explanation": "Ênclise correta com verbo no pretérito perfeito sem fator de próclise."
+    },
+    {
+     "key": "B",
+     "text": "O professor levará a moto para ser consertada – levá-la-á.",
+     "explanation": "Mesóclise correta com verbo no futuro do presente."
+    },
+    {
+     "key": "C",
+     "text": "O professor levaria a moto para ser consertada – a levaria.",
+     "explanation": "Próclise aceita no registro brasileiro com sujeito expresso anteposto ('O professor a levaria')."
+    },
+    {
+     "key": "D",
+     "text": "O professor tinha levado a moto para ser consertada – tinha levado-a."
+    },
+    {
+     "key": "E",
+     "text": "O professor estava levando a moto para ser consertada – a estava levando.",
+     "explanation": "Próclise ao auxiliar correta na locução verbal com sujeito expresso."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "A norma culta não admite pronome oblíquo enclítico a particípio. Na locução com particípio, o pronome se liga ao auxiliar: 'tinha-a levado' ou 'a tinha levado'.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q9",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 9,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.9 Concordância verbal e nominal",
+   "stem": "Aponte a opção em que a concordância verbal está realizada corretamente.",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Houveram muitas festas de Carnaval na Bahia.",
+     "explanation": "'Haver' no sentido de existir/acontecer é impessoal: 'Houve muitas festas'."
+    },
+    {
+     "key": "B",
+     "text": "Os Estados Unidos, ontem, bombardeou o Iraque.",
+     "explanation": "Nome próprio plural precedido de artigo plural leva o verbo ao plural: 'bombardearam'."
+    },
+    {
+     "key": "C",
+     "text": "Cada um dos funcionários apresentaram boas propostas.",
+     "explanation": "Com 'cada um', o verbo fica no singular: 'apresentou'."
+    },
+    {
+     "key": "D",
+     "text": "Um dia, um mês, um ano passam depressa."
+    },
+    {
+     "key": "E",
+     "text": "Aconteceu vários fatos marcantes na minha vida.",
+     "explanation": "O sujeito posposto 'vários fatos' exige plural: 'Aconteceram'."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Sujeito composto anteposto leva o verbo ao plural; com núcleos em gradação o singular também é admitido, mas o plural 'passam' está correto. Nas demais opções há erros com 'haver' impessoal, nome próprio plural, 'cada um' e sujeito posposto.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q10",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 10,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "portugues",
+   "subtopic": "P.8 Emprego dos sinais de pontuação",
+   "stem": "Assinale o trecho que apresenta pontuação adequada de acordo com as normas da língua culta.",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "T. Watson, o legendário presidente da IBM, marcava reuniões para começar em horas quebradas, como 1h 58min. Quem chegasse depois pagava uma multa proporcional aos minutos de atraso."
+    },
+    {
+     "key": "B",
+     "text": "T. Watson, o legendário presidente da IBM, marcava reuniões para começar em horas quebradas: como 1h 58min; quem chegasse depois pagava uma multa, proporcional, aos minutos de atraso.",
+     "explanation": "Vírgulas separam indevidamente o complemento nominal 'proporcional aos minutos' do seu termo, e os dois-pontos antes de 'como' são inadequados."
+    },
+    {
+     "key": "C",
+     "text": "T. Watson, o legendário presidente da IBM, marcava reuniões para começar em horas quebradas: como 1h 58min, quem chegasse depois pagava uma multa proporcional aos minutos de atraso.",
+     "explanation": "Dois-pontos inadequados antes de 'como' e vírgula onde deveria haver separação de períodos, fundindo exemplo e nova ideia."
+    },
+    {
+     "key": "D",
+     "text": "T. Watson o legendário presidente da IBM, marcava reuniões para começar, em horas quebradas como 1h 58min. Quem chegasse depois, pagava uma multa proporcional aos minutos de atraso.",
+     "explanation": "Falta a vírgula que abre o aposto; há vírgula separando o sujeito 'Quem chegasse depois' do verbo."
+    },
+    {
+     "key": "E",
+     "text": "T. Watson o legendário presidente da IBM marcava reuniões, para começar em horas quebradas como 1h 58min; quem chegasse depois pagava uma multa proporcional aos minutos de atraso.",
+     "explanation": "O aposto 'o legendário presidente da IBM' não está isolado por vírgulas."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Em A, o aposto 'o legendário presidente da IBM' vem entre vírgulas, a vírgula antes de 'como' introduz a exemplificação e o ponto separa os dois períodos. O sujeito oracional 'Quem chegasse depois' não se separa do verbo.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q22",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 22,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.2 Comunicação",
+   "stem": "Para evitar receber informações tendenciosas, as pessoas que exercem papéis de nível hierárquico mais elevado devem:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "estimular o fluxo de comunicação descendente.",
+     "explanation": "A informação tendenciosa vem de baixo para cima (comunicação ascendente); reforçar o fluxo descendente não resolve a filtragem."
+    },
+    {
+     "key": "B",
+     "text": "eliminar as barreiras semânticas existentes.",
+     "explanation": "Barreiras semânticas dizem respeito a diferenças de significado, não à distorção intencional da mensagem."
+    },
+    {
+     "key": "C",
+     "text": "eliminar os canais informais de comunicação.",
+     "explanation": "Os canais informais não podem ser eliminados e muitas vezes trazem informação menos filtrada."
+    },
+    {
+     "key": "D",
+     "text": "manter sempre abertos os canais de feedback.",
+     "explanation": "Canais de feedback abertos ajudam, mas, sem confiança, os subordinados continuam a filtrar o que dizem por eles."
+    },
+    {
+     "key": "E",
+     "text": "criar confiança nas relações de trabalho."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "A filtragem (manipulação da informação para que pareça mais favorável ao receptor) cresce com o número de níveis hierárquicos e com o medo de levar más notícias aos superiores. A forma de reduzi-la é criar um clima de confiança, em que o subordinado não tema ser punido pela informação que transmite.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q23",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 23,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-org",
+   "subtopic": "3.4 Análise e desenvolvimento organizacional",
+   "stem": "Observa-se que, na prática, algumas organizações aprendem mais do que outras. Isso ocorre porque tais organizações:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "adequam as estruturas internas à tecnologia dominante.",
+     "explanation": "Adequar estrutura à tecnologia é tese da teoria da contingência (Woodward), não explicação da aprendizagem organizacional."
+    },
+    {
+     "key": "B",
+     "text": "adotam uma estrutura hierárquica baseada nos princípios da adhocracia.",
+     "explanation": "Adhocracia é estrutura flexível, não hierárquica; e estrutura sozinha não explica a aprendizagem."
+    },
+    {
+     "key": "C",
+     "text": "criam mecanismos eficazes de distribuição e interpretação das informações."
+    },
+    {
+     "key": "D",
+     "text": "obtêm maior flexibilidade através da terceirização das operações fundamentais.",
+     "explanation": "Terceirizar operações fundamentais tende a reduzir o conhecimento interno, não a ampliar a aprendizagem."
+    },
+    {
+     "key": "E",
+     "text": "mantêm as rotinas de forma a obter uma unidade de interpretação.",
+     "explanation": "Manter rotinas e uma interpretação única leva ao aprendizado de circuito simples ou à estagnação, não a aprender mais."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "A aprendizagem organizacional depende de processos de aquisição, distribuição, interpretação e memória das informações (Huber). Organizações que aprendem mais criam mecanismos eficazes para que a informação circule e seja interpretada coletivamente, transformando-se em conhecimento compartilhado.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q24",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 24,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.7 Motivação no trabalho",
+   "stem": "Segundo a Teoria da Atribuição, a solução para um trabalhador continuar mantendo um desempenho adequado no exercício de seu papel, embora acredite estar recebendo menos recompensa do que os demais colegas, é:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "reivindicar uma melhoria de sua qualificação.",
+     "explanation": "Aumentar a qualificação eleva os insumos, o que agravaria a sensação de iniquidade."
+    },
+    {
+     "key": "B",
+     "text": "aumentar a quantidade e qualidade de seu trabalho.",
+     "explanation": "Quem se sente sub-recompensado tende a reduzir, e não a aumentar, seus esforços."
+    },
+    {
+     "key": "C",
+     "text": "encontrar satisfação pelo seu desempenho.",
+     "explanation": "Descreve motivação intrínseca, mas não é uma das estratégias de redução da iniquidade percebida."
+    },
+    {
+     "key": "D",
+     "text": "conseguir racionalizar a iniquidade."
+    },
+    {
+     "key": "E",
+     "text": "lutar por uma iniqüidade positiva.",
+     "explanation": "Buscar vantagem sobre os colegas mantém o conflito de comparação social; não explica manter o desempenho apesar da desvantagem."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Pela teoria da equidade (Adams), quem se percebe sub-recompensado em comparação com colegas tende a restabelecer o equilíbrio reduzindo esforço, pedindo mais recompensa ou saindo. Para manter o desempenho sem mudar insumos e resultados, resta a via cognitiva: distorcer as percepções, isto é, racionalizar a iniquidade (atribuindo, por exemplo, a diferença a fatores que a justifiquem).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "O enunciado fala em 'Teoria da Atribuição', mas o conteúdo é o da teoria da equidade (Adams) combinado com processos de atribuição."
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q25",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 25,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.6 Cultura e clima organizacional",
+   "stem": "Num campo organizacional, as crenças não confirmadas, geralmente não explicitadas e aceitas sem qualquer análise prévia, denominam-se:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "cultura organizacional.",
+     "explanation": "A cultura é o conjunto amplo de pressupostos, valores e artefatos; o mito é um dos seus elementos."
+    },
+    {
+     "key": "B",
+     "text": "contracultura organizacional.",
+     "explanation": "Contracultura é o conjunto de valores de um grupo que se opõe à cultura dominante."
+    },
+    {
+     "key": "C",
+     "text": "mito organizacional."
+    },
+    {
+     "key": "D",
+     "text": "símbolos da organização.",
+     "explanation": "Símbolos são artefatos visíveis (logotipo, layout, vestimenta) que expressam a cultura."
+    },
+    {
+     "key": "E",
+     "text": "ritos da organização.",
+     "explanation": "Ritos são atividades planejadas e repetidas (cerimônias de admissão, premiações)."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Mitos organizacionais são crenças não comprovadas pelos fatos, geralmente implícitas e aceitas sem questionamento, que ajudam a explicar e legitimar práticas da organização. São um dos elementos da cultura, ao lado de valores, ritos, símbolos, heróis e histórias.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q26",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 26,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.1 Liderança",
+   "stem": "Entre as diversas concepções teóricas existentes sobre o fenômeno liderança, qual enfatiza ser função do líder ajustar os seus comportamentos às situações encontradas no trabalho?",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Teoria comportamental.",
+     "explanation": "As teorias comportamentais (Ohio, Michigan, grade gerencial) buscam o estilo de comportamento mais eficaz, sem condicioná-lo à situação."
+    },
+    {
+     "key": "B",
+     "text": "Teoria da contingência."
+    },
+    {
+     "key": "C",
+     "text": "Teoria da atribuição.",
+     "explanation": "A teoria da atribuição de liderança trata de como os seguidores atribuem características de líder a alguém."
+    },
+    {
+     "key": "D",
+     "text": "Abordagem transformacional.",
+     "explanation": "A liderança transformacional enfatiza inspirar e transformar os seguidores, não ajustar o estilo à situação."
+    },
+    {
+     "key": "E",
+     "text": "Abordagem carismática.",
+     "explanation": "A liderança carismática destaca as qualidades pessoais extraordinárias atribuídas ao líder."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "As teorias contingenciais ou situacionais (Fiedler, Hersey e Blanchard, caminho-objetivo) sustentam que não há estilo de liderança melhor em absoluto: a eficácia depende do ajuste entre o comportamento do líder e as características da situação (tarefa, liderados, poder de posição).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q27",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 27,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2 Gestão estratégica de pessoas",
+   "stem": "Uma das tendências atuais no campo da gestão de pessoas é a de se investir em processos de empoderamento (empowerment), visando a:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "fortalecer o poder das chefias.",
+     "explanation": "Empowerment descentraliza o poder para quem executa o trabalho; não reforça as chefias."
+    },
+    {
+     "key": "B",
+     "text": "desenvolver o autogerenciamento das equipes."
+    },
+    {
+     "key": "C",
+     "text": "estimular a construção do poder pessoal.",
+     "explanation": "O foco é a autonomia e a responsabilidade coletiva das equipes de trabalho, não o poder pessoal."
+    },
+    {
+     "key": "D",
+     "text": "atribuir maiores responsabilidades ao escalão gerencial.",
+     "explanation": "A transferência de responsabilidade e autoridade é para os níveis operacionais e as equipes."
+    },
+    {
+     "key": "E",
+     "text": "incentivar a utilização do poder especializado.",
+     "explanation": "Poder de especialista é uma base de poder (French e Raven); não é o objetivo do empowerment."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Empowerment é a delegação de autoridade, informação e responsabilidade às pessoas e equipes que executam o trabalho, para que tomem decisões e se autogerenciem. Está associado às equipes autogerenciáveis e à redução de níveis hierárquicos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q28",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 28,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "Na concepção de Bion, citado por Zimerman (2000), a formação de um grupo de trabalho é um fenômeno que ocorre em qualquer campo grupal, sendo o responsável pela(o):",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "realização da tarefa proposta."
+    },
+    {
+     "key": "B",
+     "text": "manifestação do inconsciente grupal.",
+     "explanation": "O inconsciente grupal se manifesta nos supostos básicos (dependência, luta e fuga, acasalamento), não no grupo de trabalho."
+    },
+    {
+     "key": "C",
+     "text": "emergência da afetividade compartilhada.",
+     "explanation": "A afetividade compartilhada e regressiva é característica dos supostos básicos."
+    },
+    {
+     "key": "D",
+     "text": "resistência à integração grupal.",
+     "explanation": "Resistências e regressões vêm dos supostos básicos, que se opõem ao grupo de trabalho."
+    },
+    {
+     "key": "E",
+     "text": "aparecimento do processo de ressonância.",
+     "explanation": "Ressonância é conceito de Foulkes/Zimerman sobre a reverberação entre membros, não a função do grupo de trabalho."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Bion distingue, em todo grupo, dois níveis que coexistem: o grupo de trabalho, consciente, racional e voltado para a execução da tarefa, e o grupo de supostos básicos (dependência, luta e fuga, acasalamento), inconsciente e regressivo. O grupo de trabalho é o responsável pela realização da tarefa proposta.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q29",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 29,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1 Processos Grupais",
+   "stem": "Na visão de Zimerman (2000), um psicólogo organizacional, ao desejar trabalhar os problemas de relacionamento interpessoal identificados nos diferentes setores de sua organização, deve utilizar a estratégia de grupo:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "de auto-ajuda.",
+     "explanation": "Grupos de autoajuda reúnem pessoas com um mesmo problema (dependência, doença), sem coordenação técnica obrigatória."
+    },
+    {
+     "key": "B",
+     "text": "de apoio.",
+     "explanation": "Grupos de apoio sustentam pessoas em uma crise comum, sem foco nas relações de trabalho."
+    },
+    {
+     "key": "C",
+     "text": "de reflexão.",
+     "explanation": "Grupos de reflexão são usados sobretudo em formação de profissionais e no ensino, para pensar a própria prática."
+    },
+    {
+     "key": "D",
+     "text": "operativo."
+    },
+    {
+     "key": "E",
+     "text": "Balint.",
+     "explanation": "Grupos Balint são grupos de médicos e profissionais de saúde que discutem a relação com os pacientes."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "Para Zimerman, os grupos operativos (Pichon-Rivière), centrados em uma tarefa, têm aplicação em ensino-aprendizagem, instituições e empresas. Nas organizações, permitem trabalhar a comunicação e o relacionamento interpessoal enquanto o grupo realiza sua tarefa.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q32",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 32,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-social",
+   "subtopic": "5.1.3 Equipes de Trabalho",
+   "stem": "Entre os diversos aspectos manifestados pelos membros, capazes de tornar uma equipe eficaz, Robbins & Finley (1998) destacam:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "sentir orgulho por pertencer a uma equipe de vencedores.",
+     "explanation": "O orgulho de pertencer pode acompanhar o sucesso, mas não é o aspecto que torna a equipe eficaz."
+    },
+    {
+     "key": "B",
+     "text": "conciliar as necessidades individuais e as da equipe."
+    },
+    {
+     "key": "C",
+     "text": "desempenhar qualquer papel existente na equipe.",
+     "explanation": "Equipes eficazes combinam papéis complementares; não exigem que todos desempenhem qualquer papel."
+    },
+    {
+     "key": "D",
+     "text": "manter o domínio da autoridade sem discussão.",
+     "explanation": "Autoridade inquestionável contraria a participação e o compromisso que caracterizam equipes eficazes."
+    },
+    {
+     "key": "E",
+     "text": "escolher as pessoas certas para trabalharem juntas.",
+     "explanation": "Compor a equipe é tarefa de quem a forma, não um aspecto manifestado pelos membros."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Para Robbins & Finley, equipes falham quando as necessidades individuais (reconhecimento, autonomia, desenvolvimento) entram em choque com as do grupo. Equipes eficazes conseguem conciliar os objetivos e necessidades pessoais com os objetivos coletivos.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "medium",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q37",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 37,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2 Gestão estratégica de pessoas",
+   "stem": "Na visão de Chiavenato (1999), o ponto nevrálgico capaz de determinar se uma empresa está capacitada para desafiar e vencer uma concorrência é a:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "existência de uma adequada estrutura organizacional.",
+     "explanation": "Estrutura é recurso organizacional que pode ser copiado; não é o diferencial apontado pelo autor."
+    },
+    {
+     "key": "B",
+     "text": "oferta de produtos e serviços excelentes.",
+     "explanation": "Produtos e serviços são resultado do trabalho das pessoas, não o ponto de partida da vantagem."
+    },
+    {
+     "key": "C",
+     "text": "prática de processos racionais de trabalho.",
+     "explanation": "Processos racionais são herança da administração científica; podem ser imitados pelos concorrentes."
+    },
+    {
+     "key": "D",
+     "text": "utilização de recursos tecnológicos de ponta.",
+     "explanation": "Tecnologia pode ser comprada por qualquer concorrente; o diferencial é quem a utiliza."
+    },
+    {
+     "key": "E",
+     "text": "qualidade das pessoas que nela trabalham."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Na visão de Chiavenato sobre gestão de pessoas, as pessoas deixam de ser recursos e passam a ser parceiras e fonte de vantagem competitiva: o que determina a capacidade de vencer a concorrência é a qualidade das pessoas que trabalham na empresa, já que estrutura, processos e tecnologia podem ser copiados.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q38",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 38,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "No processo de seleção de pessoal, Chiavenato (1999) distingue três modelos de decisão sobre candidatos, em função do tipo de resolução a ser tomada. Segundo este autor, o modelo de classificação considera:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "um só candidato e uma só vaga a ser preenchida por aquele candidato.",
+     "explanation": "Este é o modelo de colocação."
+    },
+    {
+     "key": "B",
+     "text": "vários candidatos e apenas uma vaga a ser preenchida por aquele que, comparativamente, apresentar os requisitos exigidos para o cargo.",
+     "explanation": "Este é o modelo de seleção."
+    },
+    {
+     "key": "C",
+     "text": "vários candidatos para cada vaga e várias vagas para cada candidato, que é comparado com os requisitos exigidos pelos cargos que se pretende preencher até se esgotarem os cargos vagos."
+    },
+    {
+     "key": "D",
+     "text": "vários grupos de candidatos e vários grupos de cargos correspondentes, sendo que cada grupo de candidatos é comparado com os requisitos exigidos para o grupo de cargos correspondente que se pretende preencher, até se esgotarem as vagas nos grupos.",
+     "explanation": "Não corresponde a nenhum dos três modelos de Chiavenato; é uma extensão por grupos do modelo de classificação."
+    },
+    {
+     "key": "E",
+     "text": "vários candidatos para apenas um grupo de cargos a ser preenchido por aqueles candidatos que apresentarem os requisitos exigidos para os cargos do grupo, até se esgotarem as vagas no grupo.",
+     "explanation": "Restringe a comparação a um único grupo de cargos; não é o modelo de classificação descrito pelo autor."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Chiavenato distingue: colocação (um candidato para uma vaga; decide-se aceitar ou rejeitar), seleção (vários candidatos para uma vaga; escolhe-se o mais adequado) e classificação (vários candidatos e várias vagas; cada candidato é comparado aos requisitos de vários cargos e só é rejeitado depois de comparado com todos).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q39",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 39,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "No intuito de minimizar as limitações da entrevista, Chiavenato (1999) propõe melhor construção de seu processo, além do treinamento dos entrevistadores. Em função do formato das questões e das respostas requeridas, a entrevista diretiva é aquela:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "livre e que não especifica nem as questões nem as respostas requeridas.",
+     "explanation": "É a entrevista não diretiva (livre)."
+    },
+    {
+     "key": "B",
+     "text": "estruturada e com roteiro preestabelecido, no qual o entrevistador faz perguntas padronizadas e previamente elaboradas para obter respostas definidas e fechadas.",
+     "explanation": "É a entrevista totalmente padronizada (estruturada)."
+    },
+    {
+     "key": "C",
+     "text": "que determina o tipo de resposta desejada, mas não especifica as questões, ou seja, deixa as perguntas a critério do entrevistador."
+    },
+    {
+     "key": "D",
+     "text": "com perguntas previamente elaboradas mas que permitem resposta aberta, ou seja, resposta livre por parte do candidato.",
+     "explanation": "É a entrevista padronizada apenas quanto às perguntas."
+    },
+    {
+     "key": "E",
+     "text": "com perguntas previamente elaboradas, padronizadas e com roteiro preestabelecido para obter respostas fechadas.",
+     "explanation": "Também descreve a entrevista totalmente padronizada, não a diretiva."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Chiavenato classifica as entrevistas em: totalmente padronizada (perguntas e respostas fechadas), padronizada apenas quanto às perguntas (respostas abertas), diretiva (define o tipo de resposta desejada e deixa a formulação das perguntas ao entrevistador) e não diretiva (livre, sem especificar perguntas nem respostas).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q40",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 40,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Todo instrumental utilizado em seleção de pessoal, incluindo entrevista, testes psicométricos, provas de conhecimento e capacidades, deve apresentar características de validade e precisão. Segundo Chiavenato (1999), a validade de um teste é a sua capacidade de:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "aferir resultados semelhantes em várias aplicações no mesmo indivíduo.",
+     "explanation": "Esta é a definição de precisão (fidedignidade)."
+    },
+    {
+     "key": "B",
+     "text": "aferir exatamente aquela variável humana que se pretende medir."
+    },
+    {
+     "key": "C",
+     "text": "oferecer resultados prospectivos capazes de servir como prognóstico para o desempenho do cargo.",
+     "explanation": "Descreve a validade preditiva em particular, não a definição geral adotada pelo autor."
+    },
+    {
+     "key": "D",
+     "text": "oferecer resultados relacionados com a variável humana que se pretende medir.",
+     "explanation": "'Relacionados com' é impreciso: validade é medir exatamente aquela variável, não algo relacionado a ela."
+    },
+    {
+     "key": "E",
+     "text": "apresentar resultados prospectivos constantes capazes de servir como prognóstico para o desempenho do cargo.",
+     "explanation": "Mistura constância (precisão) com prognóstico (validade preditiva)."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "Para Chiavenato, validade é a capacidade do teste de aferir exatamente a variável humana que se pretende medir; precisão é a capacidade de apresentar resultados semelhantes em várias aplicações à mesma pessoa. Um teste preciso pode não ser válido.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q41",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 41,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "No processo de avaliação dos benefícios de treinamento, Pires e Castro, in Boog (2000), identificaram categorias com os respectivos indicadores. Quais os indicadores associados à categoria “aumento de rendimentos”?",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "Quantidade de trabalho em carteira e quantidade de tempo de adaptação de novos funcionários.",
+     "explanation": "Trabalho acumulado e tempo de adaptação indicam rapidez/agilidade, não volume produzido."
+    },
+    {
+     "key": "B",
+     "text": "Quantidade de horas extras e quantidade de tempo não produtivo.",
+     "explanation": "São indicadores de economia de tempo e de custos."
+    },
+    {
+     "key": "C",
+     "text": "Número de soluções inovadoras e grau de envolvimento dos funcionários nas tomadas de decisões.",
+     "explanation": "São indicadores de criatividade e participação."
+    },
+    {
+     "key": "D",
+     "text": "Número de erros e número de acidentes.",
+     "explanation": "São indicadores de qualidade e de segurança."
+    },
+    {
+     "key": "E",
+     "text": "Número de produtos e número de processos concluídos."
+    }
+   ],
+   "correctKey": "E",
+   "explanationSummary": "Aumento de rendimento significa aumento do volume de produção: o indicador é a quantidade de produtos e de processos concluídos. Horas extras e tempo improdutivo medem economia; erros e acidentes, qualidade e segurança; inovação e participação, criatividade e envolvimento.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "E",
+    "independentlyDerivedAnswer": "E",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Categorias do capítulo de Pires e Castro em Boog (2000); derivação pela correspondência semântica entre categoria e indicador."
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q42",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 42,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.2 Processo de Recrutamento e Seleção",
+   "stem": "Chiavenato (1999) distingue cinco (5) categorias de técnicas de seleção de pessoal, cada uma delas com objetivos específicos e características próprias. Segundo o autor, os testes de personalidade se propõem a:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "medir a capacidade atual de realização e as habilidades dos candidatos em determinadas formas de trabalho.",
+     "explanation": "Descreve as provas de conhecimentos ou de capacidade."
+    },
+    {
+     "key": "B",
+     "text": "determinar o quanto as aptidões estão presentes em cada candidato a fim de prever o seu comportamento em determinadas formas de trabalho.",
+     "explanation": "Descreve os testes psicométricos (de aptidão)."
+    },
+    {
+     "key": "C",
+     "text": "revelar certos aspectos das características dos candidatos, como os determinados pelo caráter e pelo temperamento."
+    },
+    {
+     "key": "D",
+     "text": "pesquisar, através do grupo, o comportamento real dos candidatos e suas interações com pessoas, situações e desafios.",
+     "explanation": "Descreve as técnicas de simulação (dinâmicas de grupo, psicodrama)."
+    },
+    {
+     "key": "E",
+     "text": "conhecer melhor o comportamento e as reações do candidato através da comunicação e interação entre duas ou mais pessoas.",
+     "explanation": "Descreve a entrevista de seleção."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "As cinco técnicas de seleção de Chiavenato são entrevista, provas de conhecimento ou capacidade, testes psicométricos, testes de personalidade e técnicas de simulação. Os testes de personalidade revelam traços determinados pelo caráter (adquiridos) e pelo temperamento (inatos).",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q43",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 43,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "A análise das causas reais de um problema de desempenho é fundamental para distinguir aqueles que podem ou não ser tratados por uma ação de treinamento. Para Milioni, in Boog (2000), uma ação de treinamento é viável quando existe um problema de desempenho relacionado a:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "ausência de especificações ou parâmetros para orientar o trabalho, dificultando a execução das tarefas e afetando sua qualidade.",
+     "explanation": "Falta de padrões é problema de gestão/organização do trabalho, resolvido com normas e procedimentos, não com treinamento."
+    },
+    {
+     "key": "B",
+     "text": "falta de preparo para a função ou para realizar uma das etapas do trabalho."
+    },
+    {
+     "key": "C",
+     "text": "falta de condições para execução do trabalho, em função de equipamento deficiente, local de trabalho inadequado ou material insuficiente.",
+     "explanation": "Problema de recursos e condições de trabalho; treinamento não o resolve."
+    },
+    {
+     "key": "D",
+     "text": "restrições impostas pelas chefias, pressões de colegas, desmotivação do empregado para a realização da função.",
+     "explanation": "Problemas de clima, gestão e motivação exigem outras intervenções."
+    },
+    {
+     "key": "E",
+     "text": "sobrecarga motivada pelo acréscimo de novas tarefas que exigem mais esforço do empregado e acabam por desestabilizá-lo.",
+     "explanation": "Sobrecarga é questão de dimensionamento e organização do trabalho."
+    }
+   ],
+   "correctKey": "B",
+   "explanationSummary": "No diagnóstico de necessidades de treinamento, só são 'necessidades de treinamento' os problemas de desempenho causados por falta de conhecimentos, habilidades ou atitudes (falta de preparo). Falta de padrões, de recursos, problemas de gestão, motivação ou sobrecarga exigem outras ações.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "B",
+    "independentlyDerivedAnswer": "B",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q44",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 44,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "diag-org",
+   "subtopic": "4.5 Treinamento e Desenvolvimento de Pessoas",
+   "stem": "Segundo Cardoso, in Boog (2000), entre os diferentes profissionais atualmente dedicados à transferência pedagógica dos programas de educação a distância, encontra-se o analista de treinamento, a quem compete:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "desenvolver o conteúdo dos cursos.",
+     "explanation": "Desenvolver o conteúdo é tarefa do especialista em conteúdo (conteudista)."
+    },
+    {
+     "key": "B",
+     "text": "estabelecer o tipo de tecnologia.",
+     "explanation": "A escolha da tecnologia cabe ao especialista em tecnologia educacional."
+    },
+    {
+     "key": "C",
+     "text": "definir o conteúdo do curso."
+    },
+    {
+     "key": "D",
+     "text": "estruturar a dinâmica do curso.",
+     "explanation": "Estruturar a dinâmica é papel do designer instrucional."
+    },
+    {
+     "key": "E",
+     "text": "adotar métodos que aumentem o aprendizado.",
+     "explanation": "A escolha de métodos de aprendizagem cabe ao pedagogo ou designer instrucional."
+    }
+   ],
+   "correctKey": "C",
+   "explanationSummary": "Em equipes de educação a distância, o analista de treinamento, que conhece as necessidades da organização, define o conteúdo a ser trabalhado; o conteudista o desenvolve, o designer instrucional estrutura a dinâmica e os métodos, e o especialista em tecnologia escolhe os meios.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "C",
+    "independentlyDerivedAnswer": "C",
+    "agree": true,
+    "confidence": "medium",
+    "notes": "Divisão de papéis segundo Cardoso, em Boog (2000); a distinção entre 'definir' (analista) e 'desenvolver' (conteudista) é a chave."
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q46",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 46,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.1 Gestão por competências",
+   "stem": "Ao discutir os conceitos de competência e aprendizagem organizacional, Fleury & Fleury (2001) definem competência como:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "um saber agir responsável e reconhecido, que implica mobilizar, integrar, transferir conhecimentos, recursos, habilidades, que agreguem valor econômico à organização e valor social ao indivíduo."
+    },
+    {
+     "key": "B",
+     "text": "uma capacidade não só para elaborar novos mapas cognitivos, que possibilitem compreender o que está ocorrendo no ambiente interno e externo à organização, como também definir novos comportamentos que comprovem a efetividade do aprendizado.",
+     "explanation": "Descreve a aprendizagem organizacional (mudança cognitiva e comportamental), não a competência."
+    },
+    {
+     "key": "C",
+     "text": "o conjunto de conhecimentos, habilidades e atitudes que afetam a maior parte do trabalho de uma pessoa e que se relacionam com o seu desempenho no trabalho.",
+     "explanation": "É a definição norte-americana de competência como estoque de CHA (McClelland, Parry), que os Fleury criticam por ser estática."
+    },
+    {
+     "key": "D",
+     "text": "o conjunto de saberes sociais comunicacionais, fruto tanto da aprendizagem e formação como do sistema de avaliação que a pessoa mobiliza num contexto profissional determinado.",
+     "explanation": "Mistura elementos da abordagem francesa, mas não reproduz a definição dos autores (saber agir que agrega valor)."
+    },
+    {
+     "key": "E",
+     "text": "o estoque de conhecimentos da pessoa, os quais podem ser classificados e certificados pelo sistema educacional e estão usualmente associados à posição ou ao cargo que ocupa.",
+     "explanation": "Descreve qualificação, conceito ligado ao cargo e à certificação formal, que a noção de competência pretende superar."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Fleury & Fleury definem competência como 'um saber agir responsável e reconhecido, que implica mobilizar, integrar, transferir conhecimentos, recursos e habilidades, que agreguem valor econômico à organização e valor social ao indivíduo'. A definição se opõe à visão de competência como estoque de conhecimentos, habilidades e atitudes.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q48",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 48,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "Existem diferenças claras entre a avaliação de cargos, de potencial e de desempenho. Segundo Pontes (2002), a avaliação de desempenho procura verificar:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "o comportamento dos indivíduos no trabalho em face dos resultados desejados pela empresa."
+    },
+    {
+     "key": "B",
+     "text": "o grau de satisfação dos indivíduos no trabalho em face dos resultados desejados pela empresa.",
+     "explanation": "Satisfação é objeto de pesquisa de clima ou de satisfação, não da avaliação de desempenho."
+    },
+    {
+     "key": "C",
+     "text": "o valor relativo dos cargos da empresa para encontrar uma hierarquização e estabelecer uma possível carreira para o indivíduo.",
+     "explanation": "Esta é a avaliação de cargos, base dos planos de cargos e salários."
+    },
+    {
+     "key": "D",
+     "text": "a adequação entre os requisitos dos cargos e as expectativas dos indivíduos no trabalho.",
+     "explanation": "Confronta requisitos e expectativas; não é a avaliação do desempenho efetivo."
+    },
+    {
+     "key": "E",
+     "text": "as possibilidades futuras do indivíduo em termos de seu crescimento no trabalho.",
+     "explanation": "Esta é a avaliação de potencial."
+    }
+   ],
+   "correctKey": "A",
+   "explanationSummary": "Pontes distingue: avaliação de cargos (valor relativo dos cargos, base da estrutura salarial), avaliação de potencial (possibilidades futuras de crescimento) e avaliação de desempenho, que verifica o comportamento e os resultados das pessoas no trabalho em face do que a empresa espera.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "A",
+    "independentlyDerivedAnswer": "A",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q49",
+   "source": {
+    "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+    "year": 2005,
+    "originalNumber": 49,
+    "exam": "MPE-RO 2005 – Analista em Psicologia",
+    "org": "Cesgranrio"
+   },
+   "area": "psi-org",
+   "subtopic": "3.2.2 Gestão de desempenho",
+   "stem": "Mesmo com treinamento e aconselhamento dos avaliadores, quando se adota o método da escala gráfica, persistem os problemas de subjetividade e variações nas interpretações. Entre as propensões dos avaliadores, destacadas por Pontes (2002), o efeito de halo ocorre quando o avaliador:",
+   "images": null,
+   "alternatives": [
+    {
+     "key": "A",
+     "text": "leva em conta somente as últimas impressões em todos os fatores avaliados, ao avaliar o desempenho de um membro de sua equipe.",
+     "explanation": "Descreve o efeito de recência (fatos recentes)."
+    },
+    {
+     "key": "B",
+     "text": "evita avaliar sua equipe com desempenhos extremados – excelente ou péssimo – e, assim, sua avaliação tende ao centro.",
+     "explanation": "Descreve a tendência central."
+    },
+    {
+     "key": "C",
+     "text": "considera que todos os membros de sua equipe têm ótimo ou péssimo desempenho e, assim, ao avaliá-los, os indicadores serão extremados em todos os fatores.",
+     "explanation": "Descreve a tendência a extremos (complacência ou rigor excessivo) aplicada a toda a equipe."
+    },
+    {
+     "key": "D",
+     "text": "gosta do indivíduo a ser avaliado e sua opinião é distorcida positivamente no julgamento sobre o seu desempenho em todos os fatores."
+    },
+    {
+     "key": "E",
+     "text": "avalia as ações mais recentes e não as ações de todo o período correspondente à avaliação.",
+     "explanation": "Também descreve o efeito de recência."
+    }
+   ],
+   "correctKey": "D",
+   "explanationSummary": "O efeito de halo ocorre quando a impressão geral sobre a pessoa (gostar ou não dela, ou um traço marcante) contamina a avaliação de todos os fatores, que passam a receber notas semelhantes. Recência, tendência central e tendência a extremos são outras distorções.",
+   "status": "confirmed",
+   "annulled": false,
+   "verification": {
+    "gabaritoAnswer": "D",
+    "independentlyDerivedAnswer": "D",
+    "agree": true,
+    "confidence": "high",
+    "notes": ""
+   }
+  }
+ ],
+ "queue": [
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q30",
+   "motivo": "Derivação independente apontou B (objetivo comum), mas o gabarito oficial é E. Para Zimerman, num agrupamento as pessoas já partilham um interesse comum, e o grupo se distingue por constituir uma totalidade (unidade); a leitura de E como 'unidade nas respostas' é possível, mas incerta. Divergência não resolvida.",
+   "gabaritoOficial": "E",
+   "derivada": "B",
+   "questao": {
+    "id": "mpe-ro-2005-analista-psicologia-q30",
+    "source": {
+     "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+     "year": 2005,
+     "originalNumber": 30,
+     "exam": "MPE-RO 2005 – Analista em Psicologia",
+     "org": "Cesgranrio"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1 Processos Grupais",
+    "stem": "Um grupo se distingue de um agrupamento por ser constituído de um conjunto de pessoas que:",
+    "images": null,
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "compartilham o mesmo espaço."
+     },
+     {
+      "key": "B",
+      "text": "possuem um objetivo comum."
+     },
+     {
+      "key": "C",
+      "text": "manifestam livremente as emoções."
+     },
+     {
+      "key": "D",
+      "text": "respeitam normas de convivência."
+     },
+     {
+      "key": "E",
+      "text": "conseguem uma unidade nas respostas."
+     }
+    ],
+    "correctKey": "E"
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q31",
+   "motivo": "Questão de memória do livro de Robbins & Finley (1998); não foi possível derivar com segurança se a solução proposta é ganhar confiança (A, gabarito) ou modificar a cultura antiequipe (E).",
+   "gabaritoOficial": "A",
+   "derivada": "A ou E (incerta)",
+   "questao": {
+    "id": "mpe-ro-2005-analista-psicologia-q31",
+    "source": {
+     "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+     "year": 2005,
+     "originalNumber": 31,
+     "exam": "MPE-RO 2005 – Analista em Psicologia",
+     "org": "Cesgranrio"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1.3 Equipes de Trabalho",
+    "stem": "Uma das razões pelas quais as equipes não conseguem ser eficazes deve-se, na maioria das vezes, à incapacidade dos seus membros de se comprometerem com o coletivo. Segundo Robbins & Finley (1998), uma solução, nestes casos, seria o responsável (coordenador):",
+    "images": null,
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "ganhar a confiança dos membros da equipe."
+     },
+     {
+      "key": "B",
+      "text": "criar uma agenda oculta."
+     },
+     {
+      "key": "C",
+      "text": "aumentar o feedback das informações."
+     },
+     {
+      "key": "D",
+      "text": "identificar a fonte de bloqueios."
+     },
+     {
+      "key": "E",
+      "text": "modificar a cultura antiequipe."
+     }
+    ],
+    "correctKey": "A"
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q33",
+   "motivo": "Derivação independente apontou E (equipes não substituem a incompetência individual); o gabarito oficial D ('equipes são intrinsecamente inferiores aos indivíduos') depende de tese específica de Robbins & Finley (1998) não conferida.",
+   "gabaritoOficial": "D",
+   "derivada": "E",
+   "questao": {
+    "id": "mpe-ro-2005-analista-psicologia-q33",
+    "source": {
+     "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+     "year": 2005,
+     "originalNumber": 33,
+     "exam": "MPE-RO 2005 – Analista em Psicologia",
+     "org": "Cesgranrio"
+    },
+    "area": "psi-social",
+    "subtopic": "5.1.3 Equipes de Trabalho",
+    "stem": "De acordo com Robbins & Finley (1998), as expectativas que cercam, hoje em dia, o trabalho em equipe não passam de um mito porque:",
+    "images": null,
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "o grande desafio é se obter a sinergia."
+     },
+     {
+      "key": "B",
+      "text": "os conflitos de personalidade entre os membros são difíceis de administrar."
+     },
+     {
+      "key": "C",
+      "text": "os setores organizacionais não podem ser considerados equipes."
+     },
+     {
+      "key": "D",
+      "text": "as equipes são intrinsecamente inferiores aos indivíduos."
+     },
+     {
+      "key": "E",
+      "text": "as equipes não podem substituir a incompetência individual."
+     }
+    ],
+    "correctKey": "D"
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q45",
+   "motivo": "Lista de memória de Harazim, in Boog (2000); não foi possível derivar com segurança quais cinco habilidades compõem a categoria (gabarito D é plausível por conter 'orientação para resultados', mas não confirmado).",
+   "gabaritoOficial": "D",
+   "derivada": "D (incerta)",
+   "questao": {
+    "id": "mpe-ro-2005-analista-psicologia-q45",
+    "source": {
+     "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+     "year": 2005,
+     "originalNumber": 45,
+     "exam": "MPE-RO 2005 – Analista em Psicologia",
+     "org": "Cesgranrio"
+    },
+    "area": "psi-org",
+    "subtopic": "3.2.1 Gestão por competências",
+    "stem": "As cinco (5) habilidades que, segundo Harazim, in Boog (2000), compõem a categoria “habilidades voltadas para a obtenção de resultados” são:",
+    "images": null,
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "habilidade para negociar, persuasão racional, raciocínio analítico, habilidade em motivar pessoas, atenção a detalhes."
+     },
+     {
+      "key": "B",
+      "text": "persuasão racional, habilidade de ouvir, trabalho em equipe, desenvolvimento de pessoas, habilidade em motivar pessoas."
+     },
+     {
+      "key": "C",
+      "text": "raciocínio holístico, raciocínio analítico, fortalecimento dos padrões, atenção a detalhes, otimização de recursos."
+     },
+     {
+      "key": "D",
+      "text": "raciocínio estratégico, habilidade de negociar, orientação para resultados, habilidade de delegar, habilidade de sintetizar."
+     },
+     {
+      "key": "E",
+      "text": "raciocínio estratégico, desenvolvimento de pessoas, habilidade em motivar pessoas, otimização de recursos, habilidade de delegar."
+     }
+    ],
+    "correctKey": "D"
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q47",
+   "motivo": "Questão de memória sobre os indicadores da pesquisa de Fleury & Fleury (2001); não foi possível derivar com segurança a combinação correta (gabarito D).",
+   "gabaritoOficial": "D",
+   "derivada": "incerta",
+   "questao": {
+    "id": "mpe-ro-2005-analista-psicologia-q47",
+    "source": {
+     "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+     "year": 2005,
+     "originalNumber": 47,
+     "exam": "MPE-RO 2005 – Analista em Psicologia",
+     "org": "Cesgranrio"
+    },
+    "area": "psi-org",
+    "subtopic": "3.2 Gestão estratégica de pessoas",
+    "stem": "Os indicadores utilizados por Fleury & Fleury (2001) para verificar os aspectos das políticas adotadas pelas empresas para atrair, reter e desenvolver as pessoas necessárias para o sucesso de suas estratégias negociais foram:",
+    "images": null,
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "políticas de gestão claramente definidas e constantemente revisadas, índice de rotatividade e investimento em treinamento e desenvolvimento dos funcionários."
+     },
+     {
+      "key": "B",
+      "text": "investimento em treinamento e desenvolvimento dos funcionários, nível educacional das funções-chave para a estratégia de negócio e sistema de remuneração adotado."
+     },
+     {
+      "key": "C",
+      "text": "nível educacional dos funcionários, estratégia de participação e posição da primeira pessoa responsável por RH na estrutura hierárquica da empresa."
+     },
+     {
+      "key": "D",
+      "text": "sistema de remuneração adotado, estratégia de participação e índice de rotatividade."
+     },
+     {
+      "key": "E",
+      "text": "posição da primeira pessoa responsável por RH na estrutura hierárquica da empresa, sistema de remuneração adotado e nível educacional das funções-chave para a estratégia de negócio."
+     }
+    ],
+    "correctKey": "D"
+   }
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q50",
+   "motivo": "Derivação independente apontou C (rigidez em perseguir objetivos superados), o gabarito oficial é A (aplicação prevista para utilização individual). Divergência.",
+   "gabaritoOficial": "A",
+   "derivada": "C",
+   "questao": {
+    "id": "mpe-ro-2005-analista-psicologia-q50",
+    "source": {
+     "file": "mpe-ro-2005-analista-psicologia/prova.pdf",
+     "year": 2005,
+     "originalNumber": 50,
+     "exam": "MPE-RO 2005 – Analista em Psicologia",
+     "org": "Cesgranrio"
+    },
+    "area": "psi-org",
+    "subtopic": "3.2.2 Gestão de desempenho",
+    "stem": "Na visão de Pontes (2002), o método de avaliação por objetivos apresenta algumas limitações decorrentes do próprio método e outras, ocasionadas por problemas existentes na própria empresa, no momento de sua utilização. Segundo este autor, independente dos problemas existentes na empresa, a maior limitação deste método é que sua aplicação:",
+    "images": null,
+    "alternatives": [
+     {
+      "key": "A",
+      "text": "foi prevista para a utilização individual."
+     },
+     {
+      "key": "B",
+      "text": "é, comparativamente, mais demorada em relação aos métodos tradicionais."
+     },
+     {
+      "key": "C",
+      "text": "persegue, rigidamente, objetivos que deveriam ser substituídos ou abandonados em função de mudanças no cenário da empresa."
+     },
+     {
+      "key": "D",
+      "text": "depende da avaliação centrada unicamente nos resultados e não nas causas que os provocaram."
+     },
+     {
+      "key": "E",
+      "text": "apresenta dificuldades no estabelecimento de padrões de desempenho visando a melhorias em profissionais que exercem trabalhos por demais simples e rotineiros."
+     }
+    ],
+    "correctKey": "A"
+   }
+  }
+ ],
+ "fora": [
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q11",
+   "tema": "Conhecimentos Gerais: história e geografia de Rondônia"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q12",
+   "tema": "Conhecimentos Gerais: história e geografia de Rondônia"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q13",
+   "tema": "Conhecimentos Gerais: história e geografia de Rondônia"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q14",
+   "tema": "Conhecimentos Gerais: história e geografia de Rondônia"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q15",
+   "tema": "Conhecimentos Gerais: história e geografia de Rondônia"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q16",
+   "tema": "Legislação estadual de Rondônia (LC 68/92 e LC 303/2004)"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q17",
+   "tema": "Legislação estadual de Rondônia (LC 68/92 e LC 303/2004)"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q18",
+   "tema": "Legislação estadual de Rondônia (LC 68/92 e LC 303/2004)"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q19",
+   "tema": "Legislação estadual de Rondônia (LC 68/92 e LC 303/2004)"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q20",
+   "tema": "Legislação estadual de Rondônia (LC 68/92 e LC 303/2004)"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q21",
+   "tema": "Psicopatologia clínica: estruturas neuróticas (Zimerman)"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q34",
+   "tema": "Estrutura da personalidade e normalidade (Bergeret), psicopatologia clínica"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q35",
+   "tema": "Estrutura da personalidade e normalidade (Bergeret), psicopatologia clínica"
+  },
+  {
+   "id": "mpe-ro-2005-analista-psicologia-q36",
+   "tema": "Estrutura da personalidade e normalidade (Bergeret), psicopatologia clínica"
+  }
+ ],
+ "log": "Gabarito da página HTML oficial da Cesgranrio (Wayback), bloco ANALISTA PSICOLOGIA, idêntico ao gabarito.pdf. Sem recursos localizados. Prova com forte aderência (gestão de pessoas, grupos, cultura). Fila: divergências ou derivação incerta em questões de memória de autor (Zimerman, Robbins & Finley, Harazim, Fleury, Pontes). Texto conferido nas imagens p. 3-4; demais páginas pelo texto extraído com espaços restaurados."
+}
